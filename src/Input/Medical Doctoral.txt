@@ -1,0 +1,15 @@
+McGill University==http://www.mcgill.ca/
+The University of British Columbia==http://www.ubc.ca/
+University of Toronto==http://www.utoronto.ca/
+Queen's University==http://www.queensu.ca/
+University of Alberta==http://www.ualberta.ca/
+McMaster University==http://www.mcmaster.ca/
+Dalhousie University==http://www.dal.ca/
+University of Calgary==http://www.ucalgary.ca/
+University of Saskatchewan==http://www.usask.ca/
+University of Ottawa==http://www.uottawa.ca/welcome.html
+Western University==http://www.uwo.ca/
+Universite de Montreal==http://www.umontreal.ca/english/
+Universite Laval==http://www2.ulaval.ca/en/home.html
+Universite de Sherbrooke==http://www.usherbrooke.ca/accueil/english/
+University of Manitoba==http://umanitoba.ca/
