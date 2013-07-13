@@ -9,7 +9,4 @@ University of Calgary==http://www.ucalgary.ca/
 University of Saskatchewan==http://www.usask.ca/
 University of Ottawa==http://www.uottawa.ca/welcome.html
 Western University==http://www.uwo.ca/
-Universite de Montreal==http://www.umontreal.ca/english/
-Universite Laval==http://www2.ulaval.ca/en/home.html
-Universite de Sherbrooke==http://www.usherbrooke.ca/accueil/english/
 University of Manitoba==http://umanitoba.ca/

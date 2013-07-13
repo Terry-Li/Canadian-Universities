@@ -11,5 +11,4 @@ University of Windsor==http://www.uwindsor.ca/
 Wilfrid Laurier University==http://www.wlu.ca/
 Ryerson University==http://www.ryerson.ca/index.html
 Concordia University==http://www.concordia.ca/
-Universite du Quebec a Montreal==http://www.international.uqam.ca/pages/anglais.aspx
 Brock University==http://www.brocku.ca/
