@@ -93,6 +93,45 @@ public class FacultyList {
         return false;
     }
     
+    public static boolean nameColumn2(String[][] table, int col){
+        boolean hasName = false;
+        int names = 0;
+        int rows = table.length;
+        Set<String> keywords = new HashSet<String>();
+        for (int j = 0; j < rows; j++) {
+            if (containNames(table[j][col], keywords) && !table[j][col].toLowerCase().contains(" at ")) {
+                names++;
+            }
+        }
+        //if (rows==30)System.out.println(names+"/"+rows);
+        if (!hasName && keywords.size() >= (float) rows * 0.5 && names >= (float) rows * 0.5) {//&& keywords.size()>=(float)rows*0.5
+            hasName = true;
+        }
+        return hasName;
+    }
+    
+    public static boolean webColumn(String[][] table, int col) {
+        int count = 0;
+        Set<String> anchors = new HashSet<String>();
+        for (int j = 0; j < table.length; j++) {
+            String current = table[j][col];
+            if (current!=null && (!current.contains("Link&lt;&lt;") || current.contains("@"))) {
+                return false;
+            }
+            if (current!=null) {
+                if (current.split("a>").length == 2) {
+                    anchors.add(current.split("a>")[1].trim());
+                }
+                count++;
+            }
+        }
+        //System.out.println(count+":"+table.length+":"+anchors.size());
+        if (count*2>table.length &&  anchors.size()<=2) {
+            return true;
+        }
+        return false;
+    }
+    
     public static boolean photoColumn(String[][] table, int col){
         for (int row = 0; row < table.length; row++) {
             String current = table[row][col];
