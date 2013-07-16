@@ -1,4 +1,4 @@
-package USA100;
+package Wikipeida;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -35,7 +35,7 @@ public class GetUnivsAttris {
 	public static Elements getAttriLinks(String url){
 		Elements trs = new Elements();
 		try {
-			Document doc = Jsoup.connect(url).timeout(1000000).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
+			Document doc = Jsoup.connect(url).timeout(0).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
 			int size = doc.select("table").size();
 			Element table = doc.select("table").get(0);
 			int i = 1;
