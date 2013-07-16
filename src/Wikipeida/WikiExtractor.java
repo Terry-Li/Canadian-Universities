@@ -21,7 +21,7 @@ import org.jsoup.select.Elements;
  * @author lyf
  */
 public class WikiExtractor {
-    public static String path = "../Input/";
+    public static String path = "";//../Input/";
     
     public static void extractTable(String file) throws IOException{
         String html = FileUtils.readFileToString(new File(file));
