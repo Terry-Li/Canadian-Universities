@@ -1,0 +1,1143 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8" />
+  <title>Memorial University of Newfoundland - Wikipedia, the free encyclopedia</title> 
+  <meta name="generator" content="MediaWiki 1.22wmf8" /> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit" /> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit" /> 
+  <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" /> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" /> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" /> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" /> 
+  <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <meta name="ResourceLoaderDynamicStyles" content="" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Memorial_University_of_Newfoundland","wgTitle":"Memorial University of Newfoundland","wgCurRevisionId":561089091,"wgArticleId":389841,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Latin-language text","Commons category with local link same as on Wikidata","Memorial University of Newfoundland","Nursing schools in Canada","Educational institutions established in 1925","Universities and colleges in Newfoundland and Labrador","Association of Commonwealth Universities","Universities in Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Memorial_University_of_Newfoundland","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":389841,"title":"Memorial University of Newfoundland","namespace":0,"categories":["Articles containing Latin-language text","Association of Commonwealth Universities","Commons category with local link same as on Wikidata","Educational institutions established in 1925","Memorial University of Newfoundland","Nursing schools in Canada","Universities and colleges in Newfoundland and Labrador","Universities in Canada"],"permissionLevel":false}});
+}</script>
+  <script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":1,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,
+"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});},{},{});mw.loader.implement(
+"user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:c0aacaeffbf379bb2fae23a527457dc0 */
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script> 
+  <script src="//bits.wikimedia.org/geoiplookup"></script>
+  <link rel="dns-prefetch" href="//meta.wikimedia.org" />
+  <!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf8/skins/vector/csshover.min.htc")}</style><![endif]-->
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Memorial_University_of_Newfoundland skin-vector action-view vector-animateLayout"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="mw-js-message" style="display:none;"></div> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Memorial University of Newfoundland</span></h1> 
+   <div id="bodyContent"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-navigation">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;"> 
+      <tbody>
+       <tr> 
+        <th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;">Memorial University of Newfoundland</th> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"><a href="/wiki/File:Memorial_University_of_Newfoundland_CoA.svg" class="image"><img alt="Memorial University of Newfoundland CoA.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Memorial_University_of_Newfoundland_CoA.svg/140px-Memorial_University_of_Newfoundland_CoA.svg.png" width="140" height="169" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Memorial_University_of_Newfoundland_CoA.svg/210px-Memorial_University_of_Newfoundland_CoA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Memorial_University_of_Newfoundland_CoA.svg/280px-Memorial_University_of_Newfoundland_CoA.svg.png 2x" /></a></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"><a href="/wiki/Latin_language" title="Latin language" class="mw-redirect">Latin</a>: <span lang="la" xml:lang="la"><i>Universitas Memorialis Terr&aelig; Nov&aelig;</i></span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto</th> 
+        <td><i>Provehito In Altum</i> (<a href="/wiki/Latin" title="Latin">Latin</a>)</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto in English</th> 
+        <td>&quot;Launch forth into the deep&quot;</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Established</th> 
+        <td>1925</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Type</th> 
+        <td><a href="/wiki/Public_university" title="Public university">Public</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Religious affiliation</th> 
+        <td>Non-denominational</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Financial_endowment" title="Financial endowment">Endowment</a></th> 
+        <td><a href="/wiki/Canadian_dollar" title="Canadian dollar">$</a>62 million<sup id="cite_ref-FS_1-0" class="reference"><a href="#cite_note-FS-1"><span>[</span>1<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Chancellor_(education)" title="Chancellor (education)">Chancellor</a></th> 
+        <td>Susan Knight</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/University_president" title="University president" class="mw-redirect">President</a></th> 
+        <td>Dr, Gary Kachanoski</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Visitor" title="Visitor">Visitor</a></th> 
+        <td><a href="/wiki/John_C._Crosbie" title="John C. Crosbie" class="mw-redirect">Hon. John Crosbie</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Academic staff</th> 
+        <td>1,144 full-time<br /> 850 sessional</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Students</th> 
+        <td>18,913<sup id="cite_ref-Atlantic_Universities_2-0" class="reference"><a href="#cite_note-Atlantic_Universities-2"><span>[</span>2<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Undergraduate_education" title="Undergraduate education">Undergraduates</a></th> 
+        <td>15,418</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Postgraduate_education" title="Postgraduate education">Postgraduates</a></th> 
+        <td>3,495</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Location</th> 
+        <td class="adr"><span class="locality"><a href="/wiki/St._John%27s,_Newfoundland" title="St. John's, Newfoundland" class="mw-redirect">St. John's</a></span>, <span class="region"><a href="/wiki/Newfoundland_and_Labrador" title="Newfoundland and Labrador">NL</a></span>, <span class="country-name"><a href="/wiki/Canada" title="Canada">Canada</a></span><br /> <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Memorial_University_of_Newfoundland&amp;params=47.57203_N_-52.73265_E_type:edu"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">47&deg;34?19?N</span> <span class="longitude">52&deg;43?58?W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">47.57203&deg;N 52.73265&deg;W</span><span style="display:none">? / <span class="geo">47.57203; -52.73265</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Memorial_University_of_Newfoundland&amp;params=47.57203_N_-52.73265_E_type:edu"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">47&deg;34?19?N</span> <span class="longitude">52&deg;43?58?W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">47.57203&deg;N 52.73265&deg;W</span><span style="display:none">? / <span class="geo">47.57203; -52.73265</span></span></span></a></span></span></span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Campus</th> 
+        <td>Urban<br /> Main: 279 acres (113&nbsp;ha)<br /> Grenfell: 185 acres (75&nbsp;ha)<br /> Harlow: 25 acres (10&nbsp;ha)</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Former names</th> 
+        <td>Memorial University College</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/School_colors" title="School colors">Colours</a></th> 
+        <td> 
+         <table class="toccolours" style="width: 100%; padding: 0;" cellpadding="2" cellspacing="0"> 
+          <tbody>
+           <tr> 
+            <td style="background: #8C2633;">&nbsp;</td> 
+            <td style="background: #8C2633;">&nbsp;</td> 
+            <td style="background: #D4AF37; font-size:50%;">&nbsp;</td> 
+            <td style="background: #FFFFFF; font-size:50%;">&nbsp;</td> 
+            <td style="background: #D4AF37; font-size:50%;">&nbsp;</td> 
+            <td style="background: #8C2633;">&nbsp;</td> 
+            <td style="background: #8C2633;">&nbsp;</td> 
+            <td style="background: #D4AF37; font-size:50%;">&nbsp;</td> 
+            <td style="background: #FFFFFF; font-size:50%;">&nbsp;</td> 
+            <td style="background: #D4AF37; font-size:50%;">&nbsp;</td> 
+            <td style="background: #8C2633;">&nbsp;</td> 
+            <td style="background: #8C2633;">&nbsp;</td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Athletic_nickname" title="Athletic nickname">Nickname</a></th> 
+        <td><a href="/wiki/Memorial_Sea-Hawks" title="Memorial Sea-Hawks">Sea-Hawks</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Mascot</th> 
+        <td>Sammy The Seahawk</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Affiliations</th> 
+        <td><a href="/wiki/Association_of_Commonwealth_Universities" title="Association of Commonwealth Universities">ACU</a>, <a href="/wiki/Association_of_Universities_and_Colleges_of_Canada" title="Association of Universities and Colleges of Canada">AUCC</a>, <a href="/wiki/Atlantic_University_Sport" title="Atlantic University Sport">AUS</a>, <a href="/wiki/Canadian_Association_of_Research_Libraries" title="Canadian Association of Research Libraries">CARL</a>, <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">CIS</a>, <a href="/wiki/Canadian_Virtual_University" title="Canadian Virtual University">CVU</a>, <a href="/wiki/Canadian_University_Society_for_Intercollegiate_Debate" title="Canadian University Society for Intercollegiate Debate">CUSID</a>, <a href="/wiki/University_of_the_Arctic" title="University of the Arctic">UArctic</a>, <a href="/wiki/Association_of_Theological_Schools_in_the_United_States_and_Canada" title="Association of Theological Schools in the United States and Canada">ATS</a>, <a href="/wiki/Canadian_Bureau_for_International_Education" title="Canadian Bureau for International Education">CBIE</a>, <a href="/wiki/Canadian_University_Press" title="Canadian University Press">CUP</a>.</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Website</th> 
+        <td><a rel="nofollow" class="external text" href="http://www.mun.ca">www.mun.ca</a></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"> 
+         <div class="center"> 
+          <div class="floatnone">
+           <a href="/wiki/File:Memorial_University_of_Newfoundland_Logo.svg" class="image" title="University logo"><img alt="University logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Memorial_University_of_Newfoundland_Logo.svg/125px-Memorial_University_of_Newfoundland_Logo.svg.png" width="125" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Memorial_University_of_Newfoundland_Logo.svg/188px-Memorial_University_of_Newfoundland_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Memorial_University_of_Newfoundland_Logo.svg/250px-Memorial_University_of_Newfoundland_Logo.svg.png 2x" /></a>
+          </div> 
+         </div> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p><b>Memorial University of Newfoundland</b>, (colloquially known as <b>Memorial University</b> or <b>&quot;MUN&quot;</b>) is a comprehensive university located primarily in <a href="/wiki/St._John%27s,_Newfoundland_and_Labrador" title="St. John's, Newfoundland and Labrador">St. John's</a>, <a href="/wiki/Newfoundland_and_Labrador" title="Newfoundland and Labrador">Newfoundland and Labrador</a>, <a href="/wiki/Canada" title="Canada">Canada</a>.</p> 
+     <p>With historical strengths in education, engineering, business, geology, and medicine, it is one of the top comprehensive universities in Canada.<sup id="cite_ref-Ranking_3-0" class="reference"><a href="#cite_note-Ranking-3"><span>[</span>3<span>]</span></a></sup> With over 17,500 students, it is also the largest university in <a href="/wiki/Atlantic_Canada" title="Atlantic Canada">Atlantic Canada</a>.<sup id="cite_ref-CanadianUniversities_4-0" class="reference"><a href="#cite_note-CanadianUniversities-4"><span>[</span>4<span>]</span></a></sup> MUN's four main campuses are served by more than 1100 faculty and 2,300 staff members. Memorial University of Newfoundland has been featured in the <a href="/wiki/SJTU" title="SJTU" class="mw-redirect">SJTU</a> World university rankings, the TOP 500 and many other rankings.</p> 
+     <table id="toc" class="toc"> 
+      <tbody>
+       <tr> 
+        <td> 
+         <div id="toctitle"> 
+          <h2>Contents</h2> 
+         </div> 
+         <ul> 
+          <li class="toclevel-1 tocsection-1"><a href="#Administration"><span class="tocnumber">1</span> <span class="toctext">Administration</span></a></li> 
+          <li class="toclevel-1 tocsection-2"><a href="#Campuses"><span class="tocnumber">2</span> <span class="toctext">Campuses</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-3"><a href="#St._John.27s_campus"><span class="tocnumber">2.1</span> <span class="toctext">St. John's campus</span></a> 
+             <ul> 
+              <li class="toclevel-3 tocsection-4"><a href="#Libraries_and_Archives"><span class="tocnumber">2.1.1</span> <span class="toctext">Libraries and Archives</span></a></li> 
+             </ul> </li> 
+            <li class="toclevel-2 tocsection-5"><a href="#Marine_Institute"><span class="tocnumber">2.2</span> <span class="toctext">Marine Institute</span></a></li> 
+            <li class="toclevel-2 tocsection-6"><a href="#Grenfell_Campus"><span class="tocnumber">2.3</span> <span class="toctext">Grenfell Campus</span></a></li> 
+            <li class="toclevel-2 tocsection-7"><a href="#Harlow"><span class="tocnumber">2.4</span> <span class="toctext">Harlow</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-8"><a href="#Students_and_campus_housing"><span class="tocnumber">3</span> <span class="toctext">Students and campus housing</span></a></li> 
+          <li class="toclevel-1 tocsection-9"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li> 
+          <li class="toclevel-1 tocsection-10"><a href="#Legacy"><span class="tocnumber">5</span> <span class="toctext">Legacy</span></a></li> 
+          <li class="toclevel-1 tocsection-11"><a href="#Schools_and_faculties"><span class="tocnumber">6</span> <span class="toctext">Schools and faculties</span></a></li> 
+          <li class="toclevel-1 tocsection-12"><a href="#Motto.2C_shield.2C_and_arms"><span class="tocnumber">7</span> <span class="toctext">Motto, shield, and arms</span></a></li> 
+          <li class="toclevel-1 tocsection-13"><a href="#Memorial_University_of_Newfoundland_Botanical_Garden"><span class="tocnumber">8</span> <span class="toctext">Memorial University of Newfoundland Botanical Garden</span></a></li> 
+          <li class="toclevel-1 tocsection-14"><a href="#Sports.2C_clubs.2C_and_traditions"><span class="tocnumber">9</span> <span class="toctext">Sports, clubs, and traditions</span></a></li> 
+          <li class="toclevel-1 tocsection-15"><a href="#Rankings"><span class="tocnumber">10</span> <span class="toctext">Rankings</span></a></li> 
+          <li class="toclevel-1 tocsection-16"><a href="#Presidents"><span class="tocnumber">11</span> <span class="toctext">Presidents</span></a></li> 
+          <li class="toclevel-1 tocsection-17"><a href="#Chancellors"><span class="tocnumber">12</span> <span class="toctext">Chancellors</span></a></li> 
+          <li class="toclevel-1 tocsection-18"><a href="#Notable_faculty_and_alumni"><span class="tocnumber">13</span> <span class="toctext">Notable faculty and alumni</span></a></li> 
+          <li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">14</span> <span class="toctext">See also</span></a></li> 
+          <li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">15</span> <span class="toctext">References</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-21"><a href="#Books"><span class="tocnumber">15.1</span> <span class="toctext">Books</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">16</span> <span class="toctext">External links</span></a></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h2><span class="mw-headline" id="Administration">Administration</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=1" title="Edit section: Administration">edit</a>]</span></h2> 
+     <p>Memorial University of Newfoundland 107690273RR0001 was registered as a charitable organization in Canada on 1967-01-01. The primary areas in which the charity is now carrying on programs to achieve its charitable purposes, ranked according to the percentage of time and resources devoted to each program area follow:</p> 
+     <ul> 
+      <li>Universities and colleges 60%</li> 
+      <li>Research (scientific, medical, environmental, etc.) 40%</li> 
+     </ul> 
+     <p>The charity carried on charitable programs to further its charitable purpose(s) (as defined in its governing documents) this fiscal period:</p> 
+     <ul> 
+      <li>an inclusive community dedicated to creativity, innovation and excellence in teaching and learning, research and scholarship, and to public engagement and service.</li> 
+      <li>recognizes our special obligation to the citizens of Newfoundland and Labrador.</li> 
+      <li>welcomes students and scholars from all over the world</li> 
+      <li>contributes knowledge and shares expertise locally, nationally and internationally.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Campuses">Campuses</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=2" title="Edit section: Campuses">edit</a>]</span></h2> 
+     <p>MUN has four main campuses and two satellite campuses across three regions of Newfoundland and Labrador, and in two countries (Canada and England). The main campus in <a href="/wiki/St._John%27s,_Newfoundland_and_Labrador" title="St. John's, Newfoundland and Labrador">St. John's, Newfoundland and Labrador</a> is split by Prince Philip Drive where the northern section is bounded by <a href="/wiki/Pippy_Park" title="Pippy Park">Pippy Park</a>, and the southern section is largely surrounded by residential areas.</p> 
+     <h3><span class="mw-headline" id="St._John.27s_campus">St. John's campus</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=3" title="Edit section: St. John's campus">edit</a>]</span></h3> 
+     <p>The largest campus is located in St. John's. <a href="/wiki/Prince_Philip_Drive" title="Prince Philip Drive" class="mw-redirect">Prince Philip Drive</a> runs east-west through the main campus, with Westerland Road bordering it to the west, Elizabeth Avenue to the south and Allandale Road to the east. The majority of the academic buildings are located south of Prince Philip Drive; the Arts and Administration building, Science building, Chemistry and Physics, Mathematics, Music, Education, Physical Education and the Bruneau Centre for Research and Innovation. The University Centre is home to the food court, bookstore, campus bar (&quot;Breezeway&quot;), and the <a href="/wiki/CHMR-FM" title="CHMR-FM">CHMR-FM</a> campus radio station.</p> 
+     <h4><span class="mw-headline" id="Libraries_and_Archives">Libraries and Archives</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=4" title="Edit section: Libraries and Archives">edit</a>]</span></h4> 
+     <p>The Memorial University Libraries contain collections of university Archives, Fine Arts 1880' s to present; Human History and Natural Sciences. <sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> Memorial University of Newfoundland Folklore and Language Archive collection consists of manuscripts, tapes, records, photographs and artifacts pertaining to Maritime Provinces, specifically Newfoundland, Labrador. <sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> The Queen Elizabeth II Library, contains 1,058,500 monographs, 93,900 maps, 13,600 audio-visual titles and over 9,000 journal titles. The Commons, located on the main floor of the library, has computers available for use by students as well as a Digital Media Centre.</p> 
+     <h3><span class="mw-headline" id="Marine_Institute">Marine Institute</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=5" title="Edit section: Marine Institute">edit</a>]</span></h3> 
+     <p>The <a href="/wiki/Marine_Institute_of_Memorial_University_of_Newfoundland" title="Marine Institute of Memorial University of Newfoundland">Marine Institute</a> is a marine <a href="/wiki/Institute_of_technology#Canada" title="Institute of technology">polytechnic</a> institution located on Ridge Road in St. John's within Pippy Park, north of the city. It has unique facilities such as a full ships bridge simulator and the worlds largest flume tank. It offers degrees, diplomas, certifications and industry training for the maritime sector.</p> 
+     <h3><span class="mw-headline" id="Grenfell_Campus">Grenfell Campus</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=6" title="Edit section: Grenfell Campus">edit</a>]</span></h3> 
+     <p><i>See <a href="/wiki/Grenfell_Campus,_Memorial_University" title="Grenfell Campus, Memorial University" class="mw-redirect">Main Article</a> on Grenfell Campus for more information.</i></p> 
+     <p>The <a href="/wiki/Grenfell_Campus" title="Grenfell Campus">Grenfell Campus</a> is a 185-acre (75&nbsp;ha) site in <a href="/wiki/Corner_Brook,_Newfoundland_and_Labrador" title="Corner Brook, Newfoundland and Labrador" class="mw-redirect">Corner Brook</a>. It has approximately 1400 students, 156 faculty, 235 staff and offers programs in the Arts, Fine Arts, Business, Science, Resource Management and Nursing.</p> 
+     <p>It had been referred to as <b>Sir Wilfred Grenfell College</b> until September 10, 2010.</p> 
+     <h3><span class="mw-headline" id="Harlow">Harlow</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=7" title="Edit section: Harlow">edit</a>]</span></h3> 
+     <p>The Harlow Campus, located in Old Harlow, Essex, England consists of the Maltings, which can accommodate 30 students and Cabot House which can accommodate 10 students. A former schoolhouse and a teacher's cottage have been converted into a lecture facility and an apartment and a former shop has been converted into apartments. Memorial's Harlow Campus is not a school unto itself. Rather, professional schools and academic departments at Memorial use the Harlow Campus to deliver special programs. Harlow offers courses in Biology, Business, Drama &amp; Performance, English Cultural Landscape, Fine Arts (both Theatre and Visual Arts), Faith, Love &amp; Lore and History &amp; Political Science.</p> 
+     <h2><span class="mw-headline" id="Students_and_campus_housing">Students and campus housing</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=8" title="Edit section: Students and campus housing">edit</a>]</span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:Burton%27s_Pond_MUN.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burton%27s_Pond_MUN.jpg/250px-Burton%27s_Pond_MUN.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burton%27s_Pond_MUN.jpg/375px-Burton%27s_Pond_MUN.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burton%27s_Pond_MUN.jpg/500px-Burton%27s_Pond_MUN.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Burton%27s_Pond_MUN.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Burton's Pond apartments
+       </div> 
+      </div> 
+     </div> 
+     <p>There are over 17,000 students currently enrolled in full and part-time studies at MUN. This number includes both undergraduate and graduate students. Approximately 85% of students are from Newfoundland and Labrador. The most popular programs include Engineering, Business Administration, Nursing, Education, English, Folklore, French, History, Biology, Biochemistry, and Psychology. The university has an international reputation in a variety of disciplines. In particular, it is well recognized as having one of the top folklore departments in the world.</p> 
+     <p>The department of Housing, Food and Conference Services provides on campus housing at the St. John's campus in two residential complexes; <a href="/wiki/Paton_College" title="Paton College">Paton College</a> and Burton's Pond. The <a href="/wiki/Paton_College" title="Paton College">Paton College</a> dormitories offer traditional dormitory style accommodations for approximately 1000 students in ten residences, called &quot;Houses&quot;. The four &quot;Courts&quot; of Burton's Pond apartments accommodate 500 single students in four bedroom apartments, and provide a more independent lifestyle on campus. Small family apartments are available for students with a family, in Baltimore Court.<sup id="cite_ref-AUCCProfile_8-0" class="reference"><a href="#cite_note-AUCCProfile-8"><span>[</span>8<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=9" title="Edit section: History">edit</a>]</span></h2> 
+     <p>Memorial University of Newfoundland is a non-denominational university in <a href="/wiki/St_John%27s,_Newfoundland" title="St John's, Newfoundland" class="mw-redirect">St John's, Newfoundland</a>.<sup id="cite_ref-autogenerated1_9-0" class="reference"><a href="#cite_note-autogenerated1-9"><span>[</span>9<span>]</span></a></sup> Memorial University began as Memorial University College (MUC), which opened in September 1925 at a campus on Parade Street in St. John's.<sup id="cite_ref-autogenerated1_9-1" class="reference"><a href="#cite_note-autogenerated1-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <p>The first president was J. L. Paton. It offered the first two years of university studies. MUC's initial enrollment was 57 students, rising to a peak of over 400 in the 1940s. In 1933 it merged with the adjacent Normal School and took responsibility for teacher training. During the College's early years it received considerable support from the <a href="/wiki/Carnegie_Corporation_of_New_York" title="Carnegie Corporation of New York">Carnegie Corporation of New York</a>.</p> 
+     <p>The college was established as a memorial to the Newfoundlanders who had lost their lives on active service during the First World War.<sup id="cite_ref-autogenerated1_9-2" class="reference"><a href="#cite_note-autogenerated1-9"><span>[</span>9<span>]</span></a></sup> It was later rededicated to also encompass the province's war dead of the Second World War.<sup id="cite_ref-MUNHistory_10-0" class="reference"><a href="#cite_note-MUNHistory-10"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/Alan_Beddoe" title="Alan Beddoe">Alan Beddoe</a> designed the coats of arms for the Memorial University of Newfoundland.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> The post-Confederation government elevated the status of Memorial University College to full university status in August 1949, renaming the institution to Memorial University of Newfoundland.<sup id="cite_ref-autogenerated1_9-3" class="reference"><a href="#cite_note-autogenerated1-9"><span>[</span>9<span>]</span></a></sup> Memorial University was established by the Memorial University Act.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p> 
+     <p>The enrollment in MUN's first year was 307 students. In 1961, enrollment having increased to 1400, MUN moved from Parade Street to its present location on Elizabeth Avenue (Main Campus).<sup id="cite_ref-autogenerated1_9-4" class="reference"><a href="#cite_note-autogenerated1-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <p>On 8 March 1965, the government of Newfoundland announced free tuition for first year students enrolled at Memorial University in St. John's.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> The <a href="/wiki/Faculty_of_Medicine_of_Memorial_University_of_Newfoundland" title="Faculty of Medicine of Memorial University of Newfoundland">Faculty of Medicine of Memorial University of Newfoundland</a> was established in 1967, and the first students were admitted in 1969. It admits approximately 60 students into the M.D. program each year, and also offers M.Sc. and Ph.D. programs.</p> 
+     <p>MUN maintains a campus in <a href="/wiki/Harlow" title="Harlow">Harlow</a>, England which opened to students in 1969. This campus has been a popular location for internships in Education, and now offers credit courses, work terms, and internships in a number of areas. The campus accommodates approximately 50 students.</p> 
+     <p>Memorial established the Institut Frecker in <a href="/wiki/St._Pierre_and_Miquelon" title="St. Pierre and Miquelon" class="mw-redirect">St. Pierre</a> in 1973, to offer one-semester French immersion programs. It was housed in a building provided by the archdiocese of St. Pierre until 2000. Now known as the Programme Frecker, it is currently run from the <a href="/wiki/FrancoForum" title="FrancoForum">FrancoForum</a>, a language teaching facility owned by the government of St. Pierre. The program is partly supported by the governments of Canada and Newfoundland and Labrador.</p> 
+     <p>In September 1975 a campus was opened in <a href="/wiki/Corner_Brook,_Newfoundland_and_Labrador" title="Corner Brook, Newfoundland and Labrador" class="mw-redirect">Corner Brook</a>; it was first renamed <a href="/wiki/Sir_Wilfred_Grenfell_College" title="Sir Wilfred Grenfell College" class="mw-redirect">Sir Wilfred Grenfell College</a> in 1979 and renamed again in 2010 as <a href="/wiki/Grenfell_Campus,_Memorial_University_of_Newfoundland" title="Grenfell Campus, Memorial University of Newfoundland" class="mw-redirect">Grenfell Campus, Memorial University of Newfoundland</a>. Currently 1300 students attend Grenfell, which offers full degree programs in several disciplines, including Fine Arts, and partial programs, which can be completed at the main campus, in many other subjects.</p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:MemorialUniversity.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/7/75/MemorialUniversity.jpg/250px-MemorialUniversity.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/75/MemorialUniversity.jpg/375px-MemorialUniversity.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/75/MemorialUniversity.jpg/500px-MemorialUniversity.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:MemorialUniversity.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> The St. John's campus of MUN
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:QEII_MUN.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/QEII_MUN.jpg/250px-QEII_MUN.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/QEII_MUN.jpg/375px-QEII_MUN.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/QEII_MUN.jpg/500px-QEII_MUN.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:QEII_MUN.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> The Queen Elizabeth II Library
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:Gushue_Hall_MUN.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gushue_Hall_MUN.jpg/250px-Gushue_Hall_MUN.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gushue_Hall_MUN.jpg/375px-Gushue_Hall_MUN.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gushue_Hall_MUN.jpg/500px-Gushue_Hall_MUN.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Gushue_Hall_MUN.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> R. Gushue Hall
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:IIC_MUN.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/IIC_MUN.jpg/250px-IIC_MUN.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/IIC_MUN.jpg/375px-IIC_MUN.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/IIC_MUN.jpg/500px-IIC_MUN.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:IIC_MUN.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Bruneau Centre for Research
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:OSC_MUN.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/OSC_MUN.jpg/250px-OSC_MUN.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/OSC_MUN.jpg/375px-OSC_MUN.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/OSC_MUN.jpg/500px-OSC_MUN.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:OSC_MUN.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> The Ocean Sciences Centre
+       </div> 
+      </div> 
+     </div> 
+     <p>In 1977, the Memorial University of Newfoundland Educational Television Centre implemented the <a href="/wiki/Telemedicine" title="Telemedicine">Telemedicine</a> project.</p> 
+     <p>In 1992, the Institute of Fisheries and Marine Technology in St. John's became affiliated with MUN as the Fisheries and Marine Institute of Memorial University of Newfoundland. Today it is named the <a href="/wiki/Marine_Institute_of_Memorial_University_of_Newfoundland" title="Marine Institute of Memorial University of Newfoundland">Marine Institute of Memorial University of Newfoundland</a>. It offers both degree and non-degree programs.</p> 
+     <h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=10" title="Edit section: Legacy">edit</a>]</span></h2> 
+     <p>On 1 January 1943 &amp; 21 March 1946 Canada Post issued 'Memorial University College' based on a design by Herman Herbert Schwartz. The 2&cent; / 30&cent;stamps are perforated 12 and were printed by Canadian Bank Note Company, Limited. <sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Schools_and_faculties">Schools and faculties</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=11" title="Edit section: Schools and faculties">edit</a>]</span></h2> 
+     <p>Memorial has six faculties (Arts, Business Administration, Education, Engineering, Medicine, and Science) and six Schools (Graduate Studies, Music, Nursing, Pharmacy, Human Kinetics, Recreation, and Social Work). These offer a wide variety of undergraduate and graduate degree programs.</p> 
+     <p>Memorial?s Faculty of Business Administration is recognized as a leader in Canadian business education, offering innovative programs at the undergraduate and graduate levels, including bachelor of commerce, international bachelor of business administration, bachelor of business administration, master of business administration, master of employment relations and PhD degrees.</p> 
+     <p>Students can choose to specialize in the following engineering disciplines: <a href="/wiki/Civil_Engineering" title="Civil Engineering" class="mw-redirect">Civil Engineering</a>, <a href="/wiki/Computer_Engineering" title="Computer Engineering" class="mw-redirect">Computer Engineering</a>, <a href="/wiki/Electrical_Engineering" title="Electrical Engineering" class="mw-redirect">Electrical Engineering</a>, <a href="/wiki/Mechanical_Engineering" title="Mechanical Engineering" class="mw-redirect">Mechanical Engineering</a>, <a href="/wiki/Offshore_construction" title="Offshore construction">Ocean</a> and <a href="/wiki/Naval_architecture" title="Naval architecture">Naval Architectural</a> Engineering (combined degree), <a href="/wiki/Engineering_Management" title="Engineering Management" class="mw-redirect">Engineering Management</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> and <a href="/wiki/Process_Engineering" title="Process Engineering" class="mw-redirect">Process Engineering</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p> 
+     <p>The Memorial University of Newfoundland Department of Biochemistry has an accredited dietetic program. The university is accredited by a professional organization such as the <a href="/wiki/Dietitians_of_Canada" title="Dietitians of Canada">Dietitians of Canada</a> and the university's graduates may subsequently become registered dietitians. <a href="/wiki/List_of_universities_with_accredited_dietetic_programs" title="List of universities with accredited dietetic programs">List of universities with accredited dietetic programs</a></p> 
+     <p>Queen's College, an affiliated College of Memorial University, offers diploma and degree studies in theology, pastoral studies, church history and related programs. Queen's College is an associate member of the <a href="/wiki/Association_of_Theological_Schools_in_the_United_States_and_Canada" title="Association of Theological Schools in the United States and Canada">Association of Theological Schools in the United States and Canada</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p> 
+     <p>The university operates the <a href="/wiki/Bonne_Bay_Marine_Station" title="Bonne Bay Marine Station">Bonne Bay Marine Station</a> in <a href="/wiki/Gros_Morne_National_Park" title="Gros Morne National Park">Gros Morne National Park</a>.</p> 
+     <h2><span class="mw-headline" id="Motto.2C_shield.2C_and_arms">Motto, shield, and arms</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=12" title="Edit section: Motto, shield, and arms">edit</a>]</span></h2> 
+     <p>The university's motto, <i>Provehito in Altum</i> (Launch forth into the deep), captures the spirit of the adventure of learning and urges students to extend the frontiers of knowledge. The shield of arms bears a representation of the sea, books, and a cross. The Arms of Memorial University have as their central element a <a href="/wiki/Cross_(heraldry)" title="Cross (heraldry)" class="mw-redirect">cross moline</a>, which is a fitting symbol for an institution dedicated to the memory of soldiers of Newfoundland who died during the Great Wars.</p> 
+     <h2><span class="mw-headline" id="Memorial_University_of_Newfoundland_Botanical_Garden">Memorial University of Newfoundland Botanical Garden</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=13" title="Edit section: Memorial University of Newfoundland Botanical Garden">edit</a>]</span></h2> 
+     <p>The <a href="/wiki/Memorial_University_of_Newfoundland_Botanical_Garden" title="Memorial University of Newfoundland Botanical Garden">Memorial University of Newfoundland Botanical Garden</a> is a botanical garden operated by the university. The collection consists of perennial and annual plants, aquatic plant, spruce, fir, and alder trees. The garden is located at Oxen Pond along Mount Scio Road in the suburbs of St. John's and was founded in 1972. <sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup>The park has adopted the Twinflower (<i><a href="/wiki/Linnaea_borealis" title="Linnaea borealis" class="mw-redirect">Linnaea borealis</a></i>) as its emblem.</p> 
+     <h2><span class="mw-headline" id="Sports.2C_clubs.2C_and_traditions">Sports, clubs, and traditions</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=14" title="Edit section: Sports, clubs, and traditions">edit</a>]</span></h2> 
+     <p>MUN's sports teams, the <a href="/wiki/Memorial_Sea-Hawks" title="Memorial Sea-Hawks">Memorial Sea-Hawks</a> (formerly The <a href="/wiki/Beothuks" title="Beothuks" class="mw-redirect">Beothuks</a>), are part of the Atlantic University Sport (AUS) league of <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">Canadian Interuniversity Sport</a>. There are varsity teams in men's and women's basketball, cross-country, soccer, swimming, volleyball and wrestling.</p> 
+     <p>Memorial University also has a very active student media including a radio station, <a href="/wiki/CHMR-FM" title="CHMR-FM">CHMR-FM</a>, and a newspaper, <i><a href="/wiki/The_Muse_(student_paper)" title="The Muse (student paper)">The Muse</a></i>.</p> 
+     <h2><span class="mw-headline" id="Rankings">Rankings</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=15" title="Edit section: Rankings">edit</a>]</span></h2> 
+     <p>The Globe and Mail's 2009 University Report Card, which is a national survey on student satisfaction gave MUN the following grades in the Medium-sized University category:</p> 
+     <ul> 
+      <li>Quality of Teaching: B+ (6th in Canada)</li> 
+      <li>Quality of Education: A- (6th in Canada)</li> 
+      <li>Most Satisfied Students: A- (6th in Canada)</li> 
+      <li>Class Size: A- (4th in Canada)</li> 
+      <li>Student Faculty Interaction: B (6th in Canada)</li> 
+      <li>Course Availability: B (4th in Canada)</li> 
+      <li>Student Services: B+ (2nd in Canada)</li> 
+      <li>Libraries: A- (3rd in Canada)</li> 
+      <li>Academic reputation: B (7th in Canada)</li> 
+     </ul> 
+     <p>On November 11, 2010 Maclean's magazine ranked MUN number 5 of 12 in its comprehensive university rankings for the second year in a row.</p> 
+     <p>In the 2007 Academic Ranking of World Universities published by The Institute of Higher Education of Shanghai Jiao Tong University, MUN placed in the fourth quintile category (305th?401st overall) of the top 500 universities of the world.</p> 
+     <h2><span class="mw-headline" id="Presidents">Presidents</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=16" title="Edit section: Presidents">edit</a>]</span></h2> 
+     <ul> 
+      <li><a href="/w/index.php?title=John_Lewis_Paton&amp;action=edit&amp;redlink=1" class="new" title="John Lewis Paton (page does not exist)">John Lewis Paton</a>, 1925?1933</li> 
+      <li><a href="/w/index.php?title=Albert_Hatcher&amp;action=edit&amp;redlink=1" class="new" title="Albert Hatcher (page does not exist)">Albert Hatcher</a>, 1933?1952</li> 
+      <li><a href="/wiki/Raymond_Gushue" title="Raymond Gushue">Raymond Gushue</a>, 1952?1966</li> 
+      <li><a href="/wiki/Moses_Morgan" title="Moses Morgan">Moses Morgan</a> (<i>pro tempore</i>), 1966?1967</li> 
+      <li><a href="/wiki/Stephen_Taylor,_Baron_Taylor" title="Stephen Taylor, Baron Taylor">The Rt. Hon. The Lord Taylor of Harlow</a>, 1967?1973</li> 
+      <li><a href="/wiki/Moses_Morgan" title="Moses Morgan">Moses Morgan</a>, 1973?1981</li> 
+      <li>Leslie Harris, 1981?1990</li> 
+      <li><a href="/w/index.php?title=Arthur_May&amp;action=edit&amp;redlink=1" class="new" title="Arthur May (page does not exist)">Arthur May</a>, 1990?1999</li> 
+      <li><a href="/w/index.php?title=Axel_Meisen&amp;action=edit&amp;redlink=1" class="new" title="Axel Meisen (page does not exist)">Axel Meisen</a>, 1999?2007</li> 
+      <li><a href="/wiki/Eddy_Campbell" title="Eddy Campbell">Eddy Campbell</a>, 2008?2009</li> 
+      <li>Chris Loomis, 2009?2010</li> 
+      <li>Gary Kachanoski, 2010- Current</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Chancellors">Chancellors</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=17" title="Edit section: Chancellors">edit</a>]</span></h2> 
+     <ul> 
+      <li><a href="/wiki/Esmond_Harmsworth,_2nd_Viscount_Rothermere" title="Esmond Harmsworth, 2nd Viscount Rothermere">The Rt. Hon. Viscount Rothermere of Hemsted</a>, 1952?1961</li> 
+      <li><a href="/wiki/Roy_Thomson,_1st_Baron_Thomson_of_Fleet" title="Roy Thomson, 1st Baron Thomson of Fleet">The Rt. Hon. The Lord Thomson of Fleet</a>, 1961?1968</li> 
+      <li><a href="/wiki/George_Alain_Frecker" title="George Alain Frecker">G. Alain Frecker</a>, 1971?1979</li> 
+      <li><a href="/wiki/Paul_Desmarais" title="Paul Desmarais">Paul G. Desmarais</a>, 1979?1988</li> 
+      <li><a href="/wiki/John_C._Crosbie" title="John C. Crosbie" class="mw-redirect">His Honour the Hon. John Crosbie</a>, 1994?2008</li> 
+      <li><a href="/wiki/Rick_Hillier" title="Rick Hillier">Rick Hillier</a>, 2008-2012</li> 
+      <li>Susan Knight, 2012-</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Notable_faculty_and_alumni">Notable faculty and alumni</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=18" title="Edit section: Notable faculty and alumni">edit</a>]</span></h2> 
+     <div class="rellink relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/List_of_Memorial_University_of_Newfoundland_people" title="List of Memorial University of Newfoundland people">List of Memorial University of Newfoundland people</a>
+     </div> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a>]</span></h2> 
+     <div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;"> 
+      <table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;"> 
+       <tbody>
+        <tr valign="middle"> 
+         <td style="text-align:center;"><a href="/wiki/File:School.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/28px-School.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/42px-School.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/56px-School.svg.png 2x" /></a></td> 
+         <td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:University_of_the_Arctic" title="Portal:University of the Arctic">University of the Arctic portal</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <ul> 
+      <li><a href="/wiki/Higher_education_in_Newfoundland_and_Labrador" title="Higher education in Newfoundland and Labrador">Higher education in Newfoundland and Labrador</a></li> 
+      <li><a href="/wiki/Memorial_University_of_Newfoundland_Students%27_Union" title="Memorial University of Newfoundland Students' Union">Memorial University of Newfoundland Students' Union</a></li> 
+      <li><a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">Canadian Interuniversity Sport</a></li> 
+      <li><a href="/wiki/Canadian_government_scientific_research_organizations" title="Canadian government scientific research organizations">Canadian government scientific research organizations</a></li> 
+      <li><a href="/wiki/Canadian_university_scientific_research_organizations" title="Canadian university scientific research organizations">Canadian university scientific research organizations</a></li> 
+      <li><a href="/wiki/Canadian_industrial_research_and_development_organizations" title="Canadian industrial research and development organizations">Canadian industrial research and development organizations</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=20" title="Edit section: References">edit</a>]</span></h2> 
+     <div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-FS-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FS_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mun.ca/finance/forms/MUN_FS_March_31_2010.pdf">&quot;Consolidated Financial Statements of Memorial University of Newfoundland (March 31, 2010)&quot;</a> (PDF)<span class="reference-accessdate">. Retrieved 2011-02-23</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemorial+University+of+Newfoundland&amp;rft.btitle=Consolidated+Financial+Statements+of+Memorial+University+of+Newfoundland+%28March+31%2C+2010%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mun.ca%2Ffinance%2Fforms%2FMUN_FS_March_31_2010.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Atlantic_Universities-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Atlantic_Universities_2-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.atlanticuniversities.ca/system/files/documents/AAUFactsFiguresEnrolments/Full%20Time%20plus%20Part%20Time%202012.pdf">&quot;Full-time plus Part-time Enrollment&quot;</a>. Association of Atlantic Universities. 2012-10-15<span class="reference-accessdate">. Retrieved 2012-10-15</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemorial+University+of+Newfoundland&amp;rft.btitle=Full-time+plus+Part-time+Enrollment&amp;rft.date=2012-10-15&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.atlanticuniversities.ca%2Fsystem%2Ffiles%2Fdocuments%2FAAUFactsFiguresEnrolments%2FFull%2520Time%2520plus%2520Part%2520Time%25202012.pdf&amp;rft.pub=Association+of+Atlantic+Universities&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Ranking-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ranking_3-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.macleans.ca/education/universities/acomprehensive.pdf">&quot;2008 Comprehensive University Rankings&quot;</a> (PDF). <a href="/wiki/Maclean%27s" title="Maclean's">Maclean's</a><span class="reference-accessdate">. Retrieved 2008-05-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemorial+University+of+Newfoundland&amp;rft.btitle=2008+Comprehensive+University+Rankings&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.macleans.ca%2Feducation%2Funiversities%2Facomprehensive.pdf&amp;rft.pub=Maclean%27s&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span> An online preview of the year ranking published in the Nov 19, 2007 edition of Maclean's magazine.</span></li> 
+       <li id="cite_note-CanadianUniversities-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-CanadianUniversities_4-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.canadian-universities.net/Universities/Memorial-University-of-Newfoundland.html">&quot;University Profiles (Memorial University of Newfoundland)&quot;</a>. Canada's Higher Education and Careers Guide<span class="reference-accessdate">. Retrieved 2008-05-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemorial+University+of+Newfoundland&amp;rft.btitle=University+Profiles+%28Memorial+University+of+Newfoundland%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.canadian-universities.net%2FUniversities%2FMemorial-University-of-Newfoundland.html&amp;rft.pub=Canada%27s+Higher+Education+and+Careers+Guide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cra-arc.gc.ca/chrts-gvng/lstngs/menu-eng.html">http://www.cra-arc.gc.ca/chrts-gvng/lstngs/menu-eng.html</a> Canada Revenue Agency Charities listing</span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.museevirtuel-virtualmuseum.ca/GetMuseumProfile.do?lang=en&amp;chinCode=guadrd">Memorial University Libraries</a></span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.museevirtuel-virtualmuseum.ca/GetMuseumProfile.do?lang=en&amp;chinCode=guaakv">Memorial University of Newfoundland Folklore and Language Archive</a></span></li> 
+       <li id="cite_note-AUCCProfile-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-AUCCProfile_8-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aucc.ca/can_uni/our_universities/memorial_e.html">&quot;Association of Universities and Colleges of Canada Profile&quot;</a><span class="reference-accessdate">. Retrieved 2008-05-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemorial+University+of+Newfoundland&amp;rft.btitle=Association+of+Universities+and+Colleges+of+Canada+Profile&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aucc.ca%2Fcan_uni%2Four_universities%2Fmemorial_e.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-autogenerated1-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-autogenerated1_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-autogenerated1_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-autogenerated1_9-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=U1ARTU0002335">Memorial University of Newfoundland</a></span></li> 
+       <li id="cite_note-MUNHistory-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-MUNHistory_10-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mun.ca/memorial/history/">&quot;History of Memorial University&quot;</a><span class="reference-accessdate">. Retrieved 2008-05-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemorial+University+of+Newfoundland&amp;rft.btitle=History+of+Memorial+University&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mun.ca%2Fmemorial%2Fhistory%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://collectionscanada.gc.ca/ourl/res.php?url_ver=Z39.88-2004&amp;url_tim=2010-03-07T21%3A52%3A20Z&amp;url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&amp;rft_dat=104827&amp;rfr_id=info%3Asid%2Fcollectionscanada.gc.ca%3Apam">http://collectionscanada.gc.ca/ourl/res.php?url_ver=Z39.88-2004&amp;url_tim=2010-03-07T21%3A52%3A20Z&amp;url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&amp;rft_dat=104827&amp;rfr_id=info%3Asid%2Fcollectionscanada.gc.ca%3Apam</a> Alan Beddoe collection at Library and Archives Canada</span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">assembly.nl.ca/Legislation/sr/statutes/m07.htm Memorial University Act</span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation book">Pound, Richard W. (2005). <i>'Fitzhenry and Whiteside Book of Canadian Facts and Dates'</i>. Fitzhenry and Whiteside.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMemorial+University+of+Newfoundland&amp;rft.aufirst=Richard+W.&amp;rft.aulast=Pound&amp;rft.au=Pound%2C+Richard+W.&amp;rft.btitle=%27Fitzhenry+and+Whiteside+Book+of+Canadian+Facts+and+Dates%27&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=Fitzhenry+and+Whiteside&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(Memorial.ANYP.)+Or+(Memorial.ANYI.+And+null.B742.)&amp;l=20&amp;d=STMP&amp;p=1&amp;u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&amp;r=8&amp;f=G&amp;Sect1=STMP">Canada Post stamp</a></span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.engr.mun.ca/MEM">Master of Engineering Management</a></span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cemf.ca/Engineering/UniversityList.htm">Canadian Engineering Memorial Foundation - University List</a></span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ats.edu/MemberSchools/Pages/SchoolDetail.aspx?ID=473">ATS Member School Profile</a></span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.museevirtuel-virtualmuseum.ca/GetMuseumProfile.do?lang=en&amp;chinCode=guaaku">Memorial University of Newfoundland Botanical Garden</a></span></li> 
+      </ol> 
+     </div> 
+     <h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=21" title="Edit section: Books">edit</a>]</span></h3> 
+     <ul> 
+      <li>Dr. Mel Baker, Memorial University archivist 'Celebrate Memorial: A Pictorial History of Memorial University of Newfoundland' (St. John's Newfoundland: Memorial University Press &copy; 1999)</li> 
+      <li>Malcolm MacLeod. 'A Bridge Built Halfway: A History of Memorial University College, 1925-1950.' Montreal and Kingston: McGill-Queen's University Press, 1990.</li> 
+      <li>J.A. Meaden, 'Queen?s College, Newfoundland' (St.John?s Newfoundland: Memorial University Press, 1947)</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection">[<a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a>]</span></h2> 
+     <table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td> 
+        <td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Memorial_University_of_Newfoundland" class="extiw" title="commons:Category:Memorial University of Newfoundland">Memorial University of Newfoundland</a></b></i></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <ul> 
+      <li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://www.mun.ca/">Official website</a></span></span></li> 
+      <li><a rel="nofollow" class="external text" href="http://emun.ca/">Unofficial Student site of Memorial University of Newfoundland</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.themuse.ca/"><i>The Muse</i></a> Memorial University's student newspaper</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.mun.ca/ciap/fact_book.php">Fact Book</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.heritage.nf.ca/society/education.html">Education: Newfoundland and Labrador Heritage</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.aucc.ca/can_uni/search/index_e.html">Directory of Canadian Universities? programs database</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.aucc.ca/can_uni/our_universities/memorial_e.html">Association of Universities and Colleges of Canada Profile</a></li> 
+      <li><a rel="nofollow" class="external autonumber" href="http://www.globecampus.ca/in-the-news/globecampusreports/#canadian-university-report-2009">[1]</a></li> 
+     </ul> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2" style="background: #800000; color: #FFFFFF;;"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Memorial_University_of_Newfoundland" title="Template:Memorial University of Newfoundland"><span title="View this template" style=";background: #800000; color: #FFFFFF;;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Memorial_University_of_Newfoundland" title="Template talk:Memorial University of Newfoundland"><span title="Discuss this template" style=";background: #800000; color: #FFFFFF;;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Memorial_University_of_Newfoundland&amp;action=edit"><span title="Edit this template" style=";background: #800000; color: #FFFFFF;;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;"> 
+              <center>
+               <strong class="selflink">Memorial University of Newfoundland</strong>
+              </center> 
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background: #FFFFFF;;">Buildings</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Bonne_Bay_Marine_Station" title="Bonne Bay Marine Station">Bonne Bay Marine Station</a></li> 
+               <li><a href="/wiki/FrancoForum" title="FrancoForum">FrancoForum</a></li> 
+               <li><a href="/wiki/Grenfell_Campus" title="Grenfell Campus">Grenfell Campus</a></li> 
+               <li><a href="/wiki/Marine_Institute_of_Memorial_University_of_Newfoundland" title="Marine Institute of Memorial University of Newfoundland">Marine Institute</a></li> 
+               <li><a href="/wiki/Paton_College" title="Paton College">Paton College</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background: #FFFFFF;;"><a href="/wiki/List_of_Memorial_University_of_Newfoundland_people" title="List of Memorial University of Newfoundland people">People</a></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Raymond_Gushue" title="Raymond Gushue">Raymond Gushue</a></li> 
+               <li><a href="/wiki/Rick_Hillier" title="Rick Hillier">Rick Hillier</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background: #FFFFFF;;">Media</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><i><a href="/wiki/The_Gazette_(Newfoundland)" title="The Gazette (Newfoundland)">Gazette</a></i></li> 
+               <li><i><a href="/wiki/The_Memorial_Times" title="The Memorial Times">The Memorial Times</a></i></li> 
+               <li><i><a href="/wiki/The_Muse_(student_paper)" title="The Muse (student paper)">The Muse</a></i></li> 
+               <li><a href="/wiki/CHMR-FM" title="CHMR-FM">CHMR-FM</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background: #FFFFFF;;">Other</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/ACEnet" title="ACEnet">ACEnet</a></li> 
+               <li><a href="/wiki/Memorial_University_of_Newfoundland_Botanical_Garden" title="Memorial University of Newfoundland Botanical Garden">Botanical Garden</a></li> 
+               <li><a href="/wiki/Centre_for_Newfoundland_Studies" title="Centre for Newfoundland Studies">Centre for Newfoundland Studies</a></li> 
+               <li><a href="/wiki/Faculty_of_Medicine_of_Memorial_University_of_Newfoundland" title="Faculty of Medicine of Memorial University of Newfoundland">Faculty of Medicine</a></li> 
+               <li><a href="/wiki/MUNFLA" title="MUNFLA">MUNFLA</a></li> 
+               <li><i><a href="/wiki/ProtoGalaxy" title="ProtoGalaxy">ProtoGalaxy</a></i></li> 
+               <li><a href="/wiki/Memorial_Sea-Hawks" title="Memorial Sea-Hawks">Sea-Hawks</a></li> 
+               <li><a href="/wiki/Memorial_University_of_Newfoundland_Students%27_Union" title="Memorial University of Newfoundland Students' Union">Students' Union (St. John's Undergraduates)</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:St._John%27s,_Newfoundland_and_Labrador" title="Template:St. John's, Newfoundland and Labrador"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:St._John%27s,_Newfoundland_and_Labrador" title="Template talk:St. John's, Newfoundland and Labrador"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:St._John%27s,_Newfoundland_and_Labrador&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/St._John%27s,_Newfoundland_and_Labrador" title="St. John's, Newfoundland and Labrador">St. John's, Newfoundland and Labrador</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Government</th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/List_of_mayors_of_St._John%27s,_Newfoundland_and_Labrador" title="List of mayors of St. John's, Newfoundland and Labrador">Mayors</a></li> 
+               <li><a href="/wiki/St._John%27s_City_Council" title="St. John's City Council">City Council</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Geography</th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Bannerman_Park" title="Bannerman Park">Bannerman Park</a></li> 
+               <li><a href="/wiki/Bowring_Park,_St._John%27s" title="Bowring Park, St. John's" class="mw-redirect">Bowring Park</a></li> 
+               <li><a href="/wiki/List_of_buildings_in_St._John%27s,_Newfoundland_and_Labrador" title="List of buildings in St. John's, Newfoundland and Labrador">Buildings</a></li> 
+               <li><a href="/wiki/Cape_Spear" title="Cape Spear">Cape Spear</a></li> 
+               <li><a href="/wiki/George_Street,_St._John%27s" title="George Street, St. John's">George Street</a></li> 
+               <li><a href="/wiki/Grand_Concourse_(St._John%27s)" title="Grand Concourse (St. John's)">Grand Concourse</a></li> 
+               <li><a href="/wiki/Memorial_University" title="Memorial University" class="mw-redirect">Memorial University</a></li> 
+               <li><a href="/wiki/National_War_Memorial_(Newfoundland)" title="National War Memorial (Newfoundland)">National War Memorial</a></li> 
+               <li><a href="/wiki/Neighbourhoods_in_St._John%27s,_Newfoundland_and_Labrador" title="Neighbourhoods in St. John's, Newfoundland and Labrador">Neighbourhoods</a></li> 
+               <li><a href="/wiki/Pippy_Park" title="Pippy Park">Pippy Park</a></li> 
+               <li><a href="/wiki/Quidi_Vidi_Lake" title="Quidi Vidi Lake">Quidi Vidi Lake</a></li> 
+               <li><a href="/wiki/Rawlins_Cross,_St._John%27s" title="Rawlins Cross, St. John's">Rawlins Cross</a></li> 
+               <li><a href="/wiki/Signal_Hill,_Newfoundland_and_Labrador" title="Signal Hill, Newfoundland and Labrador" class="mw-redirect">Signal Hill</a></li> 
+               <li><a href="/wiki/List_of_tallest_buildings_in_St._John%27s,_Newfoundland_and_Labrador" title="List of tallest buildings in St. John's, Newfoundland and Labrador">Tallest buildings</a></li> 
+               <li><a href="/wiki/Water_Street,_St._John%27s" title="Water Street, St. John's" class="mw-redirect">Water Street</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Sports</th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Bally_Haly_Golf_%26_Curling_Club" title="Bally Haly Golf &amp; Curling Club">Bally Haly Golf &amp; Curling Club</a></li> 
+               <li><a href="/wiki/King_George_V_Park" title="King George V Park">King George V Park</a></li> 
+               <li><a href="/wiki/Memorial_Stadium_(St._John%27s)" title="Memorial Stadium (St. John's)">Memorial Stadium</a></li> 
+               <li><a href="/wiki/Mile_One_Centre" title="Mile One Centre">Mile One Centre</a></li> 
+               <li><a href="/wiki/Royal_St._John%27s_Regatta" title="Royal St. John's Regatta">Royal St. John's Regatta</a></li> 
+               <li><a href="/wiki/Swilers_Rugby_Park" title="Swilers Rugby Park" class="mw-redirect">Swilers Rugby Park</a></li> 
+               <li><a href="/wiki/St._John%27s_IceCaps" title="St. John's IceCaps">St. John's IceCaps</a></li> 
+               <li><a href="/wiki/St._Patrick%27s_Park" title="St. Patrick's Park">St. Patrick's Park</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Culture</th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Architecture_of_St._John%27s,_Newfoundland_and_Labrador" title="Architecture of St. John's, Newfoundland and Labrador">Architecture</a></li> 
+               <li><a href="/wiki/Arts_and_Culture_Centre" title="Arts and Culture Centre">Arts and Culture Centre</a></li> 
+               <li><a href="/wiki/LSPU_Hall" title="LSPU Hall">LSPU Hall</a></li> 
+               <li><a href="/wiki/Nickel_Film_Festival" title="Nickel Film Festival">Nickel Film Festival</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Transportation</th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Metrobus_Transit" title="Metrobus Transit">Metrobus</a></li> 
+               <li><a href="/wiki/St._John%27s_International_Airport" title="St. John's International Airport">St. John's International Airport</a></li> 
+               <li><a href="/wiki/Newfoundland_Railway" title="Newfoundland Railway">Newfoundland Railway</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-abovebelow" colspan="2"> 
+             <div> 
+              <ul> 
+               <li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" /> <a href="/wiki/Category:St._John%27s,_Newfoundland_and_Labrador" title="Category:St. John's, Newfoundland and Labrador">Category</a></b></li> 
+               <li><b><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" /> <a href="/wiki/Portal:St._John%27s,_Newfoundland_and_Labrador" title="Portal:St. John's, Newfoundland and Labrador">Portal</a></b></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="3"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Universities_in_Canada" title="Template:Universities in Canada"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Universities_in_Canada" title="Template talk:Universities in Canada"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Universities_in_Canada&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/List_of_universities_in_Canada" title="List of universities in Canada">Universities in Canada</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Alberta</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Athabasca_University" title="Athabasca University">Athabasca University</a></li> 
+               <li><a href="/wiki/University_of_Alberta" title="University of Alberta">University of Alberta</a></li> 
+               <li><a href="/wiki/University_of_Calgary" title="University of Calgary">University of Calgary</a></li> 
+               <li><a href="/wiki/University_of_Lethbridge" title="University of Lethbridge">University of Lethbridge</a></li> 
+               <li><a href="/wiki/MacEwan_University" title="MacEwan University">MacEwan University</a></li> 
+               <li><a href="/wiki/Mount_Royal_University" title="Mount Royal University">Mount Royal University</a></li> 
+              </ul> 
+             </div> </td> 
+            <td class="navbox-image" rowspan="19" style="width:0%;padding:0px 0px 0px 2px;"> 
+             <div>
+              <a href="/wiki/File:Flag_of_Canada.svg" class="image" title="Flag of Canada"><img alt="Flag of Canada" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/75px-Flag_of_Canada.svg.png" width="75" height="38" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/113px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/150px-Flag_of_Canada.svg.png 2x" /></a>
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">British Columbia</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/University_of_British_Columbia" title="University of British Columbia">British Columbia</a></li> 
+               <li><a href="/wiki/University_Canada_West" title="University Canada West">Canada West</a></li> 
+               <li><a href="/wiki/Capilano_University" title="Capilano University">Capilano</a></li> 
+               <li><a href="/wiki/Emily_Carr_University_of_Art_and_Design" title="Emily Carr University of Art and Design">Emily Carr</a></li> 
+               <li><a href="/wiki/University_of_the_Fraser_Valley" title="University of the Fraser Valley">Fraser Valley</a></li> 
+               <li><a href="/wiki/Kwantlen_Polytechnic_University" title="Kwantlen Polytechnic University">Kwantlen Polytechnic</a></li> 
+               <li><a href="/wiki/University_of_Northern_British_Columbia" title="University of Northern British Columbia">Northern British Columbia</a></li> 
+               <li><a href="/wiki/Quest_University_Canada" title="Quest University Canada" class="mw-redirect">Quest</a></li> 
+               <li><a href="/wiki/Royal_Roads_University" title="Royal Roads University">Royal Roads</a></li> 
+               <li><a href="/wiki/Simon_Fraser_University" title="Simon Fraser University">Simon Fraser</a></li> 
+               <li><a href="/wiki/Thompson_Rivers_University" title="Thompson Rivers University">Thompson Rivers</a></li> 
+               <li><a href="/wiki/Trinity_Western_University" title="Trinity Western University">Trinity Western</a></li> 
+               <li><a href="/wiki/Vancouver_Island_University" title="Vancouver Island University">Vancouver Island</a></li> 
+               <li><a href="/wiki/University_of_Victoria" title="University of Victoria">Victoria</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Manitoba</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Brandon_University" title="Brandon University">Brandon</a></li> 
+               <li><a href="/wiki/Canadian_Mennonite_University" title="Canadian Mennonite University">Canadian Mennonite</a></li> 
+               <li><a href="/wiki/University_of_Manitoba" title="University of Manitoba">Manitoba</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_de_Saint-Boniface" title="Universit&eacute; de Saint-Boniface">Saint-Boniface</a></li> 
+               <li><a href="/wiki/University_of_Winnipeg" title="University of Winnipeg">Winnipeg</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Newfoundland and Labrador</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><strong class="selflink">Memorial University of Newfoundland</strong> (<a href="/wiki/Marine_Institute_of_Memorial_University_of_Newfoundland" title="Marine Institute of Memorial University of Newfoundland">Marine Institute</a></li> 
+               <li><a href="/wiki/Grenfell_Campus,_Memorial_University_of_Newfoundland" title="Grenfell Campus, Memorial University of Newfoundland" class="mw-redirect">Grenfell Campus</a>)</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">New Brunswick</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Crandall_University" title="Crandall University">Crandall</a></li> 
+               <li><a href="/wiki/University_of_Fredericton" title="University of Fredericton">Fredericton</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_de_Moncton" title="Universit&eacute; de Moncton">Moncton</a></li> 
+               <li><a href="/wiki/Mount_Allison_University" title="Mount Allison University">Mount Allison</a></li> 
+               <li><a href="/wiki/University_of_New_Brunswick" title="University of New Brunswick">New Brunswick</a></li> 
+               <li><a href="/wiki/St._Stephen%27s_University" title="St. Stephen's University">St. Stephen's</a></li> 
+               <li><a href="/wiki/St._Thomas_University_(New_Brunswick)" title="St. Thomas University (New Brunswick)">St. Thomas</a></li> 
+               <li><a href="/wiki/Yorkville_University" title="Yorkville University">Yorkville</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Nova Scotia</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Acadia_University" title="Acadia University">Acadia</a></li> 
+               <li><a href="/wiki/Cape_Breton_University" title="Cape Breton University">Cape Breton</a></li> 
+               <li><a href="/wiki/Dalhousie_University" title="Dalhousie University">Dalhousie</a></li> 
+               <li><a href="/wiki/Mount_Saint_Vincent_University" title="Mount Saint Vincent University">Mount Saint Vincent</a></li> 
+               <li><a href="/wiki/NSCAD_University" title="NSCAD University">NSCAD</a></li> 
+               <li><a href="/wiki/Saint_Francis_Xavier_University" title="Saint Francis Xavier University" class="mw-redirect">Saint Francis Xavier</a></li> 
+               <li><a href="/wiki/Saint_Mary%27s_University,_Halifax" title="Saint Mary's University, Halifax" class="mw-redirect">Saint Mary's</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_Sainte-Anne" title="Universit&eacute; Sainte-Anne">Sainte-Anne</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Ontario</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Algoma_University" title="Algoma University">Algoma</a></li> 
+               <li><a href="/wiki/Brock_University" title="Brock University">Brock</a></li> 
+               <li><a href="/wiki/Carleton_University" title="Carleton University">Carleton</a></li> 
+               <li><a href="/wiki/Dominican_University_College" title="Dominican University College">Dominican</a></li> 
+               <li><a href="/wiki/University_of_Guelph" title="University of Guelph">Guelph</a></li> 
+               <li><a href="/wiki/Lakehead_University" title="Lakehead University">Lakehead</a></li> 
+               <li><a href="/wiki/Laurentian_University" title="Laurentian University">Laurentian</a></li> 
+               <li><a href="/wiki/Wilfrid_Laurier_University" title="Wilfrid Laurier University">Laurier</a></li> 
+               <li><a href="/wiki/McMaster_University" title="McMaster University">McMaster</a></li> 
+               <li><a href="/wiki/Nipissing_University" title="Nipissing University">Nipissing</a></li> 
+               <li><a href="/wiki/OCAD_University" title="OCAD University">OCADU</a></li> 
+               <li><a href="/wiki/University_of_Ottawa" title="University of Ottawa">Ottawa</a></li> 
+               <li><a href="/wiki/Queen%27s_University" title="Queen's University">Queen's</a></li> 
+               <li><a href="/wiki/Royal_Military_College_of_Canada" title="Royal Military College of Canada">RMC</a></li> 
+               <li><a href="/wiki/Ryerson_University" title="Ryerson University">Ryerson</a></li> 
+               <li><a href="/wiki/University_of_Toronto" title="University of Toronto">Toronto</a></li> 
+               <li><a href="/wiki/Trent_University" title="Trent University">Trent</a></li> 
+               <li><a href="/wiki/University_of_Ontario_Institute_of_Technology" title="University of Ontario Institute of Technology">UOIT</a></li> 
+               <li><a href="/wiki/University_of_Waterloo" title="University of Waterloo">Waterloo</a></li> 
+               <li><a href="/wiki/University_of_Western_Ontario" title="University of Western Ontario">Western</a></li> 
+               <li><a href="/wiki/University_of_Windsor" title="University of Windsor">Windsor</a></li> 
+               <li><a href="/wiki/York_University" title="York University">York</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Prince Edward Island</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/University_of_Prince_Edward_Island" title="University of Prince Edward Island">University of Prince Edward Island</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Quebec</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Bishop%27s_University" title="Bishop's University">Bishop's</a></li> 
+               <li><a href="/wiki/Concordia_University" title="Concordia University">Concordia</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_Laval" title="Universit&eacute; Laval" class="mw-redirect">Laval</a></li> 
+               <li><a href="/wiki/McGill_University" title="McGill University">McGill</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_de_Montr%C3%A9al" title="Universit&eacute; de Montr&eacute;al">Montr&eacute;al</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_de_Sherbrooke" title="Universit&eacute; de Sherbrooke">Sherbrooke</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_du_Qu%C3%A9bec_en_Abitibi-T%C3%A9miscamingue" title="Universit&eacute; du Qu&eacute;bec en Abitibi-T&eacute;miscamingue">Abitibi-T&eacute;miscamingue</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Chicoutimi" title="Universit&eacute; du Qu&eacute;bec &agrave; Chicoutimi">Chicoutimi</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al" title="Universit&eacute; du Qu&eacute;bec &agrave; Montr&eacute;al">UQ-Montr&eacute;al</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_du_Qu%C3%A9bec_en_Outaouais" title="Universit&eacute; du Qu&eacute;bec en Outaouais">Outaouais</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Rimouski" title="Universit&eacute; du Qu&eacute;bec &agrave; Rimouski">Rimouski</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Trois-Rivi%C3%A8res" title="Universit&eacute; du Qu&eacute;bec &agrave; Trois-Rivi&egrave;res">Trois-Rivi&egrave;res</a></li> 
+               <li><a href="/wiki/%C3%89cole_nationale_d%27administration_publique" title="&Eacute;cole nationale d'administration publique">ENAP</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Saskatchewan</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/University_of_Saskatchewan" title="University of Saskatchewan">University of Saskatchewan</a></li> 
+               <li><a href="/wiki/University_of_Regina" title="University of Regina">University of Regina</a></li> 
+               <li><a href="/wiki/First_Nations_University_of_Canada" title="First Nations University of Canada">First Nations University of Canada</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:ShadUni" title="Template:ShadUni"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:ShadUni" title="Template talk:ShadUni"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:ShadUni&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/Shad_Valley" title="Shad Valley">Shad Valley</a> host campuses
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Current</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Carleton_University" title="Carleton University">Carleton</a></li> 
+               <li><a href="/wiki/Dalhousie_University" title="Dalhousie University">Dalhousie</a></li> 
+               <li><a href="/wiki/Lakehead_University" title="Lakehead University">Lakehead</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_Laval" title="Universit&eacute; Laval" class="mw-redirect">Laval</a></li> 
+               <li><a href="/wiki/McMaster_University" title="McMaster University">McMaster</a></li> 
+               <li><strong class="selflink">MUN</strong></li> 
+               <li><a href="/wiki/Queen%27s_University" title="Queen's University">Queen's</a></li> 
+               <li><a href="/wiki/University_of_British_Columbia" title="University of British Columbia">UBC</a></li> 
+               <li><a href="/wiki/University_of_Calgary" title="University of Calgary">Calgary</a></li> 
+               <li><a href="/wiki/University_of_New_Brunswick" title="University of New Brunswick">UNB</a></li> 
+               <li><a href="/wiki/University_of_Saskatchewan" title="University of Saskatchewan">U of S</a></li> 
+               <li><a href="/wiki/University_of_Waterloo" title="University of Waterloo">Waterloo</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Former</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Acadia_University" title="Acadia University">Acadia</a></li> 
+               <li><a href="/wiki/Bark_Lake_(Ontario)" title="Bark Lake (Ontario)">Bark Lake/Trent University</a></li> 
+               <li><a href="/wiki/University_of_Manitoba" title="University of Manitoba">Manitoba</a></li> 
+               <li><a href="/wiki/Herstmonceux_Castle" title="Herstmonceux Castle">Queen's ISC</a></li> 
+               <li><a href="/wiki/St._Andrew%27s_College_(Ontario)" title="St. Andrew's College (Ontario)">St. Andrew?s College</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_de_Sherbrooke" title="Universit&eacute; de Sherbrooke">Sherbrooke</a></li> 
+               <li><a href="/wiki/University_of_Strathclyde" title="University of Strathclyde">Strathclyde</a></li> 
+               <li><a href="/wiki/Trent_University" title="Trent University">Trent</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Preprocessor visited node count: 3245/1000000
+Preprocessor generated node count: 15341/1500000
+Post?expand include size: 92659/2048000 bytes
+Template argument size: 8901/2048000 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 9/500
+Lua time usage: 0.087s
+Lua memory usage: 2.06 MB
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:389841-0!*!0!!en!4!* and timestamp 20130709082231 --> 
+    </div> 
+    <div class="printfooter">
+      Retrieved from &quot;
+     <a href="http://en.wikipedia.org/w/index.php?title=Memorial_University_of_Newfoundland&amp;oldid=561089091">http://en.wikipedia.org/w/index.php?title=Memorial_University_of_Newfoundland&amp;oldid=561089091</a>&quot; 
+    </div> 
+    <div id="catlinks" class="catlinks">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Categories" title="Help:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Memorial_University_of_Newfoundland" title="Category:Memorial University of Newfoundland">Memorial University of Newfoundland</a></li>
+       <li><a href="/wiki/Category:Nursing_schools_in_Canada" title="Category:Nursing schools in Canada">Nursing schools in Canada</a></li>
+       <li><a href="/wiki/Category:Educational_institutions_established_in_1925" title="Category:Educational institutions established in 1925">Educational institutions established in 1925</a></li>
+       <li><a href="/wiki/Category:Universities_and_colleges_in_Newfoundland_and_Labrador" title="Category:Universities and colleges in Newfoundland and Labrador">Universities and colleges in Newfoundland and Labrador</a></li>
+       <li><a href="/wiki/Category:Association_of_Commonwealth_Universities" title="Category:Association of Commonwealth Universities">Association of Commonwealth Universities</a></li>
+       <li><a href="/wiki/Category:Universities_in_Canada" title="Category:Universities in Canada">Universities in Canada</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li>
+       <li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class=""> 
+     <h3>Personal tools</h3> 
+     <ul> 
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Memorial+University+of+Newfoundland&amp;type=signup">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Memorial+University+of+Newfoundland" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs"> 
+      <h3>Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Memorial_University_of_Newfoundland" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Memorial_University_of_Newfoundland" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3 id="mw-vector-current-variant"> </h3> 
+      <h3><span>Variants</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs"> 
+      <h3>Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Memorial_University_of_Newfoundland">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=edit" title="You can edit this page. 
+Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=history" title="Past versions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3><span>Actions</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3><label for="searchInput">Search</label></h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /> 
+        <button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button> 
+        <input type="hidden" name="title" value="Special:Search" /> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation"> 
+     <h3>Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li> 
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li> 
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content ? the best of Wikipedia">Featured content</a></li> 
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li> 
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li> 
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction"> 
+     <h3>Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li> 
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li> 
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li> 
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li> 
+       <li id="n-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb"> 
+     <h3>Toolbox</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Memorial_University_of_Newfoundland" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li> 
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Memorial_University_of_Newfoundland" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li> 
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li> 
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li> 
+       <li id="t-permalink"><a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;oldid=561089091" title="Permanent link to this revision of the page">Permanent link</a></li> 
+       <li id="t-info"><a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;action=info">Page information</a></li> 
+       <li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Memorial_University_of_Newfoundland&amp;id=561089091" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export"> 
+     <h3>Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Memorial+University+of+Newfoundland">Create a book</a></li> 
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Memorial+University+of+Newfoundland&amp;oldid=561089091&amp;writer=rl">Download as PDF</a></li> 
+       <li id="t-print"><a href="/w/index.php?title=Memorial_University_of_Newfoundland&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang"> 
+     <h3>Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Memorial_University_of_Newfoundland" title="Memorial University of Newfoundland" lang="de" hreflang="de">Deutsch</a></li> 
+       <li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Universit%C3%A9_Memorial_de_Terre-Neuve" title="Universit&eacute; Memorial de Terre-Neuve" lang="fr" hreflang="fr">Fran&ccedil;ais</a></li> 
+       <li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E3%83%A9%E3%83%B3%E3%83%89%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB%E5%A4%A7%E5%AD%A6" title="?????????????????" lang="ja" hreflang="ja">???</a></li> 
+       <li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Memorial_University_of_Newfoundland" title="Memorial University of Newfoundland" lang="no" hreflang="no">Norsk bokm&aring;l</a></li> 
+       <li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BA%BD%E8%8A%AC%E5%85%B0%E7%BA%AA%E5%BF%B5%E5%A4%A7%E5%AD%A6" title="???????" lang="zh" hreflang="zh">??</a></li> 
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+       <li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q1895354#sitelinks" title="Edit interlanguage links">Edit links</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 22 June 2013 at 17:27.<br /></li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br /> Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Memorial_University_of_Newfoundland" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation" /></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script>
+  <script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.Edit","ext.visualEditor.splitTest","ext.markAsHelpful","ext.gettingstarted.logging","ext.gettingstarted.openTask","ext.navigationTiming","mw.PopUpMediaTransform"],null,true);
+}</script> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <!-- Served by mw1213 in 1.512 secs. -->   
+ </body>
+</html>

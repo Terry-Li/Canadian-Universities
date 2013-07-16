@@ -1,0 +1,1185 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8" />
+  <title>Brock University - Wikipedia, the free encyclopedia</title> 
+  <meta name="generator" content="MediaWiki 1.22wmf9" /> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brock_University&amp;action=edit" /> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Brock_University&amp;action=edit" /> 
+  <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" /> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" /> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" /> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" /> 
+  <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <meta name="ResourceLoaderDynamicStyles" content="" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Brock_University","wgTitle":"Brock University","wgCurRevisionId":559833630,"wgArticleId":394821,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","All articles with dead external links","Articles with dead external links from August 2010","Brock University","Educational institutions established in 1964","Nursing schools in Canada","Association of Commonwealth Universities","Consortium for North American Higher Education Collaboration","Buildings and structures in St. Catharines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brock_University","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":394821,"title":"Brock University","namespace":0,"categories":["All articles with dead external links","Articles with dead external links from August 2010","Association of Commonwealth Universities","Brock University","Buildings and structures in St. Catharines","Consortium for North American Higher Education Collaboration","Educational institutions established in 1964","Nursing schools in Canada","Pages with citations having bare URLs","Pages with citations lacking titles"],"permissionLevel":false},"wgWikibaseItemId":"q923624"});
+}</script>
+  <script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":1,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,
+"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});},{},{});mw.loader.implement(
+"user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:c0aacaeffbf379bb2fae23a527457dc0 */
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.visualEditor.viewPageTarget.init","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script> 
+  <script src="//bits.wikimedia.org/geoiplookup"></script>
+  <link rel="dns-prefetch" href="//meta.wikimedia.org" />
+  <!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf9/skins/vector/csshover.min.htc")}</style><![endif]-->
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Brock_University skin-vector action-view vector-animateLayout"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="mw-js-message" style="display:none;"></div> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Brock University</span></h1> 
+   <div id="bodyContent"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-navigation">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;"> 
+      <tbody>
+       <tr> 
+        <th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;"><b>Brock University</b></th> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"><a href="/wiki/File:BrockU_CoA.jpg" class="image"><img alt="BrockU CoA.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7f/BrockU_CoA.jpg/210px-BrockU_CoA.jpg" width="210" height="214" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7f/BrockU_CoA.jpg/315px-BrockU_CoA.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/7/7f/BrockU_CoA.jpg 2x" /></a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto</th> 
+        <td><i>Surgite!</i></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto in English</th> 
+        <td>Push On!</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Established</th> 
+        <td>1964</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Type</th> 
+        <td><a href="/wiki/Public_university" title="Public university">Public</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Religious affiliation</th> 
+        <td>non-denominational</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Financial_endowment" title="Financial endowment">Endowment</a></th> 
+        <td>$57.2 million<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Chancellor_(education)" title="Chancellor (education)">Chancellor</a></th> 
+        <td><a href="/wiki/Ned_Goodman" title="Ned Goodman">Ned Goodman</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/University_president" title="University president" class="mw-redirect">President</a></th> 
+        <td><a href="/wiki/Jack_N._Lightstone" title="Jack N. Lightstone">Jack N. Lightstone</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Academic staff</th> 
+        <td>582<sup id="cite_ref-BrockStats_2-0" class="reference"><a href="#cite_note-BrockStats-2"><span>[</span>2<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Admin. staff</th> 
+        <td>922<sup id="cite_ref-BrockStats_2-1" class="reference"><a href="#cite_note-BrockStats-2"><span>[</span>2<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Students</th> 
+        <td>18,190<sup id="cite_ref-BrockStats_2-2" class="reference"><a href="#cite_note-BrockStats-2"><span>[</span>2<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Undergraduate_education" title="Undergraduate education">Undergraduates</a></th> 
+        <td>14,439 full-time<br /> 2,217 part-time<sup id="cite_ref-BrockStats_2-3" class="reference"><a href="#cite_note-BrockStats-2"><span>[</span>2<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Postgraduate_education" title="Postgraduate education">Postgraduates</a></th> 
+        <td>1,028 full-time<br /> 506 part-time<sup id="cite_ref-BrockStats_2-4" class="reference"><a href="#cite_note-BrockStats-2"><span>[</span>2<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Location</th> 
+        <td class="adr"><span class="locality"><a href="/wiki/St._Catharines" title="St. Catharines">St. Catharines</a></span>, <span class="region"><a href="/wiki/Ontario" title="Ontario">Ontario</a></span>, <span class="country-name"><a href="/wiki/Canada" title="Canada">Canada</a></span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Campus</th> 
+        <td><a href="/wiki/Suburb" title="Suburb">Suburban</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/School_colors" title="School colors">Colours</a></th> 
+        <td><span style="background-color:#cc0000; color:; border:1px solid #000000; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="/wiki/Red_(color)" title="Red (color)" class="mw-redirect">Red</a><br /> <span style="background-color:#585858; color:; border:1px solid #000000; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="/wiki/Grey_(color)" title="Grey (color)" class="mw-redirect">Grey</a><br /> <span style="background-color:#000000; color:; border:1px solid #000000; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="/wiki/Black_(color)" title="Black (color)" class="mw-redirect">Black</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Athletic_nickname" title="Athletic nickname">Nickname</a></th> 
+        <td><a href="/wiki/Brock_Badgers" title="Brock Badgers">Badgers</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Mascot</th> 
+        <td>Boomer the Badger</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Affiliations</th> 
+        <td><a href="/wiki/Association_of_Universities_and_Colleges_of_Canada" title="Association of Universities and Colleges of Canada">AUCC</a>, <a href="/wiki/International_Association_of_Universities" title="International Association of Universities">IAU</a>, <a href="/wiki/Canadian_Association_of_Research_Libraries" title="Canadian Association of Research Libraries">CARL</a>, <a href="/wiki/Council_of_Ontario_Universities" title="Council of Ontario Universities">COU</a>, <a href="/wiki/Association_of_Commonwealth_Universities" title="Association of Commonwealth Universities">ACU</a>, <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">CIS</a>, <a href="/wiki/Ontario_University_Athletics" title="Ontario University Athletics">OUA</a>, <a href="/wiki/Canadian_Bureau_for_International_Education" title="Canadian Bureau for International Education">CBIE</a>, <a href="/wiki/Canadian_University_Press" title="Canadian University Press">CUP</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Website</th> 
+        <td><a rel="nofollow" class="external text" href="http://www.brocku.ca/">www.brocku.ca</a></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"><a href="/wiki/File:Brocuk_University_logo.png" class="image"><img alt="Brocuk University logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/1/15/Brocuk_University_logo.png/150px-Brocuk_University_logo.png" width="150" height="90" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/15/Brocuk_University_logo.png/225px-Brocuk_University_logo.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/15/Brocuk_University_logo.png/300px-Brocuk_University_logo.png 2x" /></a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p><b>Brock University</b> is a <a href="/wiki/Public_university" title="Public university">public</a> <a href="/wiki/Research_university" title="Research university" class="mw-redirect">research university</a> located in <a href="/wiki/St._Catharines" title="St. Catharines">St. Catharines</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>, <a href="/wiki/Canada" title="Canada">Canada</a>. It is the only university in <a href="/wiki/Canada" title="Canada">Canada</a> that is located in a <a href="/wiki/UNESCO_Biosphere_Reserve" title="UNESCO Biosphere Reserve" class="mw-redirect">UNESCO Biosphere Reserve</a>,<sup id="cite_ref-brocku_3-0" class="reference"><a href="#cite_note-brocku-3"><span>[</span>3<span>]</span></a></sup> located at the center of Canada's <a href="/wiki/Niagara_Peninsula" title="Niagara Peninsula">Niagara Peninsula</a> on the <a href="/wiki/Niagara_Escarpment" title="Niagara Escarpment">Niagara Escarpment</a>. The university bears the name of <a href="/wiki/Isaac_Brock" title="Isaac Brock">Maj.-General Sir Isaac Brock</a>, who was responsible for defending Upper Canada against the United States during the <a href="/wiki/War_of_1812" title="War of 1812">War of 1812</a>.</p> 
+     <p>Brock offers a wide range of programs at the undergraduate and graduate levels, including professional degrees, and is 3rd ranked among Canadian undergraduate research universities based on research publication output and impact indicators.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Brock University is the only school in Canada and internationally to offer the MICA (Mathematics Integrated with Computing and Applications) program.</p> 
+     <p>Brock's Co-op program is well known to be Canada?s fifth-largest, and the third largest in <a href="/wiki/Ontario" title="Ontario">Ontario</a> as of 2011.<sup id="cite_ref-brocku_3-1" class="reference"><a href="#cite_note-brocku-3"><span>[</span>3<span>]</span></a></sup> Graduates enjoy one of the highest employment rates of all <a href="/wiki/Ontario" title="Ontario">Ontario</a> universities at 97.2 percent.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p> 
+     <p>Brock has 12 <a href="/wiki/Canada_Research_Chairs" title="Canada Research Chairs" class="mw-redirect">Canada Research Chairs</a> and 9 faculty members which have received the 3MTeaching Fellowship Award, the only national award that recognizes teaching excellence and educational leadership.<sup id="cite_ref-brocku_3-2" class="reference"><a href="#cite_note-brocku-3"><span>[</span>3<span>]</span></a></sup></p> 
+     <table id="toc" class="toc"> 
+      <tbody>
+       <tr> 
+        <td> 
+         <div id="toctitle"> 
+          <h2>Contents</h2> 
+         </div> 
+         <ul> 
+          <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+          <li class="toclevel-1 tocsection-2"><a href="#Academics"><span class="tocnumber">2</span> <span class="toctext">Academics</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-3"><a href="#Faculty_of_Applied_Health_Sciences"><span class="tocnumber">2.1</span> <span class="toctext">Faculty of Applied Health Sciences</span></a></li> 
+            <li class="toclevel-2 tocsection-4"><a href="#Goodman_School_of_Business"><span class="tocnumber">2.2</span> <span class="toctext">Goodman School of Business</span></a></li> 
+            <li class="toclevel-2 tocsection-5"><a href="#Faculty_of_Education"><span class="tocnumber">2.3</span> <span class="toctext">Faculty of Education</span></a></li> 
+            <li class="toclevel-2 tocsection-6"><a href="#Faculty_of_Humanities"><span class="tocnumber">2.4</span> <span class="toctext">Faculty of Humanities</span></a></li> 
+            <li class="toclevel-2 tocsection-7"><a href="#Faculty_of_Mathematics_and_Science"><span class="tocnumber">2.5</span> <span class="toctext">Faculty of Mathematics and Science</span></a></li> 
+            <li class="toclevel-2 tocsection-8"><a href="#Faculty_of_Social_Sciences"><span class="tocnumber">2.6</span> <span class="toctext">Faculty of Social Sciences</span></a></li> 
+            <li class="toclevel-2 tocsection-9"><a href="#Faculty_of_Graduate_Studies"><span class="tocnumber">2.7</span> <span class="toctext">Faculty of Graduate Studies</span></a></li> 
+            <li class="toclevel-2 tocsection-10"><a href="#Co-op"><span class="tocnumber">2.8</span> <span class="toctext">Co-op</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-11"><a href="#Athletics"><span class="tocnumber">3</span> <span class="toctext">Athletics</span></a></li> 
+          <li class="toclevel-1 tocsection-12"><a href="#Student_life"><span class="tocnumber">4</span> <span class="toctext">Student life</span></a></li> 
+          <li class="toclevel-1 tocsection-13"><a href="#Scholarships_.26_Bursaries"><span class="tocnumber">5</span> <span class="toctext">Scholarships &amp; Bursaries</span></a></li> 
+          <li class="toclevel-1 tocsection-14"><a href="#Campus"><span class="tocnumber">6</span> <span class="toctext">Campus</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-15"><a href="#Arthur_Schmon_Tower"><span class="tocnumber">6.1</span> <span class="toctext">Arthur Schmon Tower</span></a></li> 
+            <li class="toclevel-2 tocsection-16"><a href="#Welch_Hall"><span class="tocnumber">6.2</span> <span class="toctext">Welch Hall</span></a></li> 
+            <li class="toclevel-2 tocsection-17"><a href="#Mackenzie_Chown_Complex"><span class="tocnumber">6.3</span> <span class="toctext">Mackenzie Chown Complex</span></a></li> 
+            <li class="toclevel-2 tocsection-18"><a href="#Taro_Hall"><span class="tocnumber">6.4</span> <span class="toctext">Taro Hall</span></a></li> 
+            <li class="toclevel-2 tocsection-19"><a href="#Plaza_Building"><span class="tocnumber">6.5</span> <span class="toctext">Plaza Building</span></a></li> 
+            <li class="toclevel-2 tocsection-20"><a href="#Walker_Complex"><span class="tocnumber">6.6</span> <span class="toctext">Walker Complex</span></a></li> 
+            <li class="toclevel-2 tocsection-21"><a href="#Cairns_Family_Health_and_Bioscience_Research_Complex_.28CFHBRC.29"><span class="tocnumber">6.7</span> <span class="toctext">Cairns Family Health and Bioscience Research Complex (CFHBRC)</span></a></li> 
+            <li class="toclevel-2 tocsection-22"><a href="#Residences"><span class="tocnumber">6.8</span> <span class="toctext">Residences</span></a></li> 
+            <li class="toclevel-2 tocsection-23"><a href="#Hamilton_Campus"><span class="tocnumber">6.9</span> <span class="toctext">Hamilton Campus</span></a></li> 
+            <li class="toclevel-2 tocsection-24"><a href="#Downtown_Campus"><span class="tocnumber">6.10</span> <span class="toctext">Downtown Campus</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-25"><a href="#Notable_Alumni"><span class="tocnumber">7</span> <span class="toctext">Notable Alumni</span></a></li> 
+          <li class="toclevel-1 tocsection-26"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li> 
+          <li class="toclevel-1 tocsection-27"><a href="#Notes_and_references"><span class="tocnumber">9</span> <span class="toctext">Notes and references</span></a></li> 
+          <li class="toclevel-1 tocsection-28"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>]</span></h2> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:152px;">
+       <a href="/wiki/File:Isaac_Brock_portrait_1,_from_The_Story_of_Isaac_Brock_(1908).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Isaac_Brock_portrait_1%2C_from_The_Story_of_Isaac_Brock_%281908%29.jpg/150px-Isaac_Brock_portrait_1%2C_from_The_Story_of_Isaac_Brock_%281908%29.jpg" width="150" height="203" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Isaac_Brock_portrait_1%2C_from_The_Story_of_Isaac_Brock_%281908%29.jpg/225px-Isaac_Brock_portrait_1%2C_from_The_Story_of_Isaac_Brock_%281908%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Isaac_Brock_portrait_1%2C_from_The_Story_of_Isaac_Brock_%281908%29.jpg/300px-Isaac_Brock_portrait_1%2C_from_The_Story_of_Isaac_Brock_%281908%29.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Isaac_Brock_portrait_1,_from_The_Story_of_Isaac_Brock_(1908).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> 
+        <a href="/wiki/Sir_Isaac_Brock" title="Sir Isaac Brock" class="mw-redirect">Sir Isaac Brock</a>
+       </div> 
+      </div> 
+     </div> 
+     <p>In 1963 the Brock University Founders? Committee, chaired by Arthur Schmon, offered Dr. James A. Gibson the invitation to become the founding president.<sup id="cite_ref-dr.library.brocku.ca_6-0" class="reference"><a href="#cite_note-dr.library.brocku.ca-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <p>Brock University was established by <a rel="nofollow" class="external text" href="http://www.brocku.ca/university-secretariat/brock-university-act">the Brock University Act</a> in 1964.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> When the University first opened in September 1964, classes were held at the St. Paul Street United Church in downtown <a href="/wiki/St._Catharines" title="St. Catharines">St. Catharines</a> for 13 weeks until the Glenridge Campus was completely renovated.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p> 
+     <p>Brock's Glenridge campus was officially opened on October 19, 1964 with Dr. James A. Gibson as the University's founding President. In 1996 Brock University honoured Gibson by naming the University Library in his honour.<sup id="cite_ref-dr.library.brocku.ca_6-1" class="reference"><a href="#cite_note-dr.library.brocku.ca-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <p>Richard L. Hearn was appointed the University's inaugural <a href="/wiki/Chancellor" title="Chancellor">Chancellor</a> in 1967.</p> 
+     <p>Brock University is named after Major-General <a href="/wiki/Sir_Isaac_Brock" title="Sir Isaac Brock" class="mw-redirect">Sir Isaac Brock</a>, who commanded the British and Canadian forces during the <a href="/wiki/War_of_1812" title="War of 1812">War of 1812</a>. Although, the British and Canadian forces went on to win, Isaac Brock lost his life during the <a href="/wiki/Battle_of_Queenston_Heights" title="Battle of Queenston Heights">Battle of Queenston Heights</a> in 1812, fought 20&nbsp;km from the present-day site of the campus. His last words are said to have been <i>Surgite!</i> (Latin for &quot;push on&quot;) ? now used as the University's motto. For his contribution to Canada, Isaac Brock was voted the 28th Greatest Canadian in a 2004 poll, conducted by the <a href="/wiki/Canadian_Broadcasting_Corporation" title="Canadian Broadcasting Corporation">Canadian Broadcasting Corporation</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <p><a href="/wiki/Jack_N._Lightstone" title="Jack N. Lightstone">Jack N. Lightstone</a> became the school's president on July 1, 2006. The University Chancellor is Ned Goodman, founder of <a href="/wiki/Dundee_Wealth_Management" title="Dundee Wealth Management" class="mw-redirect">Dundee Wealth Management</a>.</p> 
+     <h2><span class="mw-headline" id="Academics">Academics</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=2" title="Edit section: Academics">edit</a>]</span></h2> 
+     <p>Brock's undergraduate and graduate degree programs are administered by seven faculties.</p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Gym_during_exam_period,_Brock_University.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gym_during_exam_period%2C_Brock_University.JPG/220px-Gym_during_exam_period%2C_Brock_University.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gym_during_exam_period%2C_Brock_University.JPG/330px-Gym_during_exam_period%2C_Brock_University.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gym_during_exam_period%2C_Brock_University.JPG/440px-Gym_during_exam_period%2C_Brock_University.JPG 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Gym_during_exam_period,_Brock_University.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Gym during exam period, Brock University
+       </div> 
+      </div> 
+     </div> 
+     <h3><span class="mw-headline" id="Faculty_of_Applied_Health_Sciences">Faculty of Applied Health Sciences</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=3" title="Edit section: Faculty of Applied Health Sciences">edit</a>]</span></h3> 
+     <p>Brock University's <a rel="nofollow" class="external text" href="http://www.brocku.ca/fahs/">Faculty of Applied Health Sciences</a> contains follow academic departments:</p> 
+     <ul> 
+      <li>Department of Community Health Sciences</li> 
+     </ul> 
+     <p>Degrees Offered:</p> 
+     <p><a rel="nofollow" class="external text" href="http://brocku.ca/applied-health-sciences/academic-departments/comm-health-sciences/academic-programs/bachelor-arts-child-health">Bachelor of Arts (Child Health - Honours)</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://brocku.ca/applied-health-sciences/academic-departments/comm-health-sciences/academic-programs/bachelor-comm-health-pass">Bachelor of Arts (Community Health)</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://brocku.ca/applied-health-sciences/academic-departments/comm-health-sciences/academic-programs/bachelor-public-health">Bachelor of Public Health (Honours)</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://brocku.ca/applied-health-sciences/academic-departments/comm-health-sciences/academic-programs/bachelor-science-healthsci">Bachelor of Science (Health Sciences - Honours)</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://brocku.ca/applied-health-sciences/academic-departments/comm-health-sciences/academic-programs/bachelor-science-biomedicalsci">Bachelor of Science (Biomedical Sciences - Honours)</a></p> 
+     <ul> 
+      <li>Department of Kinesiology</li> 
+     </ul> 
+     <p>Degrees Offered:</p> 
+     <p><a rel="nofollow" class="external text" href="http://www.brocku.ca/applied-health-sciences/academic-departments/kinesiology/academic-programs/bachelor-kinesiology">Bachelor of Kinesiology (BKin)</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://www.brocku.ca/applied-health-sciences/academic-departments/kinesiology/academic-programs/bachelor-science-kinesiology">Bachelor of Science in Kinesiology</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://www.brocku.ca/applied-health-sciences/academic-departments/kinesiology/academic-programs/bachelor-physed">Bachelor of Physical Education</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://www.brocku.ca/applied-health-sciences/academic-departments/kinesiology/academic-programs/concurrent-physed-education">Concurrent Bachelor of Physical Education/Bachelor of Education</a></p> 
+     <ul> 
+      <li>Department of Nursing</li> 
+     </ul> 
+     <p>Degrees Offered:</p> 
+     <p><a rel="nofollow" class="external text" href="http://www.brocku.ca/applied-health-sciences/academic-departments/nursing/academic-programs/bachelor-science-nursing-collaborative">Bachelor of Science in Nursing (Honours)</a></p> 
+     <ul> 
+      <li>Department of Recreation &amp; Leisure Studies</li> 
+     </ul> 
+     <p>Degrees Offered:</p> 
+     <p><a rel="nofollow" class="external text" href="http://brocku.ca/applied-health-sciences/academic-departments/rec-leisure/academic-programs/bachelor-recleisure-3year">Bachelor of Recreation and Leisure Studies (3-year)</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://brocku.ca/applied-health-sciences/academic-departments/rec-leisure/academic-programs/bachelor-recleisure-4year-commrec">Bachelor of Recreation and Leisure Studies (4-year, Community Recreation)</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://brocku.ca/applied-health-sciences/academic-departments/rec-leisure/academic-programs/bachelor-recleisure-4year-outdoorrec">Bachelor of Recreation and Leisure Studies (4-year, Outdoor Recreation)</a></p> 
+     <p><a rel="nofollow" class="external text" href="http://brocku.ca/applied-health-sciences/academic-departments/rec-leisure/academic-programs/bachelor-recleisure-4year-therapeuticrec">Bachelor of Recreation and Leisure Studies (4-year, Inclusive &amp; Therapeutic Recreation)</a></p> 
+     <ul> 
+      <li>Department of Sport Management</li> 
+     </ul> 
+     <p>Degrees Offered:</p> 
+     <p><a rel="nofollow" class="external text" href="http://www.brocku.ca/applied-health-sciences/academic-departments/sport-management/bachelor-sport-management">Bachelor of Sport Management BSM</a></p> 
+     <h3><span class="mw-headline" id="Goodman_School_of_Business">Goodman School of Business</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=4" title="Edit section: Goodman School of Business">edit</a>]</span></h3> 
+     <p>The Goodman School of Business (formerly the <a href="/wiki/Brock_University_Faculty_of_Business" title="Brock University Faculty of Business" class="mw-redirect">Brock University Faculty of Business</a>) offers programs at both the Undergraduate and Graduate level of study.</p> 
+     <p><b>Undergraduate:</b></p> 
+     <ul> 
+      <li>Honours <a href="/wiki/Bachelor_of_Business_Administration" title="Bachelor of Business Administration">Bachelor of Business Administration</a> (BBA)</li> 
+      <li>Honours Bachelor of Business Administration Co-op (BBA)</li> 
+      <li>Honours <a href="/wiki/Bachelor_of_Accountancy" title="Bachelor of Accountancy">Bachelor of Accounting</a> (BAcc)</li> 
+      <li>Honours Bachelor of Accounting Co-op (BAcc)</li> 
+     </ul> 
+     <p><b>Graduate:</b></p> 
+     <ul> 
+      <li><a href="/wiki/Master_of_Business_Administration" title="Master of Business Administration">Master of Business Administration</a> (<a href="/wiki/MBA" title="MBA" class="mw-redirect">MBA</a>)</li> 
+      <li>Master of Business Administration (International Student Program) (MBA ISP)</li> 
+      <li><a href="/wiki/Master_of_Accountancy" title="Master of Accountancy">Master of Accountancy</a> (MAcc)</li> 
+      <li>International Master of Accountancy (IMAcc)</li> 
+      <li><a href="/wiki/Master_of_Science_in_Management" title="Master of Science in Management">Master of Science in Management</a> (MSc)</li> 
+     </ul> 
+     <p>The Goodman School of Business is one of only five Canadian business schools to attain accreditation by the <a href="/wiki/AACSB" title="AACSB" class="mw-redirect">AACSB</a> as well as attain membership in <a href="/wiki/Beta_Gamma_Sigma" title="Beta Gamma Sigma">Beta Gamma Sigma</a>.<sup id="cite_ref-bgs_10-0" class="reference"><a href="#cite_note-bgs-10"><span>[</span>10<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Faculty_of_Education">Faculty of Education</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=5" title="Edit section: Faculty of Education">edit</a>]</span></h3> 
+     <p>Brock University's <a rel="nofollow" class="external text" href="http://www.brocku.ca/fed/">Faculty of Education</a> offers programs in the follow areas:</p> 
+     <ul> 
+      <li>Degree Programs: 
+       <ul> 
+        <li>Concurrent Education</li> 
+        <li>Pre Service Education</li> 
+        <li>Graduate and Undergraduate education</li> 
+        <li>Bachelor of Education in <a rel="nofollow" class="external text" href="http://adult.ed.brocku.ca/">Adult Education</a> undergraduate degree and certificate program</li> 
+       </ul> </li> 
+      <li>Post-Graduate Programs: 
+       <ul> 
+        <li>Master of Education, including an <a rel="nofollow" class="external text" href="http://isp.ed.brocku.ca/">International Student Program</a></li> 
+       </ul> </li> 
+      <li>In service 
+       <ul> 
+        <li>The Department of Continuing Teacher Education offers <a rel="nofollow" class="external text" href="http://www.ed.brocku.ca/continuing/">Additional Qualification</a> courses for Teachers</li> 
+       </ul> </li> 
+     </ul> 
+     <p>Brock's Faculty of Education was established in 1965 as the St. Catharines Teachers? College. In 1971 the Teachers? College became the College of Education, an integral part of the Brock University community. In 1990, the College of Education designation was changed to the Faculty of Education to better reflect its academic relationship with the university.</p> 
+     <p>Today, Brock's Faculty of Education has an outstanding reputation for teacher-education programs. It is widely regarded as one of Ontario's premiere teacher preparation schools, renowned for its strict selectivity (only the top 10% of applicants are admitted).</p> 
+     <h3><span class="mw-headline" id="Faculty_of_Humanities">Faculty of Humanities</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=6" title="Edit section: Faculty of Humanities">edit</a>]</span></h3> 
+     <p>Brock University's <a rel="nofollow" class="external text" href="http://www.brocku.ca/humanities/">Faculty of Humanities</a> offers degree programs in the follow areas:</p> 
+     <ul> 
+      <li>Applied Linguistics</li> 
+      <li>Canadian Studies</li> 
+      <li>Classics</li> 
+      <li>Dramatic Arts</li> 
+      <li>English Language and Literature</li> 
+      <li>History</li> 
+      <li>History of Art and Visual Culture <sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li> 
+      <li>Interactive Arts and Science</li> 
+      <li>Intercultural Studies</li> 
+      <li>Liberal Arts</li> 
+      <li>Modern Languages, Literatures and Cultures</li> 
+      <li>Music</li> 
+      <li>Philosophy</li> 
+      <li>Marilyn I. Walker School of Fine and Performing Arts (Officially Renamed in November 2008)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li> 
+      <li>Studies in Arts and Culture</li> 
+      <li>Visual Arts</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Faculty_of_Mathematics_and_Science">Faculty of Mathematics and Science</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=7" title="Edit section: Faculty of Mathematics and Science">edit</a>]</span></h3> 
+     <p>Brock University's <a rel="nofollow" class="external text" href="http://www.brocku.ca/fms/">Faculty of Mathematics and Science</a> offers degree programs in the follow areas:</p> 
+     <ul> 
+      <li>Biochemistry</li> 
+      <li>Biological Sciences</li> 
+      <li>Biophysics</li> 
+      <li>Biotechnology</li> 
+      <li>Chemistry</li> 
+      <li>Computer Science</li> 
+      <li>Earth Sciences</li> 
+      <li>Mathematics</li> 
+      <li>Neuroscience</li> 
+      <li>Physics</li> 
+     </ul> 
+     <p>Brock University is the only school in Canada and internationally to offer the program MICA (Mathematics Integrated with Computing and Applications).</p> 
+     <h3><span class="mw-headline" id="Faculty_of_Social_Sciences">Faculty of Social Sciences</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=8" title="Edit section: Faculty of Social Sciences">edit</a>]</span></h3> 
+     <p>Brock University's <a rel="nofollow" class="external text" href="http://www.brocku.ca/fss/">Faculty of Social Sciences</a> offers degree programs in the follow areas:</p> 
+     <ul> 
+      <li>Business Economics</li> 
+      <li>Child and Youth Studies</li> 
+      <li>Communications</li> 
+      <li>Economics</li> 
+      <li>Film Studies</li> 
+      <li>Geography</li> 
+      <li><a rel="nofollow" class="external text" href="http://www.brocku.ca/labourstudies">Labour Studies</a></li> 
+      <li>Political Science</li> 
+      <li>Popular Culture</li> 
+      <li>Psychology</li> 
+      <li>Sociology</li> 
+      <li>Tourism and Environment</li> 
+      <li>Women's and Gender Studies</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Faculty_of_Graduate_Studies">Faculty of Graduate Studies</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=9" title="Edit section: Faculty of Graduate Studies">edit</a>]</span></h3> 
+     <p>The <a href="/wiki/Brock_University_Faculty_of_Graduate_Studies" title="Brock University Faculty of Graduate Studies" class="mw-redirect">Faculty of Graduate Studies</a> offers 37 graduate programs, including 6 PhD programs.</p> 
+     <h3><span class="mw-headline" id="Co-op">Co-op</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=10" title="Edit section: Co-op">edit</a>]</span></h3> 
+     <p>Co-op education offers undergraduate students an opportunity to combine academics with valuable work experience.</p> 
+     <p>The Faculty of Business at Brock has one of the most extensive co-op offerings in Ontario. The Accounting Co-op program, one of the first in the province, has been in existence for over 20 years. Brock's Co-op programs consistently offer 100% placement - representing the highest placement rate of all Ontario Universities.</p> 
+     <p>At the graduate level, degrees are offered in several arts and sciences disciplines.</p> 
+     <p>In addition, <a href="/wiki/Concordia_Lutheran_Theological_Seminary" title="Concordia Lutheran Theological Seminary">Concordia Lutheran Theological Seminary</a> (an institution of the <a href="/wiki/Lutheran_Church_-_Canada" title="Lutheran Church - Canada" class="mw-redirect">Lutheran Church - Canada</a>) is affiliated with the university and offers a four-year <a href="/wiki/Master_of_Divinity" title="Master of Divinity">Master of Divinity</a>.</p> 
+     <p>Its location in the <a href="/wiki/Niagara_Peninsula" title="Niagara Peninsula">Niagara Peninsula</a> puts Brock at the center of cool-climate grape and wine research. It carries the distinction of being the only university in Canada to offer an Honours <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">Bachelor of Science</a> degree in <a href="/wiki/Oenology" title="Oenology">Oenology</a> and <a href="/wiki/Viticulture" title="Viticulture">Viticulture</a> - see the <a href="/wiki/Cool_Climate_Oenology_and_Viticulture_Institute" title="Cool Climate Oenology and Viticulture Institute">Cool Climate Oenology and Viticulture Institute</a>.</p> 
+     <p>The very honorable Bachelor of Accountancy Co-op is known as one of the best accounting related programs in the nation of Canada. Recently having its acceptance averages raised to mid 80s - 90s.</p> 
+     <h2><span class="mw-headline" id="Athletics">Athletics</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=11" title="Edit section: Athletics">edit</a>]</span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Brock_Badgers.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/2c/Brock_Badgers.png/220px-Brock_Badgers.png" width="220" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/2/2c/Brock_Badgers.png 1.5x, //upload.wikimedia.org/wikipedia/en/2/2c/Brock_Badgers.png 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Brock_Badgers.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Brock University Badgers
+       </div> 
+      </div> 
+     </div> 
+     <p>The university is represented in <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">Canadian Interuniversity Sport</a> by the <a href="/wiki/Brock_Badgers" title="Brock Badgers">Brock Badgers</a>.</p> 
+     <p>Brock has the following varsity sports:</p> 
+     <ul> 
+      <li><a href="/wiki/Baseball" title="Baseball">Baseball</a> (Men's)</li> 
+      <li><a href="/wiki/Basketball" title="Basketball">Basketball</a> (Men's &amp; Women's)</li> 
+      <li><a href="/wiki/Cross_country_running" title="Cross country running">Cross Country</a> (Men's &amp; Women's)</li> 
+      <li><a href="/wiki/Curling" title="Curling">Curling</a> (Men's &amp; Women's)</li> 
+      <li><a href="/wiki/Fencing" title="Fencing">Fencing</a> (Men's &amp; Women's)</li> 
+      <li><a href="/wiki/Ice_Hockey" title="Ice Hockey" class="mw-redirect">Ice Hockey</a> (Men's &amp; Women's)</li> 
+      <li><a href="/wiki/Lacrosse" title="Lacrosse">Lacrosse</a> (Men's)</li> 
+      <li><a href="/wiki/Rowing_(sport)" title="Rowing (sport)">Rowing</a> (Men's &amp; Women's)</li> 
+      <li><a href="/wiki/Rugby_union" title="Rugby union">Rugby union</a> (Men's &amp; Women's)</li> 
+      <li><a href="/wiki/Football_(soccer)" title="Football (soccer)" class="mw-redirect">Soccer</a> (Men's &amp; Women's)</li> 
+      <li><a href="/wiki/Squash_(sport)" title="Squash (sport)">Squash</a> (Men's)</li> 
+      <li><a href="/wiki/Swimming_(sport)" title="Swimming (sport)">Swimming</a> (Men's &amp; Women's)</li> 
+      <li><a href="/wiki/Volleyball" title="Volleyball">Volleyball</a> (Women's)</li> 
+      <li><a href="/wiki/Amateur_wrestling" title="Amateur wrestling">Wrestling</a> (Men's &amp; Women's)</li> 
+     </ul> 
+     <p>In its history, Brock athletic teams have won a combined 48 provincial championships and 26 national championships (as of 2008).</p> 
+     <p>2007/2008 National Championships:</p> 
+     <ul> 
+      <li>Men's Lacrosse (6 years running)</li> 
+      <li>Men's Rugby</li> 
+      <li>Men's Wrestling (9 years running)</li> 
+      <li>Men's Basketball</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Student_life">Student life</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=12" title="Edit section: Student life">edit</a>]</span></h2> 
+     <p>The <a href="/wiki/Brock_University_Students%27_Union" title="Brock University Students' Union">Brock University Students' Union</a> represents all undergraduate students at Brock University. It operates various services and businesses run by students. It is located in the Alumni Students' Centre.</p> 
+     <p>The Brock Centre for the Arts is located on campus and features two large theatres, The Sean O'Sullivan (537 seats) and The David S. Howes (508 seats). The centre has a strong reputation in the <a href="/wiki/Regional_Municipality_of_Niagara" title="Regional Municipality of Niagara">Niagara Region</a> for presenting some of the biggest names in Canadian Arts and Entertainment, Academics, and Politics.</p> 
+     <p>The School of Fine and Performing Arts owns Rodman Hall, a downtown art gallery and teaching centre. The school is exploring a possible joint venture with the City of St. Catharines to operate a performing arts venue nearby (tentative name &quot;Niagara Centre for the Arts&quot;).</p> 
+     <h2><span class="mw-headline" id="Scholarships_.26_Bursaries">Scholarships &amp; Bursaries</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=13" title="Edit section: Scholarships &amp; Bursaries">edit</a>]</span></h2> 
+     <p>The Government of Canada sponsors an Aboriginal Bursaries Search Tool that lists over 680 scholarships, bursaries, and other incentives offered by governments, universities, and industry to support Aboriginal post-secondary participation. Brock University scholarships for <a href="/wiki/Aboriginal_peoples_in_Canada" title="Aboriginal peoples in Canada">Aboriginal</a>, <a href="/wiki/First_Nations" title="First Nations">First Nations</a> and <a href="/wiki/M%C3%A9tis" title="M&eacute;tis">M&eacute;tis</a> students include: Enbridge Aboriginal Bursary; <sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p> 
+     <p>Over 150 Brock University Donor Awards are available with a combined total of over $500,000.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Campus">Campus</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=14" title="Edit section: Campus">edit</a>]</span></h2> 
+     <h3><span class="mw-headline" id="Arthur_Schmon_Tower">Arthur Schmon Tower</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=15" title="Edit section: Arthur Schmon Tower">edit</a>]</span></h3> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:Brock_University_Arthur_Schmon_Tower_Aug_2008_2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brock_University_Arthur_Schmon_Tower_Aug_2008_2.JPG/250px-Brock_University_Arthur_Schmon_Tower_Aug_2008_2.JPG" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brock_University_Arthur_Schmon_Tower_Aug_2008_2.JPG/375px-Brock_University_Arthur_Schmon_Tower_Aug_2008_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brock_University_Arthur_Schmon_Tower_Aug_2008_2.JPG/500px-Brock_University_Arthur_Schmon_Tower_Aug_2008_2.JPG 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Brock_University_Arthur_Schmon_Tower_Aug_2008_2.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Arthur Schmon Tower
+       </div> 
+      </div> 
+     </div> 
+     <p>The Arthur Schmon Tower was built in 1968 and is the flagship building of Brock University. Dr. Schmon was the primary force behind getting a university established in the Niagara peninsula and was the chairman of the Brock University Founders' Committee, formed in 1962. The Schmon Tower building houses the campus Library, as well as the offices of the University administration and the Matheson Learning Commons. On a clear day, atop the Schmon Tower is afforded a direct line-of-sight view of the <a href="/wiki/Toronto" title="Toronto">Toronto</a> skyline, across <a href="/wiki/Lake_Ontario" title="Lake Ontario">Lake Ontario</a>.</p> 
+     <h3><span class="mw-headline" id="Welch_Hall">Welch Hall</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=16" title="Edit section: Welch Hall">edit</a>]</span></h3> 
+     <p>Welch Hall is home to Brock's Faculty of Education, the Instructional Resource Centre, as well as the David S. Howes Theatre. It recently underwent an expansion, designed by Diamond and Schmitt Architects and costing in excess of $8 million, which added additional lecture halls and administrative offices as well as upgrades to Welch Hall's facilities.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Mackenzie_Chown_Complex">Mackenzie Chown Complex</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=17" title="Edit section: Mackenzie Chown Complex">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:Brock_University_campus.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brock_University_campus.JPG/250px-Brock_University_campus.JPG" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brock_University_campus.JPG/375px-Brock_University_campus.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brock_University_campus.JPG/500px-Brock_University_campus.JPG 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Brock_University_campus.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Mackenzie Chown Complex
+       </div> 
+      </div> 
+     </div> 
+     <p>Originally designed by former Brock Chancellor <a href="/wiki/Raymond_Moriyama" title="Raymond Moriyama">Raymond Moriyama</a>, the Mackenzie Chown Complex primarily contains seminar rooms and science laboratories. The Mackezie Chown Complex also houses the Pond Inlet. Mackenzie Chown was the former mayor of <a href="/wiki/St._Catharines" title="St. Catharines">St. Catharines</a>, chairman of the Brock's Board of Trustees, and chairman of the fund raising committee for a new science laboratory building to be added to the Complex.</p> 
+     <h3><span class="mw-headline" id="Taro_Hall">Taro Hall</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=18" title="Edit section: Taro Hall">edit</a>]</span></h3> 
+     <p>Taro Hall is home to Brock's <a href="/wiki/Brock_University_Faculty_of_Business" title="Brock University Faculty of Business" class="mw-redirect">Faculty of Business</a>. It was opened in 1990 and was designed by Moriyama &amp; Teshima Architects. Taro Hall is primarily used for Faculty offices, including the Dean of the Faculty of Business, and lecture halls. It contains six lecture halls for undergraduate students (BBA &amp; BAcc), three lecture halls for graduate students (<a href="/wiki/MBA" title="MBA" class="mw-redirect">MBA</a>, MAcc, IMAcc, and MSc), and a number of break-out rooms. There is also a student lounge and computer commons specifically for graduate business students. In December 2007, Taro Hall underwent an extensive renovation to upgrade the entire facility.</p> 
+     <h3><span class="mw-headline" id="Plaza_Building">Plaza Building</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=19" title="Edit section: Plaza Building">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:BrockUPlaza.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BrockUPlaza.jpg/250px-BrockUPlaza.jpg" width="250" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BrockUPlaza.jpg/375px-BrockUPlaza.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a8/BrockUPlaza.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:BrockUPlaza.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Plaza
+       </div> 
+      </div> 
+     </div> 
+     <p>Completed in 2007, and designed by MacKay-Lyons Sweetapple Architects, the Plaza Building contains the Faculty of Social Sciences, as well as computer facilities, seminar rooms and the new <a rel="nofollow" class="external text" href="http://www.campusstore.brocku.ca/">Brock Campus Bookstore</a>. The Campus Store occupies the first floor (considered the 200 level, or level 2, in order to match Brock University's historic method of numbering its facilities). The third floor houses seminar rooms and computer labs, as well as the Political Science Department and its offices. The fourth floor houses additional seminar and computer rooms, as well as the Economics Department and its offices. The fifth and sixth floors of this building are restricted access and can only be entered via security card verification. These two restricted floors are home to the Jack &amp; Nora Walker Canadian Center for Lifespan Development Research.</p> 
+     <h3><span class="mw-headline" id="Walker_Complex">Walker Complex</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=20" title="Edit section: Walker Complex">edit</a>]</span></h3> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:BrockUWC.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/dd/BrockUWC.jpg/250px-BrockUWC.jpg" width="250" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/dd/BrockUWC.jpg/375px-BrockUWC.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/d/dd/BrockUWC.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:BrockUWC.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Walker Complex
+       </div> 
+      </div> 
+     </div> 
+     <p>The Walker Complex contains an athletic complex and academic offices. Originally constructed in 1973 and designed by Moffit, Moffit &amp; Kinoshita Architects, the building has had a number of additions including a major expansion in 2002 by Moriyama &amp; Teshima Architects. The Eleanor Misener Aquatic Centre, an <a href="/wiki/Olympic-size_swimming_pool" title="Olympic-size swimming pool">Olympic size</a> competitive swimming pool that features a depth adjustable hydraulic floor in shallow end (0?4&nbsp;feet), a movable bulkhead, 5m diving tower, two 1m springboards and two 3m springboards, two Tarzan ropes, and a whirlpool. The Zone, a 5,100&nbsp;sq&nbsp;ft (470&nbsp;m<sup>2</sup>) state-of-the-art facility including over 60 pieces of cardio equipment as well as strength training equipment. Fitness and Dance studios are located on the upper level as are classrooms. The lower level includes the Ian D. Beddis Gymnasium, equipped with drop down curtains that can divide the large space into four separate gymnasia. Each area has one basketball, one volleyball and three badminton courts, that will accommodate recreational activities and intramural sports. Convocation is held in this space twice per year. It is 23,900 square feet (2,220&nbsp;m<sup>2</sup>) with a ceiling height of 30&nbsp;ft (9.1&nbsp;m) The Beddis gymnasium 200m suspended track that has a rubberized surface. The Bob Davis gymnasium is home to the <a href="/wiki/Brock_Badgers" title="Brock Badgers">Brock Badgers</a> Basketball, Volleyball and Wrestling teams. The Leo Leblanc Rowing Centre is the training facility for the Badger varsity rowing teams and the St. Catharines Rowing Club. The eight-person tank allows rowers to simulate on-water training.</p> 
+     <h3><span class="mw-headline" id="Cairns_Family_Health_and_Bioscience_Research_Complex_.28CFHBRC.29">Cairns Family Health and Bioscience Research Complex (CFHBRC)</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=21" title="Edit section: Cairns Family Health and Bioscience Research Complex (CFHBRC)">edit</a>]</span></h3> 
+     <p>The <a rel="nofollow" class="external text" href="http://www.brocku.ca/cairns-health-bioscience">Cairns Family Health and Bioscience Research Complex</a> was completed in 2012. Designed by architects Alliance Architects of Toronto, Canada in association with Payette Associates of Boston, USA, this 176,000 square foot building contains the University's most advanced research laboratories and is intended to advance <a href="/wiki/Canada" title="Canada">Canada</a>'s science and technology infrastructure and position Brock as a leader in human health and <a href="/wiki/Biosciences" title="Biosciences" class="mw-redirect">biosciences</a>. CFHBRC researchers, who include six <a href="/wiki/Canada_Research_Chair" title="Canada Research Chair">Canada Research Chairs</a>, conduct world-class research in areas such as <a href="/wiki/Cancer" title="Cancer">cancer</a> treatments, infectious diseases, <a href="/wiki/Biotechnology" title="Biotechnology">biotechnology</a> and green chemistry. The facility will have a business incubator to forge partnerships between research and industry, and give rise to an economic cluster in advanced health studies and biomanufacturing in the <a href="/wiki/Regional_Municipality_of_Niagara" title="Regional Municipality of Niagara">Niagara Region</a>. The complex will also be home to the Niagara Campus of the <a href="/wiki/McMaster_Faculty_of_Health_Sciences" title="McMaster Faculty of Health Sciences">Michael G. DeGroote School of Medicine</a>. The CFHBRC will be developed based on principles of sustainability and quality environments, following the <a href="/wiki/Canadian_Green_Building_Council" title="Canadian Green Building Council" class="mw-redirect">Canadian Green Building Council</a>?s <a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">Leadership in Energy and Environmental Design</a> (LEED) system. A LEED-certified CFHBRC facility will support the University?s vision for quality state-of-the-art facilities with innovative design, quality materials and sustainable systems.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> Construction of the CFHBRC began in August 2009, and officially opened in September 2012.</p> 
+     <h3><span class="mw-headline" id="Residences">Residences</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=22" title="Edit section: Residences">edit</a>]</span></h3> 
+     <p>Brock's <a href="/wiki/St._Catharines" title="St. Catharines">St. Catharines</a> campus is currently home to 2,391 students, in 6 separate residences.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> The majority of these are first-year students, though there is a sizable population of upper-year students who live in residence as well. Traditional-style residences are serviced by Sodexho food services, who operate the DeCew and Lowenberger Dining Halls, and are also responsible for a number of other miscellaneous residence tasks as well.</p> 
+     <p><b>DeCew Residence</b></p> 
+     <p>DeCew is the oldest of the Residences, it was built in 1969 and designed by world renown architect John Andrews in association with St. Catharines architects Salter Fleming Secord. DeCew contains 411 beds in a traditional residence style building.</p> 
+     <p><b>Gordon and Betty Vallee Residence</b></p> 
+     <p>Gordon and Betty Vallee Residence, commonly referred to simply as <i>Vallee</i>, is another traditional-style residence built in 1995. All of the rooms are single-rooms with a washroom shared between two students.</p> 
+     <p><b>Alan Earp Residence</b></p> 
+     <p>Alan Earp Residence was officially opened in 2001, and is home to 255 students. The buiulding was designed by Moriyama and Teshima Architects.The building is very similar to Vallee Residence, in that all of its rooms are single-rooms with a washroom shared between two students.</p> 
+     <p><b>Arnie Lowenberger Residence</b></p> 
+     <p>Arnie Lowenberger Residence is the newest of Brock University's residences, and officially opened midway through 2003. The residence building was designed by Teeple Architects in association with Tillmann Ruth Mocellin Architects and is named for Dr. Arnie Lowenberger, Professor emeritus, past Athletic Director and Dean of Physical Education. Dr. Lowenberger was the first Director of Residences for Brock University.</p> 
+     <p><b>Village Residence</b></p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:252px;">
+       <a href="/wiki/File:BrockUQV.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/BrockUQV.jpg/250px-BrockUQV.jpg" width="250" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/BrockUQV.jpg/375px-BrockUQV.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1b/BrockUQV.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:BrockUQV.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Quarry View Residence
+       </div> 
+      </div> 
+     </div> 
+     <p>Village Residence currently contains 888 beds for students. It was originally opened in 1989, though expansions followed in 1993, 1998, and 2002. It is one of Brock's two non-traditional style residences, where 5 students in three single-rooms and one double-room share a common living space, as well as a kitchen. Village is not serviced by Sodexo food services, though students living there have the option of purchasing meal plans to use at the university's Dining Halls.</p> 
+     <p><b>Quarry View Residence</b></p> 
+     <p>Quarry View Residence opened in the fall of 2003, along with Lowenberger. It contains 288 beds, which are divided into 3- or 4-person units entirely in single-rooms. Quarry View, like Village, is a non-traditional residence where students have a common living area and kitchen.</p> 
+     <p>The enabling legislation is the <i>Brock University Act, S.O. 1964</i> <sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> Many of the buildings on campus were designed by the architectural firm, <a href="/wiki/Moriyama_%26_Teshima_Architects" title="Moriyama &amp; Teshima Architects" class="mw-redirect">Moriyama &amp; Teshima Architects</a>.</p> 
+     <h3><span class="mw-headline" id="Hamilton_Campus">Hamilton Campus</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=23" title="Edit section: Hamilton Campus">edit</a>]</span></h3> 
+     <p>Brock University also maintains a campus in the city of <a href="/wiki/Hamilton,_Ontario" title="Hamilton, Ontario">Hamilton, Ontario</a>.<a rel="nofollow" class="external autonumber" href="http://www.ed.brocku.ca/hamilton.html">[3]</a> The primary user of this the facility is Faculty of Education, specifically the Pre-service Department and Graduate Studies in Education and Continuing Education.</p> 
+     <p>The Hamilton Campus was officially opened November 2, 2000. It is a fully functioning campus complete with modern computer labs, an Instructional Resource Centre / Library, gymnasium, large classrooms, full and part-time faculty office space, food services, conference facilities, a board room, and green spaces within the courtyards and surrounding lawns of the campus.</p> 
+     <h3><span class="mw-headline" id="Downtown_Campus">Downtown Campus</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=24" title="Edit section: Downtown Campus">edit</a>]</span></h3> 
+     <p>Construction is scheduled to commence in the fall of 2012 on the Marilyn I. Walker School of Fine and Performing Arts in <a href="/wiki/Downtown_St._Catharines,_Ontario" title="Downtown St. Catharines, Ontario" class="mw-redirect">downtown St. Catharines</a>.</p> 
+     <h2><span class="mw-headline" id="Notable_Alumni">Notable Alumni</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=25" title="Edit section: Notable Alumni">edit</a>]</span></h2> 
+     <div class="rellink relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/List_of_Brock_University_people" title="List of Brock University people">List of Brock University people</a>
+     </div> 
+     <p>With 70,721 alumni around the world, the <a href="/wiki/Brock_Badgers" title="Brock Badgers">Brock Badgers</a> are represented by the <a rel="nofollow" class="external text" href="http://www.brocku.ca/alumniassoc/">Brock University Alumni Association</a>. The Alumni Association is an autonomous organization run by a volunteer Board of Directors. Brock Alumni also stay in touch through the website <a rel="nofollow" class="external text" href="https://brockpeople.ca/welcome.php">brockpeople.ca</a>, an online forum which also produces the Alumni E-magazine <i>Surgit-E!</i></p> 
+     <center> 
+      <ul class="gallery" style="max-width: 652px;_width: 652px;"> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:15px auto;">
+           <a href="/wiki/File:Councillor_Kyle_Rae.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Councillor_Kyle_Rae.jpg/80px-Councillor_Kyle_Rae.jpg" width="80" height="120" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p><a href="/wiki/Kyle_Rae" title="Kyle Rae">Kyle Rae</a></p> 
+         </div> 
+        </div> </li> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:15px auto;">
+           <a href="/wiki/File:Portrait_of_Malcolm_Allen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Portrait_of_Malcolm_Allen.jpg/85px-Portrait_of_Malcolm_Allen.jpg" width="85" height="120" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p><a href="/wiki/Malcolm_Allen_(politician)" title="Malcolm Allen (politician)">Malcolm Allen (politician)</a></p> 
+         </div> 
+        </div> </li> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:22.5px auto;">
+           <a href="/wiki/File:Jared_Pelletier_media_shoot.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jared_Pelletier_media_shoot.jpg/120px-Jared_Pelletier_media_shoot.jpg" width="120" height="105" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p><a href="/wiki/Jared_Pelletier" title="Jared Pelletier">Jared Pelletier</a></p> 
+         </div> 
+        </div> </li> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:35px auto;">
+           <a href="/wiki/File:Rick_Campanelli_at_TIFF_2011.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rick_Campanelli_at_TIFF_2011.jpg/120px-Rick_Campanelli_at_TIFF_2011.jpg" width="120" height="80" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p><a href="/wiki/Rick_Campanelli" title="Rick Campanelli">Rick Campanelli</a></p> 
+         </div> 
+        </div> </li> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:15px auto;">
+           <a href="/wiki/File:Marc_Jordan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Marc_Jordan.jpg/106px-Marc_Jordan.jpg" width="106" height="120" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p><a href="/wiki/Marc_Jordan" title="Marc Jordan">Marc Jordan</a></p> 
+         </div> 
+        </div> </li> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:15px auto;">
+           <a href="/wiki/File:PeterMclaren.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/PeterMclaren.jpg/80px-PeterMclaren.jpg" width="80" height="120" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p><a href="/wiki/Peter_McLaren" title="Peter McLaren">Peter McLaren</a></p> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </center> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=26" title="Edit section: See also">edit</a>]</span></h2> 
+     <ul> 
+      <li><a href="/wiki/Brock_University_Students%27_Union" title="Brock University Students' Union">Brock University Students' Union</a></li> 
+      <li><a href="/wiki/List_of_Ontario_Universities" title="List of Ontario Universities" class="mw-redirect">List of Ontario Universities</a></li> 
+      <li><a href="/wiki/List_of_colleges_and_universities_named_after_people" title="List of colleges and universities named after people">List of colleges and universities named after people</a></li> 
+      <li><a href="/wiki/Ontario_Student_Assistance_Program" title="Ontario Student Assistance Program">Ontario Student Assistance Program</a></li> 
+      <li><a href="/wiki/Higher_education_in_Ontario" title="Higher education in Ontario">Higher education in Ontario</a></li> 
+      <li><a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">Canadian Interuniversity Sport</a></li> 
+      <li><a href="/wiki/Canadian_government_scientific_research_organizations" title="Canadian government scientific research organizations">Canadian government scientific research organizations</a></li> 
+      <li><a href="/wiki/Canadian_university_scientific_research_organizations" title="Canadian university scientific research organizations">Canadian university scientific research organizations</a></li> 
+      <li><a href="/wiki/Canadian_industrial_research_and_development_organizations" title="Canadian industrial research and development organizations">Canadian industrial research and development organizations</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=27" title="Edit section: Notes and references">edit</a>]</span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.brocku.ca/brock-news/?p=19758">http://www.brocku.ca/brock-news/?p=19758</a></span></li> 
+       <li id="cite_note-BrockStats-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BrockStats_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BrockStats_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BrockStats_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BrockStats_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BrockStats_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.brocku.ca/webfm_send/20529">&quot;All about Brock 2011?12&quot;</a>. Brock University<span class="reference-accessdate">. Retrieved October 31, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrock+University&amp;rft.btitle=All+about+Brock+2011%E2%80%9312&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.brocku.ca%2Fwebfm_send%2F20529&amp;rft.pub=Brock+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-brocku-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-brocku_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-brocku_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-brocku_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.brocku.ca/webfm_send/15185">http://www.brocku.ca/webfm_send/15185</a> <i>Brock University Fact Book 2010-11</i></span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.newswire.ca/en/releases/archive/October2008/29/c2468.html">http://www.newswire.ca/en/releases/archive/October2008/29/c2468.html</a><i>Research Infosource</i></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.canadian-universities.net/Universities/Brock-University.html">http://www.canadian-universities.net/Universities/Brock-University.html</a><i>University Facts and Statistics: Brock University</i></span></li> 
+       <li id="cite_note-dr.library.brocku.ca-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-dr.library.brocku.ca_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dr.library.brocku.ca_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://dr.library.brocku.ca/handle/10464/4016Office">http://dr.library.brocku.ca/handle/10464/4016Office</a> of the University President, fonds of Dr. James A. Gibson</span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Brock University Act www.brocku.ca/secretariat/brockact/BrockAct.pdf</span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.heritagefdn.on.ca/userfiles/HTML/nts_1_6460_1.html%7COntario">http://www.heritagefdn.on.ca/userfiles/HTML/nts_1_6460_1.html%7COntario</a> Heritage Trust Brock University</span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external free" href="http://www.cbc.ca/greatest/greatcanadians/">http://www.cbc.ca/greatest/greatcanadians/</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrock+University&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fgreatest%2Fgreatcanadians%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code>|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span><sup class="noprint Inline-Template"><span title="&nbsp;since August 2010" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li> 
+       <li id="cite_note-bgs-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-bgs_10-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.betagammasigma.org/chapterlist.htm">[1]</a></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.brocku.ca/humanities/departments-and-centres/visual-arts/art-history-visual-culture-stu-3">http://www.brocku.ca/humanities/departments-and-centres/visual-arts/art-history-visual-culture-stu-3</a></span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.brocku.ca/webnews/displaystory.phtml?sid=1763">http://www.brocku.ca/webnews/displaystory.phtml?sid=1763</a></span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.aadnc-aandc.gc.ca/eng/1351185180120/1351685455328">Aboriginal Bursaries Search Tool</a></span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://experience.brocku.ca/Undergraduate_Study/Awards.ezc">https://experience.brocku.ca/Undergraduate_Study/Awards.ezc</a><i>Brock University Student Awards and Financial Aid</i></span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.brocku.ca/secretariat/board/agenda/2008-09-25/cap-projts-080731-welch-hall-addition.pdf">[2]</a></span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.brocku.ca/cairns-health-bioscience/facts-and-figures">http://www.brocku.ca/cairns-health-bioscience/facts-and-figures</a></span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.brocku.ca/residence/buildings/b_desc.phtml">http://www.brocku.ca/residence/buildings/b_desc.phtml</a></span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.brocku.ca/secretariat/brockact/BrockAct.pdf">http://www.brocku.ca/secretariat/brockact/BrockAct.pdf</a> <i>Brock University Act, S.O. 1964</i></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection">[<a href="/w/index.php?title=Brock_University&amp;action=edit&amp;section=28" title="Edit section: External links">edit</a>]</span></h2> 
+     <ul> 
+      <li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://www.brocku.ca/">Official website</a></span></span></li> 
+     </ul> 
+     <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Brock_University&amp;params=43.119_N_79.249_W_region:CA_type:edu"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43&deg;07?08?N</span> <span class="longitude">79&deg;14?56?W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.119&deg;N 79.249&deg;W</span><span style="display:none">? / <span class="geo">43.119; -79.249</span></span></span></a></span></span></span></p> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Brock_University" title="Template:Brock University"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Brock_University" title="Template talk:Brock University"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Brock_University&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <strong class="selflink">Brock University</strong>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Faculties</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li>Applied Health Sciences</li> 
+               <li><a href="/wiki/Brock_University_Faculty_of_Business" title="Brock University Faculty of Business" class="mw-redirect">Business</a></li> 
+               <li>Education</li> 
+               <li>Humanities</li> 
+               <li>Mathematics and Science</li> 
+               <li>Social Studies</li> 
+               <li>Graduate Studies</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Schools</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li>Marilyn I. Walker School of Fine and Performing Arts</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Organizations</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Cool_Climate_Oenology_and_Viticulture_Institute" title="Cool Climate Oenology and Viticulture Institute">Cool Climate Oenology and Viticulture Institute</a></li> 
+               <li><a href="/wiki/Concordia_Lutheran_Theological_Seminary" title="Concordia Lutheran Theological Seminary">Concordia Lutheran Theological Seminary</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Student life</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Brock_University_Students%27_Union" title="Brock University Students' Union">Brock University Students' Union</a></li> 
+               <li><a href="/wiki/Brock_Badgers" title="Brock Badgers">Brock Badgers</a></li> 
+               <li><a href="/wiki/CFBU-FM" title="CFBU-FM">CFBU-FM</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Chancellors</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li>Richard L. Hearn</li> 
+               <li>Dr. Charles Sankey</li> 
+               <li>Dr. Cecil Shaver</li> 
+               <li>Ralph S. Misener</li> 
+               <li>Robert S. K. Welch</li> 
+               <li>Dr. <a href="/wiki/Raymond_Moriyama" title="Raymond Moriyama">Raymond Moriyama</a></li> 
+               <li>Ned Goodman</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Presidents</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li>Dr. James Alexander Gibson</li> 
+               <li>Dr. Alan Earp</li> 
+               <li>Dr. Terrence White</li> 
+               <li>Dr. <a href="/wiki/David_W._Atkinson" title="David W. Atkinson">David W. Atkinson</a></li> 
+               <li>Dr. <a href="/wiki/Jack_N._Lightstone" title="Jack N. Lightstone">Jack N. Lightstone</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Other</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/List_of_Brock_University_people" title="List of Brock University people">Notable alumni and faculty</a></li> 
+               <li><a href="/wiki/Isaac_Brock" title="Isaac Brock">Major-General Sir Isaac Brock</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Ont_post-secondary" title="Template:Ont post-secondary"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Ont_post-secondary" title="Template talk:Ont post-secondary"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ont_post-secondary&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/Higher_education_in_Ontario" title="Higher education in Ontario">Post-secondary education</a> in 
+              <a href="/wiki/Ontario" title="Ontario">Ontario</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="col" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&nbsp;</span> 
+                 <div style="font-size:110%;">
+                  <a href="/wiki/List_of_universities_in_Canada#Ontario" title="List of universities in Canada">Degree-granting institutions</a>
+                 </div> </th> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Public Universities<span class="plainlinks"><sup><a rel="nofollow" class="external text" href="http://www.tcu.gov.on.ca/eng/postsecondary/schoolsprograms/university/">[1]</a></sup></span></th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Algoma_University" title="Algoma University">Algoma</a></li> 
+                   <li><strong class="selflink">Brock</strong></li> 
+                   <li><a href="/wiki/Carleton_University" title="Carleton University">Carleton</a></li> 
+                   <li><a href="/wiki/Dominican_University_College" title="Dominican University College">Dominican</a></li> 
+                   <li><a href="/wiki/University_of_Guelph" title="University of Guelph">Guelph</a></li> 
+                   <li><a href="/wiki/Lakehead_University" title="Lakehead University">Lakehead</a></li> 
+                   <li><a href="/wiki/Laurentian_University" title="Laurentian University">Laurentian</a></li> 
+                   <li><a href="/wiki/Wilfrid_Laurier_University" title="Wilfrid Laurier University">Laurier</a></li> 
+                   <li><a href="/wiki/McMaster_University" title="McMaster University">McMaster</a></li> 
+                   <li><a href="/wiki/Nipissing_University" title="Nipissing University">Nipissing</a></li> 
+                   <li><a href="/wiki/OCAD_University" title="OCAD University">OCADU</a></li> 
+                   <li><a href="/wiki/University_of_Ottawa" title="University of Ottawa">Ottawa</a></li> 
+                   <li><a href="/wiki/Queen%27s_University" title="Queen's University">Queen's</a></li> 
+                   <li><a href="/wiki/Royal_Military_College_of_Canada" title="Royal Military College of Canada">RMC</a></li> 
+                   <li><a href="/wiki/Ryerson_University" title="Ryerson University">Ryerson</a></li> 
+                   <li><a href="/wiki/University_of_Toronto" title="University of Toronto">Toronto</a></li> 
+                   <li><a href="/wiki/Trent_University" title="Trent University">Trent</a></li> 
+                   <li><a href="/wiki/University_of_Ontario_Institute_of_Technology" title="University of Ontario Institute of Technology">UOIT</a></li> 
+                   <li><a href="/wiki/University_of_Waterloo" title="University of Waterloo">Waterloo</a></li> 
+                   <li><a href="/wiki/University_of_Western_Ontario" title="University of Western Ontario">Western</a></li> 
+                   <li><a href="/wiki/University_of_Windsor" title="University of Windsor">Windsor</a></li> 
+                   <li><a href="/wiki/York_University" title="York University">York</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Private Universities<span class="plainlinks"><sup><a rel="nofollow" class="external text" href="http://www.tcu.gov.on.ca/eng/postsecondary/schoolsprograms/puni/">[2]</a></sup></span></th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Augustine_College" title="Augustine College">Augustine College</a></li> 
+                   <li><a href="/wiki/Canada_Christian_College" title="Canada Christian College">Canada Christian</a></li> 
+                   <li><a href="/wiki/Emmanuel_Bible_College" title="Emmanuel Bible College">Emmanuel</a></li> 
+                   <li><a href="/wiki/Institute_for_Christian_Studies" title="Institute for Christian Studies">ICS</a></li> 
+                   <li><a href="/wiki/Maimonides_Schools_for_Jewish_Studies" title="Maimonides Schools for Jewish Studies">Maimonides</a></li> 
+                   <li><a href="/wiki/Master%27s_College_and_Seminary" title="Master's College and Seminary">Master's</a></li> 
+                   <li><a href="/wiki/Redeemer_University_College" title="Redeemer University College">Redeemer</a></li> 
+                   <li><a href="/wiki/Toronto_Baptist_Seminary_and_Bible_College" title="Toronto Baptist Seminary and Bible College">Toronto Baptist</a></li> 
+                   <li><a href="/wiki/Tyndale_University_College_and_Seminary" title="Tyndale University College and Seminary">Tyndale</a></li> 
+                   <li><a href="/wiki/Yeshivas_Ner_Yisroel_of_Toronto" title="Yeshivas Ner Yisroel of Toronto">Yeshivas Ner Yisroel of Toronto</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:#e6e6ff;padding:1px;;"> 
+                 <div style="padding:0em 0.25em;">
+                  <small>All above institutions are either established through an <a href="/wiki/Legislative_Assembly_of_Ontario" title="Legislative Assembly of Ontario">Act of the Legislative Assembly</a> or through a <a href="/wiki/Royal_charter" title="Royal charter">Royal Charter</a></small>
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Degree Programs Offered<sup><br /> under Ministerial Consent</sup></th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Canadian_Memorial_Chiropractic_College" title="Canadian Memorial Chiropractic College">CMCC</a></li> 
+                   <li><a href="/wiki/RCC_Institute_of_Technology" title="RCC Institute of Technology">RCC</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="col" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&nbsp;</span> 
+                 <div style="font-size:110%;">
+                  <a href="/wiki/List_of_colleges_in_Ontario" title="List of colleges in Ontario">Community colleges</a>
+                 </div> </th> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Colleges of Applied Arts and Technology</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Algonquin_College" title="Algonquin College">Algonquin</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Coll%C3%A8ge_Bor%C3%A9al" title="Coll&egrave;ge Bor&eacute;al">Bor&eacute;al</a></li> 
+                   <li><a href="/wiki/Cambrian_College" title="Cambrian College">Cambrian</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Canadore_College" title="Canadore College">Canadore</a></li> 
+                   <li><a href="/wiki/Centennial_College" title="Centennial College">Centennial</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Confederation_College" title="Confederation College">Confederation</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Durham_College" title="Durham College">Durham</a></li> 
+                   <li><a href="/wiki/Fanshawe_College" title="Fanshawe College">Fanshawe</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Fleming_College" title="Fleming College">Fleming</a><sup>?</sup></li> 
+                   <li><a href="/wiki/George_Brown_College" title="George Brown College">George Brown</a><sup>?</sup></li> 
+                   <li><a href="/wiki/La_Cit%C3%A9_coll%C3%A9giale" title="La Cit&eacute; coll&eacute;giale">La Cit&eacute;</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Lambton_College" title="Lambton College">Lambton</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Loyalist_College" title="Loyalist College">Loyalist</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Mohawk_College" title="Mohawk College">Mohawk</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Niagara_College" title="Niagara College">Niagara</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Northern_College_(Ontario)" title="Northern College (Ontario)">Northern</a></li> 
+                   <li><a href="/wiki/St._Clair_College" title="St. Clair College">St. Clair</a><sup>?</sup></li> 
+                   <li><a href="/wiki/St._Lawrence_College,_Ontario" title="St. Lawrence College, Ontario">St. Lawrence</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Sault_College" title="Sault College">Sault</a></li> 
+                   <li><a href="/wiki/Seneca_College" title="Seneca College">Seneca</a><sup>?</sup></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Institutes of Technology and Advanced Learning</th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Conestoga_College" title="Conestoga College">Conestoga</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Humber_College" title="Humber College">Humber</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Sheridan_College" title="Sheridan College">Sheridan</a><sup>?</sup></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Institutes of Advanced Studies</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Georgian_College" title="Georgian College">Georgian</a><sup>?</sup></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <td class="navbox-abovebelow" colspan="2"> 
+                 <div>
+                  <small><sup>?</sup>Degree programs offered</small>
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="col" class="navbox-title" colspan="2" style=";;"><span style="float:left;width:6em;">&nbsp;</span> 
+                 <div style="font-size:110%;">
+                  Aboriginal institutes
+                 </div> </th> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Anishinabek_Education_Institute" title="Anishinabek Education Institute" class="mw-redirect">Anishinabek Education Institute</a></li> 
+                   <li><a href="/wiki/First_Nations_Technical_Institute" title="First Nations Technical Institute">First Nations Technical Institute</a></li> 
+                   <li><a href="/wiki/Kenjgewin_Teg_Educational_Institute" title="Kenjgewin Teg Educational Institute">Kenjgewin Teg Educational Institute</a></li> 
+                   <li><a href="/wiki/Iohahi:io_Akwesasne_Adult_Education_Centre" title="Iohahi:io Akwesasne Adult Education Centre">Iohahi:io Akwesasne Adult Education Centre</a></li> 
+                   <li><a href="/wiki/Negahneewin_College" title="Negahneewin College">Negahneewin College</a></li> 
+                   <li><a href="/w/index.php?title=Ogwehoweh_Skills_and_Trades_Training_Centre&amp;action=edit&amp;redlink=1" class="new" title="Ogwehoweh Skills and Trades Training Centre (page does not exist)">Ogwehoweh Skills and Trades Training Centre</a></li> 
+                   <li><a href="/w/index.php?title=Oshki-Pimache-O-Win_Education_%26_Training_Institute&amp;action=edit&amp;redlink=1" class="new" title="Oshki-Pimache-O-Win Education &amp; Training Institute (page does not exist)">Oshki-Pimache-O-Win Education &amp; Training Institute</a></li> 
+                   <li><a href="/wiki/Seven_Generations_Education_Institute" title="Seven Generations Education Institute">Seven Generations Education Institute</a></li> 
+                   <li><a href="/wiki/Shingwauk_Kinoomaage_Gamig" title="Shingwauk Kinoomaage Gamig">Shingwauk Kinoomaage Gamig</a></li> 
+                   <li><a href="/wiki/Six_Nations_Polytechnic" title="Six Nations Polytechnic">Six Nations Polytechnic</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td> 
+        <td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Special:Search/Brock_University" class="extiw" title="commons:Special:Search/Brock University">Brock University</a></b></i></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Preprocessor visited node count: 2878/1000000
+Preprocessor generated node count: 21954/1500000
+Post?expand include size: 84722/2048000 bytes
+Template argument size: 10957/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 5/500
+Lua time usage: 0.081s
+Lua memory usage: 1.94 MB
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:394821-0!*!0!!en!4!* and timestamp 20130709081711 --> 
+    </div> 
+    <div class="printfooter">
+      Retrieved from &quot;
+     <a href="http://en.wikipedia.org/w/index.php?title=Brock_University&amp;oldid=559833630">http://en.wikipedia.org/w/index.php?title=Brock_University&amp;oldid=559833630</a>&quot; 
+    </div> 
+    <div id="catlinks" class="catlinks">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Categories" title="Help:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Brock_University" title="Category:Brock University">Brock University</a></li>
+       <li><a href="/wiki/Category:Educational_institutions_established_in_1964" title="Category:Educational institutions established in 1964">Educational institutions established in 1964</a></li>
+       <li><a href="/wiki/Category:Nursing_schools_in_Canada" title="Category:Nursing schools in Canada">Nursing schools in Canada</a></li>
+       <li><a href="/wiki/Category:Association_of_Commonwealth_Universities" title="Category:Association of Commonwealth Universities">Association of Commonwealth Universities</a></li>
+       <li><a href="/wiki/Category:Consortium_for_North_American_Higher_Education_Collaboration" title="Category:Consortium for North American Higher Education Collaboration">Consortium for North American Higher Education Collaboration</a></li>
+       <li><a href="/wiki/Category:Buildings_and_structures_in_St._Catharines" title="Category:Buildings and structures in St. Catharines">Buildings and structures in St. Catharines</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li>
+       <li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li>
+       <li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li>
+       <li><a href="/wiki/Category:Articles_with_dead_external_links_from_August_2010" title="Category:Articles with dead external links from August 2010">Articles with dead external links from August 2010</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class=""> 
+     <h3>Personal tools</h3> 
+     <ul> 
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brock+University&amp;type=signup">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brock+University" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs"> 
+      <h3>Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Brock_University" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Brock_University" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3 id="mw-vector-current-variant"> </h3> 
+      <h3><span>Variants</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs"> 
+      <h3>Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Brock_University">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Brock_University&amp;action=edit" title="You can edit this page. 
+Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brock_University&amp;action=history" title="Past versions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3><span>Actions</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3><label for="searchInput">Search</label></h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /> 
+        <button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button> 
+        <input type="hidden" name="title" value="Special:Search" /> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation"> 
+     <h3>Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li> 
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li> 
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content ? the best of Wikipedia">Featured content</a></li> 
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li> 
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li> 
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction"> 
+     <h3>Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li> 
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li> 
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li> 
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li> 
+       <li id="n-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb"> 
+     <h3>Toolbox</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brock_University" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li> 
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brock_University" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li> 
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li> 
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li> 
+       <li id="t-permalink"><a href="/w/index.php?title=Brock_University&amp;oldid=559833630" title="Permanent link to this revision of the page">Permanent link</a></li> 
+       <li id="t-info"><a href="/w/index.php?title=Brock_University&amp;action=info">Page information</a></li> 
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q923624" title="Link to connected data repository item">Data item</a></li> 
+       <li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Brock_University&amp;id=559833630" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export"> 
+     <h3>Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brock+University">Create a book</a></li> 
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Brock+University&amp;oldid=559833630&amp;writer=rl">Download as PDF</a></li> 
+       <li id="t-print"><a href="/w/index.php?title=Brock_University&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang"> 
+     <h3>Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interwiki-als"><a href="//als.wikipedia.org/wiki/Brock_University" title="Brock University" lang="als" hreflang="als">Alemannisch</a></li> 
+       <li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Brock_University" title="Brock University" lang="de" hreflang="de">Deutsch</a></li> 
+       <li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Universitato_Brock" title="Universitato Brock" lang="eo" hreflang="eo">Esperanto</a></li> 
+       <li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Brock_University" title="Brock University" lang="fr" hreflang="fr">Fran&ccedil;ais</a></li> 
+       <li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B8%8C%EB%A1%9D_%EB%8C%80%ED%95%99%EA%B5%90" title="?? ???" lang="ko" hreflang="ko">???</a></li> 
+       <li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA_%D7%91%D7%A8%D7%95%D7%A7" title="?????????? ????" lang="he" hreflang="he">?????</a></li> 
+       <li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E5%A4%A7%E5%AD%A6" title="??????" lang="ja" hreflang="ja">???</a></li> 
+       <li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Brock_University" title="Brock University" lang="pl" hreflang="pl">Polski</a></li> 
+       <li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%91%D1%80%D0%BE%D0%BA%D0%B0" title="??????????? ?????" lang="ru" hreflang="ru">???????</a></li> 
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+       <li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q923624#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 14 June 2013 at 06:20.<br /></li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br /> Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Brock_University" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation" /></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script>
+  <script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.Edit","ext.markAsHelpful","ext.gettingstarted.logging","ext.gettingstarted.openTask","ext.navigationTiming","mw.PopUpMediaTransform"],null,true);
+}</script> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <!-- Served by mw1098 in 0.199 secs. -->   
+ </body>
+</html>

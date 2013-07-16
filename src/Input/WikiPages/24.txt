@@ -1,0 +1,1645 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8" />
+  <title>Ryerson University - Wikipedia, the free encyclopedia</title> 
+  <meta name="generator" content="MediaWiki 1.22wmf9" /> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ryerson_University&amp;action=edit" /> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Ryerson_University&amp;action=edit" /> 
+  <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" /> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" /> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" /> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" /> 
+  <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <meta name="ResourceLoaderDynamicStyles" content="" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ryerson_University","wgTitle":"Ryerson University","wgCurRevisionId":563540101,"wgArticleId":26065048,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from March 2011","Pages with citations having bare URLs","Commons category template with no category set","Commons category with page title same as on Wikidata","Ryerson University","Business schools in Canada","Educational institutions established in 1948","PATH (Toronto)","Association of Commonwealth Universities","Coalition of Urban and Metropolitan Universities","1948 establishments in Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ryerson_University","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-ca","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":26065048,"title":"Ryerson University","namespace":0,"categories":["1948 establishments in Canada","All articles with dead external links","Articles with dead external links from March 2011","Association of Commonwealth Universities","Business schools in Canada","Coalition of Urban and Metropolitan Universities","Commons category template with no category set","Commons category with page title same as on Wikidata","Educational institutions established in 1948","PATH (Toronto)","Pages with citations having bare URLs","Ryerson University"],"permissionLevel":false},"wgWikibaseItemId":"q611723"});
+}</script>
+  <script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":1,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,
+"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});},{},{});mw.loader.implement(
+"user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:c0aacaeffbf379bb2fae23a527457dc0 */
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script> 
+  <script src="//bits.wikimedia.org/geoiplookup"></script>
+  <link rel="dns-prefetch" href="//meta.wikimedia.org" />
+  <!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf9/skins/vector/csshover.min.htc")}</style><![endif]-->
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ryerson_University skin-vector action-view vector-animateLayout"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="mw-js-message" style="display:none;"></div> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Ryerson University</span></h1> 
+   <div id="bodyContent"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-navigation">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Ryerson_University&amp;params=43_39_27.85_N_79_22_48.64_W_region:CA-ON_type:edu"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43&deg;39?27.85?N</span> <span class="longitude">79&deg;22?48.64?W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.6577361&deg;N 79.3801778&deg;W</span><span style="display:none">? / <span class="geo">43.6577361; -79.3801778</span></span></span></a></span></span></span></p> 
+     <table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;"> 
+      <tbody>
+       <tr> 
+        <th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;"><b>Ryerson University</b></th> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"> 
+         <div class="center"> 
+          <div class="floatnone">
+           <a href="/wiki/File:Ryerson_University_Crest.png" class="image" title="Crest"><img alt="Crest" src="//upload.wikimedia.org/wikipedia/en/thumb/0/09/Ryerson_University_Crest.png/240px-Ryerson_University_Crest.png" width="240" height="240" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/09/Ryerson_University_Crest.png/360px-Ryerson_University_Crest.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/09/Ryerson_University_Crest.png/480px-Ryerson_University_Crest.png 2x" /></a>
+          </div> 
+         </div> </td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto</th> 
+        <td><i>Mente et Artificio</i></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto in English</th> 
+        <td>With mind and Skill</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Established</th> 
+        <td>1948</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Type</th> 
+        <td><a href="/wiki/Public_university" title="Public university">Public</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Financial_endowment" title="Financial endowment">Endowment</a></th> 
+        <td>C$ 97.2 million (2012)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Chancellor_(education)" title="Chancellor (education)">Chancellor</a></th> 
+        <td>Lawrence Bloomberg</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/University_president" title="University president" class="mw-redirect">President</a></th> 
+        <td><a href="/wiki/Sheldon_Levy" title="Sheldon Levy">Sheldon Levy</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Provost_(education)" title="Provost (education)">Provost</a></th> 
+        <td>Mohamed Lachemi</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Academic staff</th> 
+        <td>1,753</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Admin. staff</th> 
+        <td>1,656</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Undergraduate_education" title="Undergraduate education">Undergraduates</a></th> 
+        <td>33,600<sup id="cite_ref-2011-2012_Figures_2-0" class="reference"><a href="#cite_note-2011-2012_Figures-2"><span>[</span>2<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Postgraduate_education" title="Postgraduate education">Postgraduates</a></th> 
+        <td>2,300<sup id="cite_ref-2011-2012_Figures_2-1" class="reference"><a href="#cite_note-2011-2012_Figures-2"><span>[</span>2<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Location</th> 
+        <td class="adr"><span class="locality"><a href="/wiki/Toronto" title="Toronto">Toronto</a></span>, <span class="region"><a href="/wiki/Ontario" title="Ontario">Ontario</a></span>, <span class="country-name"><a href="/wiki/Canada" title="Canada">Canada</a></span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Campus</th> 
+        <td><a href="/wiki/Urban_area" title="Urban area">Urban</a>, (21&nbsp;acres&nbsp;or&nbsp;8.5&nbsp;ha)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Former names</th> 
+        <td>Ryerson Institute of Technology , Ryerson Polytechnic Institute</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Sports team</th> 
+        <td><a href="/wiki/Ryerson_Rams" title="Ryerson Rams">Ryerson Rams</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/School_colors" title="School colors">Colours</a></th> 
+        <td> 
+         <table class="toccolours" style="width: 100%; padding: 0;" cellpadding="2" cellspacing="0"> 
+          <tbody>
+           <tr> 
+            <td style="background: #1C5A98;">&nbsp;</td> 
+            <td style="background: #1C5A98;">&nbsp;</td> 
+            <td style="background: #1C5A98;">&nbsp;</td> 
+            <td style="background: #DFB12E;">&nbsp;</td> 
+            <td style="background: #DFB12E;">&nbsp;</td> 
+            <td style="background: #DFB12E;">&nbsp;</td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Mascot</th> 
+        <td>Eggy the Ram</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Affiliations</th> 
+        <td><a href="/wiki/Association_of_Universities_and_Colleges_of_Canada" title="Association of Universities and Colleges of Canada">AUCC</a>, <a href="/wiki/International_Association_of_Universities" title="International Association of Universities">IAU</a>, <a href="/wiki/Council_of_Ontario_Universities" title="Council of Ontario Universities">COU</a>, <a href="/wiki/Association_of_Commonwealth_Universities" title="Association of Commonwealth Universities">ACU</a>, <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">CIS</a>, <a href="/wiki/Ontario_University_Athletics" title="Ontario University Athletics">OUA</a>, <a href="/wiki/Women_in_engineering" title="Women in engineering">ONWiE</a>, <a href="/wiki/Association_to_Advance_Collegiate_Schools_of_Business" title="Association to Advance Collegiate Schools of Business">AACSB</a>,</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Website</th> 
+        <td><a rel="nofollow" class="external text" href="http://www.ryerson.ca/">ryerson.ca</a></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"><a href="/wiki/File:Ryerson_University_Logo.png" class="image"><img alt="Ryerson University Logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ryerson_University_Logo.png/235px-Ryerson_University_Logo.png" width="235" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/1/1b/Ryerson_University_Logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1b/Ryerson_University_Logo.png 2x" /></a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p><b>Ryerson University</b> is a public <a href="/wiki/Research_university" title="Research university" class="mw-redirect">research university</a> located in downtown <a href="/wiki/Toronto" title="Toronto">Toronto</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>, <a href="/wiki/Canada" title="Canada">Canada</a>. Its urban <a href="/wiki/Campus" title="Campus">campus</a> surrounds the <a href="/wiki/Yonge-Dundas_Square" title="Yonge-Dundas Square">Yonge-Dundas Square</a>, located at the busiest intersection in <a href="/wiki/Downtown_Toronto" title="Downtown Toronto">downtown Toronto</a>. The university has a focus on applied, career-oriented education. The majority of its buildings are in the blocks northeast of the Yonge-Dundas Square in Toronto's <a href="/wiki/Garden_District,_Toronto" title="Garden District, Toronto">Garden District</a>. Ryerson's business school, <a href="/wiki/Ted_Rogers_School_of_Management" title="Ted Rogers School of Management" class="mw-redirect">Ted Rogers School of Management</a> is on the southwest end of the Yonge-Dundas Square, located on Bay Street, slightly north of Toronto's <a href="/wiki/Financial_District,_Toronto" title="Financial District, Toronto">Financial District</a> and is attached to the <a href="/wiki/Toronto_Eaton_Centre" title="Toronto Eaton Centre">Toronto Eaton Centre</a>. The university's most recent expansion, the Mattamy Athletic Centre, is located in the historical <a href="/wiki/Maple_Leaf_Gardens" title="Maple Leaf Gardens">Maple Leaf Gardens</a> hockey arena, the original home of the <a href="/wiki/Toronto_Maple_Leafs" title="Toronto Maple Leafs">Toronto Maple Leafs</a>. The university is composed of 33,000+ undergraduate students, 2,300+ graduate students, and 65,000+ certificate and continuing education students.<sup id="cite_ref-2011-2012_Figures_2-2" class="reference"><a href="#cite_note-2011-2012_Figures-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-aucc.ca_4-0" class="reference"><a href="#cite_note-aucc.ca-4"><span>[</span>4<span>]</span></a></sup></p> 
+     <p>Ryerson University is home to Canada's largest undergraduate business school, the <a href="/wiki/Ryerson_University#Ted_Rogers_School_of_Management" title="Ryerson University">Ted Rogers School of Management</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> and the Faculty of Engineering and Architectural Science, as well as the Faculty of Arts, Faculty of Communication &amp; Design, Faculty of Community Services, and the Faculty of Science.</p> 
+     <p>In addition to offering full-time and part-time undergraduate and graduate programs leading to <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">Bachelor's</a>, <a href="/wiki/Master%27s_degree" title="Master's degree">Master's</a> and <a href="/wiki/Doctorate" title="Doctorate">Doctoral</a> degrees, the university also offers part-time degrees, distance education and certificates through the <a href="/wiki/G._Raymond_Chang_School_of_Continuing_Education" title="G. Raymond Chang School of Continuing Education">G. Raymond Chang School of Continuing Education</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <table id="toc" class="toc"> 
+      <tbody>
+       <tr> 
+        <td> 
+         <div id="toctitle"> 
+          <h2>Contents</h2> 
+         </div> 
+         <ul> 
+          <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+          <li class="toclevel-1 tocsection-2"><a href="#Organization"><span class="tocnumber">2</span> <span class="toctext">Organization</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-3"><a href="#Ted_Rogers_School_of_Management"><span class="tocnumber">2.1</span> <span class="toctext">Ted Rogers School of Management</span></a></li> 
+            <li class="toclevel-2 tocsection-4"><a href="#Faculty_of_Arts"><span class="tocnumber">2.2</span> <span class="toctext">Faculty of Arts</span></a></li> 
+            <li class="toclevel-2 tocsection-5"><a href="#Faculty_of_Communication_.26_Design"><span class="tocnumber">2.3</span> <span class="toctext">Faculty of Communication &amp; Design</span></a></li> 
+            <li class="toclevel-2 tocsection-6"><a href="#Faculty_of_Community_Services"><span class="tocnumber">2.4</span> <span class="toctext">Faculty of Community Services</span></a></li> 
+            <li class="toclevel-2 tocsection-7"><a href="#Faculty_of_Engineering_and_Architectural_Science"><span class="tocnumber">2.5</span> <span class="toctext">Faculty of Engineering and Architectural Science</span></a></li> 
+            <li class="toclevel-2 tocsection-8"><a href="#Faculty_of_Science"><span class="tocnumber">2.6</span> <span class="toctext">Faculty of Science</span></a></li> 
+            <li class="toclevel-2 tocsection-9"><a href="#Continuing_Education"><span class="tocnumber">2.7</span> <span class="toctext">Continuing Education</span></a></li> 
+            <li class="toclevel-2 tocsection-10"><a href="#Digital_Media_Zone"><span class="tocnumber">2.8</span> <span class="toctext">Digital Media Zone</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-11"><a href="#Campus_expansion"><span class="tocnumber">3</span> <span class="toctext">Campus expansion</span></a></li> 
+          <li class="toclevel-1 tocsection-12"><a href="#Mattamy_Athletic_Centre_at_the_Gardens"><span class="tocnumber">4</span> <span class="toctext">Mattamy Athletic Centre at the Gardens</span></a></li> 
+          <li class="toclevel-1 tocsection-13"><a href="#Faculty"><span class="tocnumber">5</span> <span class="toctext">Faculty</span></a></li> 
+          <li class="toclevel-1 tocsection-14"><a href="#Library"><span class="tocnumber">6</span> <span class="toctext">Library</span></a></li> 
+          <li class="toclevel-1 tocsection-15"><a href="#Reputation_and_rankings"><span class="tocnumber">7</span> <span class="toctext">Reputation and rankings</span></a></li> 
+          <li class="toclevel-1 tocsection-16"><a href="#Student_life"><span class="tocnumber">8</span> <span class="toctext">Student life</span></a></li> 
+          <li class="toclevel-1 tocsection-17"><a href="#Noted_alumni"><span class="tocnumber">9</span> <span class="toctext">Noted alumni</span></a></li> 
+          <li class="toclevel-1 tocsection-18"><a href="#Facilities"><span class="tocnumber">10</span> <span class="toctext">Facilities</span></a></li> 
+          <li class="toclevel-1 tocsection-19"><a href="#Associations"><span class="tocnumber">11</span> <span class="toctext">Associations</span></a></li> 
+          <li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">12</span> <span class="toctext">See also</span></a></li> 
+          <li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">13</span> <span class="toctext">References</span></a></li> 
+          <li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>]</span></h2> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:NormalSchoolGould.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NormalSchoolGould.jpg/220px-NormalSchoolGould.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NormalSchoolGould.jpg/330px-NormalSchoolGould.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NormalSchoolGould.jpg/440px-NormalSchoolGould.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:NormalSchoolGould.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> The Normal School on Gould St. 1856
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:227px;">
+       <a href="/wiki/File:Ryerson_view.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/16/Ryerson_view.jpg/225px-Ryerson_view.jpg" width="225" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/16/Ryerson_view.jpg/338px-Ryerson_view.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/16/Ryerson_view.jpg/450px-Ryerson_view.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Ryerson_view.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> The Normal School Today 2009
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Adolphus_Egerton_Ryerson.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Adolphus_Egerton_Ryerson.jpg/220px-Adolphus_Egerton_Ryerson.jpg" width="220" height="292" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Adolphus_Egerton_Ryerson.jpg/330px-Adolphus_Egerton_Ryerson.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Adolphus_Egerton_Ryerson.jpg/440px-Adolphus_Egerton_Ryerson.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Adolphus_Egerton_Ryerson.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> 
+        <a href="/wiki/Egerton_Ryerson" title="Egerton Ryerson">Egerton Ryerson</a> (1803-1882)
+       </div> 
+      </div> 
+     </div> 
+     <p>In 1852 at the core of the present main campus, the historic St. James Square, <a href="/wiki/Egerton_Ryerson" title="Egerton Ryerson">Egerton Ryerson</a> founded Ontario's first teacher training facility, the <a href="/wiki/Toronto_Normal_School" title="Toronto Normal School">Toronto Normal School</a>.<sup id="cite_ref-autogenerated1_7-0" class="reference"><a href="#cite_note-autogenerated1-7"><span>[</span>7<span>]</span></a></sup> It also housed the Department of Education and the Museum of Natural History and Fine Arts, which became the <a href="/wiki/Royal_Ontario_Museum" title="Royal Ontario Museum">Royal Ontario Museum</a>. An agricultural laboratory on the site led to the later founding of the <a href="/wiki/Ontario_Agricultural_College" title="Ontario Agricultural College">Ontario Agricultural College</a> and the <a href="/wiki/University_of_Guelph" title="University of Guelph">University of Guelph</a>. St. James Square went through various other educational uses before housing a namesake of its original founder.</p> 
+     <p>Egerton Ryerson was a leading educator, politician, and Methodist minister.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> He is known as the father of Ontario's public school system.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> He is also a founder of the first publishing company in Canada in 1829, The Methodist Book and Publishing House, which was renamed <a href="/wiki/The_Ryerson_Press" title="The Ryerson Press" class="mw-redirect">The Ryerson Press</a> in 1919 and today is part of <a href="/wiki/McGraw-Hill_Ryerson" title="McGraw-Hill Ryerson" class="mw-redirect">McGraw-Hill Ryerson</a>, Canadian publisher of educational and professional books, which still bears Egerton Ryerson's name for its Canadian operations.</p> 
+     <p>The <a href="/w/index.php?title=Toronto_Training_and_Re-establishment_Institute&amp;action=edit&amp;redlink=1" class="new" title="Toronto Training and Re-establishment Institute (page does not exist)">Toronto Training and Re-establishment Institute</a> was created in 1945 on the former site of the Toronto Normal School at St James Square, bounded by Gerrard, Church, Yonge and Gould. The Gothic-Romanesque building was designed by architects <a href="/wiki/Thomas_Ridout" title="Thomas Ridout">Thomas Ridout</a> and <a href="/wiki/Frederick_William_Cumberland" title="Frederick William Cumberland">Frederick William Cumberland</a> in 1852.<sup id="cite_ref-Pound2005_10-0" class="reference"><a href="#cite_note-Pound2005-10"><span>[</span>10<span>]</span></a></sup> The site had been used as a <a href="/wiki/Royal_Canadian_Air_Force" title="Royal Canadian Air Force">Royal Canadian Air Force</a> training facility during <a href="/wiki/World_War_II" title="World War II">World War II</a>.<sup id="cite_ref-autogenerated1_7-1" class="reference"><a href="#cite_note-autogenerated1-7"><span>[</span>7<span>]</span></a></sup> The institute was a joint venture of the federal and provincial government to train ex-servicemen and women for re-entry into civilian life.</p> 
+     <p>The Ryerson Institute of Technology was founded in 1948, inheriting the staff and facilities of the Toronto Training and Re-establishment Institute. In 1966, its name was changed to Ryerson Polytechnical Institute. It became a university-degree granting institution in 1971 accredited by both provincial government legislation and by the <a href="/wiki/Association_of_Universities_and_Colleges_of_Canada" title="Association of Universities and Colleges of Canada">Association of Universities and Colleges of Canada</a> (AUCC).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> That year, it also became a member of the <a href="/wiki/Council_of_Ontario_Universities" title="Council of Ontario Universities">Council of Ontario Universities</a> (COU).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> In 1992, Ryerson became Toronto?s second school of engineering following accreditation from the Canadian Engineering Accreditation Board.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p> 
+     <p>In 1993 Ryerson received approval to also grant graduate degrees (master's and doctorates). The same year it changed its name to Ryerson Polytechnic University, reflecting a stronger emphasis on research associated with graduate programs and its expansion from being a university offering undergraduate degrees. Students occupied the university's administration offices in March 1997, protesting escalating tuition hikes.<sup id="cite_ref-Pound2005_10-1" class="reference"><a href="#cite_note-Pound2005-10"><span>[</span>10<span>]</span></a></sup></p> 
+     <p>In June 2001, the school assumed its present name as Ryerson University. Today, Ryerson University offers programs in chemical, civil, mechanical, industrial, electrical, biomedical and computer engineering. The B.Eng biomedical engineering program is the first standalone undergraduate biomedical engineering program in Canada. The university is also one of only two Ontario universities to offer a program in aerospace engineering.</p> 
+     <h2><span class="mw-headline" id="Organization">Organization</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=2" title="Edit section: Organization">edit</a>]</span></h2> 
+     <table style="border:1px solid #ddd; background:#fefefe; padding:3px; margin:0; margin:auto;"> 
+      <caption style="font-size: 100%">
+       <b>Faculties of Ryerson University</b>
+      </caption> 
+      <tbody>
+       <tr style="vertical-align:top; font-size:90%;"> 
+        <td> 
+         <ul> 
+          <li><b>Faculty of Arts</b></li> 
+          <li><b>Faculty of Communication &amp; Design</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>Faculty of Community Services</b></li> 
+          <li><b>Faculty of Engineering and Architectural Science</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>Faculty of Science</b></li> 
+          <li><b>Ted Rogers School of Management</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>The G. Raymond Chang School of Continuing Education</b></li> 
+          <li><b>Yeates School of Graduate Studies</b></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h3><span class="mw-headline" id="Ted_Rogers_School_of_Management">Ted Rogers School of Management</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=3" title="Edit section: Ted Rogers School of Management">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:177px;">
+       <a href="/wiki/File:RyeTRSM1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/RyeTRSM1.jpg/175px-RyeTRSM1.jpg" width="175" height="260" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/RyeTRSM1.jpg/263px-RyeTRSM1.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/RyeTRSM1.jpg/350px-RyeTRSM1.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:RyeTRSM1.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> 
+        <a href="/wiki/Ted_Rogers_School_of_Management" title="Ted Rogers School of Management" class="mw-redirect">Ted Rogers School of Management</a>
+       </div> 
+      </div> 
+     </div> 
+     <p>The Ted Rogers School of Management (TRSM) is an <a rel="nofollow" class="external text" href="https://www.aacsb.net/eweb/DynamicPage.aspx?Site=AACSB&amp;WebKey=ED088FF2-979E-48C6-B104-33768F1DE01D">AACSB accredited</a> business school at Ryerson University. Located on <a href="/wiki/Bay_Street" title="Bay Street">Bay Street</a> near Toronto's financial district, the TRSM offers various programs in a variety of business disciplines. The school houses Canada's largest undergraduate management program, along with several graduate programs.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> The school's undergraduate Bachelor of Commerce (BComm) programs are grouped into:</p> 
+     <ul> 
+      <li>Business Management</li> 
+      <li>Business Technology Management <i>(Co-op option available)</i></li> 
+      <li>Hospitality and Tourism Management</li> 
+      <li>Retail Management</li> 
+     </ul> 
+     <p>The Ted Rogers School of Management is a recognized leader in entrepreneurship education in Canada and houses the <a href="/wiki/Ryerson_University_Entrepreneurship_Program" title="Ryerson University Entrepreneurship Program">Ryerson University Entrepreneurship Program</a>, one of the largest entrepreneurship programs in North America.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p> 
+     <p>Graduate studies consist of an MBA with a global focus, and an MBA in the Management of Technology and Innovation. The school also offers a <a href="/wiki/Master_of_Science" title="Master of Science">Master of Management Science (MMSc)</a> in the Management of Technology and Innovation.</p> 
+     <p>In the 2009-2010 academic year, Ryerson introduced two new majors to the Business Management program: Law &amp; Business, and Global Management Studies. The Global Management Studies major is a successor of the Management major, which was last offered in 2010-2011.<sup id="cite_ref-ryerson.ca_18-0" class="reference"><a href="#cite_note-ryerson.ca-18"><span>[</span>18<span>]</span></a></sup></p> 
+     <p>In the fall of 2013, Ted Rogers School of Management is expected to launch the new School of Accounting and Finance. The design of the new school reflects TRSM?s on-going commitment to providing high quality programs with a rigorous curriculum, entry standards, and a supportive staff and faculty.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> Accounting and Finance majors continue to be offered through the Ted Rogers School of Business Management, and are set to expand in 2013.</p> 
+     <p>The business programs previously housed on campus in the &quot;Business Building&quot;, moved into its new facilities after a $15 million donation from <a href="/wiki/Edward_Samuel_Rogers" title="Edward Samuel Rogers">Ted Rogers</a>. The school is located within a new wing of the <a href="/wiki/Toronto_Eaton_Centre" title="Toronto Eaton Centre">Toronto Eaton Centre</a> at the southeast corner of Bay and Dundas Streets. The school occupies three floors of the nine-floor wing (two floors are occupied by retail uses, with an above-grade parking garage occupying the remaining three storeys). The integration of the Ryerson faculty with commercial uses in the same building has been praised as an innovative solution for the downtown university.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p> 
+     <p>The school received national notoriety when one of its professors (James Norrie) insulted the cast of the <a href="/wiki/Dragon%27s_Den" title="Dragon's Den" class="mw-redirect">Dragon's Den</a> during the final negotiations stage of a successful pitch by students of the school. The deal ultimately fell through because of the professor's actions. The same professor would later be banned from campus and would sue the university as well. <sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Faculty_of_Arts">Faculty of Arts</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=4" title="Edit section: Faculty of Arts">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:202px;">
+       <a href="/wiki/File:Ryerson_Image_centre.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ryerson_Image_centre.jpg/200px-Ryerson_Image_centre.jpg" width="200" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ryerson_Image_centre.jpg/300px-Ryerson_Image_centre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ryerson_Image_centre.jpg/400px-Ryerson_Image_centre.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Ryerson_Image_centre.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Ryerson Image Centre with Devonian pond
+       </div> 
+      </div> 
+     </div> 
+     <p>The Faculty of Arts comprises ten humanities and social science departments and plays a unique dual role in the university. The faculty offers:</p> 
+     <ul> 
+      <li>graduate programs, at both the master's and doctoral levels, that have a strong component of scholarship, research, innovation and critical analysis;</li> 
+      <li>high quality arts-based education through liberal studies courses that cut across all of Ryerson's degree program curricula, from journalism to engineering to business. Liberal studies challenge students' intellect and imagination, nurturing their ability to think critically and adapt to the accelerating pace of change in today's world.</li> 
+     </ul> 
+     <table style="border:1px solid #ddd; background:#fefefe; padding:3px; margin:0; margin:auto;"> 
+      <caption style="font-size: 100%">
+       <b>Departments in the Faculty of Arts</b>
+      </caption> 
+      <tbody>
+       <tr style="vertical-align:top; font-size:90%;"> 
+        <td> 
+         <ul> 
+          <li><b>Criminal Justice and Criminology</b></li> 
+          <li><b>Economics</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>English</b></li> 
+          <li><b>French &amp; Spanish</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>Geography</b></li> 
+          <li><b>History</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>Philosophy</b></li> 
+          <li><b>Politics and Public Administration</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>Psychology</b></li> 
+          <li><b>Sociology</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>Environment and Urban Sustainability</b></li> 
+          <li><b>Arts &amp; Contemporary Studies</b></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h3><span class="mw-headline" id="Faculty_of_Communication_.26_Design">Faculty of Communication &amp; Design</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=5" title="Edit section: Faculty of Communication &amp; Design">edit</a>]</span></h3> 
+     <p>The Faculty of Communication &amp; Design is composed of eight schools, offering undergraduate and/or graduate degrees of major study.</p> 
+     <table style="border:1px solid #ddd; background:#fefefe; padding:3px; margin:0; margin:auto;"> 
+      <caption style="font-size: 100%">
+       <b>Schools in the Faculty of Communication &amp; Design</b>
+      </caption> 
+      <tbody>
+       <tr style="vertical-align:top; font-size:90%;"> 
+        <td> 
+         <ul> 
+          <li><b>RTA School of Media</b></li> 
+          <li><b>School of Image Arts</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>School of Interior Design</b></li> 
+          <li><b>School of Fashion</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>School of Graphic Communications Management</b></li> 
+          <li><b>School of Journalism</b></li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><b>School of Professional Communication</b></li> 
+          <li><b>Theatre School</b></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>Additional graduate programs of study are available in documentary media, journalism, media production, photographic preservation and collections management and professional communications. The faculty also houses the Rogers Communications Centre, which provides an innovative and technical environment to study and research different aspects of media and society.</p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Ryerson_Theatre_School.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ryerson_Theatre_School.JPG/220px-Ryerson_Theatre_School.JPG" width="220" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ryerson_Theatre_School.JPG/330px-Ryerson_Theatre_School.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ryerson_Theatre_School.JPG/440px-Ryerson_Theatre_School.JPG 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Ryerson_Theatre_School.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> The Ryerson Theatre School is located at Gerrard and Victoria Streets.
+       </div> 
+      </div> 
+     </div> 
+     <p>This also includes a new gallery and museum, the <a href="/wiki/Ryerson_Image_Centre" title="Ryerson Image Centre">Ryerson Image Centre</a>, which also houses the School of Image Arts.</p> 
+     <h3><span class="mw-headline" id="Faculty_of_Community_Services">Faculty of Community Services</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=6" title="Edit section: Faculty of Community Services">edit</a>]</span></h3> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:227px;">
+       <a href="/wiki/File:Kerr_hall_clock_tower.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kerr_hall_clock_tower.jpg/225px-Kerr_hall_clock_tower.jpg" width="225" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kerr_hall_clock_tower.jpg/338px-Kerr_hall_clock_tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kerr_hall_clock_tower.jpg/450px-Kerr_hall_clock_tower.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Kerr_hall_clock_tower.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> 
+        <a href="/wiki/Kerr_Hall" title="Kerr Hall">Kerr Hall</a>
+       </div> 
+      </div> 
+     </div> 
+     <p>Ryerson?s Faculty of Community Services offers multi-disciplinary programs in health, early childhood studies, social justice and community development.</p> 
+     <p>The faculty incorporates health and safety programs under the School of Occupational and Public Health. The School of Occupational and Public Health (SOPHe) is considered to be a well-known leader in injury and disease prevention education. Ryerson University is the only school that offers a degree program in occupational health and safety in the province of Ontario. Certificate programs in health and safety can be completed through the Chang School of continuing education.</p> 
+     <p>The faculty also houses the <a rel="nofollow" class="external text" href="http://www.ryerson.ca/midwife">Midwifery Education Program</a> (MEP), which will celebrate its 20th anniversary in 2013. The Ryerson MEP site is part of the longest-running consortium of its kind in Canada (with sister-sites at Laurentian University and McMaster University).</p> 
+     <p>In keeping with Ryerson's brand of a career-focused education, students partner with various mentors, supervisors, practitioners and professionals to ensure a career-relevant experience is provided, in addition to the theoretical instructions commonly offered in a classroom setting.</p> 
+     <p>The University also hosts a large nursing faculty, Daphne Cockwell School of Nursing, named after a World War II nurse.</p> 
+     <h3><span class="mw-headline" id="Faculty_of_Engineering_and_Architectural_Science">Faculty of Engineering and Architectural Science</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=7" title="Edit section: Faculty of Engineering and Architectural Science">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Ggeorge_vvari.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ggeorge_vvari.jpg/220px-Ggeorge_vvari.jpg" width="220" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ggeorge_vvari.jpg/330px-Ggeorge_vvari.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ggeorge_vvari.jpg/440px-Ggeorge_vvari.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Ggeorge_vvari.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> The George Vari Engineering and Computing Centre on Church St.
+       </div> 
+      </div> 
+     </div> 
+     <p>The Ryerson Faculty of Engineering and Architectural Science (formerly Faculty of Engineering, Architecture &amp; Science) is one of the largest engineering faculties in Canada, with 4,100 undergraduate students enrolled in 13 bachelor programs, and 480 graduate students in six master?s and four doctoral programs. In September 2006, FEAS will introduce two new master?s programs, and by 2007, there will be ten master?s programs in all. Ryerson?s Aerospace Computational Laboratory is a node for the High Performance Computational Virtual Laboratory for the Greater Toronto Area. The HPCVL is an interuniversity high-speed computation network which acts as a virtual supercomputer, providing the intensive computation power needed in the solution of complex problems in engineering and other disciplines.</p> 
+     <p>The Faculty of Engineering and Architectural Science grants Bachelor of Architectural Science, Bachelor of Engineering degrees in 17 programs. Students can choose to specialize in the following disciplines: aerospace engineering, chemical engineering, civil engineering, computer engineering, electrical engineering, mechanical engineering, industrial engineering, architecture, project management and building science.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p> 
+     <p>The Faculty of Engineering and Architectural Science offers graduate programs in <a href="/wiki/Aerospace_engineering" title="Aerospace engineering">aerospace engineering</a>, <a href="/wiki/Biomedical_engineering" title="Biomedical engineering">biomedical engineering</a>, <a href="/wiki/Architecture" title="Architecture">architecture</a>, building science, <a href="/wiki/Chemical_engineering" title="Chemical engineering">chemical engineering</a>, <a href="/wiki/Civil_engineering" title="Civil engineering">civil engineering</a>, computer networks, <a href="/wiki/Computer_science" title="Computer science">computer science</a>, <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineering</a>, <a href="/wiki/Molecular_physics" title="Molecular physics">molecular physics</a>, environmental applied science and <a href="/wiki/Mechanical_engineering" title="Mechanical engineering">mechanical engineering</a>.</p> 
+     <p>Ryerson University?s <a href="/w/index.php?title=Department_of_Architectural_Science&amp;action=edit&amp;redlink=1" class="new" title="Department of Architectural Science (page does not exist)">Department of Architectural Science</a> is housed in a building located at 325 Church Street designed by the prominent Canadian architect <a href="/wiki/Ronald_Thom" title="Ronald Thom">Ronald Thom</a> (Ryersonian). It offers a program in architecture accredited by the Canadian Architectural Certification Board at both the bachelor level (B.Arch.) and the master's level (M.Arch.).<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p> 
+     <p>The Centre for Computing and Engineering opened in September 2004. It is a state-of-the-art science, technology, and research facility spanning almost an entire city block in downtown Toronto. The building was renamed the <a href="/wiki/George_Vari_Engineering_and_Computing_Centre" title="George Vari Engineering and Computing Centre">George Vari Engineering and Computing Centre</a> in November 2005. Ryerson researchers in the engineering and science disciplines have earned prestigious Premier?s Research Excellence Awards (PREA), <a href="/wiki/Canada_Research_Chair" title="Canada Research Chair">Canada Research Chairs</a>, NSERC Industrial Research Chair. A biomedical engineering program started at Ryerson in fall 2008 is the first such program in Canada.</p> 
+     <p>The faculty hosts the <a href="/wiki/Centre_for_Urban_Energy" title="Centre for Urban Energy">Centre for Urban Energy</a>. CUE is co-sponsored by Hydro One, Ontario Power Authority and Toronto Hydro. The centre focuses on energy research and urban energy challenges.</p> 
+     <h3><span class="mw-headline" id="Faculty_of_Science">Faculty of Science</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=8" title="Edit section: Faculty of Science">edit</a>]</span></h3> 
+     <p>On June 29, 2011 it was announced that the Faculty of Science had been approved by the Ryerson University Senate, and is the newest faculty at Ryerson University in about 40 years. The Faculty of Science will consist of the four founding departments - Chemistry &amp; Biology, Physics, Mathematics, and Computer Science.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p> 
+     <p>Ryerson University's Faculty of Science offers a Bachelor of Science (BSc) degree in areas of applied mathematics, biology, biomedical science, chemistry, computer science, financial mathematics, and medical physics. Graduate studies consist of areas in biomolecular, biomedical, computational and mathematical studies.</p> 
+     <h3><span class="mw-headline" id="Continuing_Education">Continuing Education</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=9" title="Edit section: Continuing Education">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:202px;">
+       <a href="/wiki/File:Heaslip_House3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/Heaslip_House3.jpg/200px-Heaslip_House3.jpg" width="200" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/Heaslip_House3.jpg/300px-Heaslip_House3.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1c/Heaslip_House3.jpg/400px-Heaslip_House3.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Heaslip_House3.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Heaslip House
+       </div> 
+      </div> 
+     </div> 
+     <p>The <a href="/wiki/G._Raymond_Chang_School_of_Continuing_Education" title="G. Raymond Chang School of Continuing Education">G. Raymond Chang School of Continuing Education</a> is the school responsible for continuing education within Ryerson University. The Chang School is one of Canada?s largest providers of university-based adult education, with approximately 70,000 annual enrollments. The Chang School's accessible programming is available on campus, online via distance education, and off-site for employee groups and leading organizations.</p> 
+     <h3><span class="mw-headline" id="Digital_Media_Zone">Digital Media Zone</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=10" title="Edit section: Digital Media Zone">edit</a>]</span></h3> 
+     <p>Although not a faculty in the traditional sense, the DMZ is an incubator for startups from Ryerson and around the world. Since its inception in 2010, the DMZ has incubated over a 100 startups. It also has a Digital Specialization Programme and a Fellowship programme where skills are imparted.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Campus_expansion">Campus expansion</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=11" title="Edit section: Campus expansion">edit</a>]</span></h2> 
+     <p>Recently, the university has been undertaking the largest campus expansion in its history, with six new buildings constructed since 2000 and two additional constructions announced.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> In January 2008, Ryerson acquired $40 million worth of real-estate as part of its expansion efforts. The most notable acquisition being three properties on Yonge Street, including the former <a href="/wiki/Sam_the_Record_Man" title="Sam the Record Man">Sam the Record Man</a> store, Future Shop and World of Posters.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> There has been a strong desire among students, faculty, and administrators alike to have Gould Street closed between Yonge and Church in order to provide greater safety for pedestrians on campus. <a href="/wiki/Ryerson_Theatre" title="Ryerson Theatre">Ryerson Theatre</a>, which is one of the largest theatres in downtown Toronto with over 1200 seats has also had extensive renovations completed in the past five years. The theatre is home to several <a href="/wiki/Red_carpet" title="Red carpet">red carpet</a> premieres as part of the <a href="/wiki/Toronto_International_Film_Festival" title="Toronto International Film Festival">Toronto International Film Festival</a>.</p> 
+     <p><br /></p> 
+     <h2><span class="mw-headline" id="Mattamy_Athletic_Centre_at_the_Gardens">Mattamy Athletic Centre at the Gardens</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=12" title="Edit section: Mattamy Athletic Centre at the Gardens">edit</a>]</span></h2> 
+     <p>On December 1, 2009, Ryerson University's President Sheldon Levy announced that the school would acquire and renovate the historic <a href="/wiki/Maple_Leaf_Gardens" title="Maple Leaf Gardens">Maple Leaf Gardens</a> for use as a university athletic facility, at an estimated cost of $60 million. The cost was split three ways between the Canadian federal government, Ryerson University and <a href="/wiki/Loblaws" title="Loblaws">Loblaws</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup> Known as <i>Mattamy Athletic Centre at the Gardens</i> The upper levels house a hockey rink, basketball and volleyball courts, and other recreational and academic spaces. Beneath it is a Loblaws supermaket and parking, with Ryerson and Loblaws owning their own space.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></p> 
+     <ul class="gallery"> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Maple_Leaf_Gardens,_east_side.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Maple_Leaf_Gardens%2C_east_side.JPG/120px-Maple_Leaf_Gardens%2C_east_side.JPG" width="120" height="90" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Maple Leaf Gardens at Church and Carlton</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:35px auto;">
+          <a href="/wiki/File:Yonge_Dundas_Square.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Yonge_Dundas_Square.jpg/120px-Yonge_Dundas_Square.jpg" width="120" height="80" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>10 Dundas East (Formerly 'Toronto Life Square')</p> 
+        </div> 
+       </div> </li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Faculty">Faculty</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=13" title="Edit section: Faculty">edit</a>]</span></h2> 
+     <p>In November 2005, Professor Arne Kislenko won <a href="/wiki/TVOntario" title="TVOntario">TVOntario</a>'s first Best Lecturer Series. In 2006, Ryerson University had two professors in the semi-finals for TVO's second Best Lecturer Competition. Philosophy professor Dr. James Cunningham, and radio and television arts professor Dana Lee were semi-finalists. In 2006, Greg Inwood, professor in the department of Politics and Public Administration, was awarded the prestigious Donald Smiley Prize for his book <i>Continentalizing Canada: The Politics and Legacy of the Macdonald Royal Commission</i>. Criminal justice history and international relations professor <a href="/wiki/Peter_Vronsky" title="Peter Vronsky">Peter Vronsky</a> published a bestselling history of serial homicide <a href="/wiki/Serial_Killers:_The_Method_and_Madness_of_Monsters" title="Serial Killers: The Method and Madness of Monsters">Serial Killers: The Method and Madness of Monsters</a> and more recently a controversial history of Canada's first modern battle, <i>Ridgeway: The American Fenian Invasion and the 1866 Battle That Made Canada.</i></p> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Bas_relief_at_Ryerson_University.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bas_relief_at_Ryerson_University.jpg/220px-Bas_relief_at_Ryerson_University.jpg" width="220" height="295" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bas_relief_at_Ryerson_University.jpg/330px-Bas_relief_at_Ryerson_University.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bas_relief_at_Ryerson_University.jpg/440px-Bas_relief_at_Ryerson_University.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Bas_relief_at_Ryerson_University.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> 
+        <a href="/wiki/Elizabeth_Wyn_Wood" title="Elizabeth Wyn Wood">Elizabeth Wyn Wood</a>'s 
+        <a href="/wiki/Bas-relief" title="Bas-relief" class="mw-redirect">Bas-relief</a> at Ryerson University in 
+        <a href="/wiki/Toronto" title="Toronto">Toronto</a>
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Goalie_at_Ryerson.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Goalie_at_Ryerson.jpg/220px-Goalie_at_Ryerson.jpg" width="220" height="304" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Goalie_at_Ryerson.jpg/330px-Goalie_at_Ryerson.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Goalie_at_Ryerson.jpg/440px-Goalie_at_Ryerson.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Goalie_at_Ryerson.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> 
+        <a href="/wiki/Elizabeth_Wyn_Wood" title="Elizabeth Wyn Wood">Elizabeth Wyn Wood</a>'s 
+        <a href="/wiki/Bas-relief" title="Bas-relief" class="mw-redirect">Bas-relief</a> of a 
+        <a href="/wiki/Goalkeeper" title="Goalkeeper">Goalie</a> at Ryerson University in 
+        <a href="/wiki/Toronto" title="Toronto">Toronto</a>
+       </div> 
+      </div> 
+     </div> 
+     <h2><span class="mw-headline" id="Library">Library</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=14" title="Edit section: Library">edit</a>]</span></h2> 
+     <div class="rellink relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/Ryerson_University_Library" title="Ryerson University Library">Ryerson University Library</a>
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Ryerson_University_Library.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ryerson_University_Library.jpg/220px-Ryerson_University_Library.jpg" width="220" height="265" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ryerson_University_Library.jpg/330px-Ryerson_University_Library.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ryerson_University_Library.jpg/440px-Ryerson_University_Library.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Ryerson_University_Library.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Ryerson University Library
+       </div> 
+      </div> 
+     </div> 
+     <p>The Ryerson Library collection consists of over 500,000 books, 3,700 print journal titles and over $2 million of electronic resources, including approximately 23,000 e-journals, approximately over 90,000 e-books, databases and indexes, geospatial data, and catalogued websites or electronic documents. Most of the electronic resources can be accessed remotely by Ryerson community members with internet access, although authentication of Ryerson Library registration is required for access to all commercial resources. The library acquires materials to support the curriculum taught at the university and to support the research needs of faculty. All hard copy materials are housed in the library building at Gould and Victoria Streets.</p> 
+     <p>The 11-storey tower was built in 1974, and is a classic example of <a href="/wiki/Brutalist_architecture" title="Brutalist architecture">Brutalist architecture</a>. The library buildings also holds administrative office, the Nursing Collaborative and until 2007 the urban and regional planning program. Urban and regional planning vacated the building in 2007, leaving more space for the existing library.</p> 
+     <p>As part of the Ryerson University Master Plan, the library is expected to either relocate or be the subject of extensive renovations in the next several years. On January 18, 2008 the university announced the acquisition of properties including the former site of <a href="/wiki/Sam_the_Record_Man" title="Sam the Record Man">Sam the Record Man</a> which will allow expansion of the library to a prime <a href="/wiki/Yonge_Street" title="Yonge Street">Yonge Street</a> location. To improve study space, the entire fourth floor of the library underwent construction during the 2008 academic year. The renovation included the addition of lounges, a graduate reading room, and LCD panels.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Reputation_and_rankings">Reputation and rankings</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=15" title="Edit section: Reputation and rankings">edit</a>]</span></h2> 
+     <table class="infobox" cellspacing="3" style="border-spacing:3px;width:22em;width:23em; font-size:75%;"> 
+      <tbody>
+       <tr> 
+        <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;"><a href="/wiki/College_and_university_rankings" title="College and university rankings">University rankings</a></th> 
+       </tr> 
+       <tr> 
+        <th colspan="2" style="text-align:center;">Canadian rankings</th> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><i><a href="/wiki/Maclean%27s#University_Ranking_Guide" title="Maclean's">Maclean's</a></i> Comprehensive<sup id="cite_ref-Macdoc_33-0" class="reference"><a href="#cite_note-Macdoc-33"><span>[</span>33<span>]</span></a></sup></th> 
+        <td>13</td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:right;"> 
+         <div class="noprint plainlinks hlist navbar mini" style=""> 
+          <ul> 
+           <li class="nv-view"><a href="/wiki/Template:Canadian_university_rankings" title="Template:Canadian university rankings"><span title="View this template" style="">v</span></a></li> 
+           <li class="nv-talk"><a href="/wiki/Template_talk:Canadian_university_rankings" title="Template talk:Canadian university rankings"><span title="Discuss this template" style="">t</span></a></li> 
+           <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Canadian_university_rankings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li> 
+          </ul> 
+         </div> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>In 2009, the university ranked second in Ontario for first-choice applications from graduating high school students, receiving 11 percent of Ontario's total 84,300 admission requests.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></p> 
+     <p><i><a href="/wiki/Maclean%27s" title="Maclean's">Maclean's</a></i> In Macleans 2013 university rankings Ryerson placed 12 out of 15 in the &quot;Comprehensive&quot; category.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup> Ryerson placed 15th of the 49 universities on the National Reputational Ranking.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup> Similarly in 2009, Ryerson placed 17th of 48 universities on the National Reputational Ranking.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></p> 
+     <p><i><a href="/w/index.php?title=Research_Infosource&amp;action=edit&amp;redlink=1" class="new" title="Research Infosource (page does not exist)">Research Infosource</a></i> ranks Ryerson in the 29th position in its list of Canada's Top 50 Research Universities 2010.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup> Ryerson ranked second best in the &quot;Undergraduate&quot; category.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></p> 
+     <p><i><a href="/wiki/The_Globe_and_Mail" title="The Globe and Mail">The Globe and Mail</a></i> newspaper's Canadian University Report 2010 classifies Ryerson as a Large University (over 22,000 students) where it was graded &quot;A-&quot; in the &quot;Quality of Education&quot; category.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></p> 
+     <p>The University Ranking by Academic Performance<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup> ranked Ryerson 28th overall in Canada for 2011, and 15th in Canada in &quot;Engineering, Computing, &amp; Technology&quot;.</p> 
+     <h2><span class="mw-headline" id="Student_life">Student life</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=16" title="Edit section: Student life">edit</a>]</span></h2> 
+     <p>Ryerson has 31,800 full-time and 2,170 students in the masters and Ph.D programs.<sup id="cite_ref-aucc_43-0" class="reference"><a href="#cite_note-aucc-43"><span>[</span>43<span>]</span></a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup> A large number of students who attend the university are from within the <a href="/wiki/Greater_Toronto_Area" title="Greater Toronto Area">Greater Toronto Area</a>, but it also draws students from other countries.<sup id="cite_ref-media.www.mcgilltribune.com_45-0" class="reference"><a href="#cite_note-media.www.mcgilltribune.com-45"><span>[</span>45<span>]</span></a></sup> The university provides on-campus housing for 850 students living in three residence buildings: 137 Bond Street; 240 Jarvis Street and Pitman Hall at 160 Mutual Street.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>46<span>]</span></a></sup></p> 
+     <p>Student media at the university include the <a href="/wiki/Campus_radio" title="Campus radio">campus radio</a> station <a href="/wiki/CKLN-FM" title="CKLN-FM">CKLN-FM</a> and the student newspaper <i><a href="/wiki/The_Eyeopener" title="The Eyeopener">The Eyeopener</a></i>. Students in the university's journalism program produce a second newspaper, <i><a href="/wiki/The_Ryersonian" title="The Ryersonian">The Ryersonian</a></i>, and a biannual magazine, the <i><a href="/wiki/Ryerson_Review_of_Journalism" title="Ryerson Review of Journalism">Ryerson Review of Journalism</a></i>.</p> 
+     <p>Ryerson has the following Greek Letter Organization affiliations:</p> 
+     <ul> 
+      <li><a href="/wiki/Alpha_Epsilon_Pi" title="Alpha Epsilon Pi">Alpha Epsilon Pi</a> fraternity (Pi Rho chapter)</li> 
+      <li>Delta Pi sorority (Alpha chapter)</li> 
+      <li><a href="/wiki/Delta_Psi_Delta" title="Delta Psi Delta">Delta Psi Delta</a> sorority (Gamma chapter)</li> 
+      <li>Phi Kappa Pi fraternity (Sigma Pi chapter)</li> 
+      <li><a href="/wiki/Sigma_Chi" title="Sigma Chi">Sigma Chi</a> fraternity (Beta Omega chapter)</li> 
+      <li><a href="/wiki/Sigma_Pi" title="Sigma Pi">Sigma Pi</a> fraternity (Eta Omicron chapter)</li> 
+     </ul> 
+     <ul class="gallery"> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:29.5px auto;">
+          <a href="/wiki/File:O%27Keefe_House.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/O%27Keefe_House.JPG/120px-O%27Keefe_House.JPG" width="120" height="91" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>O'Keefe House</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:27px auto;">
+          <a href="/wiki/File:Oakham_House.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Oakham_House.JPG/120px-Oakham_House.JPG" width="120" height="96" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Oakham House</p> 
+        </div> 
+       </div> </li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Noted_alumni">Noted alumni</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=17" title="Edit section: Noted alumni">edit</a>]</span></h2> 
+     <div class="rellink relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/List_of_Ryerson_University_people" title="List of Ryerson University people">List of Ryerson University people</a>
+     </div> 
+     <h2><span class="mw-headline" id="Facilities">Facilities</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=18" title="Edit section: Facilities">edit</a>]</span></h2> 
+     <table style="border:1px solid #ddd; background:#fefefe; padding:3px; margin:0; margin:auto;"> 
+      <caption style="font-size: 100%">
+       <b>Facilities</b>
+      </caption> 
+      <tbody>
+       <tr style="vertical-align:top; font-size:90%;"> 
+        <td> 
+         <ul> 
+          <li>Library Building</li> 
+          <li><a href="/wiki/O%27Keefe_House" title="O'Keefe House">O'Keefe House</a></li> 
+          <li>Formerly the Business Building - Victoria Building (VIC)</li> 
+          <li>Ted Rogers School of Management (TRS)</li> 
+          <li>Student Campus Centre (SCC)</li> 
+          <li>Projects Office (PRO)</li> 
+          <li>Research and Graduate Studies (GER)</li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li>University Advancement, Office of, University Scheduling</li> 
+          <li>Campus Book Store (BKS)</li> 
+          <li><a href="/wiki/Kerr_Hall" title="Kerr Hall">Kerr Hall</a> (KHN, KHE, KHS, KHW)</li> 
+          <li>Sally Horsfall Eaton Centre for Studies in Community Health (SHE)</li> 
+          <li>Monetary Times - Civil Engineering Building (MON)</li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><a href="/wiki/George_Vari_Engineering_and_Computing_Centre" title="George Vari Engineering and Computing Centre">George Vari Engineering and Computing Centre</a> (ENG)</li> 
+          <li><a href="/wiki/Heaslip_House" title="Heaslip House">Heaslip House</a>-<a href="/wiki/G._Raymond_Chang_School_of_Continuing_Education" title="G. Raymond Chang School of Continuing Education">G. Raymond Chang School of Continuing Education</a> (CED)</li> 
+          <li><a href="/wiki/Heidelberg_Centre" title="Heidelberg Centre">Heidelberg Centre</a> - School of Graphic Communications Management (HEI)</li> 
+          <li><a href="/wiki/Oakham_House" title="Oakham House">Oakham House</a> (OAK)</li> 
+          <li><a href="/wiki/Rogers_Communications_Centre" title="Rogers Communications Centre">Rogers Communications Centre</a> (RCC)</li> 
+          <li>Young-Dundas I (YDI)</li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li><a href="/wiki/Ryerson_Theatre_School_Building" title="Ryerson Theatre School Building">Theatre School</a> (THR)</li> 
+          <li>Ryerson Athletic Centre (RAC)</li> 
+          <li>Pitman Hall - Residence (PIT)</li> 
+          <li>International Living/Learning Centre (ILC)</li> 
+          <li>Jorgenson Hall (JOR)</li> 
+          <li>School of Image Arts (IMA)</li> 
+          <li>School of Interior Design (SID)</li> 
+         </ul> </td> 
+        <td> 
+         <ul> 
+          <li>Architecture Building (ARC)</li> 
+          <li>Eric Palin Hall (EPH)</li> 
+          <li>Podium building (POD)</li> 
+          <li>Co-operative Education (COP)</li> 
+          <li>Campus Planning and Facilities (CPF)</li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>As of fall 2008, Ryerson is the first university to use the <a href="/wiki/AMC_Theatres" title="AMC Theatres">AMC</a> facilities (in <a href="/wiki/10_Dundas_East" title="10 Dundas East">10 Dundas East</a>) during the day for lectures.</p> 
+     <center> 
+      <ul class="gallery"> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:27px auto;">
+           <a href="/wiki/File:Oakham_House.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Oakham_House.JPG/120px-Oakham_House.JPG" width="120" height="96" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p>Oakham House at Ryerson</p> 
+         </div> 
+        </div> </li> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:35px auto;">
+           <a href="/wiki/File:Ryerson_Library_and_The_Podium_Building.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a9/Ryerson_Library_and_The_Podium_Building.jpg/120px-Ryerson_Library_and_The_Podium_Building.jpg" width="120" height="80" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p>Ryerson Library and The Podium Building</p> 
+         </div> 
+        </div> </li> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:35.5px auto;">
+           <a href="/wiki/File:Ryersonunionbuilding4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Ryersonunionbuilding4.jpg/120px-Ryersonunionbuilding4.jpg" width="120" height="79" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p>Student Campus Centre home to Ryerson Students' Union</p> 
+         </div> 
+        </div> </li> 
+       <li class="gallerybox" style="width: 155px"> 
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;"> 
+          <div style="margin:35px auto;">
+           <a href="/wiki/File:Heidelberg_Centrerye.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/e/ed/Heidelberg_Centrerye.jpg/120px-Heidelberg_Centrerye.jpg" width="120" height="80" /></a>
+          </div> 
+         </div> 
+         <div class="gallerytext"> 
+          <p>The Heidelberg Centre</p> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </center> 
+     <h2><span class="mw-headline" id="Associations">Associations</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=19" title="Edit section: Associations">edit</a>]</span></h2> 
+     <ul> 
+      <li><a href="/wiki/Association_of_Commonwealth_Universities" title="Association of Commonwealth Universities">Association of Commonwealth Universities</a> (ACU)</li> 
+      <li><a href="/wiki/Association_of_Universities_and_Colleges_of_Canada" title="Association of Universities and Colleges of Canada">Association of Universities and Colleges of Canada</a> (AUCC)</li> 
+      <li><a href="/wiki/Council_of_Ontario_Universities" title="Council of Ontario Universities">Council of Ontario Universities</a> (COU)</li> 
+      <li><a href="/wiki/Continuing_Education_Students%27_Association_of_Ryerson" title="Continuing Education Students' Association of Ryerson" class="mw-redirect">Continuing Education Students' Association of Ryerson</a> (CESAR)</li> 
+      <li><a href="/wiki/Ryerson_Students%27_Union" title="Ryerson Students' Union">Ryerson Students' Union</a> (RSU)</li> 
+      <li><a href="/wiki/Association_to_Advance_Collegiate_Schools_of_Business" title="Association to Advance Collegiate Schools of Business">Association to Advance Collegiate Schools of Business</a> (AACSB)</li> 
+     </ul> 
+     <div class="thumb tnone" style="margin-left: auto; margin-right:auto; width:99%; max-width:758px;"> 
+      <div class="thumbinner"> 
+       <div class="overflowbugx" style="overflow:auto;">
+        <a href="/wiki/File:Viewryersoncampus.jpg" class="image" title="A view of Ryerson University"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/90/Viewryersoncampus.jpg/750px-Viewryersoncampus.jpg" width="750" height="211" srcset="//upload.wikimedia.org/wikipedia/en/9/90/Viewryersoncampus.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/9/90/Viewryersoncampus.jpg 2x" /></a>
+       </div> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Viewryersoncampus.jpg" title="Enlarge"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/6/6b/Magnify-clip.png" width="15" height="11" /></a>
+        </div> A view of Ryerson University
+       </div> 
+      </div> 
+     </div> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a>]</span></h2> 
+     <ul> 
+      <li><a href="/wiki/List_of_Ontario_Universities" title="List of Ontario Universities" class="mw-redirect">List of Ontario Universities</a></li> 
+      <li><a href="/wiki/List_of_colleges_and_universities_named_after_people" title="List of colleges and universities named after people">List of colleges and universities named after people</a></li> 
+      <li><a href="/wiki/Ontario_Student_Assistance_Program" title="Ontario Student Assistance Program">Ontario Student Assistance Program</a></li> 
+      <li><a href="/wiki/Higher_education_in_Ontario" title="Higher education in Ontario">Higher education in Ontario</a></li> 
+      <li><a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">Canadian Interuniversity Sport</a></li> 
+      <li><a href="/wiki/Canadian_government_scientific_research_organizations" title="Canadian government scientific research organizations">Canadian government scientific research organizations</a></li> 
+      <li><a href="/wiki/Canadian_university_scientific_research_organizations" title="Canadian university scientific research organizations">Canadian university scientific research organizations</a></li> 
+      <li><a href="/wiki/Canadian_industrial_research_and_development_organizations" title="Canadian industrial research and development organizations">Canadian industrial research and development organizations</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=21" title="Edit section: References">edit</a>]</span></h2> 
+     <div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ryerson.ca/content/dam/supporting/news/donor-publications/Endowment_Report_Ancilliary_2011_12_FINAL.pdf">http://www.ryerson.ca/content/dam/supporting/news/donor-publications/Endowment_Report_Ancilliary_2011_12_FINAL.pdf</a></span></li> 
+       <li id="cite_note-2011-2012_Figures-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-2011-2012_Figures_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2011-2012_Figures_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-2011-2012_Figures_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aucc.ca/canadian-universities/our-universities/ryerson-university">&quot;2011-2012 Figures&quot;</a>. Aucc.ca. 2012-03-29<span class="reference-accessdate">. Retrieved 2012-03-29</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=2011-2012+Figures&amp;rft.date=2012-03-29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aucc.ca%2Fcanadian-universities%2Four-universities%2Fryerson-university&amp;rft.pub=Aucc.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/news/media/quickfacts/">&quot;Ryerson University At a Glance&quot;</a><span class="reference-accessdate">. Retrieved 24 June 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Ryerson+University+At+a+Glance&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryerson.ca%2Fnews%2Fmedia%2Fquickfacts%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-aucc.ca-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-aucc.ca_4-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aucc.ca/can_uni/our_universities/ryerson_e.html">&quot;The Directory of Canadian Universities - Ryerson University&quot;</a>. Aucc.ca. 2011-02-25<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=The+Directory+of+Canadian+Universities+-+Ryerson+University&amp;rft.date=2011-02-25&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aucc.ca%2Fcan_uni%2Four_universities%2Fryerson_e.html&amp;rft.pub=Aucc.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.canadianbusinessschools.com/cms/templates/default_template.aspx?articleid=203&amp;zoneid=9">&quot;Ryerson Undergraduate programs&quot;</a>. Canadian Business Schools. 2009-04-15<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Ryerson+Undergraduate+programs&amp;rft.date=2009-04-15&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.canadianbusinessschools.com%2Fcms%2Ftemplates%2Fdefault_template.aspx%3Farticleid%3D203%26zoneid%3D9&amp;rft.pub=Canadian+Business+Schools&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/news/quickfacts.html">&quot;Quick Facts&quot;</a><span class="reference-accessdate">. Retrieved 2007-05-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Quick+Facts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryerson.ca%2Fnews%2Fquickfacts.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-autogenerated1-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/archives/egerton.html">&quot;Archives &amp; Special Collections&quot;</a>. Ryerson.ca<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Archives+%26+Special+Collections&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryerson.ca%2Farchives%2Fegerton.html&amp;rft.pub=Ryerson.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.biographi.ca/EN/ShowBio.asp?BioId=39939">&quot;Dictionary of Canadian Biography Online&quot;</a>. Biographi.ca<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Dictionary+of+Canadian+Biography+Online&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.biographi.ca%2FEN%2FShowBio.asp%3FBioId%3D39939&amp;rft.pub=Biographi.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web">Goldwin French. <a rel="nofollow" class="external text" href="http://www.ccheritage.ca/biographies/egertonryerson">&quot;The Father of Canadian Public Education - Egerton Ryerson&quot;</a>. Ccheritage.ca<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.au=Goldwin+French&amp;rft.aulast=Goldwin+French&amp;rft.btitle=The+Father+of+Canadian+Public+Education+-+Egerton+Ryerson&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ccheritage.ca%2Fbiographies%2Fegertonryerson&amp;rft.pub=Ccheritage.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Pound2005-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pound2005_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pound2005_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Pound, Richard W. (2005). <i>'Fitzhenry and Whiteside Book of Canadian Facts and Dates'</i>. Fitzhenry and Whiteside.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.aufirst=Richard+W.&amp;rft.aulast=Pound&amp;rft.au=Pound%2C+Richard+W.&amp;rft.btitle=%27Fitzhenry+and+Whiteside+Book+of+Canadian+Facts+and+Dates%27&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=Fitzhenry+and+Whiteside&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aucc.ca/_pdf/english/aboutaucc/joinaucc_e.pdf">&quot;Founding Year and Joining Year of AUCC Member Institutions&quot;</a> (PDF)<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Founding+Year+and+Joining+Year+of+AUCC+Member+Institutions&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aucc.ca%2F_pdf%2Fenglish%2Faboutaucc%2Fjoinaucc_e.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web">B. Beaton (1948-09-16). <a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0007031">&quot;Ryerson University&quot;</a>. Thecanadianencyclopedia.com<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.au=B.+Beaton&amp;rft.aulast=B.+Beaton&amp;rft.btitle=Ryerson+University&amp;rft.date=1948-09-16&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.thecanadianencyclopedia.com%2Findex.cfm%3FPgNm%3DTCE%26Params%3DA1ARTA0007031&amp;rft.pub=Thecanadianencyclopedia.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.engineerscanada.ca/e/pr_programs1.cfm">&quot;Engineers Canada&quot;</a>. Engineerscanada.ca<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Engineers+Canada&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.engineerscanada.ca%2Fe%2Fpr_programs1.cfm&amp;rft.pub=Engineerscanada.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.canadianbusinessschools.com/cms/templates/default_template.aspx?articleid=180&amp;zoneid=7">&quot;Profile of Ryerson University Faculty of Business&quot;</a>. Canadian Business Schools. 2009-04-15<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Profile+of+Ryerson+University+Faculty+of+Business&amp;rft.date=2009-04-15&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.canadianbusinessschools.com%2Fcms%2Ftemplates%2Fdefault_template.aspx%3Farticleid%3D180%26zoneid%3D7&amp;rft.pub=Canadian+Business+Schools&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.newswire.ca/en/releases/archive/May2009/19/c4742.html">&quot;TED ROGERS SCHOOL OF MANAGEMENT AT RYERSON UNIVERSITY | Media Advisory - Economic Confidence Being Rebuilt at the Spring 2009 Co-Investment Summit&quot;</a>. Newswire.ca<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=TED+ROGERS+SCHOOL+OF+MANAGEMENT+AT+RYERSON+UNIVERSITY+%26%23124%3B+Media+Advisory+-+Economic+Confidence+Being+Rebuilt+at+the+Spring+2009+Co-Investment+Summit&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.newswire.ca%2Fen%2Freleases%2Farchive%2FMay2009%2F19%2Fc4742.html&amp;rft.pub=Newswire.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/tedrogersschool/">&quot;Ted Rogers School of Management - Ryerson University&quot;</a>. Ryerson.ca<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Ted+Rogers+School+of+Management+-+Ryerson+University&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryerson.ca%2Ftedrogersschool%2F&amp;rft.pub=Ryerson.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">The <a href="/wiki/Ryerson_University_Entrepreneurship_Program" title="Ryerson University Entrepreneurship Program">Ryerson University Entrepreneurship Program</a> is the largest undergraduate entrepreneurship program in Canada and</span></li> 
+       <li id="cite_note-ryerson.ca-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-ryerson.ca_18-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/calendar/2009-2010/pg288.html">&quot;Ryerson University&nbsp;: 3rd SEMESTER&quot;</a>. Ryerson.ca<span class="reference-accessdate">. Retrieved 2012-04-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Ryerson+University+%3A+3rd+SEMESTER&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryerson.ca%2Fcalendar%2F2009-2010%2Fpg288.html&amp;rft.pub=Ryerson.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/tedrogersschool/accountingfinance">&quot;School of Accounting and Finance - Ryerson University&quot;</a>. Ryerson.ca<span class="reference-accessdate">. Retrieved 2012-04-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=School+of+Accounting+and+Finance+-+Ryerson+University&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryerson.ca%2Ftedrogersschool%2Faccountingfinance&amp;rft.pub=Ryerson.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation news">Hume, Christopher (2007-06-07). <a rel="nofollow" class="external text" href="http://www.thestar.com/News/article/222768">&quot;Gardiner is belle of the ball&quot;</a>. <i>The Star</i> (Toronto)<span class="reference-accessdate">. Retrieved 2010-04-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.atitle=Gardiner+is+belle+of+the+ball&amp;rft.aufirst=Christopher&amp;rft.au=Hume%2C+Christopher&amp;rft.aulast=Hume&amp;rft.date=2007-06-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thestar.com%2FNews%2Farticle%2F222768&amp;rft.jtitle=The+Star&amp;rft.place=Toronto&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.thestar.com/life/parent/2011/05/19/banned_from_campus_prof_sues_ryerson.html">http://www.thestar.com/life/parent/2011/05/19/banned_from_campus_prof_sues_ryerson.html</a></span></li> 
+       <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cemf.ca/Engineering/UniversityList.htm">Canadian Engineering Memorial Foundation - University List</a><sup class="noprint Inline-Template"><span title="&nbsp;since March 2011" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li> 
+       <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.raic.org/architecture_architects/becoming_an_architect/education_e.htm">http://www.raic.org/architecture_architects/becoming_an_architect/education_e.htm</a> Architecture Canada</span></li> 
+       <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ryerson.ca/ryersontoday/stories/20110629_science.html">[1]</a>[[{{{2}}}]]&nbsp;([[:{{{1}}}:{{{2}}}|<span title="&quot;{{{2}}}&quot; on the {{{1}}} Wikipedia">{{{1}}}</span>]])</span></li> 
+       <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://digitalmediazone.ryerson.ca/">http://digitalmediazone.ryerson.ca/</a></span></li> 
+       <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/news/quickfacts.html">&quot;News &amp; Events - Ryerson University&quot;</a>. Ryerson.ca<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=News+%26+Events+-+Ryerson+University&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryerson.ca%2Fnews%2Fquickfacts.html&amp;rft.pub=Ryerson.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryecast.ryerson.ca/facultystreams/users/guestftp/ua/serenatmp/about/masterplan_pt1.pdf">&quot;Pages 1 to 77 of 2008 03 31 Ryerson MP final-w cover-lll&quot;</a> (PDF)<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=Pages+1+to+77+of+2008+03+31+Ryerson+MP+final-w+cover-lll&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryecast.ryerson.ca%2Ffacultystreams%2Fusers%2Fguestftp%2Fua%2Fserenatmp%2Fabout%2Fmasterplan_pt1.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation news"><i>The Star</i> (Toronto) <a rel="nofollow" class="external free" href="http://www.thestar.com/printArticle/295281">http://www.thestar.com/printArticle/295281</a> <span style="font-size:100%" class="error citation-comment"><code>|url=</code> missing title (<a href="/wiki/Help:CS1_errors#bare_url_missing_title" title="Help:CS1 errors">help</a>)</span><span class="reference-accessdate">. Retrieved 2010-04-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thestar.com%2FprintArticle%2F295281&amp;rft.jtitle=The+Star&amp;rft.place=Toronto&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/news/news/docs/MLG_News_Release_FINAL_Dec1.pdf">&quot;CANADA, RYERSON UNIVERSITY AND LOBLAW COMPANIES PROUDLY JOIN TO REVITALIZE HISTORIC MAPLE LEAF GARDENS&quot;</a>. Ryerson University. 2009-12-01<span class="reference-accessdate">. Retrieved 2010-04-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=CANADA%2C+RYERSON+UNIVERSITY+AND+LOBLAW+COMPANIES+PROUDLY+JOIN+TO+REVITALIZE+HISTORIC+MAPLE+LEAF+GARDENS&amp;rft.date=2009-12-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryerson.ca%2Fnews%2Fnews%2Fdocs%2FMLG_News_Release_FINAL_Dec1.pdf&amp;rft.pub=Ryerson+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/canada/toronto/story/2009/12/01/mlg-ryerson.html">&quot;Maple Leaf Gardens deal means renewal&quot;</a>. <i>CBC News</i>. 2009-12-01.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.atitle=Maple+Leaf+Gardens+deal+means+renewal&amp;rft.date=2009-12-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fcanada%2Ftoronto%2Fstory%2F2009%2F12%2F01%2Fmlg-ryerson.html&amp;rft.jtitle=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/news/media/General_Public/20100301_mr_mlginter.html">&quot;BBB Architects &amp; Stadium Consultants International selected for the Ryerson University Sports and Recreation Centre at Maple Leaf Gardens&quot;</a>. Ryerson University. 2010-03-01<span class="reference-accessdate">. Retrieved 2010-04-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=BBB+Architects+%26+Stadium+Consultants+International+selected+for+the+Ryerson+University+Sports+and+Recreation+Centre+at+Maple+Leaf+Gardens&amp;rft.date=2010-03-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ryerson.ca%2Fnews%2Fmedia%2FGeneral_Public%2F20100301_mr_mlginter.html&amp;rft.pub=Ryerson+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ryerson.ca/library/blog/2008/09/4th-floor-now-open.html">Ryerson Library - News</a><sup class="noprint Inline-Template"><span title="&nbsp;since March 2011" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li> 
+       <li id="cite_note-Macdoc-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Macdoc_33-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://oncampus.macleans.ca/education/2012/11/01/2013-comprehensive/">&quot;2013 Comprehensive University Ranking&quot;</a>. Maclean's. 1 November 2012<span class="reference-accessdate">. Retrieved 6 November 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=2013+Comprehensive+University+Ranking&amp;rft.date=1+November+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Foncampus.macleans.ca%2Feducation%2F2012%2F11%2F01%2F2013-comprehensive%2F&amp;rft.pub=Maclean%27s&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">name=&quot;media.www.mcgilltribune.com&quot;/</span></li> 
+       <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.theeyeopener.com/articles/3928-Ryerson-a-top-choice-for-graduates">[2]</a><sup class="noprint Inline-Template"><span title="&nbsp;since March 2011" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li> 
+       <li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://oncampus.macleans.ca/education/2012/11/01/2013-comprehensive//">&quot;2013 Comprehensive University Rankings ? - Macleans OnCampus&quot;</a>. Oncampus.macleans.ca. 2010-11-10<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=2013+Comprehensive+University+Rankings+%E2%80%93+-+Macleans+OnCampus&amp;rft.date=2010-11-10&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Foncampus.macleans.ca%2Feducation%2F2012%2F11%2F01%2F2013-comprehensive%2F%2F&amp;rft.pub=Oncampus.macleans.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><i>Maclean's</i>, November 22, 2010, page 152.</span></li> 
+       <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://oncampus.macleans.ca/education/2009/11/05/the-best-reps/">&quot;The best reps ? - Macleans OnCampus&quot;</a>. Oncampus.macleans.ca. 2009-11-05<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=The+best+reps+%E2%80%93+-+Macleans+OnCampus&amp;rft.date=2009-11-05&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Foncampus.macleans.ca%2Feducation%2F2009%2F11%2F05%2Fthe-best-reps%2F&amp;rft.pub=Oncampus.macleans.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.researchinfosource.com/2010-top50-sup.pdf">http://www.researchinfosource.com/2010-top50-sup.pdf</a></span></li> 
+       <li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.researchinfosource.com/media/2010ResearchUniversityofYearTable.pdf">http://www.researchinfosource.com/media/2010ResearchUniversityofYearTable.pdf</a></span></li> 
+       <li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://v1.theglobeandmail.com/partners/free/cur_2010/CUR_Oct_2010.pdf">http://v1.theglobeandmail.com/partners/free/cur_2010/CUR_Oct_2010.pdf</a>&quot;page 49&quot;</span></li> 
+       <li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.urapcenter.org/2011/index.php">http://www.urapcenter.org/2011/index.php</a></span></li> 
+       <li id="cite_note-aucc-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-aucc_43-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aucc.ca/can_uni/our_universities/ryerson_e.html">&quot;AUCC profile&quot;</a>. Aucc.ca. 2011-02-25<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=AUCC+profile&amp;rft.date=2011-02-25&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aucc.ca%2Fcan_uni%2Four_universities%2Fryerson_e.html&amp;rft.pub=Aucc.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.thestar.com/SpecialSections/SchoolsGuide/article/258260">&quot;Ryerson University&quot;</a>. <i>The Star</i> (Toronto). 2008-08-22<span class="reference-accessdate">. Retrieved 2010-04-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.atitle=Ryerson+University&amp;rft.date=2008-08-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thestar.com%2FSpecialSections%2FSchoolsGuide%2Farticle%2F258260&amp;rft.jtitle=The+Star&amp;rft.place=Toronto&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-media.www.mcgilltribune.com-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-media.www.mcgilltribune.com_45-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://media.www.mcgilltribune.com/media/storage/paper234/news/2009/01/27/News/Education.Ont.Applications.Up-3598528.shtml">&quot;The McGill Tribune - EDUCATION: Ont. applications up&quot;</a>. Media.www.mcgilltribune.com<span class="reference-accessdate">. Retrieved 2011-03-09</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARyerson+University&amp;rft.btitle=The+McGill+Tribune+-+EDUCATION%3A+Ont.+applications+up&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmedia.www.mcgilltribune.com%2Fmedia%2Fstorage%2Fpaper234%2Fnews%2F2009%2F01%2F27%2FNews%2FEducation.Ont.Applications.Up-3598528.shtml&amp;rft.pub=Media.www.mcgilltribune.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.rev.gov.on.ca/en/lists/itrp/6921.html">http://www.rev.gov.on.ca/en/lists/itrp/6921.html</a> Ontario University Residences list</span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection">[<a href="/w/index.php?title=Ryerson_University&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a>]</span></h2> 
+     <table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td> 
+        <td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Ryerson_University" class="extiw" title="commons:Category:Ryerson University">Ryerson University</a></b></i></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.ryerson.ca/">Official website</a></li> 
+     </ul> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2" style="background:#005a9c; color:White;;"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Ryerson_University" title="Template:Ryerson University"><span title="View this template" style=";background:#005a9c; color:White;;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Ryerson_University" title="Template talk:Ryerson University"><span title="Discuss this template" style=";background:#005a9c; color:White;;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ryerson_University&amp;action=edit"><span title="Edit this template" style=";background:#005a9c; color:White;;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <strong class="selflink"><span style="color:#FFFFFF; font-size:1em;">Ryerson University</span></strong> 
+              <span style="color:#efb30e;font-side:1em;">?</span>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;">Academics</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/w/index.php?title=Ryerson_University_Faculty_of_Arts&amp;action=edit&amp;redlink=1" class="new" title="Ryerson University Faculty of Arts (page does not exist)">Faculty of Arts</a></li> 
+               <li><a href="/w/index.php?title=Ryerson_University_Faculty_of_Communication_%26_Design&amp;action=edit&amp;redlink=1" class="new" title="Ryerson University Faculty of Communication &amp; Design (page does not exist)">Faculty of Communication &amp; Design</a></li> 
+               <li><a href="/w/index.php?title=Ryerson_University_Faculty_of_Community_Services&amp;action=edit&amp;redlink=1" class="new" title="Ryerson University Faculty of Community Services (page does not exist)">Faculty of Community Services</a></li> 
+               <li><a href="/w/index.php?title=Ryerson_University_Faculty_of_Engineering,_Architecture_and_Science&amp;action=edit&amp;redlink=1" class="new" title="Ryerson University Faculty of Engineering, Architecture and Science (page does not exist)">Faculty of Engineering, Architecture and Science</a></li> 
+               <li><a href="/wiki/G._Raymond_Chang_School_of_Continuing_Education" title="G. Raymond Chang School of Continuing Education">G. Raymond Chang School of Continuing Education</a></li> 
+               <li><a href="/wiki/Graphic_Communications_Management" title="Graphic Communications Management">Graphic Communications Management</a></li> 
+               <li><a href="/w/index.php?title=Ryerson_University_School_of_Image_Arts&amp;action=edit&amp;redlink=1" class="new" title="Ryerson University School of Image Arts (page does not exist)">School of Image Arts</a></li> 
+               <li><a href="/wiki/Ted_Rogers_School_of_Management" title="Ted Rogers School of Management" class="mw-redirect">Ted Rogers School of Management</a></li> 
+               <li><a href="/w/index.php?title=Ryerson_Theatre_School&amp;action=edit&amp;redlink=1" class="new" title="Ryerson Theatre School (page does not exist)">Theatre School</a></li> 
+               <li><a href="/w/index.php?title=Ryerson_University_Yeates_School_Graduate_Studies&amp;action=edit&amp;redlink=1" class="new" title="Ryerson University Yeates School Graduate Studies (page does not exist)">Yeates School Graduate Studies</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;">Culture</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/List_of_Ryerson_University_people" title="List of Ryerson University people">People</a></li> 
+               <li><a href="/wiki/Ryerson_Students%27_Union" title="Ryerson Students' Union">Students' Union</a></li> 
+               <li><i><a href="/wiki/The_Eyeopener" title="The Eyeopener">The Eyeopener</a></i></li> 
+               <li><a href="/wiki/O%27Keefe_House" title="O'Keefe House">O'Keefe House</a></li> 
+               <li><a href="/wiki/Ryerson_Rams" title="Ryerson Rams">Ryerson Rams</a></li> 
+               <li><i><a href="/wiki/Ryerson_Review_of_Journalism" title="Ryerson Review of Journalism">Ryerson Review of Journalism</a></i></li> 
+               <li><i><a href="/wiki/The_Ryersonian" title="The Ryersonian">The Ryersonian</a></i></li> 
+               <li><a href="/wiki/Maple_Leaf_Gardens" title="Maple Leaf Gardens">Maple Leaf Gardens</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Ont_post-secondary" title="Template:Ont post-secondary"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Ont_post-secondary" title="Template talk:Ont post-secondary"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ont_post-secondary&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/Higher_education_in_Ontario" title="Higher education in Ontario">Post-secondary education</a> in 
+              <a href="/wiki/Ontario" title="Ontario">Ontario</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="col" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&nbsp;</span> 
+                 <div style="font-size:110%;">
+                  <a href="/wiki/List_of_universities_in_Canada#Ontario" title="List of universities in Canada">Degree-granting institutions</a>
+                 </div> </th> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Public Universities<span class="plainlinks"><sup><a rel="nofollow" class="external text" href="http://www.tcu.gov.on.ca/eng/postsecondary/schoolsprograms/university/">[1]</a></sup></span></th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Algoma_University" title="Algoma University">Algoma</a></li> 
+                   <li><a href="/wiki/Brock_University" title="Brock University">Brock</a></li> 
+                   <li><a href="/wiki/Carleton_University" title="Carleton University">Carleton</a></li> 
+                   <li><a href="/wiki/Dominican_University_College" title="Dominican University College">Dominican</a></li> 
+                   <li><a href="/wiki/University_of_Guelph" title="University of Guelph">Guelph</a></li> 
+                   <li><a href="/wiki/Lakehead_University" title="Lakehead University">Lakehead</a></li> 
+                   <li><a href="/wiki/Laurentian_University" title="Laurentian University">Laurentian</a></li> 
+                   <li><a href="/wiki/Wilfrid_Laurier_University" title="Wilfrid Laurier University">Laurier</a></li> 
+                   <li><a href="/wiki/McMaster_University" title="McMaster University">McMaster</a></li> 
+                   <li><a href="/wiki/Nipissing_University" title="Nipissing University">Nipissing</a></li> 
+                   <li><a href="/wiki/OCAD_University" title="OCAD University">OCADU</a></li> 
+                   <li><a href="/wiki/University_of_Ottawa" title="University of Ottawa">Ottawa</a></li> 
+                   <li><a href="/wiki/Queen%27s_University" title="Queen's University">Queen's</a></li> 
+                   <li><a href="/wiki/Royal_Military_College_of_Canada" title="Royal Military College of Canada">RMC</a></li> 
+                   <li><strong class="selflink">Ryerson</strong></li> 
+                   <li><a href="/wiki/University_of_Toronto" title="University of Toronto">Toronto</a></li> 
+                   <li><a href="/wiki/Trent_University" title="Trent University">Trent</a></li> 
+                   <li><a href="/wiki/University_of_Ontario_Institute_of_Technology" title="University of Ontario Institute of Technology">UOIT</a></li> 
+                   <li><a href="/wiki/University_of_Waterloo" title="University of Waterloo">Waterloo</a></li> 
+                   <li><a href="/wiki/University_of_Western_Ontario" title="University of Western Ontario">Western</a></li> 
+                   <li><a href="/wiki/University_of_Windsor" title="University of Windsor">Windsor</a></li> 
+                   <li><a href="/wiki/York_University" title="York University">York</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Private Universities<span class="plainlinks"><sup><a rel="nofollow" class="external text" href="http://www.tcu.gov.on.ca/eng/postsecondary/schoolsprograms/puni/">[2]</a></sup></span></th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Augustine_College" title="Augustine College">Augustine College</a></li> 
+                   <li><a href="/wiki/Canada_Christian_College" title="Canada Christian College">Canada Christian</a></li> 
+                   <li><a href="/wiki/Emmanuel_Bible_College" title="Emmanuel Bible College">Emmanuel</a></li> 
+                   <li><a href="/wiki/Institute_for_Christian_Studies" title="Institute for Christian Studies">ICS</a></li> 
+                   <li><a href="/wiki/Maimonides_Schools_for_Jewish_Studies" title="Maimonides Schools for Jewish Studies">Maimonides</a></li> 
+                   <li><a href="/wiki/Master%27s_College_and_Seminary" title="Master's College and Seminary">Master's</a></li> 
+                   <li><a href="/wiki/Redeemer_University_College" title="Redeemer University College">Redeemer</a></li> 
+                   <li><a href="/wiki/Toronto_Baptist_Seminary_and_Bible_College" title="Toronto Baptist Seminary and Bible College">Toronto Baptist</a></li> 
+                   <li><a href="/wiki/Tyndale_University_College_and_Seminary" title="Tyndale University College and Seminary">Tyndale</a></li> 
+                   <li><a href="/wiki/Yeshivas_Ner_Yisroel_of_Toronto" title="Yeshivas Ner Yisroel of Toronto">Yeshivas Ner Yisroel of Toronto</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:#e6e6ff;padding:1px;;"> 
+                 <div style="padding:0em 0.25em;">
+                  <small>All above institutions are either established through an <a href="/wiki/Legislative_Assembly_of_Ontario" title="Legislative Assembly of Ontario">Act of the Legislative Assembly</a> or through a <a href="/wiki/Royal_charter" title="Royal charter">Royal Charter</a></small>
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Degree Programs Offered<sup><br /> under Ministerial Consent</sup></th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Canadian_Memorial_Chiropractic_College" title="Canadian Memorial Chiropractic College">CMCC</a></li> 
+                   <li><a href="/wiki/RCC_Institute_of_Technology" title="RCC Institute of Technology">RCC</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="col" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&nbsp;</span> 
+                 <div style="font-size:110%;">
+                  <a href="/wiki/List_of_colleges_in_Ontario" title="List of colleges in Ontario">Community colleges</a>
+                 </div> </th> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Colleges of Applied Arts and Technology</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Algonquin_College" title="Algonquin College">Algonquin</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Coll%C3%A8ge_Bor%C3%A9al" title="Coll&egrave;ge Bor&eacute;al">Bor&eacute;al</a></li> 
+                   <li><a href="/wiki/Cambrian_College" title="Cambrian College">Cambrian</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Canadore_College" title="Canadore College">Canadore</a></li> 
+                   <li><a href="/wiki/Centennial_College" title="Centennial College">Centennial</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Confederation_College" title="Confederation College">Confederation</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Durham_College" title="Durham College">Durham</a></li> 
+                   <li><a href="/wiki/Fanshawe_College" title="Fanshawe College">Fanshawe</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Fleming_College" title="Fleming College">Fleming</a><sup>?</sup></li> 
+                   <li><a href="/wiki/George_Brown_College" title="George Brown College">George Brown</a><sup>?</sup></li> 
+                   <li><a href="/wiki/La_Cit%C3%A9_coll%C3%A9giale" title="La Cit&eacute; coll&eacute;giale">La Cit&eacute;</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Lambton_College" title="Lambton College">Lambton</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Loyalist_College" title="Loyalist College">Loyalist</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Mohawk_College" title="Mohawk College">Mohawk</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Niagara_College" title="Niagara College">Niagara</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Northern_College_(Ontario)" title="Northern College (Ontario)">Northern</a></li> 
+                   <li><a href="/wiki/St._Clair_College" title="St. Clair College">St. Clair</a><sup>?</sup></li> 
+                   <li><a href="/wiki/St._Lawrence_College,_Ontario" title="St. Lawrence College, Ontario">St. Lawrence</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Sault_College" title="Sault College">Sault</a></li> 
+                   <li><a href="/wiki/Seneca_College" title="Seneca College">Seneca</a><sup>?</sup></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Institutes of Technology and Advanced Learning</th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Conestoga_College" title="Conestoga College">Conestoga</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Humber_College" title="Humber College">Humber</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Sheridan_College" title="Sheridan College">Sheridan</a><sup>?</sup></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Institutes of Advanced Studies</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Georgian_College" title="Georgian College">Georgian</a><sup>?</sup></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <td class="navbox-abovebelow" colspan="2"> 
+                 <div>
+                  <small><sup>?</sup>Degree programs offered</small>
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="col" class="navbox-title" colspan="2" style=";;"><span style="float:left;width:6em;">&nbsp;</span> 
+                 <div style="font-size:110%;">
+                  Aboriginal institutes
+                 </div> </th> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Anishinabek_Education_Institute" title="Anishinabek Education Institute" class="mw-redirect">Anishinabek Education Institute</a></li> 
+                   <li><a href="/wiki/First_Nations_Technical_Institute" title="First Nations Technical Institute">First Nations Technical Institute</a></li> 
+                   <li><a href="/wiki/Kenjgewin_Teg_Educational_Institute" title="Kenjgewin Teg Educational Institute">Kenjgewin Teg Educational Institute</a></li> 
+                   <li><a href="/wiki/Iohahi:io_Akwesasne_Adult_Education_Centre" title="Iohahi:io Akwesasne Adult Education Centre">Iohahi:io Akwesasne Adult Education Centre</a></li> 
+                   <li><a href="/wiki/Negahneewin_College" title="Negahneewin College">Negahneewin College</a></li> 
+                   <li><a href="/w/index.php?title=Ogwehoweh_Skills_and_Trades_Training_Centre&amp;action=edit&amp;redlink=1" class="new" title="Ogwehoweh Skills and Trades Training Centre (page does not exist)">Ogwehoweh Skills and Trades Training Centre</a></li> 
+                   <li><a href="/w/index.php?title=Oshki-Pimache-O-Win_Education_%26_Training_Institute&amp;action=edit&amp;redlink=1" class="new" title="Oshki-Pimache-O-Win Education &amp; Training Institute (page does not exist)">Oshki-Pimache-O-Win Education &amp; Training Institute</a></li> 
+                   <li><a href="/wiki/Seven_Generations_Education_Institute" title="Seven Generations Education Institute">Seven Generations Education Institute</a></li> 
+                   <li><a href="/wiki/Shingwauk_Kinoomaage_Gamig" title="Shingwauk Kinoomaage Gamig">Shingwauk Kinoomaage Gamig</a></li> 
+                   <li><a href="/wiki/Six_Nations_Polytechnic" title="Six Nations Polytechnic">Six Nations Polytechnic</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Toronto_landmarks" title="Template:Toronto landmarks"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Toronto_landmarks" title="Template talk:Toronto landmarks"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Toronto_landmarks&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/Landmark" title="Landmark">Landmarks</a> in 
+              <a href="/wiki/Toronto" title="Toronto">Toronto</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Entertainment<br /> and media</th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/299_Queen_Street_West" title="299 Queen Street West">299 Queen Street West</a></li> 
+               <li><a href="/wiki/Bathurst_Street_Theatre" title="Bathurst Street Theatre">Bathurst Street Theatre</a></li> 
+               <li><a href="/wiki/Bloor_Cinema" title="Bloor Cinema">Bloor Cinema</a></li> 
+               <li><a href="/wiki/Canada%27s_Walk_of_Fame" title="Canada's Walk of Fame">Canada's Walk of Fame</a></li> 
+               <li><a href="/wiki/Canadian_Broadcasting_Centre" title="Canadian Broadcasting Centre">Canadian Broadcasting Centre</a></li> 
+               <li><a href="/wiki/Canadian_Stage_Company" title="Canadian Stage Company">Canadian Stage Company</a></li> 
+               <li><a href="/wiki/Corus_Quay" title="Corus Quay">Corus Quay</a></li> 
+               <li><a href="/wiki/Ed_Mirvish_Theatre" title="Ed Mirvish Theatre">Ed Mirvish Theatre</a></li> 
+               <li><a href="/wiki/Elgin_and_Winter_Garden_Theatres" title="Elgin and Winter Garden Theatres">Elgin and Winter Garden Theatres</a></li> 
+               <li><a href="/wiki/Four_Seasons_Centre" title="Four Seasons Centre">Four Seasons Centre</a></li> 
+               <li><a href="/wiki/Horseshoe_Tavern" title="Horseshoe Tavern">Horseshoe Tavern</a></li> 
+               <li><a href="/wiki/Italian_Walk_of_Fame" title="Italian Walk of Fame">Italian Walk of Fame</a></li> 
+               <li><a href="/wiki/Massey_Hall" title="Massey Hall">Massey Hall</a></li> 
+               <li><a href="/wiki/Molson_Canadian_Amphitheatre" title="Molson Canadian Amphitheatre">Molson Canadian Amphitheatre</a></li> 
+               <li><a href="/wiki/The_Music_Hall_(Toronto)" title="The Music Hall (Toronto)">The Music Hall</a></li> 
+               <li><a href="/wiki/The_Opera_House_(Toronto)" title="The Opera House (Toronto)">The Opera House</a></li> 
+               <li><a href="/wiki/Panasonic_Theatre" title="Panasonic Theatre">Panasonic Theatre</a></li> 
+               <li><a href="/wiki/Princess_of_Wales_Theatre" title="Princess of Wales Theatre">Princess of Wales Theatre</a></li> 
+               <li><a href="/wiki/Roy_Thomson_Hall" title="Roy Thomson Hall">Roy Thomson Hall</a></li> 
+               <li><a href="/wiki/Royal_Alexandra_Theatre" title="Royal Alexandra Theatre">Royal Alexandra Theatre</a></li> 
+               <li><a href="/wiki/Sony_Centre_for_the_Performing_Arts" title="Sony Centre for the Performing Arts">Sony Centre for the Performing Arts</a></li> 
+               <li><a href="/wiki/Toronto_Centre_for_the_Arts" title="Toronto Centre for the Arts">Toronto Centre for the Arts</a></li> 
+               <li><a href="/wiki/Young_Centre_for_the_Performing_Arts" title="Young Centre for the Performing Arts">Young Centre for the Performing Arts</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Toronto_sports" title="Toronto sports">Sports venues</a></th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Air_Canada_Centre" title="Air Canada Centre">Air Canada Centre</a></li> 
+               <li><a href="/wiki/BMO_Field" title="BMO Field">BMO Field</a></li> 
+               <li><a href="/wiki/Island_Yacht_Club" title="Island Yacht Club">Island Yacht Club</a></li> 
+               <li><a href="/wiki/Lamport_Stadium" title="Lamport Stadium">Lamport Stadium</a></li> 
+               <li><a href="/wiki/Maple_Leaf_Gardens" title="Maple Leaf Gardens">Maple Leaf Gardens</a></li> 
+               <li><a href="/wiki/Queen_City_Yacht_Club_(Toronto)" title="Queen City Yacht Club (Toronto)">Queen City Yacht Club (Toronto)</a></li> 
+               <li><a href="/wiki/Rexall_Centre" title="Rexall Centre">Rexall Centre</a></li> 
+               <li><a href="/wiki/Ricoh_Coliseum" title="Ricoh Coliseum">Ricoh Coliseum</a></li> 
+               <li><a href="/wiki/Rogers_Centre" title="Rogers Centre">Rogers Centre</a></li> 
+               <li><a href="/wiki/Royal_Canadian_Yacht_Club" title="Royal Canadian Yacht Club">Royal Canadian Yacht Club</a></li> 
+               <li><a href="/wiki/Toronto_Track_and_Field_Centre" title="Toronto Track and Field Centre">Toronto Track and Field Centre</a></li> 
+               <li><a href="/wiki/Varsity_Arena" title="Varsity Arena">Varsity Arena</a></li> 
+               <li><a href="/wiki/Varsity_Stadium" title="Varsity Stadium">Varsity Stadium</a></li> 
+               <li><a href="/wiki/Woodbine_Racetrack" title="Woodbine Racetrack">Woodbine Racetrack</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Cultural and<br /> educational</th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Aga_Khan_Museum" title="Aga Khan Museum">Aga Khan Museum</a></li> 
+               <li><a href="/wiki/Archives_of_Ontario" title="Archives of Ontario">Archives of Ontario</a></li> 
+               <li><a href="/wiki/Art_Gallery_of_Ontario" title="Art Gallery of Ontario">Art Gallery of Ontario</a></li> 
+               <li><a href="/wiki/Bata_Shoe_Museum" title="Bata Shoe Museum">Bata Shoe Museum</a></li> 
+               <li><a href="/wiki/Canadian_Air_and_Space_Museum" title="Canadian Air and Space Museum">Canadian Air and Space Museum</a></li> 
+               <li><a href="/wiki/CBC_Museum" title="CBC Museum">CBC Museum</a></li> 
+               <li><a href="/wiki/City_of_Toronto_Archives" title="City of Toronto Archives">City of Toronto Archives</a></li> 
+               <li><a href="/wiki/Design_Exchange" title="Design Exchange">Design Exchange</a></li> 
+               <li><a href="/wiki/Enoch_Turner_School" title="Enoch Turner School">Enoch Turner School</a></li> 
+               <li><a href="/wiki/Gardiner_Museum" title="Gardiner Museum">Gardiner Museum</a></li> 
+               <li><a href="/wiki/Hart_House_(University_of_Toronto)" title="Hart House (University of Toronto)">Hart House</a></li> 
+               <li><a href="/wiki/Hockey_Hall_of_Fame" title="Hockey Hall of Fame">Hockey Hall of Fame</a></li> 
+               <li><i><a href="/wiki/McLaughlin_Planetarium" title="McLaughlin Planetarium">McLaughlin Planetarium</a></i></li> 
+               <li><a href="/wiki/Museum_of_Inuit_Art" title="Museum of Inuit Art">Museum of Inuit Art</a></li> 
+               <li><a href="/wiki/Ontario_Science_Centre" title="Ontario Science Centre">Ontario Science Centre</a></li> 
+               <li><a href="/wiki/Parliament_Interpretive_Centre" title="Parliament Interpretive Centre">Parliament Interpretive Centre</a></li> 
+               <li><a href="/wiki/Redpath_Sugar_Refinery" title="Redpath Sugar Refinery">Redpath Sugar Refinery</a></li> 
+               <li><a href="/wiki/Riverdale_Farm" title="Riverdale Farm">Riverdale Farm</a></li> 
+               <li><a href="/wiki/Robarts_Library" title="Robarts Library">Robarts Library</a></li> 
+               <li><a href="/wiki/The_Royal_Conservatory_of_Music" title="The Royal Conservatory of Music">The Royal Conservatory of Music</a></li> 
+               <li><a href="/wiki/Royal_Ontario_Museum" title="Royal Ontario Museum">Royal Ontario Museum</a></li> 
+               <li><a href="/wiki/Ryerson_Image_Centre" title="Ryerson Image Centre">Ryerson Image Centre</a></li> 
+               <li><strong class="selflink">Ryerson University</strong></li> 
+               <li><a href="/wiki/Bell_Lightbox" title="Bell Lightbox">TIFF Bell Lightbox</a></li> 
+               <li><a href="/wiki/Toronto_Reference_Library" title="Toronto Reference Library">Toronto Reference Library</a></li> 
+               <li><a href="/wiki/Toronto_Zoo" title="Toronto Zoo">Toronto Zoo</a></li> 
+               <li><a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a></li> 
+               <li><a href="/wiki/University_of_Toronto_Scarborough" title="University of Toronto Scarborough">University of Toronto Scarborough</a></li> 
+               <li><a href="/wiki/University_College,_Toronto" title="University College, Toronto">University College</a></li> 
+               <li><a href="/wiki/York_University" title="York University">York University</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Amusement</th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Canadian_National_Exhibition" title="Canadian National Exhibition">Canadian National Exhibition</a></li> 
+               <li><a href="/wiki/Centreville_Amusement_Park" title="Centreville Amusement Park">Centreville Amusement Park</a></li> 
+               <li><a href="/wiki/CN_Tower" title="CN Tower">CN Tower</a></li> 
+               <li><a href="/wiki/Exhibition_Place" title="Exhibition Place">Exhibition Place</a></li> 
+               <li><a href="/wiki/Ontario_Place" title="Ontario Place">Ontario Place</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Historical</th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Black_Creek_Pioneer_Village" title="Black Creek Pioneer Village">Black Creek Pioneer Village</a></li> 
+               <li><a href="/wiki/Casa_Loma" title="Casa Loma">Casa Loma</a></li> 
+               <li><a href="/wiki/Distillery_District" title="Distillery District">Distillery District</a></li> 
+               <li><a href="/wiki/Don_Jail" title="Don Jail">Don Jail</a></li> 
+               <li><a href="/wiki/Fort_Rouill%C3%A9" title="Fort Rouill&eacute;">Fort Rouill&eacute;</a></li> 
+               <li><a href="/wiki/Fort_York" title="Fort York">Fort York</a></li> 
+               <li><a href="/wiki/Gibson_House" title="Gibson House">Gibson House</a></li> 
+               <li><a href="/wiki/Gladstone_Hotel_(Toronto)" title="Gladstone Hotel (Toronto)">Gladstone Hotel</a></li> 
+               <li><a href="/wiki/Gooderham_Building" title="Gooderham Building">Gooderham Building</a></li> 
+               <li><a href="/wiki/The_Grange_(Toronto)" title="The Grange (Toronto)">The Grange</a></li> 
+               <li><a href="/wiki/Guild_Inn" title="Guild Inn">Guild Inn</a></li> 
+               <li><a href="/wiki/John_Street_Roundhouse" title="John Street Roundhouse" class="mw-redirect">John Street Roundhouse</a></li> 
+               <li><a href="/wiki/King_Edward_Hotel_(Toronto)" title="King Edward Hotel (Toronto)">King Edward Hotel</a></li> 
+               <li><a href="/wiki/Lambton_House" title="Lambton House">Lambton House</a></li> 
+               <li><a href="/wiki/Liberty_Village" title="Liberty Village">Liberty Village</a></li> 
+               <li><a href="/wiki/Mackenzie_House" title="Mackenzie House">Mackenzie House</a></li> 
+               <li><a href="/wiki/Montgomery%27s_Inn" title="Montgomery's Inn">Montgomery's Inn</a></li> 
+               <li><a href="/wiki/Mount_Pleasant_Cemetery,_Toronto" title="Mount Pleasant Cemetery, Toronto">Mt. Pleasant Cemetery</a></li> 
+               <li><a href="/wiki/Queen%27s_Wharf_Lighthouse" title="Queen's Wharf Lighthouse">Queen's Wharf Lighthouse</a></li> 
+               <li><a href="/wiki/Fairmont_Royal_York" title="Fairmont Royal York">Royal York Hotel</a></li> 
+               <li><a href="/wiki/Cathedral_Church_of_St._James_(Toronto)" title="Cathedral Church of St. James (Toronto)">St. James' Cathedral</a></li> 
+               <li><a href="/wiki/St._Lawrence_Hall" title="St. Lawrence Hall">St. Lawrence Hall</a></li> 
+               <li><a href="/wiki/St._Michael%27s_Cathedral_(Toronto)" title="St. Michael's Cathedral (Toronto)">St. Michael's Cathedral</a></li> 
+               <li><a href="/wiki/Spadina_House" title="Spadina House">Spadina House</a></li> 
+               <li><i><a href="/wiki/Sunnyside_Amusement_Park" title="Sunnyside Amusement Park">Sunnyside Amusement Park</a></i></li> 
+               <li><a href="/wiki/Todmorden_Mills" title="Todmorden Mills">Todmorden Mills</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Parks, squares, and<br /> natural landmarks</th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Albert_Campbell_Square" title="Albert Campbell Square">Albert Campbell Square</a></li> 
+               <li><a href="/wiki/Brookfield_Place#Allen_Lambert_Galleria" title="Brookfield Place">Allen Lambert Galleria</a></li> 
+               <li><a href="/wiki/Centennial_Park_(Toronto)" title="Centennial Park (Toronto)">Centennial Park</a></li> 
+               <li><a href="/wiki/Cherry_Beach" title="Cherry Beach">Cherry Beach</a></li> 
+               <li><a href="/wiki/Christie_Pits" title="Christie Pits">Christie Pits</a></li> 
+               <li><a href="/wiki/Commerce_Court" title="Commerce Court">Commerce Court</a></li> 
+               <li><a href="/wiki/Edwards_Gardens" title="Edwards Gardens">Edwards Gardens</a></li> 
+               <li><a href="/wiki/Grange_Park_(Toronto)" title="Grange Park (Toronto)">Grange Park</a></li> 
+               <li><a href="/wiki/High_Park" title="High Park">High Park</a></li> 
+               <li><a href="/wiki/HTO_Park" title="HTO Park">HTO Park</a></li> 
+               <li><a href="/wiki/Rouge_Park" title="Rouge Park">Rouge Park</a></li> 
+               <li><a href="/wiki/Morningside_Park_(Toronto)" title="Morningside Park (Toronto)">Morningside Park</a></li> 
+               <li><a href="/wiki/Leslie_Street_Spit" title="Leslie Street Spit">Leslie Street Spit</a></li> 
+               <li><a href="/wiki/Maple_Leaf_Square" title="Maple Leaf Square">Maple Leaf Square</a></li> 
+               <li><a href="/wiki/Mel_Lastman_Square" title="Mel Lastman Square">Mel Lastman Square</a></li> 
+               <li><a href="/wiki/Nathan_Phillips_Square" title="Nathan Phillips Square">Nathan Phillips Square</a></li> 
+               <li><a href="/wiki/Pecaut_Square" title="Pecaut Square">Pecaut Square</a></li> 
+               <li><a href="/wiki/Queen%27s_Park_(Toronto)" title="Queen's Park (Toronto)">Queen's Park</a></li> 
+               <li><a href="/wiki/Harbourfront#Notable_buildings_and_facilities" title="Harbourfront">Spadina Music Garden</a></li> 
+               <li><a href="/wiki/Cathedral_Church_of_St._James_(Toronto)#St._James_Park" title="Cathedral Church of St. James (Toronto)">St. James Park</a></li> 
+               <li><a href="/wiki/Scarborough_Bluffs" title="Scarborough Bluffs">Scarborough Bluffs</a></li> 
+               <li><a href="/wiki/Sugar_Beach" title="Sugar Beach">Sugar Beach</a></li> 
+               <li><a href="/wiki/Bluffer%27s_Park" title="Bluffer's Park" class="mw-redirect">Bluffer's Park</a></li> 
+               <li><a href="/wiki/Roundhouse_Park" title="Roundhouse Park">Roundhouse Park</a></li> 
+               <li><a href="/wiki/Toronto-Dominion_Centre" title="Toronto-Dominion Centre">Toronto-Dominion Centre</a></li> 
+               <li><a href="/wiki/Toronto_Islands" title="Toronto Islands">Toronto Islands</a></li> 
+               <li><a href="/wiki/Toronto_Sculpture_Garden" title="Toronto Sculpture Garden">Toronto Sculpture Garden</a></li> 
+               <li><a href="/wiki/Toronto_Waterfront_WaveDecks" title="Toronto Waterfront WaveDecks">Toronto Waterfront WaveDecks</a></li> 
+               <li><a href="/wiki/Trinity_Square_(Toronto)" title="Trinity Square (Toronto)">Trinity Square</a></li> 
+               <li><a href="/wiki/Underpass_Park" title="Underpass Park">Underpass Park</a></li> 
+               <li><a href="/wiki/Waterfront_Trail" title="Waterfront Trail">Waterfront Trail</a></li> 
+               <li><a href="/wiki/Yonge-Dundas_Square" title="Yonge-Dundas Square">Yonge-Dundas Square</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Shopping</th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Bloor_West_Village" title="Bloor West Village">Bloor West Village</a></li> 
+               <li><a href="/wiki/Downtown_Yonge" title="Downtown Yonge">Downtown Yonge</a></li> 
+               <li><a href="/wiki/Toronto_Eaton_Centre" title="Toronto Eaton Centre">Eaton Centre</a></li> 
+               <li><a href="/wiki/Fairview_Mall" title="Fairview Mall">Fairview Mall</a></li> 
+               <li><a href="/wiki/Harbourfront_Centre" title="Harbourfront Centre">Harbourfront Centre</a></li> 
+               <li><a href="/wiki/Honest_Ed%27s" title="Honest Ed's">Honest Ed's</a></li> 
+               <li><a href="/wiki/Kensington_Market" title="Kensington Market">Kensington Market</a></li> 
+               <li><a href="/wiki/Gerrard_Street_(Toronto)" title="Gerrard Street (Toronto)">Little India Bazaar</a></li> 
+               <li><a href="/wiki/St._Lawrence_Market" title="St. Lawrence Market">St. Lawrence Market</a></li> 
+               <li><i><a href="/wiki/Sam_the_Record_Man" title="Sam the Record Man">Sam the Record Man</a></i></li> 
+               <li><a href="/wiki/Scarborough_Town_Centre" title="Scarborough Town Centre">Scarborough Town Centre</a></li> 
+               <li><a href="/wiki/Sherway_Gardens" title="Sherway Gardens">Sherway Gardens</a></li> 
+               <li><a href="/wiki/World%27s_Biggest_Bookstore" title="World's Biggest Bookstore">World's Biggest Bookstore</a></li> 
+               <li><a href="/wiki/Yorkdale_Shopping_Centre" title="Yorkdale Shopping Centre">Yorkdale Shopping Centre</a></li> 
+               <li><a href="/wiki/Yorkville,_Toronto" title="Yorkville, Toronto">Yorkville</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Institutional</th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Toronto_City_Hall" title="Toronto City Hall">City Hall</a></li> 
+               <li><a href="/wiki/East_York_Civic_Centre" title="East York Civic Centre">East York Civic Centre</a></li> 
+               <li><a href="/wiki/Etobicoke_Civic_Centre" title="Etobicoke Civic Centre">Etobicoke Civic Centre</a></li> 
+               <li><a href="/wiki/North_York_Civic_Centre" title="North York Civic Centre">North York Civic Centre</a></li> 
+               <li><a href="/wiki/Scarborough_Civic_Centre" title="Scarborough Civic Centre">Scarborough Civic Centre</a></li> 
+               <li><a href="/wiki/York_Civic_Centre" title="York Civic Centre">York Civic Centre</a></li> 
+               <li><a href="/wiki/Metro_Toronto_Convention_Centre" title="Metro Toronto Convention Centre">Convention Centre</a></li> 
+               <li><a href="/wiki/Hospital_for_Sick_Children" title="Hospital for Sick Children" class="mw-redirect">Hospital for Sick Children</a></li> 
+               <li><a href="/wiki/Old_City_Hall_(Toronto)" title="Old City Hall (Toronto)">Old City Hall</a></li> 
+               <li><a href="/wiki/Ontario_Legislative_Building" title="Ontario Legislative Building">Ontario Legislative Building</a></li> 
+               <li><a href="/wiki/Osgoode_Hall" title="Osgoode Hall">Osgoode Hall</a></li> 
+               <li><a href="/wiki/Toronto_General_Hospital" title="Toronto General Hospital">Toronto General Hospital</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Infrastructure</th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Billy_Bishop_Toronto_City_Airport" title="Billy Bishop Toronto City Airport">Billy Bishop Toronto City Airport</a></li> 
+               <li><a href="/wiki/Don_Valley_Parkway" title="Don Valley Parkway">Don Valley Parkway</a></li> 
+               <li><a href="/wiki/Gardiner_Expressway" title="Gardiner Expressway">Gardiner Expressway</a></li> 
+               <li><a href="/wiki/Ontario_Highway_401" title="Ontario Highway 401">Highway 401</a></li> 
+               <li><a href="/wiki/Hogg%27s_Hollow_Bridge" title="Hogg's Hollow Bridge">Hogg's Hollow Bridge</a></li> 
+               <li><a href="/wiki/Leaside_Bridge" title="Leaside Bridge">Leaside Bridge</a></li> 
+               <li><a href="/wiki/PATH_(Toronto)" title="PATH (Toronto)">PATH Underground</a></li> 
+               <li><a href="/wiki/Prince_Edward_Viaduct" title="Prince Edward Viaduct">Prince Edward Viaduct</a></li> 
+               <li><a href="/wiki/R._C._Harris_Water_Treatment_Plant" title="R. C. Harris Water Treatment Plant">R. C. Harris Water Treatment Plant</a></li> 
+               <li><a href="/wiki/Union_Station_(Toronto)" title="Union Station (Toronto)">Union Station</a></li> 
+               <li><a href="/wiki/WindShare" title="WindShare">WindShare Wind Turbine</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/List_of_neighbourhoods_in_Toronto" title="List of neighbourhoods in Toronto">Neighbourhoods</a></th> 
+            <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/The_Annex" title="The Annex">The Annex</a></li> 
+               <li><a href="/wiki/Bay_Street" title="Bay Street">Bay Street</a></li> 
+               <li><a href="/wiki/The_Beaches" title="The Beaches">The Beaches</a></li> 
+               <li><a href="/wiki/Cabbagetown,_Toronto" title="Cabbagetown, Toronto">Cabbagetown</a></li> 
+               <li><a href="/wiki/Chinatown,_Toronto" title="Chinatown, Toronto">Chinatown</a></li> 
+               <li><a href="/wiki/Corso_Italia_(Toronto)" title="Corso Italia (Toronto)">Corso Italia</a></li> 
+               <li><a href="/wiki/Don_Mills" title="Don Mills">Don Mills</a></li> 
+               <li><a href="/wiki/Church_and_Wellesley" title="Church and Wellesley">Gay Village</a></li> 
+               <li><a href="/wiki/Greektown,_Toronto" title="Greektown, Toronto">Greektown</a></li> 
+               <li><a href="/wiki/The_Junction" title="The Junction">The Junction</a></li> 
+               <li><a href="/wiki/The_Kingsway" title="The Kingsway">The Kingsway</a></li> 
+               <li><a href="/wiki/Leslieville" title="Leslieville">Leslieville</a></li> 
+               <li><a href="/wiki/Little_Italy,_Toronto" title="Little Italy, Toronto">Little Italy</a></li> 
+               <li><a href="/wiki/Queen_Street_West" title="Queen Street West">Queen West</a></li> 
+               <li><a href="/wiki/Roncesvalles,_Toronto" title="Roncesvalles, Toronto">Roncesvalles</a></li> 
+               <li><a href="/wiki/Rosedale,_Toronto" title="Rosedale, Toronto">Rosedale</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><small>By type</small></th> 
+            <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><small><a href="/wiki/Attractions_in_Toronto" title="Attractions in Toronto">Attractions</a></small></li> 
+               <li><small><a href="/wiki/List_of_National_Historic_Sites_of_Canada_in_Toronto" title="List of National Historic Sites of Canada in Toronto">National Historic Sites</a></small></li> 
+               <li><small><a href="/wiki/List_of_oldest_buildings_and_structures_in_Toronto" title="List of oldest buildings and structures in Toronto">Oldest buildings</a></small></li> 
+               <li><small><a href="/wiki/List_of_Toronto_parks" title="List of Toronto parks">Parks</a> and <a href="/wiki/Toronto_ravine_system" title="Toronto ravine system">ravines</a></small></li> 
+               <li><small><a href="/wiki/List_of_shopping_malls_in_Toronto" title="List of shopping malls in Toronto">Shopping centres</a></small></li> 
+               <li><small><a href="/wiki/List_of_tallest_buildings_in_Toronto" title="List of tallest buildings in Toronto">Skyscrapers</a></small></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-abovebelow" colspan="2" style="background:#d5d5ff;;"> 
+             <div>
+              <i>Italics</i> indicate structures now defunct or demolished.
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Preprocessor visited node count: 4605/1000000
+Preprocessor generated node count: 28115/1500000
+Post?expand include size: 159172/2048000 bytes
+Template argument size: 13099/2048000 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 9/500
+Lua time usage: 0.233s
+Lua memory usage: 2.74 MB
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:26065048-0!*!0!!en!4!* and timestamp 20130709160948 --> 
+    </div> 
+    <div class="printfooter">
+      Retrieved from &quot;
+     <a href="http://en.wikipedia.org/w/index.php?title=Ryerson_University&amp;oldid=563540101">http://en.wikipedia.org/w/index.php?title=Ryerson_University&amp;oldid=563540101</a>&quot; 
+    </div> 
+    <div id="catlinks" class="catlinks">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Categories" title="Help:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Ryerson_University" title="Category:Ryerson University">Ryerson University</a></li>
+       <li><a href="/wiki/Category:Business_schools_in_Canada" title="Category:Business schools in Canada">Business schools in Canada</a></li>
+       <li><a href="/wiki/Category:Educational_institutions_established_in_1948" title="Category:Educational institutions established in 1948">Educational institutions established in 1948</a></li>
+       <li><a href="/wiki/Category:PATH_(Toronto)" title="Category:PATH (Toronto)">PATH (Toronto)</a></li>
+       <li><a href="/wiki/Category:Association_of_Commonwealth_Universities" title="Category:Association of Commonwealth Universities">Association of Commonwealth Universities</a></li>
+       <li><a href="/wiki/Category:Coalition_of_Urban_and_Metropolitan_Universities" title="Category:Coalition of Urban and Metropolitan Universities">Coalition of Urban and Metropolitan Universities</a></li>
+       <li><a href="/wiki/Category:1948_establishments_in_Canada" title="Category:1948 establishments in Canada">1948 establishments in Canada</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li>
+       <li><a href="/wiki/Category:Articles_with_dead_external_links_from_March_2011" title="Category:Articles with dead external links from March 2011">Articles with dead external links from March 2011</a></li>
+       <li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li>
+       <li><a href="/wiki/Category:Commons_category_template_with_no_category_set" title="Category:Commons category template with no category set">Commons category template with no category set</a></li>
+       <li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class=""> 
+     <h3>Personal tools</h3> 
+     <ul> 
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ryerson+University&amp;type=signup">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ryerson+University" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs"> 
+      <h3>Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ryerson_University" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Ryerson_University" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3 id="mw-vector-current-variant"> </h3> 
+      <h3><span>Variants</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs"> 
+      <h3>Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Ryerson_University">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Ryerson_University&amp;action=edit" title="You can edit this page. 
+Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ryerson_University&amp;action=history" title="Past versions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3><span>Actions</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3><label for="searchInput">Search</label></h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /> 
+        <button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button> 
+        <input type="hidden" name="title" value="Special:Search" /> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation"> 
+     <h3>Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li> 
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li> 
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content ? the best of Wikipedia">Featured content</a></li> 
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li> 
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li> 
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction"> 
+     <h3>Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li> 
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li> 
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li> 
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li> 
+       <li id="n-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb"> 
+     <h3>Toolbox</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ryerson_University" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li> 
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ryerson_University" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li> 
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li> 
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li> 
+       <li id="t-permalink"><a href="/w/index.php?title=Ryerson_University&amp;oldid=563540101" title="Permanent link to this revision of the page">Permanent link</a></li> 
+       <li id="t-info"><a href="/w/index.php?title=Ryerson_University&amp;action=info">Page information</a></li> 
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q611723" title="Link to connected data repository item">Data item</a></li> 
+       <li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Ryerson_University&amp;id=563540101" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export"> 
+     <h3>Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ryerson+University">Create a book</a></li> 
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ryerson+University&amp;oldid=563540101&amp;writer=rl">Download as PDF</a></li> 
+       <li id="t-print"><a href="/w/index.php?title=Ryerson_University&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang"> 
+     <h3>Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Ryerson_University" title="Ryerson University" lang="de" hreflang="de">Deutsch</a></li> 
+       <li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Universit%C3%A9_Ryerson" title="Universit&eacute; Ryerson" lang="fr" hreflang="fr">Fran&ccedil;ais</a></li> 
+       <li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA_%D7%A8%D7%99%D7%99%D7%A8%D7%A1%D7%95%D7%9F" title="?????????? ???????" lang="he" hreflang="he">?????</a></li> 
+       <li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%82%BD%E3%83%B3%E5%A4%A7%E5%AD%A6" title="???????" lang="ja" hreflang="ja">???</a></li> 
+       <li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ryerson_University" title="Ryerson University" lang="pl" hreflang="pl">Polski</a></li> 
+       <li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Universidade_Ryerson" title="Universidade Ryerson" lang="pt" hreflang="pt">Portugu&ecirc;s</a></li> 
+       <li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%B0%E0%AE%AF%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B4%E0%AE%95%E0%AE%AE%E0%AF%8D" title="??????? ?????????????" lang="ta" hreflang="ta">?????</a></li> 
+       <li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%87%B7%E9%9B%85%E9%81%9C%E5%A4%A7%E5%AD%B8" title="?????" lang="zh" hreflang="zh">??</a></li> 
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+       <li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q611723#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 9 July 2013 at 16:09.<br /></li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br /> Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Ryerson_University" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation" /></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script>
+  <script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.Edit","ext.visualEditor.splitTest","ext.markAsHelpful","ext.gettingstarted.logging","ext.gettingstarted.openTask","ext.navigationTiming","mw.PopUpMediaTransform"],null,true);
+}</script> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <!-- Served by mw1169 in 0.160 secs. -->   
+ </body>
+</html>

@@ -1,0 +1,1008 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8" />
+  <title>Wilfrid Laurier University - Wikipedia, the free encyclopedia</title> 
+  <meta name="generator" content="MediaWiki 1.22wmf9" /> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit" /> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit" /> 
+  <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" /> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" /> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" /> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" /> 
+  <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <meta name="ResourceLoaderDynamicStyles" content="" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wilfrid_Laurier_University","wgTitle":"Wilfrid Laurier University","wgCurRevisionId":561701421,"wgArticleId":6897402,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from June 2012","Commons category with local link same as on Wikidata","Wilfrid Laurier University","Educational institutions established in 1911","Association of Commonwealth Universities","Business schools in Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wilfrid_Laurier_University","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["zh-cn"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":6897402,"title":"Wilfrid Laurier University","namespace":0,"categories":["All articles with unsourced statements","Articles with unsourced statements from June 2012","Association of Commonwealth Universities","Business schools in Canada","Commons category with local link same as on Wikidata","Educational institutions established in 1911","Wilfrid Laurier University"],"permissionLevel":false},"wgWikibaseItemId":"q2166701"});
+}</script>
+  <script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":1,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,
+"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});},{},{});mw.loader.implement(
+"user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:c0aacaeffbf379bb2fae23a527457dc0 */
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script> 
+  <script src="//bits.wikimedia.org/geoiplookup"></script>
+  <link rel="dns-prefetch" href="//meta.wikimedia.org" />
+  <!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf9/skins/vector/csshover.min.htc")}</style><![endif]-->
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Wilfrid_Laurier_University skin-vector action-view vector-animateLayout"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="mw-js-message" style="display:none;"></div> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Wilfrid Laurier University</span></h1> 
+   <div id="bodyContent"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-navigation">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Wilfrid_Laurier_University&amp;params=43_28_31.21_N_80_31_38.08_W_type:edu"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">43&deg;28?31.21?N</span> <span class="longitude">80&deg;31?38.08?W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">43.4753361&deg;N 80.5272444&deg;W</span><span style="display:none">? / <span class="geo">43.4753361; -80.5272444</span></span></span></a></span></span></span></p> 
+     <table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;"> 
+      <tbody>
+       <tr> 
+        <th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;"><b>Wilfrid Laurier University</b></th> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"><a href="/wiki/File:WLU_CoA.jpg" class="image"><img alt="WLU CoA.jpg" src="//upload.wikimedia.org/wikipedia/en/8/8e/WLU_CoA.jpg" width="199" height="262" /></a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto</th> 
+        <td>Latin: <i>Veritas Omnia Vincit</i></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto in English</th> 
+        <td>Truth conquers all</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Established</th> 
+        <td>1911 Evangelical Lutheran Seminary of Canada (1911). Subsequent names, Waterloo College of Arts (1925), Waterloo Lutheran University (1960), and now, Wilfrid Laurier University (1973-present).</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Type</th> 
+        <td><a href="/wiki/Public_university" title="Public university">Public</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Financial_endowment" title="Financial endowment">Endowment</a></th> 
+        <td><a href="/wiki/Canadian_dollar" title="Canadian dollar">$</a>41 million<sup id="cite_ref-wlu.ca_1-0" class="reference"><a href="#cite_note-wlu.ca-1"><span>[</span>1<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Chancellor_(education)" title="Chancellor (education)">Chancellor</a></th> 
+        <td><a href="/wiki/Michael_Lee-Chin" title="Michael Lee-Chin">Michael Lee-Chin</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/University_president" title="University president" class="mw-redirect">President</a></th> 
+        <td><a href="/wiki/Max_Blouw" title="Max Blouw">Max Blouw</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Academic staff</th> 
+        <td>513</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Undergraduate_education" title="Undergraduate education">Undergraduates</a></th> 
+        <td>13,900 full-time,<br /> 2,000 part-time<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Postgraduate_education" title="Postgraduate education">Postgraduates</a></th> 
+        <td>860 full-time,<br /> 400 part-time</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Location</th> 
+        <td class="adr"><span class="locality"><a href="/wiki/Waterloo,_Ontario" title="Waterloo, Ontario">Waterloo</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>, <a href="/wiki/Canada" title="Canada">Canada</a></span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/School_colors" title="School colors">Colours</a></th> 
+        <td><a href="/wiki/Purple_(color)" title="Purple (color)" class="mw-redirect">Purple</a> <span style="background-color:#330072; color:; border:1px solid #000000; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;</span> and <a href="/wiki/Gold_(color)" title="Gold (color)">gold</a> <span style="background-color:#F2A900; color:; border:1px solid #000000; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;</span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Athletic_nickname" title="Athletic nickname">Nickname</a></th> 
+        <td><a href="/wiki/Wilfrid_Laurier_Golden_Hawks" title="Wilfrid Laurier Golden Hawks">Golden Hawks</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Mascot</th> 
+        <td>The Golden Hawk</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Affiliations</th> 
+        <td><a href="/wiki/Association_of_Universities_and_Colleges_of_Canada" title="Association of Universities and Colleges of Canada">AUCC</a>, <a href="/wiki/International_Association_of_Universities" title="International Association of Universities">IAU</a>, <a href="/wiki/Council_of_Ontario_Universities" title="Council of Ontario Universities">COU</a>, <a href="/wiki/Association_to_Advance_Collegiate_Schools_of_Business" title="Association to Advance Collegiate Schools of Business">AACSB</a> <a href="/wiki/Association_of_Commonwealth_Universities" title="Association of Commonwealth Universities">ACU</a>, <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">CIS</a>, <a href="/wiki/Canadian_University_Society_for_Intercollegiate_Debate" title="Canadian University Society for Intercollegiate Debate">CUSID</a>, <a href="/wiki/Fields_Institute" title="Fields Institute">Fields Institute</a>, <a href="/wiki/Ontario_University_Athletics" title="Ontario University Athletics">OUA</a>, <a href="/wiki/Canadian_Bureau_for_International_Education" title="Canadian Bureau for International Education">CBIE</a>, <a href="/wiki/Canadian_University_Press" title="Canadian University Press">CUP</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Website</th> 
+        <td><a rel="nofollow" class="external text" href="http://www.wlu.ca/">www.wlu.ca</a></td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"><a href="/wiki/File:Wilfrid_laurier_seal.jpg" class="image" title="Seal of Wilfrid Laurier University"><img alt="Seal of Wilfrid Laurier University" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f6/Wilfrid_laurier_seal.jpg/120px-Wilfrid_laurier_seal.jpg" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f6/Wilfrid_laurier_seal.jpg/180px-Wilfrid_laurier_seal.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f6/Wilfrid_laurier_seal.jpg/240px-Wilfrid_laurier_seal.jpg 2x" /></a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p><b>Wilfrid Laurier University</b> is a <a href="/wiki/University" title="University">university</a> located in <a href="/wiki/Waterloo,_Ontario" title="Waterloo, Ontario">Waterloo, Ontario</a>, <a href="/wiki/Canada" title="Canada">Canada</a>. It also has campuses in <a href="/wiki/Brantford,_Ontario" title="Brantford, Ontario" class="mw-redirect">Brantford, Ontario</a>, <a href="/wiki/Kitchener,_Ontario" title="Kitchener, Ontario">Kitchener, Ontario</a> and <a href="/wiki/Toronto,_Ontario" title="Toronto, Ontario" class="mw-redirect">Toronto, Ontario</a> and a future proposed campus in <a href="/wiki/Milton,_Ontario" title="Milton, Ontario">Milton</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>. It is named in honour of <a href="/wiki/Wilfrid_Laurier" title="Wilfrid Laurier">Sir Wilfrid Laurier</a>, the seventh <a href="/wiki/Prime_Minister_of_Canada" title="Prime Minister of Canada">Prime Minister of Canada</a>. Laurier offers a full range of <a href="/wiki/Undergraduate" title="Undergraduate" class="mw-redirect">undergraduate</a> and <a href="/wiki/Graduate_student" title="Graduate student" class="mw-redirect">graduate</a> programs in a variety of fields. Laurier is one of the fastest-growing universities in Canada (enrollment more than doubled from 1997 to 2006). The main campus is located in Waterloo. The City of Waterloo is home to both Wilfrid Laurier University and the <a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p> 
+     <table id="toc" class="toc"> 
+      <tbody>
+       <tr> 
+        <td> 
+         <div id="toctitle"> 
+          <h2>Contents</h2> 
+         </div> 
+         <ul> 
+          <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-2"><a href="#Name"><span class="tocnumber">1.1</span> <span class="toctext">Name</span></a></li> 
+            <li class="toclevel-2 tocsection-3"><a href="#Book_publishing"><span class="tocnumber">1.2</span> <span class="toctext">Book publishing</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-4"><a href="#Academics"><span class="tocnumber">2</span> <span class="toctext">Academics</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-5"><a href="#Laurier_Library"><span class="tocnumber">2.1</span> <span class="toctext">Laurier Library</span></a></li> 
+            <li class="toclevel-2 tocsection-6"><a href="#Faculties"><span class="tocnumber">2.2</span> <span class="toctext">Faculties</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-7"><a href="#Campuses"><span class="tocnumber">3</span> <span class="toctext">Campuses</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-8"><a href="#Waterloo_campus"><span class="tocnumber">3.1</span> <span class="toctext">Waterloo campus</span></a> 
+             <ul> 
+              <li class="toclevel-3 tocsection-9"><a href="#Residences"><span class="tocnumber">3.1.1</span> <span class="toctext">Residences</span></a></li> 
+             </ul> </li> 
+            <li class="toclevel-2 tocsection-10"><a href="#Brantford_campus"><span class="tocnumber">3.2</span> <span class="toctext">Brantford campus</span></a> 
+             <ul> 
+              <li class="toclevel-3 tocsection-11"><a href="#Residences_2"><span class="tocnumber">3.2.1</span> <span class="toctext">Residences</span></a></li> 
+             </ul> </li> 
+            <li class="toclevel-2 tocsection-12"><a href="#Kitchener_campus"><span class="tocnumber">3.3</span> <span class="toctext">Kitchener campus</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-13"><a href="#Athletics"><span class="tocnumber">4</span> <span class="toctext">Athletics</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-14"><a href="#Facilities"><span class="tocnumber">4.1</span> <span class="toctext">Facilities</span></a></li> 
+            <li class="toclevel-2 tocsection-15"><a href="#Students.27_Union"><span class="tocnumber">4.2</span> <span class="toctext">Students' Union</span></a></li> 
+            <li class="toclevel-2 tocsection-16"><a href="#Fight_song"><span class="tocnumber">4.3</span> <span class="toctext">Fight song</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-17"><a href="#University_people"><span class="tocnumber">5</span> <span class="toctext">University people</span></a></li> 
+          <li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li> 
+          <li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+          <li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>]</span></h2> 
+     <p>The history of Wilfrid Laurier University dates from 1911, when the <a href="/wiki/Waterloo_Lutheran_Seminary" title="Waterloo Lutheran Seminary">Waterloo Lutheran Seminary</a> of Canada <sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> opened its doors to students. Waterloo was selected as the location because of the land granted by the citizens and the town administration on the edge of the town, and the fact that Waterloo and Berlin, Ontario (now known as <a href="/wiki/Kitchener,_Ontario" title="Kitchener, Ontario">Kitchener</a>) had very large Lutheran populations.</p> 
+     <p>In 1914 the Seminary developed non-theological courses under the name of the Waterloo College School. In 1924 the <a href="/w/index.php?title=Waterloo_College_of_Arts&amp;action=edit&amp;redlink=1" class="new" title="Waterloo College of Arts (page does not exist)">Waterloo College of Arts</a> was established, offering post-secondary three-year programs.<sup id="cite_ref-autogenerated1_5-0" class="reference"><a href="#cite_note-autogenerated1-5"><span>[</span>5<span>]</span></a></sup> Waterloo College of Arts became affiliated with <a href="/wiki/University_of_Western_Ontario" title="University of Western Ontario">Western</a> in 1925.</p> 
+     <p>Laurier's school colours of purple and gold originated in 1927: maroon and gold were the colours of Waterloo College, but to honour the link with the University of Western Ontario, whose colours were purple and white, maroon was discarded in favour of purple.</p> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:302px;">
+       <a href="/wiki/File:LaurierU.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LaurierU.jpg/300px-LaurierU.jpg" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LaurierU.jpg/450px-LaurierU.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LaurierU.jpg/600px-LaurierU.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:LaurierU.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> The main campus in Waterloo
+       </div> 
+      </div> 
+     </div> 
+     <p>The Waterloo College Chapel features several stained glass windows including `Light of the world` (1941) and `Christ in the garden` (1940) by Robert McCausland Limited.</p> 
+     <p>The <a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a> was originally conceived in 1955 as the Waterloo College Associate Faculties (WCAF), a semi-autonomous entity within Waterloo College intended to operate an expanded science program. UW was incorporated as an independent university in 1959.</p> 
+     <p>In 1960, Lutheran church relinquished its sponsorship of Waterloo College. As a church-affiliated institution, Waterloo Lutheran was ineligible for capital funding from the province, and the Lutheran church was in no position to invest heavily in the university. The school also ended its affiliation with Western and was renamed Waterloo Lutheran University. The Lutheran church maintained control of Waterloo Lutheran Seminary, which federated with Wilfrid Laurier University.<sup id="cite_ref-autogenerated1_5-1" class="reference"><a href="#cite_note-autogenerated1-5"><span>[</span>5<span>]</span></a></sup></p> 
+     <p>Wilfrid Laurier University was established by Wilfrid Laurier University Act 1973, which was amended in 2001.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <p>Laurier opened a second campus, in Brantford, Ontario, in 1999, and in 2006 the Lyle S. Hallman Faculty of Social Work moved from the Waterloo campus to a campus in downtown Kitchener. The Brantford campus is centred on a number of historic properties in the downtown area which have been restored for university use. They include a former <a href="/wiki/Carnegie_library" title="Carnegie library">Carnegie library</a>, Brantford's 1880 post office, and 1870 mansion, and a 1950 Odeon Theatre. The Kitchener campus is located in the historic and fully renovated former St. Jerome's high school building.</p> 
+     <p>In October 2008, the University was named one of <a href="/wiki/Waterloo_Area%27s_Top_Employers" title="Waterloo Area's Top Employers" class="mw-redirect">Waterloo Area's Top Employers</a> and featured in the <a href="/wiki/Waterloo_Region_Record" title="Waterloo Region Record">Waterloo Region Record</a> and <a href="/wiki/Guelph_Mercury" title="Guelph Mercury">Guelph Mercury</a> newspapers.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p> 
+     <p><a href="/wiki/Waterloo_Lutheran_Seminary" title="Waterloo Lutheran Seminary">Waterloo Lutheran Seminary</a> continues to operate in affiliation with the University and the <a href="/wiki/Evangelical_Lutheran_Church_in_Canada" title="Evangelical Lutheran Church in Canada">Evangelical Lutheran Church in Canada</a>.</p> 
+     <h3><span class="mw-headline" id="Name">Name</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=2" title="Edit section: Name">edit</a>]</span></h3> 
+     <p>When <a href="/wiki/Waterloo_Lutheran_University" title="Waterloo Lutheran University" class="mw-redirect">Waterloo Lutheran University</a> became a public university, a new name was needed. There were 94 proposed names, among them were Beaver University, Louis Riel University and the Iroquois University of Waterloo. Eventually Wilfrid Laurier University was selected in 1973, but not without controversy, as some students at the time charged that <a href="/wiki/Wilfrid_Laurier" title="Wilfrid Laurier">Wilfrid Laurier</a> was a politician of &quot;questionable reputation&quot; who had no connection to the school or the region of Waterloo. There has been speculation over the years that the name Wilfrid Laurier University was chosen mainly to preserve the initials as WLU.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Book_publishing">Book publishing</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=3" title="Edit section: Book publishing">edit</a>]</span></h3> 
+     <p>The <a href="/wiki/Wilfrid_Laurier_University_Press" title="Wilfrid Laurier University Press">Wilfrid Laurier University Press</a>, which was founded in 1974, deals with archaeology, military history and sociology/anthropology.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Academics">Academics</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=4" title="Edit section: Academics">edit</a>]</span></h2> 
+     <p>The University is home to 14,116 full-time and part-time undergraduate students, 781 full-time and part-time graduate students and over 500 in faculty and staff,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> although comparatively small, the university has consistently ranked among Canada's top schools in its category, an honour which is regularly confirmed by <a href="/wiki/Maclean%27s" title="Maclean's">Maclean's</a> magazine's annual rankings. The 2008 Macleans rankings placed Laurier fifth overall (first in Ontario) of the 21 Canadian universities in the category of &quot;Primarily Undergraduate&quot; universities.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Wilfrid_Laurier_University,_Lyle_S._Hallman_Faculty_of_Social_Work,_Kitchener_Campus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wilfrid_Laurier_University%2C_Lyle_S._Hallman_Faculty_of_Social_Work%2C_Kitchener_Campus.jpg/220px-Wilfrid_Laurier_University%2C_Lyle_S._Hallman_Faculty_of_Social_Work%2C_Kitchener_Campus.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wilfrid_Laurier_University%2C_Lyle_S._Hallman_Faculty_of_Social_Work%2C_Kitchener_Campus.jpg/330px-Wilfrid_Laurier_University%2C_Lyle_S._Hallman_Faculty_of_Social_Work%2C_Kitchener_Campus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wilfrid_Laurier_University%2C_Lyle_S._Hallman_Faculty_of_Social_Work%2C_Kitchener_Campus.jpg/440px-Wilfrid_Laurier_University%2C_Lyle_S._Hallman_Faculty_of_Social_Work%2C_Kitchener_Campus.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Wilfrid_Laurier_University,_Lyle_S._Hallman_Faculty_of_Social_Work,_Kitchener_Campus.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Home of Faculty of Social Work, downtown Kitchener. Formerly St. Jerome's high school.
+       </div> 
+      </div> 
+     </div> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Wlu_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wlu_1.jpg/220px-Wlu_1.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/3/36/Wlu_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/3/36/Wlu_1.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Wlu_1.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Wilfrid Laurier University
+       </div> 
+      </div> 
+     </div> 
+     <p>In 2008, for undergrad programs, the minimum entering average was 80.3% for the arts, 80.8% for science, and 86.3% for business.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p> 
+     <p>The internationally renowned Faculty of Music at Laurier is considered one of the best in the country, with programs in performance, music education, composition, music history, church music, theory and music therapy. In addition, Laurier is home to the Penderecki String Quartet - an internationally recognised group playing largely new compositions. The music faculty boasts two performance spaces - the Theatre Auditorium and the Maureen Forrester Recital Hall (named after the famous contralto and former chancellor of WLU). The faculty also attracts a greater percentage of students from outside Ontario than any other faculty at Laurier. Laurier's Music program boasts the only Masters Degree in Music Therapy. Laurier's strength in &quot;music and business education&quot; is touted as one of the reasons that Waterloo Region is a &quot;powerful educational hub&quot; by former University of Waterloo president, and now Governor-General of Canada, <a href="/wiki/David_Johnston" title="David Johnston">David Johnston</a>.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2012)">citation needed</span></a></i>]</sup></p> 
+     <p>The university is also home to the Laurier Institute for the Study of Public Opinion and Policy, the Laurier Centre for Military, Strategic and Disarmament Studies, the Cold Regions Research Centre, and several other research centres.</p> 
+     <p>Laurier is the current headquarters of the <a href="/wiki/Academic_Council_of_the_United_Nations_System" title="Academic Council of the United Nations System">Academic Council of the United Nations System</a> (ACUNS) which was previously hosted by Yale, Brown and Dartmouth. The ACUNS goal is to strengthen the study of international organizations and to create strong ties between the academic community and diplomats within international organizations.</p> 
+     <p>Laurier is also a prominent partner in the new Balsillie School of International Affairs, opened in Uptown Waterloo in 2008.</p> 
+     <h3><span class="mw-headline" id="Laurier_Library">Laurier Library</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=5" title="Edit section: Laurier Library">edit</a>]</span></h3> 
+     <p>The Laurier Library holds more than 965,000 print items, more than 240,000 electronic books, more than 25,000 full text electronic journals and databases, thousands of media titles (about 5000 including streaming and DVDs). In addition, the library is a member of the TriUniversity Group of Libraries (<a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a>, <a href="/wiki/University_of_Guelph" title="University of Guelph">University of Guelph</a>, Wilfrid Laurier University), through which access to a combined information collection in excess of seven million print items is available.</p> 
+     <p>The Library, in conjunction with <a href="/wiki/Wilfrid_Laurier_University_Press" title="Wilfrid Laurier University Press">Wilfrid Laurier University Press</a>, hosts <a rel="nofollow" class="external text" href="http://scholars.wlu.ca">Scholars Commons @ Laurier</a>, an institutional repository that aims to support open scholarly communication, collaboration, and lasting visibility and recognition for Laurier scholarship. It houses faculty scholarship, theses, dissertations, online journals, and an archival collection of <a href="/wiki/The_Cord_Weekly" title="The Cord Weekly">The Cord Weekly</a> dating back to 1926.</p> 
+     <h3><span class="mw-headline" id="Faculties">Faculties</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=6" title="Edit section: Faculties">edit</a>]</span></h3> 
+     <p>Laurier offers a variety of different programs through its 6 faculties: <a href="/wiki/Arts" title="Arts" class="mw-redirect">Arts</a>, <a href="/wiki/Science" title="Science">Science</a>, <a href="/wiki/Education" title="Education">Education</a>, <a href="/wiki/Music" title="Music">Music</a>, <a href="/wiki/Social_Work" title="Social Work" class="mw-redirect">Social Work</a>, and <a href="/wiki/Laurier_School_of_Business_%26_Economics" title="Laurier School of Business &amp; Economics">Laurier School of Business &amp; Economics</a>.</p> 
+     <h2><span class="mw-headline" id="Campuses">Campuses</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=7" title="Edit section: Campuses">edit</a>]</span></h2> 
+     <h3><span class="mw-headline" id="Waterloo_campus">Waterloo campus</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=8" title="Edit section: Waterloo campus">edit</a>]</span></h3> 
+     <p>Laurier's primary campus (&quot;The Waterloo Campus&quot;) is located in the Regional Municipality of Waterloo. The majority of the University's faculties reside at the Waterloo Campus, including Business, Arts, Science, Music, and Health. Altogether, approximately 15,000 students attend classes at the Waterloo campus.</p> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://virtualtour.wlu.ca/cms/maps/pdf/3/WaterlooMap_legend.pdf">Virtual Tour</a></li> 
+     </ul> 
+     <h4><span class="mw-headline" id="Residences">Residences</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=9" title="Edit section: Residences">edit</a>]</span></h4> 
+     <p><b>Women?s Residences:</b></p> 
+     <ul> 
+      <li>Clara Conrad Hall (Dormitory-style)</li> 
+     </ul> 
+     <p><b>Men?s Residences:</b></p> 
+     <ul> 
+      <li>C.H. Little House (Dormitory-style)</li> 
+     </ul> 
+     <p><b>Co-ed Residences:</b></p> 
+     <ul> 
+      <li>Bricker Residence (Apartment-style)</li> 
+      <li>Bouckaert Hall (Dormitory-style)</li> 
+      <li>Euler Residence (Alternative Study Environment, Dormitory-style)</li> 
+      <li>King Street Residence (Dormitory-style)</li> 
+      <li>King Street North (Apartment-style)</li> 
+      <li>King's Court (Apartment-style)</li> 
+      <li>Laurier Place Residence (Apartment-style) (Conestogo House, Heidelberg House, St. Agatha House, St. Clements House, and St. Jacobs House)</li> 
+      <li>Leupold Residence (Dormitory-style)</li> 
+      <li>Lodge Street Residence (Apartment-style)</li> 
+      <li>Macdonald House (Dormitory-style)</li> 
+      <li>Marshall Street (Apartment-style)</li> 
+      <li>Regina Street Residence ( Apartment-style)</li> 
+      <li>University Place Residence (Apartment-style)</li> 
+      <li>Waterloo College Hall (Dormitory-style)</li> 
+      <li>Willison Hall (Dormitory-style)</li> 
+      <li>Spruce Street Residence ( Apartment-style)</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Brantford_campus">Brantford campus</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=10" title="Edit section: Brantford campus">edit</a>]</span></h3> 
+     <p>Laurier's secondary campus (&quot;The <a href="/wiki/Laurier_Brantford" title="Laurier Brantford">Laurier Brantford</a> Campus&quot;) is located in <a href="/wiki/Brantford" title="Brantford">Brantford</a>, Ontario, approximately 50&nbsp;km south of the main campus in Waterloo. The campus opened its doors in 1999 with a total of 39 students in its inaugural year. As of 2010, over 3,600 students were enrolled at the school.</p> 
+     <h4><span class="mw-headline" id="Residences_2">Residences</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=11" title="Edit section: Residences">edit</a>]</span></h4> 
+     <ul> 
+      <li>Grand River Hall</li> 
+      <li>Post House</li> 
+      <li>Rizzo Building</li> 
+      <li>Wilkes House</li> 
+      <li>Lawyer's Hall</li> 
+      <li>Lucy Marco Place</li> 
+      <li>Imperial Hall</li> 
+      <li>142 Nelson Street</li> 
+      <li>Expositor Place</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Kitchener_campus">Kitchener campus</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=12" title="Edit section: Kitchener campus">edit</a>]</span></h3> 
+     <p>In the Fall of 2006 the Faculty of Social Work (previously on the Waterloo campus) moved to downtown Kitchener. Located on Duke St. it moved into the old St. Jerome's High School which was designated a heritage site by the City of Kitchener. This move allowed the students to be closer to the community and social service agencies with which they are partnered. Also in an effort to partner better with the community and make the building more welcoming, faculty and staff held such events as the Political Coffee House Series, several all-candidates debates and the <a href="/wiki/Expressions_of_Social_Justice_Festival" title="Expressions of Social Justice Festival">Expressions of Social Justice Festival</a></p> 
+     <h2><span class="mw-headline" id="Athletics">Athletics</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=13" title="Edit section: Athletics">edit</a>]</span></h2> 
+     <p>The university is represented in <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">Canadian Interuniversity Sport</a> by the <a href="/wiki/Wilfrid_Laurier_Golden_Hawks" title="Wilfrid Laurier Golden Hawks">Wilfrid Laurier Golden Hawks</a>.</p> 
+     <p>The history of the team name (Golden Hawks) dates back to the 1961. For many years, the Waterloo College teams were called simply the Waterloo College teams, although sometimes they were called the Purple and Gold and other times the Waterloons. In 1950, the college's newspaper mused that a name was needed, and in December 1951 a new name was tested: the Mules.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p> 
+     <p>Subsequently, the hockey team became the Ice Mules and the women's basketball and volleyball teams were known as the Mulettes.</p> 
+     <p>In 1960, with the shift from college to university status, the university student newspaper again lobbied for change. At a meeting that year, somebody suggested Golden Hawks and that was the name adopted. A headline in the January 16, 1961 issue of the newspaper read &quot;From 'Jackass' to 'Bird of Prey'&quot;.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p> 
+     <p>On November 13, 2004, the Golden Hawks football team won the <a href="/wiki/Yates_Cup" title="Yates Cup">Yates Cup</a> against the <a href="/wiki/McMaster_Marauders" title="McMaster Marauders">McMaster Marauders</a> at University Stadium in front of a record crowd of 8,175. It was the sixth Yates Cup victory for Laurier in its history. The game also ended McMaster's four-year Ontario championship winning streak. The men's football team scored a second successive Yates Cup victory in November, 2005, followed by a victory in the <a href="/wiki/Uteck_Bowl" title="Uteck Bowl">Uteck Bowl</a> against <a href="/wiki/Acadia_University" title="Acadia University">Acadia</a>. The Hawks then defeated the <a href="/wiki/University_of_Saskatchewan_Huskies" title="University of Saskatchewan Huskies" class="mw-redirect">University of Saskatchewan Huskies</a> 24-23 to win the 2005 <a href="/wiki/Vanier_Cup" title="Vanier Cup">Vanier Cup</a>, their first since 1991.</p> 
+     <p>Laurier's first female national championship was won in 1992 by the women's soccer team, which followed that up with their second CIS title in 1995. The men's soccer team claimed back-to-back national championships in 2000 &amp; 2001.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p> 
+     <p>In 2007 the women's lacrosse team achieved a dynasty status by winning their fifth OUA <a href="/wiki/Ontario_University_Athletics" title="Ontario University Athletics">Ontario University Athletics</a> gold medal in a row. In February 2008, the women's hockey team claimed its fifth gold medal in as many years and seventh since 1998. The women's hockey team won its first CIS national championship in 2005. Both teams have since won sixth consecutive championships in their respective sports, furthering their dynasties.</p> 
+     <p>In 2008 both the men's and women's curling teams won the inaugural CIS Championships and represented Canada in China at the 2009 World University Games. The women's team repeated as CIS Champion's in 2009 in Montreal and went on to represent Canada in the Karuizawa International Curling championships where they claimed first place.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Facilities">Facilities</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=14" title="Edit section: Facilities">edit</a>]</span></h3> 
+     <p>The athletic facilities at Wilfrid Laurier University include an Athletic Complex, a Football Stadium and an outdoor multi-purpose <a href="/wiki/Fieldturf" title="Fieldturf" class="mw-redirect">fieldturf</a> field. The Athletic Complex houses 3 Gyms, 2 Squash Courts, an <a href="/wiki/Olympic-size_swimming_pool" title="Olympic-size swimming pool">Olympic-size swimming pool</a>, a Rock Climbing Wall, and Aerobics/Weight Rooms. University Stadium includes a <a href="/wiki/Fieldturf" title="Fieldturf" class="mw-redirect">fieldturf</a> football field and a large indoor gymnasium.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> The swimming pool underwent a $2 million renovation in 2009/2010.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> In 2007, University Stadium underwent a $5 Million renovation.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Students.27_Union">Students' Union</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=15" title="Edit section: Students' Union">edit</a>]</span></h3> 
+     <p>The Students' Union is funded by undergraduate student fees, and all students are automatically members of the Students' Union. Their mission is to enhance the holistic student experience at Wilfrid University by providing innovative resources and effective representation within a safe and empowering campus community.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> The Students' Union provides a number of services for students, including bus passes, Direct2U Prescription, emergency response team, food bank, foot patrol, health and dental insurance coverage, the member card, peer help line, student life line, and tech share.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> The Wilfrid Laurier University Students' Union Clubs and Associations department supports over 130 clubs and associations involving over 3,000 students. Clubs and Associations supports all clubs by offering resources and financial support as well as acting as a liaison to the Students' Union and University administration.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Fight_song">Fight song</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=16" title="Edit section: Fight song">edit</a>]</span></h3> 
+     <p>The original Wilfrid Laurier University <a href="/wiki/Fight_song" title="Fight song">fight song</a> was composed by M.A. Magee (BA 1938), with words by W.H. Johns, as &quot;Waterloo We'll Praise Thee Ever&quot; - in reference to Laurier's origins as Waterloo College. It was re-released in 2005 with &quot;Laurier&quot; replacing &quot;Waterloo&quot; in the lyrics to avoid confusion with neighbouring <a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a>. The modern lyrics are as follows:</p> 
+     <dl> 
+      <dd>
+       Laurier we'll praise thee ever
+      </dd> 
+      <dd>
+       as in the days of old,
+      </dd> 
+      <dd>
+       We will always keep on high,
+      </dd> 
+      <dd>
+       The purple and the gold, the gold
+      </dd> 
+      <dd>
+       Ever will thy sons and daughters
+      </dd> 
+      <dd>
+       praise thee day by day
+      </dd> 
+      <dd>
+       We will always hold thy name in rev'rence
+      </dd> 
+      <dd>
+       Lau-ri-er!
+      </dd> 
+     </dl> 
+     <dl> 
+      <dd>
+       We will battle on to victory
+      </dd> 
+      <dd>
+       As the years roll by,
+      </dd> 
+      <dd>
+       Carrying thy standard bravely
+      </dd> 
+      <dd>
+       Holding it on high,
+      </dd> 
+      <dd>
+       Ever will we sing thy praises
+      </dd> 
+      <dd>
+       Praise thee every day
+      </dd> 
+      <dd>
+       No one e'er shall bring thy name dishonour
+      </dd> 
+      <dd>
+       Lau-ri-er!
+      </dd> 
+      <dd>
+       OP!
+      </dd> 
+     </dl> 
+     <h2><span class="mw-headline" id="University_people">University people</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=17" title="Edit section: University people">edit</a>]</span></h2> 
+     <div class="rellink relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/List_of_Wilfrid_Laurier_University_people" title="List of Wilfrid Laurier University people">Wilfrid Laurier University people</a>
+     </div> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a>]</span></h2> 
+     <ul> 
+      <li><a href="/wiki/List_of_Ontario_Universities" title="List of Ontario Universities" class="mw-redirect">List of Ontario Universities</a></li> 
+      <li><a href="/wiki/List_of_colleges_and_universities_named_after_people" title="List of colleges and universities named after people">List of colleges and universities named after people</a></li> 
+      <li><a href="/wiki/Ontario_Student_Assistance_Program" title="Ontario Student Assistance Program">Ontario Student Assistance Program</a></li> 
+      <li><a href="/wiki/Higher_education_in_Ontario" title="Higher education in Ontario">Higher education in Ontario</a></li> 
+      <li><a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">Canadian Interuniversity Sport</a></li> 
+      <li><a href="/wiki/Canadian_government_scientific_research_organizations" title="Canadian government scientific research organizations">Canadian government scientific research organizations</a></li> 
+      <li><a href="/wiki/Canadian_university_scientific_research_organizations" title="Canadian university scientific research organizations">Canadian university scientific research organizations</a></li> 
+      <li><a href="/wiki/Canadian_industrial_research_and_development_organizations" title="Canadian industrial research and development organizations">Canadian industrial research and development organizations</a></li> 
+      <li><a href="/wiki/Wilfrid_Laurier_University_Students%27_Union" title="Wilfrid Laurier University Students' Union">Wilfrid Laurier University Students' Union</a></li> 
+      <li><a href="/wiki/Wilfrid_Laurier_University_Student_Publications" title="Wilfrid Laurier University Student Publications" class="mw-redirect">Wilfrid Laurier University Student Publications</a></li> 
+      <li><a href="/wiki/Laurier_Brantford" title="Laurier Brantford">Laurier Brantford</a></li> 
+      <li><a href="/wiki/Laurier_School_of_Business_%26_Economics" title="Laurier School of Business &amp; Economics">Laurier School of Business &amp; Economics</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=19" title="Edit section: References">edit</a>]</span></h2> 
+     <div class="reflist" style="list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-wlu.ca-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-wlu.ca_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wlu.ca/docsnpubs_detail.php?grp_id=59&amp;doc_id=41512">http://www.wlu.ca/docsnpubs_detail.php?grp_id=59&amp;doc_id=41512</a></span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.aucc.ca/can_uni/our_universities/wilfrid_laurier_e.html">http://www.aucc.ca/can_uni/our_universities/wilfrid_laurier_e.html</a></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wlu.ca/homepage.php?grp_id=65">Wilfrid Laurier University - Student Recruitment Office</a></span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wlu.ca/~wwwsem/index.shtml">http://www.wlu.ca/~wwwsem/index.shtml</a></span></li> 
+       <li id="cite_note-autogenerated1-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.thecanadianencyclopedia.com/index.cfm">http://www.thecanadianencyclopedia.com/index.cfm</a>? PgNm=TCE&amp;Params=U1ARTU0003698</span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">www.wlu.ca/page.php?grp_id=158&amp;p=2235 Wilfrid Laurier University Act.</span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.eluta.ca/top-employer-wilfrid-laurier-university">&quot;Reasons for Selection, 2009 Waterloo Area's Top Employers Competition&quot;</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfrid+Laurier+University&amp;rft.btitle=Reasons+for+Selection%2C+2009+Waterloo+Area%27s+Top+Employers+Competition&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.eluta.ca%2Ftop-employer-wilfrid-laurier-university&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Cote, Kris: &quot;The Cord History: The tie that's bound WLU for 80 years&quot;, page 13. Wilfrid Laurier University Student Publication, 2006.</span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/">The Canadian Encyclopedia</a></span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wlu.ca/page.php?grp_id=12015&amp;p=14901">http://www.wlu.ca/page.php?grp_id=12015&amp;p=14901</a></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.macleans.ca/education/rankings.jsp">http://www.macleans.ca/education/rankings.jsp</a></span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Liu, Karon: &quot;High grades for school spirit&quot;, 24 Hours Toronto, page 16. Monday September 15, 2008.</span></li> 
+       <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20080220003934/http://www.cordweekly.com/cordweekly/myweb.php?hls=10034&amp;news_id=1335">&quot;Laurier Trivia Challenge&quot;</a>. The Cord Weekly. Archived from <a rel="nofollow" class="external text" href="http://www.cordweekly.com/cordweekly/myweb.php?hls=10034&amp;news_id=1335">the original</a> on 2008-02-20<span class="reference-accessdate">. Retrieved 2008-03-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfrid+Laurier+University&amp;rft.btitle=Laurier+Trivia+Challenge&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cordweekly.com%2Fcordweekly%2Fmyweb.php%3Fhls%3D10034%26news_id%3D1335&amp;rft.pub=The+Cord+Weekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.laurierathletics.com/createarticle.php?ID=1130&amp;string=White">&quot;The Golden Hawk - How Laurier's official mascot came to be&quot;</a><span class="reference-accessdate">. Retrieved 2008-03-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfrid+Laurier+University&amp;rft.btitle=The+Golden+Hawk+-+How+Laurier%27s+official+mascot+came+to+be&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.laurierathletics.com%2Fcreatearticle.php%3FID%3D1130%26string%3DWhite&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.laurierathletics.com/alumni/championships.php">&quot;Championships captured&quot;</a><span class="reference-accessdate">. Retrieved 2010-03-03</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfrid+Laurier+University&amp;rft.btitle=Championships+captured&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.laurierathletics.com%2Falumni%2Fchampionships.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.laurierathletics.com/createarticle.php?ID=4549">&quot;Women's Curling claims gold in Japan&quot;</a><span class="reference-accessdate">. Retrieved 2010-01-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfrid+Laurier+University&amp;rft.btitle=Women%27s+Curling+claims+gold+in+Japan&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.laurierathletics.com%2Fcreatearticle.php%3FID%3D4549&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.laurierathletics.com/varsityathletics/createteam.php?sport=FACIL">&quot;Facilities&quot;</a><span class="reference-accessdate">. Retrieved 2010-06-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfrid+Laurier+University&amp;rft.btitle=Facilities&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.laurierathletics.com%2Fvarsityathletics%2Fcreateteam.php%3Fsport%3DFACIL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.peterbraid.ca/EN/8048/92399">&quot;Laurier pool receives $2 Million in Federal and Provincial Funding&quot;</a>. 2009-06-29<span class="reference-accessdate">. Retrieved 2010-06-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfrid+Laurier+University&amp;rft.btitle=Laurier+pool+receives+%242+Million+in+Federal+and+Provincial+Funding&amp;rft.date=2009-06-29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.peterbraid.ca%2FEN%2F8048%2F92399&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.laurierathletics.com/generatepage.php?ID=32">&quot;University Stadium&quot;</a><span class="reference-accessdate">. Retrieved 2010-06-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilfrid+Laurier+University&amp;rft.btitle=University+Stadium&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.laurierathletics.com%2Fgeneratepage.php%3FID%3D32&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wlusu.com/aboutus-section/what-is-the-students-union">http://www.wlusu.com/aboutus-section/what-is-the-students-union</a></span></li> 
+       <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wlusu.com/services/">http://www.wlusu.com/services/</a></span></li> 
+       <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wlusu.com/blog-section/about-clubs">http://www.wlusu.com/blog-section/about-clubs</a></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection">[<a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a>]</span></h2> 
+     <table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td> 
+        <td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Wilfrid_Laurier_University" class="extiw" title="commons:Category:Wilfrid Laurier University">Wilfrid Laurier University</a></b></i></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.wlu.ca">Official website</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.aucc.ca/can_uni/our_universities/wilfrid_laurier_e.html">Association of Universities and Colleges of Canada profile</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://scholars.wlu.ca">Scholars Commons @ Laurier</a></li> 
+     </ul> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2" style="background:#432879; color:#F8B600;;"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Wilfrid_Laurier_University" title="Template:Wilfrid Laurier University"><span title="View this template" style=";background:#432879; color:#F8B600;;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Wilfrid_Laurier_University" title="Template talk:Wilfrid Laurier University"><span title="Discuss this template" style=";background:#432879; color:#F8B600;;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wilfrid_Laurier_University&amp;action=edit"><span title="Edit this template" style=";background:#432879; color:#F8B600;;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <strong class="selflink"><span style="color:#F8B600;">Wilfrid Laurier University</span></strong>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;"><a href="/wiki/Wilfrid_Laurier_University#Administration" title="Wilfrid Laurier University"><span style="color:#000000">Administration</span></a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Michael_Lee-Chin" title="Michael Lee-Chin">Michael Lee-Chin</a> (Chancellor)</li> 
+               <li><a href="/wiki/Max_Blouw" title="Max Blouw">Max Blouw</a> (President)</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;">Campus</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li>Laurier Waterloo</li> 
+               <li><a href="/wiki/Laurier_Brantford" title="Laurier Brantford">Laurier Brantford</a></li> 
+               <li>Laurier Kitchener</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;"><a href="/wiki/Wilfrid_Laurier_University#Academics" title="Wilfrid Laurier University"><span style="color:#000000">Academics</span></a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li>Faculty of Arts</li> 
+               <li>School of Business &amp; Economics (SBE)</li> 
+               <li>Faculty of Education</li> 
+               <li>Graduate Studies</li> 
+               <li>Laurier Library</li> 
+               <li>Faculty of Music</li> 
+               <li>Research Office</li> 
+               <li>Faculty of Sciences</li> 
+               <li><a href="/wiki/Waterloo_Lutheran_Seminary" title="Waterloo Lutheran Seminary">Waterloo Lutheran Seminary</a></li> 
+               <li>Lyle S. Hallman Faculty of Social Work</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;"><a href="/wiki/Wilfrid_Laurier_University#Athletics" title="Wilfrid Laurier University"><span style="color:#000000">Athletics</span></a></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Wilfrid_Laurier_Golden_Hawks" title="Wilfrid Laurier Golden Hawks">Wilfrid Laurier Golden Hawks</a></li> 
+               <li><a href="/wiki/Laurier_Golden_Hawks_women%27s_ice_hockey" title="Laurier Golden Hawks women's ice hockey" class="mw-redirect">Laurier Golden Hawks women's ice hockey</a></li> 
+               <li>Athletic Complex</li> 
+               <li><a href="/wiki/University_Stadium_(Waterloo,_Ontario)" title="University Stadium (Waterloo, Ontario)">University Stadium</a></li> 
+               <li>Alumni Field</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;">Student Life</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Wilfrid_Laurier_University_Students%27_Union" title="Wilfrid Laurier University Students' Union">Wilfrid Laurier University Students' Union</a></li> 
+               <li>Fred Nichols Campus Centre</li> 
+               <li><i><a href="/w/index.php?title=The_Cord&amp;action=edit&amp;redlink=1" class="new" title="The Cord (page does not exist)">The Cord</a></i></li> 
+               <li><a href="/wiki/The_Cord_Weekly" title="The Cord Weekly">Wilfrid Laurier University Student Publications</a></li> 
+               <li>Radio Laurier</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;">Others</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Wilfrid_Laurier_University_Press" title="Wilfrid Laurier University Press">Wilfrid Laurier University Press</a></li> 
+               <li><a href="/wiki/List_of_Wilfrid_Laurier_University_people" title="List of Wilfrid Laurier University people"><span style="color:#000000">Wilfrid Laurier University people</span></a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;">Chancellors</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/William_Daum_Euler" title="William Daum Euler">William Daum Euler</a> (1961)</li> 
+               <li><a href="/wiki/Ross_Macdonald" title="Ross Macdonald">Ross Macdonald</a> (1964?1972)</li> 
+               <li><a href="/wiki/Paul_Joseph_James_Martin" title="Paul Joseph James Martin">Paul Joseph James Martin</a> (1972?1977)</li> 
+               <li><a href="/wiki/John_Black_Aird" title="John Black Aird">John Black Aird</a> (1977?1985)</li> 
+               <li><a href="/wiki/Maureen_Forrester" title="Maureen Forrester">Maureen Forrester</a> (1986?1990)</li> 
+               <li><a href="/wiki/Willard_Estey" title="Willard Estey">Willard Estey</a> (1990?1995)</li> 
+               <li><a href="/wiki/John_Cleghorn" title="John Cleghorn">John Cleghorn</a> (1996?2003)</li> 
+               <li><a href="/wiki/Bob_Rae" title="Bob Rae">Bob Rae</a> (2003?2008)</li> 
+               <li><a href="/wiki/John_A._Pollock" title="John A. Pollock">John A. Pollock</a> (2008?2011)</li> 
+               <li><a href="/wiki/Michael_Lee-Chin" title="Michael Lee-Chin">Michael Lee-Chin</a> (2011-present)</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="background:white;;">Presidents</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/William_Villaume" title="William Villaume">William Villaume</a> (1960?1966)</li> 
+               <li><a href="/wiki/Frank_Peters_(college_president)" title="Frank Peters (college president)">Frank Peters</a> (1967?1978)</li> 
+               <li><a href="/wiki/Neale_Tayler" title="Neale Tayler">Neale Tayler</a> (1978?1982)</li> 
+               <li><a href="/wiki/John_Angus_Weir" title="John Angus Weir">John A. Weir</a> (1982?1992)</li> 
+               <li><a href="/wiki/Lorna_Marsden" title="Lorna Marsden">Lorna Marsden</a> (1992?1997)</li> 
+               <li><a href="/wiki/Robert_Rosehart" title="Robert Rosehart">Robert Rosehart</a> (1997?2007)</li> 
+               <li><a href="/wiki/Max_Blouw" title="Max Blouw">Max Blouw</a> (2007?present)</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Ont_post-secondary" title="Template:Ont post-secondary"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Ont_post-secondary" title="Template talk:Ont post-secondary"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ont_post-secondary&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/Higher_education_in_Ontario" title="Higher education in Ontario">Post-secondary education</a> in 
+              <a href="/wiki/Ontario" title="Ontario">Ontario</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="col" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&nbsp;</span> 
+                 <div style="font-size:110%;">
+                  <a href="/wiki/List_of_universities_in_Canada#Ontario" title="List of universities in Canada">Degree-granting institutions</a>
+                 </div> </th> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Public Universities<span class="plainlinks"><sup><a rel="nofollow" class="external text" href="http://www.tcu.gov.on.ca/eng/postsecondary/schoolsprograms/university/">[1]</a></sup></span></th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Algoma_University" title="Algoma University">Algoma</a></li> 
+                   <li><a href="/wiki/Brock_University" title="Brock University">Brock</a></li> 
+                   <li><a href="/wiki/Carleton_University" title="Carleton University">Carleton</a></li> 
+                   <li><a href="/wiki/Dominican_University_College" title="Dominican University College">Dominican</a></li> 
+                   <li><a href="/wiki/University_of_Guelph" title="University of Guelph">Guelph</a></li> 
+                   <li><a href="/wiki/Lakehead_University" title="Lakehead University">Lakehead</a></li> 
+                   <li><a href="/wiki/Laurentian_University" title="Laurentian University">Laurentian</a></li> 
+                   <li><strong class="selflink">Laurier</strong></li> 
+                   <li><a href="/wiki/McMaster_University" title="McMaster University">McMaster</a></li> 
+                   <li><a href="/wiki/Nipissing_University" title="Nipissing University">Nipissing</a></li> 
+                   <li><a href="/wiki/OCAD_University" title="OCAD University">OCADU</a></li> 
+                   <li><a href="/wiki/University_of_Ottawa" title="University of Ottawa">Ottawa</a></li> 
+                   <li><a href="/wiki/Queen%27s_University" title="Queen's University">Queen's</a></li> 
+                   <li><a href="/wiki/Royal_Military_College_of_Canada" title="Royal Military College of Canada">RMC</a></li> 
+                   <li><a href="/wiki/Ryerson_University" title="Ryerson University">Ryerson</a></li> 
+                   <li><a href="/wiki/University_of_Toronto" title="University of Toronto">Toronto</a></li> 
+                   <li><a href="/wiki/Trent_University" title="Trent University">Trent</a></li> 
+                   <li><a href="/wiki/University_of_Ontario_Institute_of_Technology" title="University of Ontario Institute of Technology">UOIT</a></li> 
+                   <li><a href="/wiki/University_of_Waterloo" title="University of Waterloo">Waterloo</a></li> 
+                   <li><a href="/wiki/University_of_Western_Ontario" title="University of Western Ontario">Western</a></li> 
+                   <li><a href="/wiki/University_of_Windsor" title="University of Windsor">Windsor</a></li> 
+                   <li><a href="/wiki/York_University" title="York University">York</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Private Universities<span class="plainlinks"><sup><a rel="nofollow" class="external text" href="http://www.tcu.gov.on.ca/eng/postsecondary/schoolsprograms/puni/">[2]</a></sup></span></th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Augustine_College" title="Augustine College">Augustine College</a></li> 
+                   <li><a href="/wiki/Canada_Christian_College" title="Canada Christian College">Canada Christian</a></li> 
+                   <li><a href="/wiki/Emmanuel_Bible_College" title="Emmanuel Bible College">Emmanuel</a></li> 
+                   <li><a href="/wiki/Institute_for_Christian_Studies" title="Institute for Christian Studies">ICS</a></li> 
+                   <li><a href="/wiki/Maimonides_Schools_for_Jewish_Studies" title="Maimonides Schools for Jewish Studies">Maimonides</a></li> 
+                   <li><a href="/wiki/Master%27s_College_and_Seminary" title="Master's College and Seminary">Master's</a></li> 
+                   <li><a href="/wiki/Redeemer_University_College" title="Redeemer University College">Redeemer</a></li> 
+                   <li><a href="/wiki/Toronto_Baptist_Seminary_and_Bible_College" title="Toronto Baptist Seminary and Bible College">Toronto Baptist</a></li> 
+                   <li><a href="/wiki/Tyndale_University_College_and_Seminary" title="Tyndale University College and Seminary">Tyndale</a></li> 
+                   <li><a href="/wiki/Yeshivas_Ner_Yisroel_of_Toronto" title="Yeshivas Ner Yisroel of Toronto">Yeshivas Ner Yisroel of Toronto</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:#e6e6ff;padding:1px;;"> 
+                 <div style="padding:0em 0.25em;">
+                  <small>All above institutions are either established through an <a href="/wiki/Legislative_Assembly_of_Ontario" title="Legislative Assembly of Ontario">Act of the Legislative Assembly</a> or through a <a href="/wiki/Royal_charter" title="Royal charter">Royal Charter</a></small>
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Degree Programs Offered<sup><br /> under Ministerial Consent</sup></th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Canadian_Memorial_Chiropractic_College" title="Canadian Memorial Chiropractic College">CMCC</a></li> 
+                   <li><a href="/wiki/RCC_Institute_of_Technology" title="RCC Institute of Technology">RCC</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="col" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&nbsp;</span> 
+                 <div style="font-size:110%;">
+                  <a href="/wiki/List_of_colleges_in_Ontario" title="List of colleges in Ontario">Community colleges</a>
+                 </div> </th> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Colleges of Applied Arts and Technology</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Algonquin_College" title="Algonquin College">Algonquin</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Coll%C3%A8ge_Bor%C3%A9al" title="Coll&egrave;ge Bor&eacute;al">Bor&eacute;al</a></li> 
+                   <li><a href="/wiki/Cambrian_College" title="Cambrian College">Cambrian</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Canadore_College" title="Canadore College">Canadore</a></li> 
+                   <li><a href="/wiki/Centennial_College" title="Centennial College">Centennial</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Confederation_College" title="Confederation College">Confederation</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Durham_College" title="Durham College">Durham</a></li> 
+                   <li><a href="/wiki/Fanshawe_College" title="Fanshawe College">Fanshawe</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Fleming_College" title="Fleming College">Fleming</a><sup>?</sup></li> 
+                   <li><a href="/wiki/George_Brown_College" title="George Brown College">George Brown</a><sup>?</sup></li> 
+                   <li><a href="/wiki/La_Cit%C3%A9_coll%C3%A9giale" title="La Cit&eacute; coll&eacute;giale">La Cit&eacute;</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Lambton_College" title="Lambton College">Lambton</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Loyalist_College" title="Loyalist College">Loyalist</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Mohawk_College" title="Mohawk College">Mohawk</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Niagara_College" title="Niagara College">Niagara</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Northern_College_(Ontario)" title="Northern College (Ontario)">Northern</a></li> 
+                   <li><a href="/wiki/St._Clair_College" title="St. Clair College">St. Clair</a><sup>?</sup></li> 
+                   <li><a href="/wiki/St._Lawrence_College,_Ontario" title="St. Lawrence College, Ontario">St. Lawrence</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Sault_College" title="Sault College">Sault</a></li> 
+                   <li><a href="/wiki/Seneca_College" title="Seneca College">Seneca</a><sup>?</sup></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Institutes of Technology and Advanced Learning</th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Conestoga_College" title="Conestoga College">Conestoga</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Humber_College" title="Humber College">Humber</a><sup>?</sup></li> 
+                   <li><a href="/wiki/Sheridan_College" title="Sheridan College">Sheridan</a><sup>?</sup></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group">Institutes of Advanced Studies</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Georgian_College" title="Georgian College">Georgian</a><sup>?</sup></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <td class="navbox-abovebelow" colspan="2"> 
+                 <div>
+                  <small><sup>?</sup>Degree programs offered</small>
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="col" class="navbox-title" colspan="2" style=";;"><span style="float:left;width:6em;">&nbsp;</span> 
+                 <div style="font-size:110%;">
+                  Aboriginal institutes
+                 </div> </th> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Anishinabek_Education_Institute" title="Anishinabek Education Institute" class="mw-redirect">Anishinabek Education Institute</a></li> 
+                   <li><a href="/wiki/First_Nations_Technical_Institute" title="First Nations Technical Institute">First Nations Technical Institute</a></li> 
+                   <li><a href="/wiki/Kenjgewin_Teg_Educational_Institute" title="Kenjgewin Teg Educational Institute">Kenjgewin Teg Educational Institute</a></li> 
+                   <li><a href="/wiki/Iohahi:io_Akwesasne_Adult_Education_Centre" title="Iohahi:io Akwesasne Adult Education Centre">Iohahi:io Akwesasne Adult Education Centre</a></li> 
+                   <li><a href="/wiki/Negahneewin_College" title="Negahneewin College">Negahneewin College</a></li> 
+                   <li><a href="/w/index.php?title=Ogwehoweh_Skills_and_Trades_Training_Centre&amp;action=edit&amp;redlink=1" class="new" title="Ogwehoweh Skills and Trades Training Centre (page does not exist)">Ogwehoweh Skills and Trades Training Centre</a></li> 
+                   <li><a href="/w/index.php?title=Oshki-Pimache-O-Win_Education_%26_Training_Institute&amp;action=edit&amp;redlink=1" class="new" title="Oshki-Pimache-O-Win Education &amp; Training Institute (page does not exist)">Oshki-Pimache-O-Win Education &amp; Training Institute</a></li> 
+                   <li><a href="/wiki/Seven_Generations_Education_Institute" title="Seven Generations Education Institute">Seven Generations Education Institute</a></li> 
+                   <li><a href="/wiki/Shingwauk_Kinoomaage_Gamig" title="Shingwauk Kinoomaage Gamig">Shingwauk Kinoomaage Gamig</a></li> 
+                   <li><a href="/wiki/Six_Nations_Polytechnic" title="Six Nations Polytechnic">Six Nations Polytechnic</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Preprocessor visited node count: 2361/1000000
+Preprocessor generated node count: 18943/1500000
+Post?expand include size: 96587/2048000 bytes
+Template argument size: 10735/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 5/500
+Lua time usage: 0.067s
+Lua memory usage: 2.54 MB
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:6897402-0!*!0!!en!4!* and timestamp 20130709082735 --> 
+    </div> 
+    <div class="printfooter">
+      Retrieved from &quot;
+     <a href="http://en.wikipedia.org/w/index.php?title=Wilfrid_Laurier_University&amp;oldid=561701421">http://en.wikipedia.org/w/index.php?title=Wilfrid_Laurier_University&amp;oldid=561701421</a>&quot; 
+    </div> 
+    <div id="catlinks" class="catlinks">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Categories" title="Help:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Wilfrid_Laurier_University" title="Category:Wilfrid Laurier University">Wilfrid Laurier University</a></li>
+       <li><a href="/wiki/Category:Educational_institutions_established_in_1911" title="Category:Educational institutions established in 1911">Educational institutions established in 1911</a></li>
+       <li><a href="/wiki/Category:Association_of_Commonwealth_Universities" title="Category:Association of Commonwealth Universities">Association of Commonwealth Universities</a></li>
+       <li><a href="/wiki/Category:Business_schools_in_Canada" title="Category:Business schools in Canada">Business schools in Canada</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2012" title="Category:Articles with unsourced statements from June 2012">Articles with unsourced statements from June 2012</a></li>
+       <li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class=""> 
+     <h3>Personal tools</h3> 
+     <ul> 
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wilfrid+Laurier+University&amp;type=signup">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wilfrid+Laurier+University" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs"> 
+      <h3>Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/Wilfrid_Laurier_University" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:Wilfrid_Laurier_University" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3 id="mw-vector-current-variant"> </h3> 
+      <h3><span>Variants</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs"> 
+      <h3>Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/Wilfrid_Laurier_University">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=edit" title="You can edit this page. 
+Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=history" title="Past versions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3><span>Actions</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3><label for="searchInput">Search</label></h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /> 
+        <button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button> 
+        <input type="hidden" name="title" value="Special:Search" /> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation"> 
+     <h3>Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li> 
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li> 
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content ? the best of Wikipedia">Featured content</a></li> 
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li> 
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li> 
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction"> 
+     <h3>Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li> 
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li> 
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li> 
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li> 
+       <li id="n-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb"> 
+     <h3>Toolbox</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wilfrid_Laurier_University" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li> 
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wilfrid_Laurier_University" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li> 
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li> 
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li> 
+       <li id="t-permalink"><a href="/w/index.php?title=Wilfrid_Laurier_University&amp;oldid=561701421" title="Permanent link to this revision of the page">Permanent link</a></li> 
+       <li id="t-info"><a href="/w/index.php?title=Wilfrid_Laurier_University&amp;action=info">Page information</a></li> 
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2166701" title="Link to connected data repository item">Data item</a></li> 
+       <li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Wilfrid_Laurier_University&amp;id=561701421" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export"> 
+     <h3>Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wilfrid+Laurier+University">Create a book</a></li> 
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wilfrid+Laurier+University&amp;oldid=561701421&amp;writer=rl">Download as PDF</a></li> 
+       <li id="t-print"><a href="/w/index.php?title=Wilfrid_Laurier_University&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang"> 
+     <h3>Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interwiki-pdc"><a href="//pdc.wikipedia.org/wiki/Wilfrid_Laurier_University" title="Wilfrid Laurier University" lang="pdc" hreflang="pdc">Deitsch</a></li> 
+       <li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Wilfrid_Laurier_University" title="Wilfrid Laurier University" lang="de" hreflang="de">Deutsch</a></li> 
+       <li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%88%DB%8C%D9%84%D9%81%D8%B1%D8%AF_%D9%84%D9%88%D8%B1%DB%8C%D8%B1" title="??????? ?????? ?????" lang="fa" hreflang="fa">?????</a></li> 
+       <li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Universit%C3%A9_Wilfrid-Laurier" title="Universit&eacute; Wilfrid-Laurier" lang="fr" hreflang="fr">Fran&ccedil;ais</a></li> 
+       <li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%95%E3%83%AA%E3%83%83%E3%83%89%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%AA%E3%82%A8%E5%A4%A7%E5%AD%A6" title="??????????????" lang="ja" hreflang="ja">???</a></li> 
+       <li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Wilfrid_Laurier_University" title="Wilfrid Laurier University" lang="pl" hreflang="pl">Polski</a></li> 
+       <li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Wilfrid_Laurier_University" title="Wilfrid Laurier University" lang="sv" hreflang="sv">Svenska</a></li> 
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+       <li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q2166701#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 26 June 2013 at 17:52.<br /></li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br /> Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Wilfrid_Laurier_University" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation" /></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script>
+  <script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.Edit","ext.visualEditor.splitTest","ext.markAsHelpful","ext.gettingstarted.logging","ext.gettingstarted.openTask","ext.navigationTiming","mw.PopUpMediaTransform"],null,true);
+}</script> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <!-- Served by mw1219 in 0.129 secs. -->   
+ </body>
+</html>

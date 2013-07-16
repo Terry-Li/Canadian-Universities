@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8" />
+  <title>University of Regina - Wikipedia, the free encyclopedia</title> 
+  <meta name="generator" content="MediaWiki 1.22wmf9" /> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=University_of_Regina&amp;action=edit" /> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=University_of_Regina&amp;action=edit" /> 
+  <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" /> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" /> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" /> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" /> 
+  <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <meta name="ResourceLoaderDynamicStyles" content="" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"University_of_Regina","wgTitle":"University of Regina","wgCurRevisionId":564313413,"wgArticleId":434157,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from December 2008","Articles with unsourced statements from June 2008","Incomplete lists from January 2010","University of Regina","Universities and colleges in Saskatchewan","Canadian Interuniversity Sport football teams","Association of Commonwealth Universities","Consortium for North American Higher Education Collaboration","Educational institutions established in 1974","Universities in Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"University_of_Regina","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":434157,"title":"University of Regina","namespace":0,"categories":["All articles with unsourced statements","Articles with unsourced statements from December 2008","Articles with unsourced statements from June 2008","Association of Commonwealth Universities","Canadian Interuniversity Sport football teams","Consortium for North American Higher Education Collaboration","Educational institutions established in 1974","Incomplete lists from January 2010","Universities and colleges in Saskatchewan","Universities in Canada","University of Regina"],"permissionLevel":false},"wgWikibaseItemId":"q3104287"});
+}</script>
+  <script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":1,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,
+"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});},{},{});mw.loader.implement(
+"user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:c0aacaeffbf379bb2fae23a527457dc0 */
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script> 
+  <script src="//bits.wikimedia.org/geoiplookup"></script>
+  <link rel="dns-prefetch" href="//meta.wikimedia.org" />
+  <!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf9/skins/vector/csshover.min.htc")}</style><![endif]-->
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-University_of_Regina skin-vector action-view vector-animateLayout"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="mw-js-message" style="display:none;"></div> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">University of Regina</span></h1> 
+   <div id="bodyContent"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-navigation">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=University_of_Regina&amp;params=50_24_55.99_N_104_35_16.63_W_type:edu"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50&deg;24?55.99?N</span> <span class="longitude">104&deg;35?16.63?W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">50.4155528&deg;N 104.5879528&deg;W</span><span style="display:none">? / <span class="geo">50.4155528; -104.5879528</span></span></span></a></span></span></span></p> 
+     <table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;"> 
+      <tbody>
+       <tr> 
+        <th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;"><b>University of Regina</b></th> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"><a href="/wiki/File:UofRegina_Logo.svg" class="image"><img alt="UofRegina Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/UofRegina_Logo.svg/230px-UofRegina_Logo.svg.png" width="230" height="114" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/UofRegina_Logo.svg/345px-UofRegina_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/UofRegina_Logo.svg/460px-UofRegina_Logo.svg.png 2x" /></a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto</th> 
+        <td>As one who serves</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Established</th> 
+        <td> <p>Regina College, 1911</p> University of Regina, 1974</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Type</th> 
+        <td><a href="/wiki/Public_university" title="Public university">Public</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Financial_endowment" title="Financial endowment">Endowment</a></th> 
+        <td>$25.9 million</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Chancellor_(education)" title="Chancellor (education)">Chancellor</a></th> 
+        <td>William F. Ready</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/University_president" title="University president" class="mw-redirect">President</a></th> 
+        <td>Vianne Timmons</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Admin. staff</th> 
+        <td>1,283</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Students</th> 
+        <td>12,270<sup id="cite_ref-AUCCJul2011_1-0" class="reference"><a href="#cite_note-AUCCJul2011-1"><span>[</span>1<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Undergraduate_education" title="Undergraduate education">Undergraduates</a></th> 
+        <td>10,740</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Postgraduate_education" title="Postgraduate education">Postgraduates</a></th> 
+        <td>1,530</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Location</th> 
+        <td class="adr"><span class="locality"><a href="/wiki/Regina,_Saskatchewan" title="Regina, Saskatchewan">Regina</a></span>, <span class="region"><a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a></span>, <span class="country-name"><a href="/wiki/Canada" title="Canada">Canada</a></span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Campus</th> 
+        <td>Urban</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Former names</th> 
+        <td> <p>Regina College (1911-1961)</p> University of Saskatchewan (1961-1974)</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Newspaper</th> 
+        <td><a href="/wiki/The_Carillon" title="The Carillon">The Carillon</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/School_colors" title="School colors">Colours</a></th> 
+        <td>Green and gold<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><br /> <span style="background-color:#004F2E; color:; border:1px solid #000000; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="background-color:#FFC82E; color:; border:1px solid #000000; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;</span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Athletics</th> 
+        <td><a href="/wiki/Regina_Cougars" title="Regina Cougars">Regina Cougars</a> and <a href="/wiki/Regina_Rams" title="Regina Rams">Regina Rams</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Mascot</th> 
+        <td>Reggie the Cougar and Ram-page</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Affiliations</th> 
+        <td><a href="/wiki/L%27Association_des_universit%C3%A9s_de_la_francophonie_canadienne" title="L'Association des universit&eacute;s de la francophonie canadienne" class="mw-redirect">AUFC</a>, <a href="/wiki/Canadian_Association_of_Research_Libraries" title="Canadian Association of Research Libraries">CARL</a>, <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">CIS</a>, <a href="/wiki/Canadian_University_Society_for_Intercollegiate_Debate" title="Canadian University Society for Intercollegiate Debate">CUSID</a>, <a href="/wiki/University_of_the_Arctic" title="University of the Arctic">UArctic</a>, <a href="/wiki/Association_of_Universities_and_Colleges_of_Canada" title="Association of Universities and Colleges of Canada">UACC</a>, <a href="/wiki/Canada_West_Universities_Athletic_Association" title="Canada West Universities Athletic Association">CWUAA</a>, <a href="/wiki/Canadian_Bureau_for_International_Education" title="Canadian Bureau for International Education">CBIE</a>, <a href="/wiki/Canadian_University_Press" title="Canadian University Press">CUP</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Website</th> 
+        <td><a rel="nofollow" class="external text" href="http://www.uregina.ca/">www.uregina.ca</a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>The <b>University of Regina</b> is a <a href="/wiki/Public_university" title="Public university">public</a> <a href="/wiki/Research_university" title="Research university" class="mw-redirect">research university</a> located in <a href="/wiki/Regina,_Saskatchewan" title="Regina, Saskatchewan">Regina, Saskatchewan</a>, <a href="/wiki/Canada" title="Canada">Canada</a>. Founded in 1911 as a private denominational high school of the <a href="/wiki/Methodist_Church_of_Canada" title="Methodist Church of Canada">Methodist Church of Canada</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> it began an association with the <a href="/wiki/University_of_Saskatchewan" title="University of Saskatchewan">University of Saskatchewan</a> as a junior college in 1925, and was disaffiliated by the Church and fully ceded to the University in 1934; in 1961 it attained degree-granting status as the Regina Campus of the <a href="/wiki/University_of_Saskatchewan" title="University of Saskatchewan">University of Saskatchewan</a>. It became an autonomous university in 1974.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> The enabling legislation is <i>An Act Respecting the University of Regina, Chapter U-5.</i><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> The University of Regina has an enrolment of over 12,000 full and part-time students.<sup id="cite_ref-AUCCJul2011_1-1" class="reference"><a href="#cite_note-AUCCJul2011-1"><span>[</span>1<span>]</span></a></sup> The university's student newspaper, The Carillon, is a member of <a href="/wiki/Canadian_University_Press" title="Canadian University Press">CUP</a>.</p> 
+     <p>The University of Regina is well-reputed for having a focus on experiential learning<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> and offers internships, professional placements and practicums in addition to cooperative education placements in 41 programs.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> This experiential learning and career-preparation focus was further highlighted when, in 2009 the University of Regina launched the UR Guarantee Program, a unique program guaranteeing participating students a successful career launch after graduation. Partnership agreements with provincial crown corporations, government departments and private corporations have helped the University of Regina both place students in work experience opportunities and help gain employment post-study.</p> 
+     <table id="toc" class="toc"> 
+      <tbody>
+       <tr> 
+        <td> 
+         <div id="toctitle"> 
+          <h2>Contents</h2> 
+         </div> 
+         <ul> 
+          <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-2"><a href="#Origins"><span class="tocnumber">1.1</span> <span class="toctext">Origins</span></a></li> 
+            <li class="toclevel-2 tocsection-3"><a href="#Junior_college_of_the_University_of_Saskatchewan"><span class="tocnumber">1.2</span> <span class="toctext">Junior college of the University of Saskatchewan</span></a></li> 
+            <li class="toclevel-2 tocsection-4"><a href="#Regina_Campus"><span class="tocnumber">1.3</span> <span class="toctext">Regina Campus</span></a></li> 
+            <li class="toclevel-2 tocsection-5"><a href="#University_of_Regina"><span class="tocnumber">1.4</span> <span class="toctext">University of Regina</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-6"><a href="#Federated_Colleges.2C_Regional_Colleges_and_Associates"><span class="tocnumber">2</span> <span class="toctext">Federated Colleges, Regional Colleges and Associates</span></a></li> 
+          <li class="toclevel-1 tocsection-7"><a href="#Faculties"><span class="tocnumber">3</span> <span class="toctext">Faculties</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-8"><a href="#Co-operative_Education"><span class="tocnumber">3.1</span> <span class="toctext">Co-operative Education</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-9"><a href="#Residences"><span class="tocnumber">4</span> <span class="toctext">Residences</span></a></li> 
+          <li class="toclevel-1 tocsection-10"><a href="#Notable_faculty_and_alumni"><span class="tocnumber">5</span> <span class="toctext">Notable faculty and alumni</span></a></li> 
+          <li class="toclevel-1 tocsection-11"><a href="#Sports"><span class="tocnumber">6</span> <span class="toctext">Sports</span></a></li> 
+          <li class="toclevel-1 tocsection-12"><a href="#Media"><span class="tocnumber">7</span> <span class="toctext">Media</span></a></li> 
+          <li class="toclevel-1 tocsection-13"><a href="#Aboriginal"><span class="tocnumber">8</span> <span class="toctext">Aboriginal</span></a></li> 
+          <li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li> 
+          <li class="toclevel-1 tocsection-15"><a href="#Notes"><span class="tocnumber">10</span> <span class="toctext">Notes</span></a></li> 
+          <li class="toclevel-1 tocsection-16"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li> 
+          <li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>]</span></h2> 
+     <h3><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=2" title="Edit section: Origins">edit</a>]</span></h3> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:227px;">
+       <a href="/wiki/File:Regina_College_at_16th_Avenue_(now_College_Avenue)_and_Broad_Street,_1913._Building_under_construction..jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/45/Regina_College_at_16th_Avenue_%28now_College_Avenue%29_and_Broad_Street%2C_1913._Building_under_construction..jpg/225px-Regina_College_at_16th_Avenue_%28now_College_Avenue%29_and_Broad_Street%2C_1913._Building_under_construction..jpg" width="225" height="177" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/45/Regina_College_at_16th_Avenue_%28now_College_Avenue%29_and_Broad_Street%2C_1913._Building_under_construction..jpg/338px-Regina_College_at_16th_Avenue_%28now_College_Avenue%29_and_Broad_Street%2C_1913._Building_under_construction..jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/45/Regina_College_at_16th_Avenue_%28now_College_Avenue%29_and_Broad_Street%2C_1913._Building_under_construction..jpg/450px-Regina_College_at_16th_Avenue_%28now_College_Avenue%29_and_Broad_Street%2C_1913._Building_under_construction..jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Regina_College_at_16th_Avenue_(now_College_Avenue)_and_Broad_Street,_1913._Building_under_construction..jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Regina College, designed by James Henry Puntin (architect), under construction on 16th Avenue (now College Avenue), 1913
+       </div> 
+      </div> 
+     </div> 
+     <p>The University of Regina is a non-denominational university, which grew out of Regina College, founded in 1911.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> In direct response to the award of the University of Saskatchewan to Saskatoon rather than Regina, the <a href="/wiki/Methodist_Church_of_Canada" title="Methodist Church of Canada">Methodist Church of Canada</a> established Regina College in 1911 on College Avenue in Regina, Saskatchewan, starting with an enrollment of 27 students; it was adjacent to the now long-defunct St Chad's College (a theological seminary for the training of Anglican clergy) and Qu'Appelle Diocesan School, also on College Avenue. James Henry Puntin (architect) designed several buildings on campus including: Regina Methodist College (1910); East &amp; West Towers (1914); Ladies Residence (1914); Gymnasium (1925); Power Plant (1927); Music &amp; Arts Building (1928).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> &quot;In 1928, Darke Hall was built on College Avenue, [d]escribed...as ?an admirable theatre, one which few cities can rival.?<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:227px;">
+       <a href="/wiki/File:Darke_Hall.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Darke_Hall.jpg/225px-Darke_Hall.jpg" width="225" height="178" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Darke_Hall.jpg/338px-Darke_Hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Darke_Hall.jpg/450px-Darke_Hall.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Darke_Hall.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Stage inside Darke Hall, circa 1930.
+       </div> 
+      </div> 
+     </div> 
+     <p>In 1934 Regina College became part of the University of Saskatchewan.<sup id="cite_ref-autogenerated4_11-0" class="reference"><a href="#cite_note-autogenerated4-11"><span>[</span>11<span>]</span></a></sup> The <a href="/wiki/University_of_Saskatchewan" title="University of Saskatchewan">University of Saskatchewan</a> a single, public provincial university created in 1907 was modeled on the American state university, with an emphasis on extension work and applied research.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> The governance was modeled on the <i>University of Toronto Act</i>, 1906 which established a bicameral system of university government consisting of a senate (faculty), responsible for academic policy, and a board of governors (citizens) exercising exclusive control over financial policy and having formal authority in all other matters. The president, appointed by the board, was to provide a link between the 2 bodies and to perform institutional leadership.<sup id="cite_ref-autogenerated3_13-0" class="reference"><a href="#cite_note-autogenerated3-13"><span>[</span>13<span>]</span></a></sup> In the early part of this century, professional education expanded beyond the traditional fields of theology, law and medicine. Graduate training based on the German-inspired American model of specialized course work and the completion of a research thesis was introduced.<sup id="cite_ref-autogenerated3_13-1" class="reference"><a href="#cite_note-autogenerated3-13"><span>[</span>13<span>]</span></a></sup></p> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:202px;">
+       <a href="/wiki/File:Regina_College_Building.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Regina_College_Building.jpg/200px-Regina_College_Building.jpg" width="200" height="133" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Regina_College_Building.jpg/300px-Regina_College_Building.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d7/Regina_College_Building.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Regina_College_Building.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Regina College Building from west in 2010
+       </div> 
+      </div> 
+     </div> 
+     <p>Regina College commenced a formal association with the University of Saskatchewan as a junior college offering accredited university courses in 1925<sup id="cite_ref-autogenerated1_14-0" class="reference"><a href="#cite_note-autogenerated1-14"><span>[</span>14<span>]</span></a></sup> though continuing as a denominational college of the now-<a href="/wiki/United_Church_of_Canada" title="United Church of Canada">United Church of Canada</a>, the successor to the Methodist Church. Regina College continued as a Junior College until 1959, when it received full degree granting status as a second campus of the University of Saskatchewan.<sup id="cite_ref-autogenerated4_11-1" class="reference"><a href="#cite_note-autogenerated4-11"><span>[</span>11<span>]</span></a></sup></p> 
+     <p>However, in 1934, the United Church was financially hard pressed by the <a href="/wiki/Great_Depression" title="Great Depression">Great Depression</a> and in any case its history from the great <a href="/wiki/Egerton_Ryerson" title="Egerton Ryerson">Egerton Ryerson</a> of urgent advocacy of universal free public education made its involvement in private schools anomalous. It accordingly fully surrendered Regina College to the <a href="/wiki/University_of_Saskatchewan" title="University of Saskatchewan">University of Saskatchewan</a>. Regina College and its successor Regina Campus of the University of Saskatchewan and University of Regina have ? possibly unawares ? retained the Methodist motto &quot;as one who serves&quot; (Luke 22.27).</p> 
+     <p>The policy of university education initiated in the 1960s responded to population pressure and the belief that higher education was a key to social justice and economic productivity for individuals and for society.<sup id="cite_ref-autogenerated3_13-2" class="reference"><a href="#cite_note-autogenerated3-13"><span>[</span>13<span>]</span></a></sup> In 1961 the College was renamed the University of Saskatchewan, Regina Campus. In 1974 it became the independent University of Regina.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p> 
+     <p>The original United Church affiliation is, however, symbolically commemorated in the convocation furniture, resumed by the university for ceremonial use from one of the last downtown United Churches, which closed in the 1990s.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Junior_college_of_the_University_of_Saskatchewan">Junior college of the University of Saskatchewan</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=3" title="Edit section: Junior college of the University of Saskatchewan">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Regina_College_Building.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/e/eb/Regina_College_Building.JPG/220px-Regina_College_Building.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/eb/Regina_College_Building.JPG/330px-Regina_College_Building.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/eb/Regina_College_Building.JPG/440px-Regina_College_Building.JPG 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Regina_College_Building.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Regina College Building
+       </div> 
+      </div> 
+     </div> 
+     <p>With the transfer of control to the University of Saskatchewan the range of courses offered was somewhat broadened. During this period <a href="/wiki/Campion_College,_Regina" title="Campion College, Regina">Campion</a> and Luther Colleges, which maintained private high schools in Regina under the auspices respectively of the Roman Catholic and Lutheran churches, also retained junior college status in affiliation with the University of Saskatchewan; the <a href="/wiki/Anglican_Church_of_Canada" title="Anglican Church of Canada">Anglican Church</a> (then known as the Church of England in Canada), whose St Chad's College had operated a theological training facility in Regina but had never established substantial numbers in Canada west of Ontario compared with larger denominations, meanwhile merged with Emmanuel College in Saskatoon and withdrew from tertiary education in Regina.</p> 
+     <p>The upgrading process accelerated in 1961 when the college was granted full-degree granting status as the Regina Campus of the University of Saskatchewan and students completing degrees at Regina Campus were granted degrees of the University of Saskatchewan.<sup id="cite_ref-autogenerated1_14-1" class="reference"><a href="#cite_note-autogenerated1-14"><span>[</span>14<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="Regina_Campus">Regina Campus</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=4" title="Edit section: Regina Campus">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:302px;">
+       <a href="/wiki/File:Regina_Campus_from_Wascana_Lake_in_the_70s.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f8/Regina_Campus_from_Wascana_Lake_in_the_70s.jpg/300px-Regina_Campus_from_Wascana_Lake_in_the_70s.jpg" width="300" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f8/Regina_Campus_from_Wascana_Lake_in_the_70s.jpg/450px-Regina_Campus_from_Wascana_Lake_in_the_70s.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f8/Regina_Campus_from_Wascana_Lake_in_the_70s.jpg/600px-Regina_Campus_from_Wascana_Lake_in_the_70s.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Regina_Campus_from_Wascana_Lake_in_the_70s.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Regina Campus from Wascana Lake before it became University of Regina in June 1974.
+       </div> 
+      </div> 
+     </div> 
+     <p>The arts and sciences programs evolved with the growth of Regina Campus, which held its first <a href="/wiki/Convocation" title="Convocation">convocation</a> in 1965. The new campus was begun in 1966 on Wascana Lake, to the southeast of the old campus whose buildings, however, remain in use: the old Girls' Residence is now used by the Regina Conservatory of Music; the Normal School, having at various times housed not only the teacher-training facility that is now the University's Department of Education but the <a href="/wiki/Royal_Saskatchewan_Museum" title="Royal Saskatchewan Museum">Saskatchewan Museum of Natural History</a>, war-training facilities during World War II when it was temporarily resumed by the federal crown and latterly the University's Fine Arts Department, is now the <a href="/wiki/Canada-Saskatchewan_Soundstage" title="Canada-Saskatchewan Soundstage" class="mw-redirect">Canada-Saskatchewan Soundstage</a>.</p> 
+     <p>The original design of Regina Campus (as of <a href="/wiki/Wascana_Centre" title="Wascana Centre">Wascana Centre</a> itself) and its initial buildings, in a stark concrete <a href="/wiki/Modernist" title="Modernist" class="mw-redirect">modernist</a> style, were by <a href="/wiki/Minoru_Yamasaki" title="Minoru Yamasaki">Minoru Yamasaki</a>,<sup id="cite_ref-autogenerated1_14-2" class="reference"><a href="#cite_note-autogenerated1-14"><span>[</span>14<span>]</span></a></sup> the architect of the original <a href="/wiki/World_Trade_Center" title="World Trade Center">World Trade Center</a> in New York.</p> 
+     <p>Yamasaki's original vision was that:</p> 
+     <blockquote class="toccolours" style="float:none; padding: 10px 15px 10px 15px; display:table;"> 
+      <p>[the buildings] would be located close enough together that passage between them in the winter could be provided through connecting corridors in the &quot;podium&quot; or first [ground] floor of all buildings in the central instructional complex. Each podium would be larger than the remaining floors of the buildings rising above it, thereby creating the impression of separate buildings rising from a common base. The buildings would be constructed around sunken, landscaped courts which would be accessible visually and physically by generous windows and doors from the corridors located along these enclosing walls.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p> 
+     </blockquote> 
+     <p>Yamaski's vision of the new university campus as part of the wider <a href="/wiki/Wascana_Centre" title="Wascana Centre">Wascana Centre</a> involved the eventual <a href="/wiki/Saskatchewan_Centre_of_the_Arts" title="Saskatchewan Centre of the Arts" class="mw-redirect">Saskatchewan Centre of the Arts</a> as an adjacent convocation hall, which informed its placement on the south shore of Wascana Lake, some distance from the city centre, to the serious detriment of the city centre at a time when issues of inner-urban decay did not yet appear likely to affect Regina.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2008)">citation needed</span></a></i>]</sup> It was not immediately apparent that the development of the new campus would quickly stall: after an initial spate of development in the mid-60s and early 70s, building substantially lapsed for some years.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2008)">citation needed</span></a></i>]</sup> The <a href="/wiki/Dr._John_Archer_Library" title="Dr. John Archer Library">Dr. John Archer Library</a>, the main library of the university, was opened in 1967, one of the original three buildings of the new campus (the others being the classroom and laboratory buildings), and named after <a href="/wiki/John_Hall_Archer" title="John Hall Archer">Dr. John Archer</a> in 1999.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> Further building has been substantially in accord with Yamasaki's vision, notwithstanding some controversy over the years as to the suitability of its austere style for the featureless Regina plain; by 1972 with the demolition of Yamasaki's 1955 <a href="/wiki/Pruitt%E2%80%93Igoe" title="Pruitt?Igoe">Pruitt?Igoe</a> housing project in St. Louis, Missouri ? such demolition being considered by some to be the beginning of postmodern architecture ? Yamasaki's modernist aesthetic was already somewhat pass&eacute; in the view of many architects.</p> 
+     <p><a href="/wiki/Campion_College,_Regina" title="Campion College, Regina">Campion College</a> and later Luther College, which like Regina College had also been denominational junior colleges affiliated with the University of Saskatchewan, established &quot;federated college&quot; status on the model of <a href="/wiki/Victoria_University_in_the_University_of_Toronto" title="Victoria University in the University of Toronto" class="mw-redirect">Victoria</a>, <a href="/wiki/University_of_Trinity_College" title="University of Trinity College" class="mw-redirect">Trinity</a>, <a href="/wiki/University_of_St._Michael%27s_College" title="University of St. Michael's College" class="mw-redirect">St Michael's</a> and <a href="/wiki/University_College,_University_of_Toronto" title="University College, University of Toronto" class="mw-redirect">University</a> Colleges at the <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a> (and ultimately the collegiate system of <a href="/wiki/Oxford" title="Oxford">Oxford</a> and <a href="/wiki/Cambridge" title="Cambridge">Cambridge</a>) and built facilities at the new campus. (St Chad's, a fourth denominational college in Regina, operated by the <a href="/wiki/Anglican_Church_of_Canada" title="Anglican Church of Canada">Anglican Church of Canada</a> on the former Anglican diocesan property on College Avenue immediately to the east of Regina College, merged with Emmanuel College on the Saskatoon campus in 1964 and, after a period of continuing to operate its private girls' high school closed its Regina facilities in 1970.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup>)</p> 
+     <p>As with other rapidly expanding universities in the late 1960s, the Regina Campus of the University of Saskatchewan was able to benefit from a significant outflow of academics from American universities during the <a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a> era of U.S. history at a time when the supply of Canadian PhDs could not yet keep up with demand<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2008)">citation needed</span></a></i>]</sup>; it was labelled by a deputy commissioner of the <a href="/wiki/Royal_Canadian_Mounted_Police" title="Royal Canadian Mounted Police">Royal Canadian Mounted Police</a> (RCMP, the Canadian federal police force) as one of the three most radical campuses in Canada<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2008)">citation needed</span></a></i>]</sup>, along with Burnaby's <a href="/wiki/Simon_Fraser_University" title="Simon Fraser University">Simon Fraser University</a> and Sir George Williams University (now part of <a href="/wiki/Concordia_University_(Montreal)" title="Concordia University (Montreal)" class="mw-redirect">Concordia University</a>) in Montreal.</p> 
+     <p>In September 2000, the 600 City of Regina Wing of the Royal Canadian Air Force Association, erected a bronze war memorial plaque dedicated to the former personnel of No. 2 Initial Training School, who trained in the Conservatory of Music building during the Second World War. <sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p> 
+     <h3><span class="mw-headline" id="University_of_Regina">University of Regina</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=5" title="Edit section: University of Regina">edit</a>]</span></h3> 
+     <p>Disappointment as to the non-fulfilment of plans by the University of Saskatchewan to situate various faculties at the Regina rather than the Saskatoon campus and a range of other issues of discontent led to the formation of a Faculty Council with the goal of making the campus an autonomous institution<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2008)">citation needed</span></a></i>]</sup>; a Royal Commission under the chairmanship of former Chief Justice of Saskatchewan and Supreme Court of Canada Justice <a href="/wiki/Emmett_Matthew_Hall" title="Emmett Matthew Hall">Emmett Hall</a> found there to be &quot;two campus groups warring within the bosom of a single university.&quot;<sup id="cite_ref-autogenerated5_21-0" class="reference"><a href="#cite_note-autogenerated5-21"><span>[</span>21<span>]</span></a></sup></p> 
+     <p>As a result the University of Regina was established as an independent institution on 1 July 1974<sup id="cite_ref-autogenerated5_21-1" class="reference"><a href="#cite_note-autogenerated5-21"><span>[</span>21<span>]</span></a></sup> and the first University of Regina degrees were conferred at the spring convocation in 1975 ? although its development was slow until the 21st century, when a renewed burst of building and expansion occurred. That being said, numerous of the university's faculties are significantly smaller in the 21st century than they were in the 1970s as priorities have shifted from liberal arts to vocational training.</p> 
+     <p>The original Regina College buildings on College Avenue continue in use; the old Girls' Residence is now the Regina Conservatory of Music; in 1997 the Fine Arts Department moved from the old Normal School building to the new W.A. Riddell Centre<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> and the Normal School was substantially renovated to become the <a href="/wiki/Canada-Saskatchewan_Soundstage" title="Canada-Saskatchewan Soundstage" class="mw-redirect">Canada-Saskatchewan Soundstage</a>.</p> 
+     <p>The campus has experienced a recent spurt of growth and expansion, having been static for some two decades after the construction of the Language Institute at the end of the 1970s. Since the late 1990s, several new buildings have been added including the Dr. William A. Riddell Centre; the North and South Residences; the Centre for Kinesiology, Health &amp; Sport; <a href="/wiki/First_Nations_University_of_Canada" title="First Nations University of Canada">First Nations University of Canada</a> and Research &amp; Innovation Centre; along with a significant expansion of the Education Building.</p> 
+     <p>The building of the North and South Residences also involved a significant redevelopment of the landscaping of the campus around a new oval<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> as an aesthetic and community hub of campus. Future plans include construction on the east side of the Ring Road. The goal is to accommodate an enrolment of 25,000.</p> 
+     <p>In the summer of 2005 the University of Regina hosted the <a href="/wiki/2005_Canada_Games" title="2005 Canada Games">2005 Canada Games</a>. Many events took place in the newly completed state-of-the-art Centre for <a href="/wiki/Kinesiology" title="Kinesiology">Kinesiology</a>, Health and Sport. The administration of the games proceeded from the University of Regina Students Union offices and various other locations across campus.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p> 
+     <p>The <a href="/wiki/Regina_Research_Park" title="Regina Research Park" class="mw-redirect">Regina Research Park</a> is located immediately adjacent to the main campus and conducts many of its initiatives in conjunction with university departments. In recent years, local benefactors have substantially endowed the university with scholarships and chairs in various disciplines.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p> 
+     <ul class="gallery"> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:UofR_campus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fe/UofR_campus.jpg/120px-UofR_campus.jpg" width="120" height="90" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>U of R campus as seen from the Saskatchewan Science Centre in the first decade of the 21st century. From left: La Residence, Administration-Humanities Building, North Residence, Archer Library.</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:33px auto;">
+          <a href="/wiki/File:University_of_Regina_Library_viewed_from_the_Oval.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/University_of_Regina_Library_viewed_from_the_Oval.jpg/120px-University_of_Regina_Library_viewed_from_the_Oval.jpg" width="120" height="84" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Dr. John Archer Library, Main Campus</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Lab,_classroom_and_library_buildings.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lab%2C_classroom_and_library_buildings.jpg/120px-Lab%2C_classroom_and_library_buildings.jpg" width="120" height="90" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Classroom Building, Archer Library, and Research &amp; Innovation Centre (under construction), viewed from South Residence</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:58.5px auto;">
+          <a href="/wiki/File:Riddell_Building,_New_Campus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Riddell_Building%2C_New_Campus.jpg/120px-Riddell_Building%2C_New_Campus.jpg" width="120" height="33" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>The Terrace, Regina Research Park. South Residence and La R&eacute;sidence visible above.</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:35px auto;">
+          <a href="/wiki/File:Riddell_Centre_and_College_West.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Riddell_Centre_and_College_West.jpg/120px-Riddell_Centre_and_College_West.jpg" width="120" height="80" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Riddell Centre and College West</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:Terrace_Building,_University_of_Regina.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Terrace_Building%2C_University_of_Regina.jpg/120px-Terrace_Building%2C_University_of_Regina.jpg" width="120" height="90" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Terrace Building, at the Research Park</p> 
+        </div> 
+       </div> </li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Federated_Colleges.2C_Regional_Colleges_and_Associates">Federated Colleges, Regional Colleges and Associates</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=6" title="Edit section: Federated Colleges, Regional Colleges and Associates">edit</a>]</span></h2> 
+     <p>The University has three federated colleges:</p> 
+     <ul> 
+      <li><a href="/wiki/Campion_College,_Regina" title="Campion College, Regina">Campion College</a></li> 
+      <li><a href="/wiki/First_Nations_University_of_Canada" title="First Nations University of Canada">First Nations University of Canada</a></li> 
+      <li><a href="/wiki/Luther_College_(Saskatchewan)" title="Luther College (Saskatchewan)">Luther College</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></li> 
+     </ul> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:277px;">
+       <a href="/wiki/File:First_Nations_University,_University_of_Regina.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/First_Nations_University%2C_University_of_Regina.jpg/275px-First_Nations_University%2C_University_of_Regina.jpg" width="275" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/First_Nations_University%2C_University_of_Regina.jpg/413px-First_Nations_University%2C_University_of_Regina.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/First_Nations_University%2C_University_of_Regina.jpg/550px-First_Nations_University%2C_University_of_Regina.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:First_Nations_University,_University_of_Regina.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> First Nations University of Canada
+       </div> 
+      </div> 
+     </div> 
+     <p>Campion and Luther colleges had been high schools offering junior college courses accredited by the University of Saskatchewan on the same basis as the old Regina College, out of premises located elsewhere in Regina. <a href="/wiki/Campion_College,_Regina" title="Campion College, Regina">Campion College</a> became a junior college of the University of Saskatchewan like Regina College in 1923, later severed that association in favour of one with St Boniface College in Manitoba, and returned to federated college status with the University of Saskatchewan in 1964. It built its facilities on the new Regina Campus in 1968<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> and subsequently vacated its original high school premises on 23rd Avenue. Its Regina Campus building was designed in accordance with <a href="/wiki/Minoru_Yamasaki" title="Minoru Yamasaki">Minoru Yamasaki</a>'s original plan for the campus, with a &quot;podium,&quot; contemplated as eventually being joined with the campus-wide ground floor. Thus far this has not occurred and Campion's building remains isolated.</p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:First_Nations_University_and_main_campus_of_U_of_R.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/First_Nations_University_and_main_campus_of_U_of_R.jpg/220px-First_Nations_University_and_main_campus_of_U_of_R.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/First_Nations_University_and_main_campus_of_U_of_R.jpg/330px-First_Nations_University_and_main_campus_of_U_of_R.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/First_Nations_University_and_main_campus_of_U_of_R.jpg/440px-First_Nations_University_and_main_campus_of_U_of_R.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:First_Nations_University_and_main_campus_of_U_of_R.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> First Nations University on the left with Campion College, South and North Residences, Library and Language Institute and Administrative Humanities Building.
+       </div> 
+      </div> 
+     </div> 
+     <p>Luther College opened its building on the new Regina Campus in 1971 but continues to operate its high school on Royal Street,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> on the site of the first <a href="/wiki/Government_House_(Saskatchewan)" title="Government House (Saskatchewan)">Government House of the North-West Territories</a>. By this point the original Yamasaki plan for the campus was being reconsidered and the Luther College complex is isolated to the east of the principal campus buildings, though it is connected by an all-weather corridor via Campion College.</p> 
+     <p>The <a href="/wiki/First_Nations_University_of_Canada" title="First Nations University of Canada">First Nations University of Canada</a> grew out of the Saskatchewan Indian Federated College, established in 1976 and then housed in a building immediately west of College West. It was an original foundation at the University of Regina. Its new building to the east of Luther College replaced its original facilities to the west of College West and was opened by <a href="/wiki/Prince_Edward,_Earl_of_Wessex" title="Prince Edward, Earl of Wessex">Prince Edward</a> in 2003 and visited by the Queen in 2005 when she installed a commemorative stone to symbolise the special relationship between Canada's First Nations and the sovereign.</p> 
+     <p>The United Church, having vacated tertiary education in Regina when it ceded Regina College to the University of Saskatchewan,<sup id="cite_ref-autogenerated2_29-0" class="reference"><a href="#cite_note-autogenerated2-29"><span>[</span>29<span>]</span></a></sup> and the Anglican Church, having removed its St Chad's College from Regina to Saskatoon,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup> do not maintain any presence at the University of Regina. The Christian and Missionary Alliance Church formerly maintained the residential Canadian Bible College in Regina and offered some of its courses for accreditation with the University of Regina but was unable to obtain university status in Saskatchewan and vacated to Calgary in 2003.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></p> 
+     <p>Additionally, the University of Regina has two &quot;Affiliated Colleges:&quot; The <a href="/wiki/Gabriel_Dumont_Institute" title="Gabriel Dumont Institute">Gabriel Dumont Institute</a> and the <a href="/wiki/Saskatchewan_Institute_of_Applied_Science_and_Technology" title="Saskatchewan Institute of Applied Science and Technology">Saskatchewan Institute of Applied Science and Technology</a> (SIAST).<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> The university also has two &quot;Associated Colleges:&quot; <a href="/wiki/Athol_Murray_College_of_Notre_Dame" title="Athol Murray College of Notre Dame">Athol Murray College of Notre Dame</a> and <a href="/wiki/Briercrest_College_and_Seminary" title="Briercrest College and Seminary">Briercrest College and Seminary</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup> These institutions offer collaborative, associated, or articulated programs in conjunction with the University of Regina.</p> 
+     <p>Saskatchewan's network of Regional Colleges further extend program delivery across the province. The University of Regina offers courses through Cumberland College, Northlands College, North West Regional College, Great Plains College, Carlton Trail Regional College, Parkland College, and the South East Regional College.</p> 
+     <h2><span class="mw-headline" id="Faculties">Faculties</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=7" title="Edit section: Faculties">edit</a>]</span></h2> 
+     <p>The University of Regina has ten faculties and one school that offer a variety of programs at the certificate, diploma, undergraduate and graduate degree levels.</p> 
+     <table class="wikitable"> 
+      <tbody>
+       <tr> 
+        <th>Faculty</th> 
+        <th>Overview</th> 
+        <th>Degrees Offered</th> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Arts</td> 
+        <td>The U of R's largest faculty and is home to the social sciences, languages, and humanities.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> The Faculty of Arts offers the country's only Police Studies program.</td> 
+        <td>Bachelor of Arts, Bachelor of Human Justice, Bachelor of Fracophone Studies, Bachelor of Health Studies (jointly with Kinesiology), Bachelor of Journalism<sup id="cite_ref-ReferenceA_35-0" class="reference"><a href="#cite_note-ReferenceA-35"><span>[</span>35<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Business Administration<sup id="cite_ref-uregina.ca_36-0" class="reference"><a href="#cite_note-uregina.ca-36"><span>[</span>36<span>]</span></a></sup></td> 
+        <td>The Faculty encompasses both the Paul J. Hill School of Business (undergraduate programs<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup>) and the Kenneth Levene Graduate School of Business (graduate degree/certificate programs<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></td> 
+        <td>Bachelor of (Business) Administration,<sup id="cite_ref-ReferenceA_35-1" class="reference"><a href="#cite_note-ReferenceA-35"><span>[</span>35<span>]</span></a></sup> (Executive) Master of Business Administration, Master of Human Resource Management, Master of Administration<sup id="cite_ref-ReferenceB_39-0" class="reference"><a href="#cite_note-ReferenceB-39"><span>[</span>39<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Education</td> 
+        <td>Offers undergraduate and graduate-level level for primary and secondary-level teaching. One of the U of R's quota (competitive entry) programs.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></td> 
+        <td>Bachelor of Education, Bachelor of Human Resource Development, Bachelor of Dance, Bachelor of Music Education (jointly with Fine Arts),<sup id="cite_ref-ReferenceA_35-2" class="reference"><a href="#cite_note-ReferenceA-35"><span>[</span>35<span>]</span></a></sup> Master of (Adult) Education, Master of Human Resource Development<sup id="cite_ref-ReferenceB_39-1" class="reference"><a href="#cite_note-ReferenceB-39"><span>[</span>39<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Engineering &amp; Applied Science</td> 
+        <td>Engineering programs offered: Electronic Systems Engineering, Environmental Systems Engineering, Industrial Systems Engineering, Petroleum Systems Engineering, and Software Systems Engineering.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup> Students may add a specialization in the following disciplines: Communications Engineering, Controls, Digital Design, Power Electronics, Manufacturing Engineering, and Process Engineering.</td> 
+        <td>Bachelor of Applied Science,<sup id="cite_ref-ReferenceA_35-3" class="reference"><a href="#cite_note-ReferenceA-35"><span>[</span>35<span>]</span></a></sup> Master of Applied Science, Master of Engineering<sup id="cite_ref-ReferenceB_39-2" class="reference"><a href="#cite_note-ReferenceB-39"><span>[</span>39<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Fine Arts</td> 
+        <td>Home to the U of R's fine and performing arts and art study programs in the arts of visual art, theatre, music, and media production and studies.</td> 
+        <td>Bachelor of Arts, Bachelor of Fine Arts, Bachelor of Music, Bachelor of Music Education (jointly with Education),<sup id="cite_ref-ReferenceA_35-4" class="reference"><a href="#cite_note-ReferenceA-35"><span>[</span>35<span>]</span></a></sup> Master of Arts, Master of Fine Arts, Master of Music<sup id="cite_ref-ReferenceB_39-3" class="reference"><a href="#cite_note-ReferenceB-39"><span>[</span>39<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Graduate Studies &amp; Research</td> 
+        <td>Offers masters and doctoral study programs in conjunction with all other faculties.</td> 
+        <td>Various masters and PhD/doctoral programs<sup id="cite_ref-ReferenceB_39-4" class="reference"><a href="#cite_note-ReferenceB-39"><span>[</span>39<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Kinesiology &amp; Health Studies</td> 
+        <td></td> 
+        <td>Bachelor of Kinesiology, Bachelor of Sport &amp; Recreation Studies, Bachelor of Health Studies (jointly with Arts),<sup id="cite_ref-ReferenceA_35-5" class="reference"><a href="#cite_note-ReferenceA-35"><span>[</span>35<span>]</span></a></sup> Master of Science<sup id="cite_ref-ReferenceB_39-5" class="reference"><a href="#cite_note-ReferenceB-39"><span>[</span>39<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Nursing<sup id="cite_ref-ReferenceC_42-0" class="reference"><a href="#cite_note-ReferenceC-42"><span>[</span>42<span>]</span></a></sup></td> 
+        <td>Accepting its first intake in Fall 2011, offers a degree-track nursing program jointly with <a href="/wiki/SIAST" title="SIAST" class="mw-redirect">SIAST</a>.</td> 
+        <td>Bachelor of Science in Nursing<sup id="cite_ref-ReferenceC_42-1" class="reference"><a href="#cite_note-ReferenceC-42"><span>[</span>42<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Science</td> 
+        <td>Departments and programs include geology, biology, physics, math and statistics, chemistry and biochemistry, <a href="/wiki/University_of_Regina_Department_of_Computer_Science" title="University of Regina Department of Computer Science">computer science</a>, and actuarial science.</td> 
+        <td>Bachelor of Science, Bachelor of Medical Imaging, Bachelor of Medical Laboratory Science,<sup id="cite_ref-ReferenceA_35-6" class="reference"><a href="#cite_note-ReferenceA-35"><span>[</span>35<span>]</span></a></sup> Master of Arts, Master of Science<sup id="cite_ref-ReferenceB_39-6" class="reference"><a href="#cite_note-ReferenceB-39"><span>[</span>39<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <td>Faculty of Social Work</td> 
+        <td>With primary campuses in Regina and Saskatoon, and satellite campuses across Saskatchewan<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup> offers practice and research based programs of study.</td> 
+        <td>Bachelor of Social Work, Bachelor of Indian Social Work,<sup id="cite_ref-ReferenceA_35-7" class="reference"><a href="#cite_note-ReferenceA-35"><span>[</span>35<span>]</span></a></sup> Master of Social Work, Master of Aboriginal Social Work<sup id="cite_ref-ReferenceB_39-7" class="reference"><a href="#cite_note-ReferenceB-39"><span>[</span>39<span>]</span></a></sup></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>The University of Regina also has one school, the <a href="/wiki/Johnson-Shoyama_Graduate_School_of_Public_Policy" title="Johnson-Shoyama Graduate School of Public Policy">Johnson-Shoyama Graduate School of Public Policy</a>. It delivers Masters and Doctoral programs in conjunction with the <a href="/wiki/University_of_Saskatchewan" title="University of Saskatchewan">University of Saskatchewan</a>.</p> 
+     <p>The University of Regina also offers a number of pre-professional transfer programs with other universities and professional colleges: Agriculture and Bioresources, Chiropractic, Dentistry, Law, Medicine, Nutrition, Occupational Therapy, Optometry, Pharmacy, Physical Therapy, and Veterinary Medicine.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup></p> 
+     <p>At the centre of a predominantly English speaking campus, the Institut fran&ccedil;ais at the University of Regina offers a wide range of French programs, services and activities. The Institut directs and supports research projects related to francophones in minority situations, as well as unique university-community initiatives that contribute to the development of the Fransaskois community.</p> 
+     <h3><span class="mw-headline" id="Co-operative_Education">Co-operative Education</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=8" title="Edit section: Co-operative Education">edit</a>]</span></h3> 
+     <p>The University of Regina is the one of the universities with <a href="/wiki/Co-operative_education" title="Co-operative education" class="mw-redirect">co-operative education</a> in Saskatchewan. Many of the university undergraduate students are enrolled in the co-op program with the highest percentage being in the faculties of science and engineering. The Faculty of Arts offers an innovative internship program for its undergraduate students.</p> 
+     <h2><span class="mw-headline" id="Residences">Residences</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=9" title="Edit section: Residences">edit</a>]</span></h2> 
+     <div class="thumb tleft"> 
+      <div class="thumbinner" style="width:239px;">
+       <a href="/wiki/File:College_West.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/College_West.jpg/237px-College_West.jpg" width="237" height="178" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/College_West.jpg/356px-College_West.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/College_West.jpg/474px-College_West.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:College_West.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> College West viewed from the South Residence, across the Barber Academic Green.
+       </div> 
+      </div> 
+     </div> 
+     <p>Regina College originally housed male and female student residences which were converted to academic use when the College became affiliated with the University of Saskatchewan in 1934. (The old Girls' Residence now accommodates the Regina Conservatory of Music.)</p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:239px;">
+       <a href="/wiki/File:U_of_R_North_and_South_Residences.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U_of_R_North_and_South_Residences.jpg/237px-U_of_R_North_and_South_Residences.jpg" width="237" height="178" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/e4/U_of_R_North_and_South_Residences.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e4/U_of_R_North_and_South_Residences.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:U_of_R_North_and_South_Residences.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> North and South Residences, from southwest on Oval.
+       </div> 
+      </div> 
+     </div> 
+     <p>The Main (Wascana) Campus has residence space for about 1,200 students on-campus. Each bedroom is single-occupant, but many spaces on campus are designed to facilitate double occupancy, increasing capacity if required to address high demand without building additional residence space. The University of Regina residences have enlivened campus life from the somewhat bleak atmosphere of its founding days:</p> 
+     <ul> 
+      <li>College West, the first on-campus residential accommodation, constructed in 1972.<sup id="cite_ref-autogenerated2_29-1" class="reference"><a href="#cite_note-autogenerated2-29"><span>[</span>29<span>]</span></a></sup> Offers apartment-style residence living. The building also houses classrooms, academic and business offices and the Bookstore, previously located first in the Classroom Building and then the Administration Humanities Building.</li> 
+      <li>La R&eacute;sidence in the Language Institute, gives priority to francophone students and those studying international languages. Offers dorm-style residence living. It maintains a French-speaking student atmosphere.<sup id="cite_ref-autogenerated2_29-2" class="reference"><a href="#cite_note-autogenerated2-29"><span>[</span>29<span>]</span></a></sup></li> 
+      <li>North and South Residences, completed in 2004.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>45<span>]</span></a></sup> Two symmetrical, twelve-floor towers housing apartment, studio, and dorm-style residences. These buildings form the centre pinnacle for the campus and also house both External/Alumni Relations and the Faculty of Graduate Studies &amp; Research.</li> 
+      <li><a href="/wiki/Luther_College_(Saskatchewan)" title="Luther College (Saskatchewan)">Luther College Residences</a>, part of Luther College (the University's second federated college and second on-campus residence), opened in 1971.<sup id="cite_ref-autogenerated2_29-3" class="reference"><a href="#cite_note-autogenerated2-29"><span>[</span>29<span>]</span></a></sup> Luther offers more traditional dorm-style residences with some shared facilities.</li> 
+     </ul> 
+     <p>The University of Regina internally designates a significant portion of spaces annually to incoming (first year) students in an effort to facilitate the growing number of non-resident (international, out-of-province, rural) students choosing to live on-campus.</p> 
+     <h2><span class="mw-headline" id="Notable_faculty_and_alumni">Notable faculty and alumni</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=10" title="Edit section: Notable faculty and alumni">edit</a>]</span></h2> 
+     <dl> 
+      <dd> 
+       <div class="notice plainlinks">
+        <i>This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Regina&amp;action=edit">expanding it</a></i>.
+       </div> 
+      </dd> 
+     </dl> 
+     <ul> 
+      <li><a href="/wiki/Janice_Acoose" title="Janice Acoose">Janice Acoose</a>, author, newspaper columnist, filmmaker, indigenous language advocate and professor of indigenous and English literature at First Nations University</li> 
+      <li><a href="/wiki/Lee_Ward,_PhD." title="Lee Ward, PhD." class="mw-redirect">Lee Ward, PhD.</a>, noted political scientist</li> 
+      <li><a href="/wiki/Gordon_Barnhart" title="Gordon Barnhart">Gordon Barnhart</a>, <a href="/wiki/SOM" title="SOM" class="mw-redirect">SOM</a>, author, former secretary of the House of Commons, and former Lieutenant-Governor of Saskatchewan</li> 
+      <li><a href="/w/index.php?title=Gordon_Asmundson&amp;action=edit&amp;redlink=1" class="new" title="Gordon Asmundson (page does not exist)">Gordon Asmundson</a>, professor of psychology, Fellow of Royal Society of Canada.</li> 
+      <li><a href="/wiki/Roy_Bonisteel" title="Roy Bonisteel">Roy Bonisteel</a>, <a href="/wiki/Laurier_LaPierre" title="Laurier LaPierre">Laurier LaPierre</a>, <a href="/wiki/Knowlton_Nash" title="Knowlton Nash">Knowlton Nash</a>, Bill Cunningham, <a href="/wiki/Val_Sears" title="Val Sears">Val Sears</a>, <a href="/wiki/Myrna_Kostash" title="Myrna Kostash">Myrna Kostash</a>, <a href="/wiki/Walter_Stewart_(journalist)" title="Walter Stewart (journalist)">Walter Stewart</a>, <a href="/wiki/John_Sawatsky" title="John Sawatsky">John Sawatsky</a> and <a href="/wiki/Maggie_Siggins" title="Maggie Siggins">Maggie Siggins</a>, <i>inter alios</i>, have been visiting professors in the School of Journalism.</li> 
+      <li><a href="/wiki/Robert_Boyer_(artist)" title="Robert Boyer (artist)">Bob Boyer</a> (1948?2004), visual artist, Professor and Head of Indian Fine Arts, SIFC.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>46<span>]</span></a></sup></li> 
+      <li><a href="/wiki/Gail_Bowen" title="Gail Bowen">Gail Bowen</a>, playwright and writer of mystery novels, was associate professor of English at First Nations University</li> 
+      <li><a href="/wiki/Lorne_Calvert" title="Lorne Calvert">Lorne Calvert</a>, Premier of Saskatchewan (2001?2007)</li> 
+      <li><a href="/wiki/Sylvain_Charlebois" title="Sylvain Charlebois">Sylvain Charlebois</a>, food and agriculture expert</li> 
+      <li><a href="/wiki/Jason_Clermont" title="Jason Clermont">Jason Clermont</a>, Canadian Football Player</li> 
+      <li><a href="/wiki/Saros_Cowasjee" title="Saros Cowasjee">Saros Cowasjee</a>, novelist, short story writer, critic, anthologist, screenwriter<sup id="cite_ref-47" class="reference"><a href="#cite_note-47"><span>[</span>47<span>]</span></a></sup></li> 
+      <li><a href="/wiki/Jonathan_Denis" title="Jonathan Denis">Jonathan Denis</a>, Alberta MLA and Minister of Housing and Urban Affairs (1997)</li> 
+      <li><a href="/wiki/Shadia_Drury" title="Shadia Drury">Shadia B. Drury</a>, professor of political science and philosophy; <a href="/wiki/Canada_Research_Chair" title="Canada Research Chair">Canada Research Chair</a> in <a href="/wiki/Social_justice" title="Social justice">Social Justice</a></li> 
+      <li>Douglas Dunsmore, music faculty member at the Memorial University of Newfoundland and eminent choir director in St John's</li> 
+      <li><a href="/wiki/Chris_Getzlaf" title="Chris Getzlaf">Chris Getzlaf</a>, Canadian Football Player</li> 
+      <li><a href="/wiki/Joan_Givner" title="Joan Givner">Joan Givner</a>, biographer, novelist and short story writer<sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>48<span>]</span></a></sup></li> 
+      <li><a href="/wiki/Glenda_Goertzen" title="Glenda Goertzen">Glenda Goertzen</a>, children's author</li> 
+      <li><a href="/wiki/Ralph_Goodale" title="Ralph Goodale">Ralph Goodale</a>, Member of Parliament, former Minister of Finance</li> 
+      <li><a href="/w/index.php?title=Thomas_Hadjistavropoulos&amp;action=edit&amp;redlink=1" class="new" title="Thomas Hadjistavropoulos (page does not exist)">Thomas Hadjistavropoulos</a>, professor of psychology, RBC Senior Research Fellow, former president Canadian Psychological Association, Fellow of Canadian Academy of Health Sciences</li> 
+      <li><a href="/wiki/Eric_Grimson" title="Eric Grimson">Eric Grimson</a> (BSc 1975 ), computer scientist and Chancellor of <a href="/wiki/MIT" title="MIT" class="mw-redirect">MIT</a><sup id="cite_ref-MIT_news_49-0" class="reference"><a href="#cite_note-MIT_news-49"><span>[</span>49<span>]</span></a></sup></li> 
+      <li><a href="/wiki/John_Hewson" title="John Hewson">John Hewson</a>, former Australian federal opposition leader</li> 
+      <li><a href="/wiki/Donald_Kendrick" title="Donald Kendrick">Donald Kendrick</a>, 1970s music faculty member as to choir and organ; subsequently in successive universities and choir master in assorted cities in eastern Canada and the USA; presently in California</li> 
+      <li><a href="/wiki/Imp_labs" title="Imp labs" class="mw-redirect">Charity Marsh</a>, assistant professor of Media Production and Studies, Canada Research Chair in Interactive Media and Performance</li> 
+      <li><a href="/w/index.php?title=Gregory_Marchildon&amp;action=edit&amp;redlink=1" class="new" title="Gregory Marchildon (page does not exist)">Gregory Marchildon</a>, Executive Director, The <a href="/wiki/Romanow_Report" title="Romanow Report" class="mw-redirect">Romanow Report</a></li> 
+      <li><a href="/wiki/Ken_Mitchell" title="Ken Mitchell">Ken Mitchell</a>, novelist and playwright<sup id="cite_ref-50" class="reference"><a href="#cite_note-50"><span>[</span>50<span>]</span></a></sup></li> 
+      <li><a href="/wiki/Zenon_Pylyshyn" title="Zenon Pylyshyn">Zenon Pylyshyn</a>, Rutgers University, leading authority in cognitive science, Ph.D. (1963) University of Saskatchewan (Regina Campus)</li> 
+      <li><a href="/wiki/Elizabeth_Raum" title="Elizabeth Raum">Elizabeth Raum</a>, Canadian oboist and composer</li> 
+      <li><a href="/wiki/Jon_Ryan" title="Jon Ryan">Jon Ryan</a>, CFL and NFL punter</li> 
+      <li><a href="/wiki/Christine_Selinger" title="Christine Selinger">Christine Selinger</a>, Canadian paracanoe gold medalist</li> 
+      <li><a href="/wiki/Jordan_Sisco" title="Jordan Sisco">Jordan Sisco</a> CFL wide receiver</li> 
+      <li><a href="/wiki/Dione_Taylor" title="Dione Taylor">Dione Taylor</a> (BFA), a noted jazz singer</li> 
+      <li><a href="/wiki/Guy_Vanderhaeghe" title="Guy Vanderhaeghe">Guy Vanderhaeghe</a>, novelist<sup id="cite_ref-51" class="reference"><a href="#cite_note-51"><span>[</span>51<span>]</span></a></sup></li> 
+      <li>Senator <a href="/wiki/Pamela_Wallin" title="Pamela Wallin">Pamela Wallin</a>, former national broadcaster and Canadian Consul in New York</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=11" title="Edit section: Sports">edit</a>]</span></h2> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:302px;">
+       <a href="/wiki/File:UofR_Athletic.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/UofR_Athletic.jpg/300px-UofR_Athletic.jpg" width="300" height="228" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/UofR_Athletic.jpg/450px-UofR_Athletic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/UofR_Athletic.jpg/600px-UofR_Athletic.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:UofR_Athletic.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> U of R Athletic Wall of Excellence
+       </div> 
+      </div> 
+     </div> 
+     <p>The University of Regina is a member of <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">Canadian Interuniversity Sport</a> and fields men and women's teams in various sports. Its teams bear the name &quot;<a href="/wiki/Regina_Cougars" title="Regina Cougars">Cougars</a>&quot; in all sports, except the <a href="/wiki/Regina_Rams" title="Regina Rams">Regina Rams</a>, which were originally a community junior football team competing in PJFC football without affiliation with the University, and who joined University ranks in 1999 as a member of the Canada West Conference of Canadian Interuniversity Sport. The University sports teams are: the Regina Rams (football); men's basketball; women's basketball; men's volleyball; women's volleyball; men's hockey; women's hockey; women's soccer; track and field; swimming; cross country; wrestling; and cheerleading. In the summer of <a href="/wiki/2005_Canada_Games" title="2005 Canada Games">2005</a>, the University hosted the <a href="/wiki/Canada_Summer_Games" title="Canada Summer Games" class="mw-redirect">Canada Summer Games</a>.</p> 
+     <h2><span class="mw-headline" id="Media">Media</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=12" title="Edit section: Media">edit</a>]</span></h2> 
+     <p>The university's <a href="/wiki/Student_newspaper" title="Student newspaper">student newspaper</a> is <i><a href="/wiki/The_Carillon" title="The Carillon">The Carillon</a></i>. It for many years was an organ of radical student dissent and in the 60s and 70s frequently had a very high community profile as its editorial postures occasioned vigorous denunciation by university administration figures and in the conservative general press. As student mores in subsequent generations have become less disputatious the <i>Carillon</i> has evolved into a less political paper which currently is a somewhat conventional newsletter of campus affairs.</p> 
+     <p>The university is home to the School of Journalism, which was one of the first established in western Canada. The School publishes a student periodical, <i>The Crow</i>, and hosts the annual Minifie lecture, in honour of one of Canada's most illustrious journalists, James M. Minifie (1900?1974).</p> 
+     <p>The University of Regina does not have its own <a href="/wiki/Campus_radio" title="Campus radio">campus radio</a> station, although the independent <a href="/wiki/Community_radio" title="Community radio">community radio</a> station <a href="/wiki/CJTR-FM" title="CJTR-FM">CJTR-FM</a> actively solicits volunteers among the school's student body.</p> 
+     <p>The school launched <a rel="nofollow" class="external text" href="http://www2.uregina.ca/yourblog">Your Official University of Regina blog (YOURblog)</a> in October 2010, a place where the U of R community and the public can read, discuss and share ideas and experiences with each other and the connection between campus and the world. YOURblog strives to be interesting, informative and above all collaborative. In that spirit, the site and its content are shaped by site visitors? <a rel="nofollow" class="external text" href="http://www2.uregina.ca/yourblog/?page_id=19">input and participation</a>.</p> 
+     <p>The University of Regina is home to the Interactive Media and Performance Labs (<a href="/wiki/IMP_Labs" title="IMP Labs">IMP Labs</a>), which includes programming for the student body as well as members of the community. The Labs have been particularly recognized through the IMP Labs Hip Hop Project with <a href="/wiki/Scott_Collegiate" title="Scott Collegiate">Scott Collegiate</a>. The directors of this program, Dr. Charity Marsh and Chris Beingessner, received the Lieutenant Governor's Arts Awards for Arts and Learning through the <a href="/wiki/Saskatchewan_Arts_Board" title="Saskatchewan Arts Board">Saskatchewan Arts Board</a>.</p> 
+     <h2><span class="mw-headline" id="Aboriginal">Aboriginal</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=13" title="Edit section: Aboriginal">edit</a>]</span></h2> 
+     <p>The University of Regina provides services to Aboriginal people in more remote communities. The University of Regina?s SUNTEP program was developed in partnership with specific Aboriginal communities to meet specific needs within Aboriginal communities. Aboriginal Elders are present on campus at University of Regina to provide social supports. Through the University of Regina?s K&acirc;spohtamat&acirc;t&acirc;n Mentorship Program Aboriginal students act as role models to younger students still in their home communities. The University of Regina has established an Aboriginal Career Centre to assist with the transition to a fulfilling career.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>52<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a>]</span></h2> 
+     <div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;"> 
+      <table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;"> 
+       <tbody>
+        <tr valign="middle"> 
+         <td style="text-align:center;"><a href="/wiki/File:School.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/28px-School.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/42px-School.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/56px-School.svg.png 2x" /></a></td> 
+         <td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:University_of_the_Arctic" title="Portal:University of the Arctic">University of the Arctic portal</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <ul> 
+      <li><a href="/wiki/Regina_Public_Library" title="Regina Public Library">Regina Public Library</a></li> 
+      <li><a href="/wiki/List_of_agricultural_universities_and_colleges" title="List of agricultural universities and colleges">List of agricultural universities and colleges</a></li> 
+      <li><a href="/w/index.php?title=List_of_universities_with_industrial_engineering_faculty&amp;action=edit&amp;redlink=1" class="new" title="List of universities with industrial engineering faculty (page does not exist)">List of universities with industrial engineering faculty</a></li> 
+      <li><a href="/wiki/Higher_education_in_Saskatchewan" title="Higher education in Saskatchewan">Higher education in Saskatchewan</a></li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=15" title="Edit section: Notes">edit</a>]</span></h2> 
+     <div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-AUCCJul2011-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-AUCCJul2011_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AUCCJul2011_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.aucc.ca/publications/stats/enrol_e.html">http://www.aucc.ca/publications/stats/enrol_e.html</a> Retrieved July 9, 2011</span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.uregina.ca/external/communications/visual-id/uofr-web-colours.html">&quot;University Website Colours&quot;</a>. University of Regina<span class="reference-accessdate">. Retrieved 12 February 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Regina&amp;rft.btitle=University+Website+Colours&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.uregina.ca%2Fexternal%2Fcommunications%2Fvisual-id%2Fuofr-web-colours.html&amp;rft.pub=University+of+Regina&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">later the <a href="/wiki/United_Church_of_Canada" title="United Church of Canada">United Church of Canada</a>, at the time there were also in Regina denominational private schools operated by the <a href="/wiki/Anglican_Church_of_Canada" title="Anglican Church of Canada">Church of England</a>, the <a href="/wiki/Roman_Catholic" title="Roman Catholic" class="mw-redirect">Roman Catholic</a> Sisters of Our Lady of the Missions and <a href="/wiki/Jesuit_Order" title="Jesuit Order" class="mw-redirect">Jesuit Order</a>, and some few years later, the Lutherans. <i>Vide infra</i>.</span></li> 
+       <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esask.uregina.ca/entry/university_of_regina.html">James M. Pitsula, &quot;University of Regina,&quot; <i>Encyclopedia of Saskatchewan</i>.</a> Retrieved 19 November 2007.</span></li> 
+       <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.qp.gov.sk.ca/publications/index.cfm?fuseaction=details&amp;c=2036&amp;id=2">http://www.qp.gov.sk.ca/publications/index.cfm?fuseaction=details&amp;c=2036&amp;id=2</a> <i>An Act Respecting the University of Regina, Chapter U-5</i></span></li> 
+       <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Guide to Canadian Universities (2011 Edition). Maclean's 2011.</span></li> 
+       <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/gencal/ugcal/servicesForStudents/ugcal_103.shtml#coopProgram">http://www.uregina.ca/gencal/ugcal/servicesForStudents/ugcal_103.shtml#coopProgram</a></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0008257">Nancy Brown Foulds, &quot;University of Regina,&quot; <i>The Canadian Encyclopedia</i></a> Retrieved 18 June 2008.</span></li> 
+       <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://dictionaryofarchitectsincanada.org/architects/view/622">http://dictionaryofarchitectsincanada.org/architects/view/622</a> James Henry Puntin (architect)</span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esask.uregina.ca/Lyn">Goldman, &quot;Regina Little Theatre,&quot; <i>The Encyclopedia of Saskatchewan</i></a> Retrieved 18 February 2012.</span></li> 
+       <li id="cite_note-autogenerated4-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated4_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated4_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Foulds, op. cit.</span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0008242">P. Anisef and J. Lennards, &quot;University,&quot; <i>The Encyclopedia of Canada</i>.</a> Retrieved 18 June 2008.</span></li> 
+       <li id="cite_note-autogenerated3-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated3_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated3_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-autogenerated3_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Anicef and Lennards, op. cit.</span></li> 
+       <li id="cite_note-autogenerated1-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-autogenerated1_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esask.uregina.ca/entry/university_of_regina.html">Jim Pitsula, &quot;University of Regina,&quot; in Encyclopedia of Saskatchewan.</a> Retrieved 14 July 2007.</span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation book">Pound, Richard W. (2005). <i>'Fitzhenry and Whiteside Book of Canadian Facts and Dates'</i>. Fitzhenry and Whiteside.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Regina&amp;rft.aufirst=Richard+W.&amp;rft.aulast=Pound&amp;rft.au=Pound%2C+Richard+W.&amp;rft.btitle=%27Fitzhenry+and+Whiteside+Book+of+Canadian+Facts+and+Dates%27&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=Fitzhenry+and+Whiteside&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">It was Carmichael United Church in the East End of Regina, which closed in 1996, whose chancel furniture is now used by the University of Regina at formal ceremonies.</span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Fletcher, Tom. &quot;The Work of Minoru Yamasaki,&quot; <i>New York Architecture Images and Notes</i>. Internet: <a rel="nofollow" class="external free" href="http://www.nyc-architecture.com/GON/GON001G.htm">http://www.nyc-architecture.com/GON/GON001G.htm</a>.</span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">It was the first building on the new campus to be named after an individual, Darke Hall on the Regina College campus having been named in 1929 after Francis Nicholson Darke, an early benefactor of Regina College.</span></li> 
+       <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Neither the United nor the Anglican Church now maintains any continuing official involvement with the University despite their pioneering work in tertiary education in Regina. After the Anglicans closed their tertiary facility St Chad's girls' school continued to be run by the Sisters of St John the Divine, a Canadian Anglican religious order. During this period the Canadian Roman Catholic religious order the Sisters of Our Lady of the Missions also closed their Marian High School and Sacred Heart Academy as did the <a href="/wiki/Society_of_Jesus" title="Society of Jesus">Jesuits</a> their Campion High School when they moved their tertiary educational activities in Regina to their new Campion College on the new campus.</span></li> 
+       <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cmp-cpm.forces.gc.ca/dhh-dhp/nic-inm/sm-rm/mdsr-rdr-eng.asp?PID=2462">http://www.cmp-cpm.forces.gc.ca/dhh-dhp/nic-inm/sm-rm/mdsr-rdr-eng.asp?PID=2462</a> Second World War memorial plaque</span></li> 
+       <li id="cite_note-autogenerated5-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated5_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated5_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Pitsula.</span></li> 
+       <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Pitsula</span></li> 
+       <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.uregina.ca/campusgrowth/projects/completed/academicgreen.shtml">&quot;The Dr Lloyd Barber Academic Green.&quot;</a> Retrieved 17 July 2006.</span></li> 
+       <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/canadagames/newsletter/sept04.pdf">http://www.uregina.ca/canadagames/newsletter/sept04.pdf</a></span></li> 
+       <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">For example, the Dr. Morris C. Shumiatcher Graduate Fellowship in English, endowed by Morris Shumiatcher's widow Dr. Jacqui Shumiatcher in 2006.<a rel="nofollow" class="external text" href="http://www.uregina.ca/campaign/news/Shumiatcher%20donates%20$225,000%20to%20support%20English%20graduate%20students_Oct5_06.shtml">Shumiatcher donates $225,000 to support English graduate students</a> Retrieved 14 July 2007.</span></li> 
+       <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">See <a rel="nofollow" class="external text" href="http://www.luthercollege.edu/">Luther College website</a></span></li> 
+       <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esask.uregina.ca/entry/campion_college_university_of_regina.html">Joanne Kozlowski, Kenneth McGovern, &quot;Campion College,&quot; <i>The Encyclopedia of Saskatchewan</i></a> retrieved 12 July 2007.</span></li> 
+       <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esask.uregina.ca/entry/luther_college_university_of_regina.html">&quot;Luther College,&quot; <i>Encyclopedia of Saskatchewan</i></a>, retrieved 12 July 2007.</span></li> 
+       <li id="cite_note-autogenerated2-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated2_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated2_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-autogenerated2_29-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-autogenerated2_29-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esask.uregina.ca/entry/university_of_regina.html">&quot;University of Regina,&quot; Encyclopedia of Saskatchewan.</a> Retrieved 18 July 2007.</span></li> 
+       <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esask.uregina.ca/entry/anglican_church_of_canada.html">&quot;Anglican Church of Canada,&quot; <i>Encyclopedia of Saskatchewan</i>.</a> Retrieved 18 July 2007.</span></li> 
+       <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esask.uregina.ca/entry/canadian_bible_college__canadian_theological_seminary.html">&quot;Canadian Bible College/Canadian Theological Seminary,&quot; Encyclopedia of Saskatchewan.</a> Retrieved 18 July 2007.</span></li> 
+       <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/gencal/ugcal/affiliatedAssociatedColleges/index.shtml">http://www.uregina.ca/gencal/ugcal/affiliatedAssociatedColleges/index.shtml</a></span></li> 
+       <li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/gencal/ugcal/affiliatedAssociatedColleges/index.shtml">http://www.uregina.ca/gencal/ugcal/affiliatedAssociatedColleges/index.shtml</a></span></li> 
+       <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://arts.uregina.ca/general-public">http://arts.uregina.ca/general-public</a></span></li> 
+       <li id="cite_note-ReferenceA-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_35-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ReferenceA_35-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ReferenceA_35-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ReferenceA_35-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ReferenceA_35-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ReferenceA_35-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-ReferenceA_35-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/gencal/ugcal/glossary/ugcal_410.shtml">http://www.uregina.ca/gencal/ugcal/glossary/ugcal_410.shtml</a></span></li> 
+       <li id="cite_note-uregina.ca-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-uregina.ca_36-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/orp/FactBrochure/FactsBrochure2009.pdf">http://www.uregina.ca/orp/FactBrochure/FactsBrochure2009.pdf</a></span></li> 
+       <li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/admin/academic/business_school/index.htm">http://www.uregina.ca/admin/academic/business_school/index.htm</a></span></li> 
+       <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://levene.uregina.ca/index.html">http://levene.uregina.ca/index.html</a></span></li> 
+       <li id="cite_note-ReferenceB-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceB_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceB_39-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ReferenceB_39-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ReferenceB_39-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ReferenceB_39-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ReferenceB_39-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ReferenceB_39-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-ReferenceB_39-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/gradstudies/calendar/programs_overview.shtml">http://www.uregina.ca/gradstudies/calendar/programs_overview.shtml</a></span></li> 
+       <li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/gencal/ugcal/admissionTransfer/ugcal_13.shtml#facultyEducation">http://www.uregina.ca/gencal/ugcal/admissionTransfer/ugcal_13.shtml#facultyEducation</a></span></li> 
+       <li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cemf.ca/Engineering/UniversityList.htm">Canadian Engineering Memorial Foundation - University List</a></span></li> 
+       <li id="cite_note-ReferenceC-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceC_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceC_42-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/gencal/ugcal/facultyofNursing/index.shtml">http://www.uregina.ca/gencal/ugcal/facultyofNursing/index.shtml</a></span></li> 
+       <li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/gencal/ugcal/facultyofSocialWork/ugcal_346.shtml#campuses">http://www.uregina.ca/gencal/ugcal/facultyofSocialWork/ugcal_346.shtml#campuses</a></span></li> 
+       <li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.uregina.ca/gencal/ugcal/transferPrograms/index.shtml">http://www.uregina.ca/gencal/ugcal/transferPrograms/index.shtml</a></span></li> 
+       <li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.uregina.ca/campusgrowth/">University of Regina Campus Growth: Residence Buildings.</a> Retrieved 18 July 2007.</span></li> 
+       <li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0010115">http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0010115</a></span></li> 
+       <li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><i>Goodbye to Elsa</i> (1974); <i>Mulk Raj Anand: Coolie&nbsp;: an assessment</i> (1976); <i>Nude therapy</i> (1978); <i>So Many Freedoms: Major Fiction of Mulk-Raj Anand</i> (1978); <i>The last of the maharajas: A screen play based on Mulk Raj Anand's Private life of an Indian Prince</i> (1980); <i>Modern Indian Fiction</i> (1981); <i>Suffer little children</i> (1982); <i>Stories from the Raj</i> (1983); <i>Women Writers of the Raj</i> (1990); <i>Studies in Indian and Anglo-Indian Fiction</i> (1995); <i>The Assistant Professor</i> (2000)</span></li> 
+       <li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><i>Half Known Lives</i> (2000); <i>In the Garden of Henry James</i> (1996); <i>Scenes from Provincial Life</i> (1991); <i>Unfortunate Incidents</i> (1988); <i>Tentacles of Unreason</i> (1985); biographer (<i>Katherine Anne Porter: A life</i> (1982) <i>Mazo de la Roche: The Hidden Life</i> (1989); essayist and memoirist (<i>Thirty-Four Ways of Looking at Jane Eyre</i> (1998); <i>The Self-Portrait of a Literary Biographer</i> (1993); Room of One's Own (1992)</span></li> 
+       <li id="cite_note-MIT_news-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-MIT_news_49-0">^</a></b></span> <span class="reference-text"><span id="CITEREFMIT_News_Office2011" class="citation">MIT News Office (10 February 2011), <a rel="nofollow" class="external text" href="http://web.mit.edu/newsoffice/2011/grimson-chancellor-0210.html"><i>Professor Eric Grimson named next chancellor: Current head of the Department of Electrical Engineering and Computer Science to succeed Phillip L. Clay</i></a>, Massachusetts Institute of Technology</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Regina&amp;rft.aulast=MIT+News+Office&amp;rft.au=MIT+News+Office&amp;rft.btitle=Professor+Eric+Grimson+named+next+chancellor%3A+Current+head+of+the+Department+of+Electrical+Engineering+and+Computer+Science+to+succeed+Phillip+L.+Clay&amp;rft.date=10+February+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Fnewsoffice%2F2011%2Fgrimson-chancellor-0210.html&amp;rft.pub=Massachusetts+Institute+of+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><i>Stones of the Dalai Lama</i> (1993); <i>The plainsman</i> (1992); <i>Rebels in time: three plays</i> (1991); <i>Witches and idiots: poems</i> (1990); <i>The shipbuilder</i> (1990); <i>Through the Nan Da Gate: a China journey</i> (1986); <i>Gone the burning sun</i> (1984); <i>Chautauqua girl: a musical show for young people</i> (1982); <i>The great cultural revolution: a play</i> (1980); <i>The con man: a novel</i> (1979); <i>Davin, the politician: a play</i> (c1979); <i>Everybody gets something here: stories</i> (1977); <i>The Meadowlark Connection: A Saskatchewan thriller</i> (1975); <i>Wandering Rafferty: a novel</i> (1972)</span></li> 
+       <li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><i>My Present Age</i> (1984); <i>Homesick</i> (1989); <i>The Englishman's Boy</i> (1996); <i>The Last Crossing</i> (2001); short story writer (<i>Man Descending</i> (1982); <i>The Trouble With Heroes</i> (1983); <i>Things As They Are?</i> (1992)</span></li> 
+       <li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.uwinnipeg.ca/index/cms-filesystem-action?file=pdfs/conferences/2007/aboriginal-rt-spring-report.pdf.">Michael Mendelson and Alex Usher, &quot;The Aboriginal University Education Roundtable,&quot; May 24, 2007, The University of Winnipeg.</a> Retrieved 18 June 2008.</span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=16" title="Edit section: Further reading">edit</a>]</span></h2> 
+     <ul> 
+      <li>James Pitsula 'As One Who Serves: The Making Of The University Of Regina' (Montreal: McGill-Queen's University Press, June 1, 2006)</li> 
+      <li>James Pitsula. 'An Act of Faith: The Early Years of Regina College.' (Regina: Canadian Plains Research Center, 1988).</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Regina&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a>]</span></h2> 
+     <table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td> 
+        <td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Special:Search/University_of_Regina" class="extiw" title="commons:Special:Search/University of Regina">University of Regina</a></b></i></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <ul> 
+      <li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://www.uregina.ca/">Official website</a></span></span></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.uregina.ca/urprofile.shtml">University of Regina profile with ample photos</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www2.uregina.ca/yourblog/">Your Official University of Regina blog (YOURblog)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.uregina.ca/residences/">University of Regina Residence Services</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.uregina.ca/esl">English as a Second Language Program, University of Regina</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://scratchpost.cc.uregina.ca/gspp/index.html">The Graduate School of Public Policy</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.usask.ca/english/EnglishStudentBooks.htm">Books by Former University of Regina Department of English students</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.innovationplace.com/ReginaResearchPark/HTML/about.htm">Regina Research Park</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.uregina.ca/home/web/pdf/CampusMap.pdf">Campus Map</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.ccee.ca/">Canadian Centre for Environmental Education</a></li> 
+     </ul> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="3"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Universities_in_Saskatchewan" title="Template:Universities in Saskatchewan"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Universities_in_Saskatchewan" title="Template talk:Universities in Saskatchewan"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Universities_in_Saskatchewan&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/List_of_universities_in_Canada#Saskatchewan" title="List of universities in Canada">Universities</a> in 
+              <a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Public Universities</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/First_Nations_University_of_Canada" title="First Nations University of Canada">First Nations University of Canada</a></li> 
+               <li><strong class="selflink">University of Regina</strong></li> 
+               <li><a href="/wiki/University_of_Saskatchewan" title="University of Saskatchewan">University of Saskatchewan</a></li> 
+              </ul> 
+             </div> </td> 
+            <td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px;"> 
+             <div>
+              <a href="/wiki/File:Flag_of_Saskatchewan.svg" class="image" title="Flag of Saskatchewan"><img alt="Flag of Saskatchewan" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/50px-Flag_of_Saskatchewan.svg.png" width="50" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/75px-Flag_of_Saskatchewan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/100px-Flag_of_Saskatchewan.svg.png 2x" /></a>
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2" style="color: #ffffff; background-color: #285353;;"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Southeastern_Universities_Research_Association" title="Template:Southeastern Universities Research Association"><span title="View this template" style=";color: #ffffff; background-color: #285353;;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Southeastern_Universities_Research_Association" title="Template talk:Southeastern Universities Research Association"><span title="Discuss this template" style=";color: #ffffff; background-color: #285353;;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Southeastern_Universities_Research_Association&amp;action=edit"><span title="Edit this template" style=";color: #ffffff; background-color: #285353;;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/Southeastern_Universities_Research_Association" title="Southeastern Universities Research Association" class="mw-redirect"><font color="white">Southeastern Universities Research Association</font></a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="color: #ffffff; background-color: #285353; text-align: center;;">Standard members</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: left;;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/University_of_Alabama" title="University of Alabama">Alabama</a></li> 
+               <li><a href="/wiki/University_of_Alabama_at_Birmingham" title="University of Alabama at Birmingham">UAB</a></li> 
+               <li><a href="/wiki/University_of_Alabama_in_Huntsville" title="University of Alabama in Huntsville">UAHuntsville</a></li> 
+               <li><a href="/wiki/University_of_Arkansas" title="University of Arkansas">Arkansas</a></li> 
+               <li><a href="/wiki/Auburn_University" title="Auburn University">Auburn</a></li> 
+               <li><a href="/wiki/Baylor_University" title="Baylor University">Baylor</a></li> 
+               <li><a href="/wiki/The_Catholic_University_of_America" title="The Catholic University of America">Catholic</a></li> 
+               <li><a href="/wiki/University_of_Central_Florida" title="University of Central Florida">UCF</a></li> 
+               <li><a href="/wiki/Christopher_Newport_University" title="Christopher Newport University">Christopher Newport</a></li> 
+               <li><a href="/wiki/Clemson_University" title="Clemson University">Clemson</a></li> 
+               <li><a href="/wiki/University_of_Delaware" title="University of Delaware">Delaware</a></li> 
+               <li><a href="/wiki/Duke_University" title="Duke University">Duke</a></li> 
+               <li><a href="/wiki/East_Carolina_University" title="East Carolina University">East Carolina</a></li> 
+               <li><a href="/wiki/University_of_Florida" title="University of Florida">Florida</a></li> 
+               <li><a href="/wiki/Florida_Atlantic_University" title="Florida Atlantic University">Florida Atlantic</a></li> 
+               <li><a href="/wiki/Florida_Institute_of_Technology" title="Florida Institute of Technology">Florida Tech</a></li> 
+               <li><a href="/wiki/Florida_International_University" title="Florida International University">FIU</a></li> 
+               <li><a href="/wiki/Florida_State_University" title="Florida State University">Florida State</a></li> 
+               <li><a href="/wiki/George_Mason_University" title="George Mason University">George Mason</a></li> 
+               <li><a href="/wiki/George_Washington_University" title="George Washington University">George Washington</a></li> 
+               <li><a href="/wiki/Georgetown_University" title="Georgetown University">Georgetown</a></li> 
+               <li><a href="/wiki/University_of_Georgia" title="University of Georgia">Georgia</a></li> 
+               <li><a href="/wiki/Georgia_Institute_of_Technology" title="Georgia Institute of Technology">Georgia Tech</a></li> 
+               <li><a href="/wiki/Georgia_State_University" title="Georgia State University">Georgia State</a></li> 
+               <li><a href="/wiki/Hampton_University" title="Hampton University">Hampton</a></li> 
+               <li><a href="/wiki/University_of_Houston" title="University of Houston">Houston</a></li> 
+               <li><a href="/wiki/James_Madison_University" title="James Madison University">James Madison</a></li> 
+               <li><a href="/wiki/University_of_Kentucky" title="University of Kentucky">Kentucky</a></li> 
+               <li><a href="/wiki/University_of_Louisiana_at_Lafayette" title="University of Louisiana at Lafayette">UL Lafayette</a></li> 
+               <li><a href="/wiki/Louisiana_State_University" title="Louisiana State University">LSU</a></li> 
+               <li><a href="/wiki/Louisiana_Tech_University" title="Louisiana Tech University">Louisiana Tech</a></li> 
+               <li><a href="/wiki/University_of_Maryland,_College_Park" title="University of Maryland, College Park">Maryland</a></li> 
+               <li><a href="/wiki/University_of_Maryland,_Baltimore_County" title="University of Maryland, Baltimore County">UMBC</a></li> 
+               <li><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></li> 
+               <li><a href="/wiki/University_of_Memphis" title="University of Memphis">Memphis</a></li> 
+               <li><a href="/wiki/University_of_Miami" title="University of Miami">Miami</a></li> 
+               <li><a href="/wiki/University_of_Mississippi" title="University of Mississippi">Ole Miss</a></li> 
+               <li><a href="/wiki/Mississippi_State_University" title="Mississippi State University">Mississippi State</a></li> 
+               <li><a href="/wiki/University_of_New_Orleans" title="University of New Orleans">New Orleans</a></li> 
+               <li><a href="/wiki/Norfolk_State_University" title="Norfolk State University">Norfolk State</a></li> 
+               <li><a href="/wiki/North_Carolina_Agricultural_and_Technical_State_University" title="North Carolina Agricultural and Technical State University">North Carolina A&amp;T</a></li> 
+               <li><a href="/wiki/University_of_North_Carolina_at_Chapel_Hill" title="University of North Carolina at Chapel Hill">North Carolina</a></li> 
+               <li><a href="/wiki/North_Carolina_State_University" title="North Carolina State University">NC State</a></li> 
+               <li><a href="/wiki/University_of_Oklahoma" title="University of Oklahoma">Oklahoma</a></li> 
+               <li><a href="/wiki/Old_Dominion_University" title="Old Dominion University">Old Dominion</a></li> 
+               <li><strong class="selflink">Regina</strong></li> 
+               <li><a href="/wiki/Rice_University" title="Rice University">Rice</a></li> 
+               <li><a href="/wiki/University_of_Richmond" title="University of Richmond">Richmond</a></li> 
+               <li><a href="/wiki/University_of_South_Carolina" title="University of South Carolina">South Carolina</a></li> 
+               <li><a href="/wiki/University_of_South_Florida" title="University of South Florida">South Florida</a></li> 
+               <li><a href="/wiki/University_of_Southern_Mississippi" title="University of Southern Mississippi">Southern Miss</a></li> 
+               <li><a href="/wiki/University_of_Tennessee" title="University of Tennessee">Tennessee</a></li> 
+               <li><a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">Texas</a></li> 
+               <li><a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A&amp;M</a></li> 
+               <li><a href="/wiki/Tulane_University" title="Tulane University">Tulane</a></li> 
+               <li><a href="/wiki/Vanderbilt_University" title="Vanderbilt University">Vanderbilt</a></li> 
+               <li><a href="/wiki/University_of_Virginia" title="University of Virginia">Virginia</a></li> 
+               <li><a href="/wiki/Virginia_Commonwealth_University" title="Virginia Commonwealth University">VCU</a></li> 
+               <li><a href="/wiki/Virginia_Tech" title="Virginia Tech">Virginia Tech</a></li> 
+               <li><a href="/wiki/Virginia_State_University" title="Virginia State University">Virginia State</a></li> 
+               <li><a href="/wiki/West_Virginia_University" title="West Virginia University">West Virginia</a></li> 
+               <li><a href="/wiki/College_of_William_%26_Mary" title="College of William &amp; Mary">William &amp; Mary</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group" style="color: #ffffff; background-color: #285353; text-align: center;;">Affiliate members</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: left;;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Idaho_State_University" title="Idaho State University">Idaho State</a></li> 
+               <li><a href="/wiki/Ohio_University" title="Ohio University">Ohio</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="3"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Minoru_Yamasaki" title="Template:Minoru Yamasaki"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Minoru_Yamasaki" title="Template talk:Minoru Yamasaki"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Minoru_Yamasaki&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              Architecture by 
+              <a href="/wiki/Minoru_Yamasaki" title="Minoru Yamasaki">Minoru Yamasaki</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Skyscraper" title="Skyscraper">Skyscrapers</a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/One_Woodward_Avenue" title="One Woodward Avenue">One Woodward Avenue</a> (1963)</li> 
+               <li><a href="/wiki/IBM_Building_(Seattle)" title="IBM Building (Seattle)">IBM Building</a> (1963)</li> 
+               <li><a href="/wiki/Century_Plaza_Hotel" title="Century Plaza Hotel">Century Plaza Hotel</a> (1966)</li> 
+               <li><a href="/wiki/M%26T_Bank_Center,_Buffalo" title="M&amp;T Bank Center, Buffalo" class="mw-redirect">M&amp;T Bank Center, Buffalo</a> (1967)</li> 
+               <li><a href="/wiki/World_Trade_Center" title="World Trade Center">World Trade Center Tower 1, Tower 2, Buildings 4, 5 and 6</a> (1970?1971)</li> 
+               <li><a href="/wiki/The_Montgomery_(Chicago)" title="The Montgomery (Chicago)">Montgomery Ward Corporate Headquarters Tower</a> (1972)</li> 
+               <li><a href="/wiki/Century_Plaza_Towers" title="Century Plaza Towers">Century Plaza Towers</a> (1975)</li> 
+               <li><a href="/wiki/BOK_Tower" title="BOK Tower">Bank of Oklahoma</a> (1977)</li> 
+               <li><a href="/wiki/Rainier_Tower" title="Rainier Tower">Rainier Bank Tower</a> (1977)</li> 
+               <li><a href="/wiki/Federal_Reserve_Bank_of_Richmond" title="Federal Reserve Bank of Richmond">Federal Reserve Bank of Richmond</a> (1978)</li> 
+               <li><a href="/wiki/100_Washington_Square" title="100 Washington Square">100 Washington Square</a> (1981)</li> 
+               <li><a href="/wiki/Torre_Picasso" title="Torre Picasso">Torre Picasso</a> (1988)</li> 
+               <li><a href="/wiki/Columbia_Center_(Troy)" title="Columbia Center (Troy)">Columbia Center</a> (1989?2000)</li> 
+              </ul> 
+             </div> </td> 
+            <td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px;"> 
+             <div>
+              <a href="/wiki/File:Wws-robertson-hall.jpeg" class="image"><img alt=" Robertson Hall showing arches and flat roof" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Wws-robertson-hall.jpeg/200px-Wws-robertson-hall.jpeg" width="200" height="103" srcset="//upload.wikimedia.org/wikipedia/commons/b/b2/Wws-robertson-hall.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b2/Wws-robertson-hall.jpeg 2x" /></a>
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Airport" title="Airport">Airports</a></th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Lambert-St._Louis_International_Airport" title="Lambert-St. Louis International Airport" class="mw-redirect">Lambert-St. Louis International Airport main terminal</a> (1956)</li> 
+               <li><a href="/wiki/Dhahran_International_Airport" title="Dhahran International Airport">Dhahran International Airport terminal</a> (1961)</li> 
+               <li><a href="/wiki/Logan_International_Airport#Terminal_A" title="Logan International Airport">Eastern Airlines terminal at Logan Airport</a> (1969)</li> 
+               <li><a href="/wiki/King_Fahd_International_Airport" title="King Fahd International Airport">King Fahd International Airport master plan</a> (1977)</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Place_of_worship" title="Place of worship">Houses of worship</a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/North_Shore_Congregation_Israel" title="North Shore Congregation Israel">North Shore Congregation Israel</a> (1964)</li> 
+               <li><a href="/wiki/Temple_Beth_El_(Detroit,_Michigan)" title="Temple Beth El (Detroit, Michigan)">Temple Beth El</a> (1974)</li> 
+               <li><a href="/wiki/Shinji_Shumeikai" title="Shinji Shumeikai">Shinji Shumeikai Founder's Hall</a> (1982)</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Other buildings</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Federal_Reserve_Bank_of_Chicago_Detroit_Branch_Building" title="Federal Reserve Bank of Chicago Detroit Branch Building">Federal Reserve Bank of Chicago Detroit Branch Building annex</a> (1951)</li> 
+               <li><a href="/wiki/Pruitt%E2%80%93Igoe" title="Pruitt?Igoe">Pruitt?Igoe housing project</a> (1954)</li> 
+               <li><a href="/wiki/University_Liggett_School" title="University Liggett School">Grosse Pointe University School</a> (1954)</li> 
+               <li><a href="/wiki/Military_Personnel_Records_Center" title="Military Personnel Records Center">Military Personnel Records Center</a> (1955)</li> 
+               <li><a href="/wiki/McGregor_Memorial_Conference_Center" title="McGregor Memorial Conference Center">McGregor Memorial Conference Center</a> (1957)</li> 
+               <li><a href="/wiki/Prentis_Building_and_DeRoy_Auditorium_Complex" title="Prentis Building and DeRoy Auditorium Complex">Prentis Building and DeRoy Auditorium Complex</a> (1959)</li> 
+               <li><a href="/wiki/Woodrow_Wilson_School_of_Public_and_International_Affairs" title="Woodrow Wilson School of Public and International Affairs">Robertson Hall at Princeton University</a> (1965)</li> 
+               <li><a href="/wiki/Pacific_Science_Center" title="Pacific Science Center">Pacific Science Center</a> (1962)</li> 
+               <li><a href="/wiki/Butler_University" title="Butler University">Irwin Library at Butler University</a> (1963)</li> 
+               <li><a href="/wiki/Oberlin_Conservatory_of_Music" title="Oberlin Conservatory of Music">Oberlin Conservatory of Music</a> (1963)</li> 
+               <li><a href="/wiki/Quo_Vadis_Entertainment_Center" title="Quo Vadis Entertainment Center">Quo Vadis Entertainment Center</a> (1966)</li> 
+               <li><a href="/wiki/Dr._John_Archer_Library" title="Dr. John Archer Library">Dr. John Archer Library</a> (1967)</li> 
+               <li><a href="/wiki/Japan_Center_(San_Francisco)" title="Japan Center (San Francisco)">Japan Center</a> (1968)</li> 
+               <li><a href="/wiki/Tulsa_Performing_Arts_Center" title="Tulsa Performing Arts Center">Tulsa Performing Arts Center</a> (1976)</li> 
+               <li><a href="/wiki/Istanbul_Cevahir" title="Istanbul Cevahir">Istanbul Cevahir</a> (1987)</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"><a href="/wiki/Landscape_architecture" title="Landscape architecture">Landscape architecture</a></th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Wascana_Centre" title="Wascana Centre">Wascana Centre</a> and <a href="/wiki/University_of_Regina#Regina_Campus" title="University of Regina">University of Regina - Regina Campus</a> (1961?1967)</li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td class="navbox-abovebelow" colspan="3"> 
+             <div>
+              <a href="/wiki/List_of_works_by_Minoru_Yamasaki" title="List of works by Minoru Yamasaki">List of works by Minoru Yamasaki</a>
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <!-- 
+NewPP limit report
+Preprocessor visited node count: 5016/1000000
+Preprocessor generated node count: 16135/1500000
+Post?expand include size: 73100/2048000 bytes
+Template argument size: 10359/2048000 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 13/500
+Lua time usage: 0.122s
+Lua memory usage: 1.92 MB
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:434157-0!*!0!!en!4!* and timestamp 20130715040503 --> 
+    </div> 
+    <div class="printfooter">
+      Retrieved from &quot;
+     <a href="http://en.wikipedia.org/w/index.php?title=University_of_Regina&amp;oldid=564313413">http://en.wikipedia.org/w/index.php?title=University_of_Regina&amp;oldid=564313413</a>&quot; 
+    </div> 
+    <div id="catlinks" class="catlinks">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Categories" title="Help:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:University_of_Regina" title="Category:University of Regina">University of Regina</a></li>
+       <li><a href="/wiki/Category:Universities_and_colleges_in_Saskatchewan" title="Category:Universities and colleges in Saskatchewan">Universities and colleges in Saskatchewan</a></li>
+       <li><a href="/wiki/Category:Canadian_Interuniversity_Sport_football_teams" title="Category:Canadian Interuniversity Sport football teams">Canadian Interuniversity Sport football teams</a></li>
+       <li><a href="/wiki/Category:Association_of_Commonwealth_Universities" title="Category:Association of Commonwealth Universities">Association of Commonwealth Universities</a></li>
+       <li><a href="/wiki/Category:Consortium_for_North_American_Higher_Education_Collaboration" title="Category:Consortium for North American Higher Education Collaboration">Consortium for North American Higher Education Collaboration</a></li>
+       <li><a href="/wiki/Category:Educational_institutions_established_in_1974" title="Category:Educational institutions established in 1974">Educational institutions established in 1974</a></li>
+       <li><a href="/wiki/Category:Universities_in_Canada" title="Category:Universities in Canada">Universities in Canada</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2008" title="Category:Articles with unsourced statements from December 2008">Articles with unsourced statements from December 2008</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2008" title="Category:Articles with unsourced statements from June 2008">Articles with unsourced statements from June 2008</a></li>
+       <li><a href="/wiki/Category:Incomplete_lists_from_January_2010" title="Category:Incomplete lists from January 2010">Incomplete lists from January 2010</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class=""> 
+     <h3>Personal tools</h3> 
+     <ul> 
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=University+of+Regina&amp;type=signup">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=University+of+Regina" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs"> 
+      <h3>Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/University_of_Regina" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:University_of_Regina" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3 id="mw-vector-current-variant"> </h3> 
+      <h3><span>Variants</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs"> 
+      <h3>Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/University_of_Regina">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=University_of_Regina&amp;action=edit" title="You can edit this page. 
+Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=University_of_Regina&amp;action=history" title="Past versions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3><span>Actions</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3><label for="searchInput">Search</label></h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /> 
+        <button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button> 
+        <input type="hidden" name="title" value="Special:Search" /> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation"> 
+     <h3>Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li> 
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li> 
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content ? the best of Wikipedia">Featured content</a></li> 
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li> 
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li> 
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction"> 
+     <h3>Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li> 
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li> 
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li> 
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li> 
+       <li id="n-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb"> 
+     <h3>Toolbox</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/University_of_Regina" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li> 
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/University_of_Regina" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li> 
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li> 
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li> 
+       <li id="t-permalink"><a href="/w/index.php?title=University_of_Regina&amp;oldid=564313413" title="Permanent link to this revision of the page">Permanent link</a></li> 
+       <li id="t-info"><a href="/w/index.php?title=University_of_Regina&amp;action=info">Page information</a></li> 
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3104287" title="Link to connected data repository item">Data item</a></li> 
+       <li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=University_of_Regina&amp;id=564313413" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export"> 
+     <h3>Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=University+of+Regina">Create a book</a></li> 
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=University+of+Regina&amp;oldid=564313413&amp;writer=rl">Download as PDF</a></li> 
+       <li id="t-print"><a href="/w/index.php?title=University_of_Regina&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang"> 
+     <h3>Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Universit%C3%A9_de_Regina" title="Universit&eacute; de Regina" lang="fr" hreflang="fr">Fran&ccedil;ais</a></li> 
+       <li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%88%E0%B8%99%E0%B8%B2" title="?????????????????" lang="th" hreflang="th">???</a></li> 
+       <li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D0%B6%D0%B0%D0%B9%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="???????????? ???????????" lang="uk" hreflang="uk">??????????</a></li> 
+       <li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%87%8C%E8%B4%BE%E7%BA%B3%E5%A4%A7%E5%AD%A6" title="?????" lang="zh" hreflang="zh">??</a></li> 
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+       <li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q3104287#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 15 July 2013 at 04:05.<br /></li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br /> Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/University_of_Regina" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation" /></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script>
+  <script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.Edit","ext.visualEditor.splitTest","ext.markAsHelpful","ext.gettingstarted.logging","ext.gettingstarted.openTask","ext.navigationTiming","mw.PopUpMediaTransform"],null,true);
+}</script> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <!-- Served by mw1084 in 0.165 secs. -->   
+ </body>
+</html>
