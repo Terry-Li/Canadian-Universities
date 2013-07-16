@@ -1,0 +1,1316 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+ <head> 
+  <meta charset="UTF-8" />
+  <title>University of Manitoba - Wikipedia, the free encyclopedia</title> 
+  <meta name="generator" content="MediaWiki 1.22wmf9" /> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=University_of_Manitoba&amp;action=edit" /> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=University_of_Manitoba&amp;action=edit" /> 
+  <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" /> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" /> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" /> 
+  <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" /> 
+  <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <meta name="ResourceLoaderDynamicStyles" content="" /> 
+  <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" /> 
+  <style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"University_of_Manitoba","wgTitle":"University of Manitoba","wgCurRevisionId":562290111,"wgArticleId":32099,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing cleanup from March 2009","All pages needing cleanup","Universities needing cleanup","Articles with a promotional tone from November 2009","All articles with a promotional tone","Wikipedia articles with possible conflicts of interest from March 2009","Articles needing additional references from August 2009","All articles needing additional references","Articles needing additional references from May 2009","All articles with unsourced statements","Articles with unsourced statements from March 2012","Commons category with local link same as on Wikidata","University of Manitoba","Nursing schools in Canada","Educational institutions established in 1877","Universities and colleges in Manitoba","Association of Commonwealth Universities","Consortium for North American Higher Education Collaboration","Universities in Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"University_of_Manitoba","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false,"aft-noone":false},"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","magnifyClipIconURL":"//bits.wikimedia.org/static-1.22wmf9/skins/common/images/magnify-clip.png"},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":32099,"title":"University of Manitoba","namespace":0,"categories":["All articles needing additional references","All articles with a promotional tone","All articles with unsourced statements","All pages needing cleanup","Articles needing additional references from August 2009","Articles needing additional references from May 2009","Articles needing cleanup from March 2009","Articles with a promotional tone from November 2009","Articles with unsourced statements from March 2012","Association of Commonwealth Universities","Commons category with local link same as on Wikidata","Consortium for North American Higher Education Collaboration","Educational institutions established in 1877","Nursing schools in Canada","Universities and colleges in Manitoba","Universities in Canada","Universities needing cleanup","University of Manitoba","Wikipedia articles with possible conflicts of interest from March 2009"],"permissionLevel":false},"wgWikibaseItemId":"q1191833"});
+}</script>
+  <script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"visualeditor-enable":1,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,
+"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});},{},{});mw.loader.implement(
+"user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:c0aacaeffbf379bb2fae23a527457dc0 */
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script> 
+  <script src="//bits.wikimedia.org/geoiplookup"></script>
+  <link rel="dns-prefetch" href="//meta.wikimedia.org" />
+  <!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf9/skins/vector/csshover.min.htc")}</style><![endif]-->
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-University_of_Manitoba skin-vector action-view vector-animateLayout"> 
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> 
+   <a id="top"></a> 
+   <div id="mw-js-message" style="display:none;"></div> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">University of Manitoba</span></h1> 
+   <div id="bodyContent"> 
+    <div id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="jump-to-nav" class="mw-jump">
+      Jump to: 
+     <a href="#mw-navigation">navigation</a>, 
+     <a href="#p-search">search</a> 
+    </div> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <table class="metadata plainlinks ambox ambox-content ambox-multiple_issues compact-ambox" style=""> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width: 52px;">
+          <img alt="" src="//upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png" width="40" height="40" />
+         </div> </td> 
+        <td class="mbox-text" style=""><span class="mbox-text-span"><b>This article has multiple issues</b>. Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Manitoba&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:University_of_Manitoba" title="Talk:University of Manitoba">talk page</a></b>.</span> 
+         <table class="metadata plainlinks ambox ambox-style" style=""> 
+          <tbody>
+           <tr> 
+            <td class="mbox-image"> 
+             <div style="width: 52px;">
+              <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" />
+             </div> </td> 
+            <td class="mbox-text" style=""><span class="mbox-text-span">This college or university article <b>may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a> to meet Wikipedia <a href="/wiki/Wikipedia:College_and_university_article_guidelines" title="Wikipedia:College and university article guidelines">guidelines</a> for college and university articles.</b> <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Manitoba&amp;action=edit">improve this article</a> if you can.</span> <small><i>(March 2009)</i></small> </span></td> 
+            <td class="mbox-imageright"> 
+             <div style="width: 52px;">
+              <a href="/wiki/File:Graduation_hat.svg" class="image" title="Academic cap"><img alt="Academic cap" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Graduation_hat.svg/50px-Graduation_hat.svg.png" width="50" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Graduation_hat.svg/75px-Graduation_hat.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Graduation_hat.svg/100px-Graduation_hat.svg.png 2x" /></a>
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> 
+         <table class="metadata plainlinks ambox ambox-content ambox-Advert" style=""> 
+          <tbody>
+           <tr> 
+            <td class="mbox-image"> 
+             <div style="width: 52px;">
+              <img alt="" src="//upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png" width="40" height="40" />
+             </div> </td> 
+            <td class="mbox-text" style=""><span class="mbox-text-span">This article <b>appears to be written like <a href="/wiki/Wikipedia:NOT#SOAPBOX" title="Wikipedia:NOT" class="mw-redirect">an advertisement</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Manitoba&amp;action=edit">improve it</a> by rewriting promotional content from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a> and removing any inappropriate <a href="/wiki/Wikipedia:EL" title="Wikipedia:EL" class="mw-redirect">external links</a>.</span> <small><i>(November 2009)</i></small> </span></td> 
+           </tr> 
+          </tbody>
+         </table> 
+         <table class="metadata plainlinks ambox ambox-content ambox-COI" style=""> 
+          <tbody>
+           <tr> 
+            <td class="mbox-image"> 
+             <div style="width: 52px;">
+              <img alt="Unbalanced scales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" />
+             </div> </td> 
+            <td class="mbox-text" style=""><span class="mbox-text-span"><b>A major contributor to this article appears to have a <a href="/wiki/Wikipedia:Conflict_of_interest" title="Wikipedia:Conflict of interest">close connection</a> with its subject.</b> <span class="hide-when-compact">It may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a> to comply with Wikipedia's content policies, particularly <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>. Please discuss further on the <a href="/wiki/Talk:University_of_Manitoba" title="Talk:University of Manitoba">talk page</a>.</span> <small><i>(March 2009)</i></small> </span></td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;"> 
+      <tbody>
+       <tr> 
+        <th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;"><b>University of Manitoba</b></th> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;"><a href="/wiki/File:UofM_Logo.svg" class="image"><img alt="UofM Logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/8/84/UofM_Logo.svg/220px-UofM_Logo.svg.png" width="220" height="185" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/84/UofM_Logo.svg/330px-UofM_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/84/UofM_Logo.svg/440px-UofM_Logo.svg.png 2x" /></a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto</th> 
+        <td><i>Floreat</i></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Motto in English</th> 
+        <td>Flourish or Prosper</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Established</th> 
+        <td>1877</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Type</th> 
+        <td><a href="/wiki/Public_university" title="Public university">Public</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Religious affiliation</th> 
+        <td>non-denominational</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Financial_endowment" title="Financial endowment">Endowment</a></th> 
+        <td>$342 million<sup id="cite_ref-umanitoba_finrep_2008_1-0" class="reference"><a href="#cite_note-umanitoba_finrep_2008-1"><span>[</span>1<span>]</span></a></sup></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/University_president" title="University president" class="mw-redirect">President</a></th> 
+        <td>Dr. David Barnard</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Admin. staff</th> 
+        <td>2,348</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Undergraduate_education" title="Undergraduate education">Undergraduates</a></th> 
+        <td>24,948</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Postgraduate_education" title="Postgraduate education">Postgraduates</a></th> 
+        <td>3,387</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Location</th> 
+        <td class="adr"><span class="locality"><a href="/wiki/Winnipeg" title="Winnipeg">Winnipeg</a></span>, <span class="region"><a href="/wiki/Manitoba" title="Manitoba">Manitoba</a></span>, <span class="country-name"><a href="/wiki/Canada" title="Canada">Canada</a></span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Campus</th> 
+        <td><a href="/wiki/Urban_area" title="Urban area">Urban</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/School_colors" title="School colors">Colours</a></th> 
+        <td>Gold and brown<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><br /> <span style="background-color:#FDB813; color:; border:1px solid #000000; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;</span> <span style="background-color:#663600; color:; border:1px solid #000000; text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;</span></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><a href="/wiki/Athletic_nickname" title="Athletic nickname">Nickname</a></th> 
+        <td><a href="/wiki/Manitoba_Bisons" title="Manitoba Bisons">Manitoba Bisons</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Mascot</th> 
+        <td>Bison</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Affiliations</th> 
+        <td><a href="/wiki/Association_of_Universities_and_Colleges_of_Canada" title="Association of Universities and Colleges of Canada">AUCC</a>, <a href="/wiki/Canadian_Association_of_Research_Libraries" title="Canadian Association of Research Libraries">CARL</a>, <a href="/wiki/International_Association_of_Universities" title="International Association of Universities">IAU</a>, <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">CIS</a>, <a href="/wiki/Canadian_Virtual_University" title="Canadian Virtual University">CVU</a>, <a href="/wiki/University_of_the_Arctic" title="University of the Arctic">UArctic</a>, <a href="/wiki/Association_of_Commonwealth_Universities" title="Association of Commonwealth Universities">ACU</a>, <a href="/wiki/Canada_West_Universities_Athletic_Association" title="Canada West Universities Athletic Association">CWUAA</a>, <a href="/wiki/Campus_Manitoba" title="Campus Manitoba">Campus Manitoba</a>, <a href="/wiki/Robert_B._Ferguson_Museum_of_Mineralogy" title="Robert B. Ferguson Museum of Mineralogy">Robert B. Ferguson Museum of Mineralogy</a>, <a href="/wiki/Canadian_University_Press" title="Canadian University Press">CUP</a>, <a href="/wiki/Gallery_One_One_One_and_FitzGerald_Study_Centre" title="Gallery One One One and FitzGerald Study Centre" class="mw-redirect">Gallery One One One and FitzGerald Study Centre</a></td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;">Website</th> 
+        <td><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/">www.umanitoba.ca</a></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>The <b>University of Manitoba</b> (<b>U of M</b>) is a <a href="/wiki/Public_university" title="Public university">public university</a> in the province of <a href="/wiki/Manitoba" title="Manitoba">Manitoba</a>, <a href="/wiki/Canada" title="Canada">Canada</a>. Located in <a href="/wiki/Winnipeg" title="Winnipeg">Winnipeg</a>, it is Manitoba's largest, most comprehensive, and only research-intensive post-secondary educational institution.<sup id="cite_ref-AboutUofM_3-0" class="reference"><a href="#cite_note-AboutUofM-3"><span>[</span>3<span>]</span></a></sup> Founded in 1877, it was <a href="/wiki/Western_Canada" title="Western Canada">Western Canada</a>’s first <a href="/wiki/University" title="University">university</a>.<sup id="cite_ref-AboutUofM_3-1" class="reference"><a href="#cite_note-AboutUofM-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-StoryUofM_4-0" class="reference"><a href="#cite_note-StoryUofM-4"><span>[</span>4<span>]</span></a></sup></p> 
+     <table id="toc" class="toc"> 
+      <tbody>
+       <tr> 
+        <td> 
+         <div id="toctitle"> 
+          <h2>Contents</h2> 
+         </div> 
+         <ul> 
+          <li class="toclevel-1 tocsection-1"><a href="#Location"><span class="tocnumber">1</span> <span class="toctext">Location</span></a></li> 
+          <li class="toclevel-1 tocsection-2"><a href="#Aboriginal"><span class="tocnumber">2</span> <span class="toctext">Aboriginal</span></a></li> 
+          <li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-4"><a href="#Early_history"><span class="tocnumber">3.1</span> <span class="toctext">Early history</span></a></li> 
+            <li class="toclevel-2 tocsection-5"><a href="#The_University_today"><span class="tocnumber">3.2</span> <span class="toctext">The University today</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-6"><a href="#Legacy"><span class="tocnumber">4</span> <span class="toctext">Legacy</span></a></li> 
+          <li class="toclevel-1 tocsection-7"><a href="#Academics"><span class="tocnumber">5</span> <span class="toctext">Academics</span></a></li> 
+          <li class="toclevel-1 tocsection-8"><a href="#Museums.2C_Libraries_and_archives"><span class="tocnumber">6</span> <span class="toctext">Museums, Libraries and archives</span></a></li> 
+          <li class="toclevel-1 tocsection-9"><a href="#Human_resources"><span class="tocnumber">7</span> <span class="toctext">Human resources</span></a></li> 
+          <li class="toclevel-1 tocsection-10"><a href="#University_administration"><span class="tocnumber">8</span> <span class="toctext">University administration</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-11"><a href="#University_Presidents"><span class="tocnumber">8.1</span> <span class="toctext">University Presidents</span></a></li> 
+            <li class="toclevel-2 tocsection-12"><a href="#University_Chancellors"><span class="tocnumber">8.2</span> <span class="toctext">University Chancellors</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-13"><a href="#Notable_past_and_present_instructors"><span class="tocnumber">9</span> <span class="toctext">Notable past and present instructors</span></a></li> 
+          <li class="toclevel-1 tocsection-14"><a href="#Notable_alumni"><span class="tocnumber">10</span> <span class="toctext">Notable alumni</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-15"><a href="#Rhodes_Scholars"><span class="tocnumber">10.1</span> <span class="toctext">Rhodes Scholars</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-16"><a href="#Relations"><span class="tocnumber">11</span> <span class="toctext">Relations</span></a></li> 
+          <li class="toclevel-1 tocsection-17"><a href="#Athletics"><span class="tocnumber">12</span> <span class="toctext">Athletics</span></a></li> 
+          <li class="toclevel-1 tocsection-18"><a href="#Recreation"><span class="tocnumber">13</span> <span class="toctext">Recreation</span></a></li> 
+          <li class="toclevel-1 tocsection-19"><a href="#Student_life"><span class="tocnumber">14</span> <span class="toctext">Student life</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-20"><a href="#Student_representation"><span class="tocnumber">14.1</span> <span class="toctext">Student representation</span></a></li> 
+            <li class="toclevel-2 tocsection-21"><a href="#Greek_organizations"><span class="tocnumber">14.2</span> <span class="toctext">Greek organizations</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-22"><a href="#Footnotes"><span class="tocnumber">15</span> <span class="toctext">Footnotes</span></a></li> 
+          <li class="toclevel-1 tocsection-23"><a href="#See_also"><span class="tocnumber">16</span> <span class="toctext">See also</span></a> 
+           <ul> 
+            <li class="toclevel-2 tocsection-24"><a href="#Histories_of_the_University"><span class="tocnumber">16.1</span> <span class="toctext">Histories of the University</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">17</span> <span class="toctext">References</span></a></li> 
+          <li class="toclevel-1 tocsection-26"><a href="#External_links"><span class="tocnumber">18</span> <span class="toctext">External links</span></a></li> 
+         </ul> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h2><span class="mw-headline" id="Location">Location</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=1" title="Edit section: Location">edit</a>]</span></h2> 
+     <p>The University of Manitoba has three main locations—the Bannatyne Campus, the Fort Garry Campus and the William Norrie Centre.<sup id="cite_ref-quickfacts_5-0" class="reference"><a href="#cite_note-quickfacts-5"><span>[</span>5<span>]</span></a></sup></p> 
+     <p>The downtown Bannatyne campus of the University comprises a complex of ten buildings located west of the <a href="/wiki/Health_Sciences_Centre_(Winnipeg)" title="Health Sciences Centre (Winnipeg)">Health Sciences Centre</a> between McDermot Ave and William Ave in Central Winnipeg. This complex houses the medical and dental instructional units of the University. The Faculty of Dentistry, the Faculty of Medicine, the School of Medical Rehabilitation, and the School of <a href="/wiki/Dental_hygienist" title="Dental hygienist">Dental Hygiene</a> are the major health sciences units located on this campus. The Faculty of Pharmacy officially joined the Bannatyne campus with the opening of the 95,000&nbsp;sq&nbsp;ft (8,800&nbsp;m<sup>2</sup>) Apotex Centre on October 16, 2008.<sup id="cite_ref-quickfacts_5-1" class="reference"><a href="#cite_note-quickfacts-5"><span>[</span>5<span>]</span></a></sup></p> 
+     <p>The main <a href="/wiki/Fort_Garry,_Manitoba" title="Fort Garry, Manitoba" class="mw-redirect">Fort Garry</a> Campus (located on the <a href="/wiki/Red_River_of_the_North" title="Red River of the North">Red River</a> in south Winnipeg) comprises over 60 teaching and research buildings of the University and sits on 233 hectares (580&nbsp;acres) of land.<sup id="cite_ref-quickfacts_5-2" class="reference"><a href="#cite_note-quickfacts-5"><span>[</span>5<span>]</span></a></sup> In addition, <a href="/wiki/Smartpark" title="Smartpark" class="mw-redirect">Smartpark</a> is the location of seven buildings leased to research and development organizations involving university-industry partnerships.</p> 
+     <p>The William Norrie Centre on Selkirk Avenue is the campus for social work education for inner-city residents.</p> 
+     <p>The University also operates agricultural research stations near Glenlea and <a href="/wiki/Carman,_Manitoba" title="Carman, Manitoba">Carman, Manitoba</a>.<sup id="cite_ref-quickfacts_5-3" class="reference"><a href="#cite_note-quickfacts-5"><span>[</span>5<span>]</span></a></sup> The Ian N. Morrison Research Farm near Carman is a 406 acres (164&nbsp;ha) facility located 70&nbsp;km (43&nbsp;mi) from Winnipeg, while the Glenlea facility is approximately 1,000 acres (405&nbsp;ha) and located 20&nbsp;km (12&nbsp;mi) from Winnipeg. <sup id="cite_ref-plantsci_6-0" class="reference"><a href="#cite_note-plantsci-6"><span>[</span>6<span>]</span></a></sup></p> 
+     <ul class="gallery"> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:35px auto;">
+          <a href="/wiki/File:University_of_Manitoba,_Administration_Building.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/University_of_Manitoba%2C_Administration_Building.jpg/120px-University_of_Manitoba%2C_Administration_Building.jpg" width="120" height="80" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>University of Manitoba's Administration Building</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:UofMTierBuilding.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/UofMTierBuilding.jpg/120px-UofMTierBuilding.jpg" width="120" height="90" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>University of Manitoba Tier Building</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:UofMBullerBiologicalLaboratories.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UofMBullerBiologicalLaboratories.jpg/120px-UofMBullerBiologicalLaboratories.jpg" width="120" height="90" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Biological Laboratories</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:15px auto;">
+          <a href="/wiki/File:UofMStPaulsCollege.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/UofMStPaulsCollege.jpg/90px-UofMStPaulsCollege.jpg" width="90" height="120" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>University of Manitoba St Pauls College</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:UofMStJohnsCollegeEntrance.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/UofMStJohnsCollegeEntrance.jpg/120px-UofMStJohnsCollegeEntrance.jpg" width="120" height="90" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>University of Manitoba St Johns College</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:30px auto;">
+          <a href="/wiki/File:UofMStAndrewsCollege.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/UofMStAndrewsCollege.jpg/120px-UofMStAndrewsCollege.jpg" width="120" height="90" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>University of Manitoba St Andrews College</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:35px auto;">
+          <a href="/wiki/File:Aboriginal_house_of_Manitoba_university.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aboriginal_house_of_Manitoba_university.jpg/120px-Aboriginal_house_of_Manitoba_university.jpg" width="120" height="80" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>University of Manitoba Aboriginal House</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:31.5px auto;">
+          <a href="/wiki/File:Big_fossil_turtle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Big_fossil_turtle.jpg/120px-Big_fossil_turtle.jpg" width="120" height="87" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>&quot;Archelon ischyros&quot; in Wallace Building, University of Manitoba</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:35px auto;">
+          <a href="/wiki/File:Agricultural_College_1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Agricultural_College_1.JPG/120px-Agricultural_College_1.JPG" width="120" height="80" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Agricultural College</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:35px auto;">
+          <a href="/wiki/File:Tier_Building_entrance.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tier_Building_entrance.JPG/120px-Tier_Building_entrance.JPG" width="120" height="80" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"> 
+         <p>Tier Building</p> 
+        </div> 
+       </div> </li> 
+      <li class="gallerybox" style="width: 155px"> 
+       <div style="width: 155px"> 
+        <div class="thumb" style="width: 150px;"> 
+         <div style="margin:35px auto;">
+          <a href="/wiki/File:U_of_M_between_Max_Bell_and_Ext._Education.JPG" class="image"><img alt="U of M between Max Bell and Ext. Education.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/U_of_M_between_Max_Bell_and_Ext._Education.JPG/120px-U_of_M_between_Max_Bell_and_Ext._Education.JPG" width="120" height="80" /></a>
+         </div> 
+        </div> 
+        <div class="gallerytext"></div> 
+       </div> </li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Aboriginal">Aboriginal</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=2" title="Edit section: Aboriginal">edit</a>]</span></h2> 
+     <p>The University of Manitoba provides services to urban Aboriginal people. The University of Manitoba Native Studies summer course brings first-year Aboriginal students to campus before the start of the school year for some campus orientation. Aboriginal Elders are present on campus at University of Manitoba to provide social supports. Dedicated tutoring services are available within the University of Manitoba’s Medicine, Engineering and Social Work ACCESS Programs. The University of Manitoba reaches into Aboriginal communities to talk to potential students at a much younger age through Curry Biz Camp, which fosters entrepreneurship among young <a href="/wiki/First_Nations" title="First Nations">First Nations</a> and <a href="/wiki/M%C3%A9tis_people_(Canada)" title="M&eacute;tis people (Canada)">M&eacute;tis</a> students.<sup id="cite_ref-Mendelson_7-0" class="reference"><a href="#cite_note-Mendelson-7"><span>[</span>7<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=3" title="Edit section: History">edit</a>]</span></h2> 
+     <h3><span class="mw-headline" id="Early_history">Early history</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=4" title="Edit section: Early history">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:Historical_Photo_of_University_of_Manitoba.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Historical_Photo_of_University_of_Manitoba.jpg/220px-Historical_Photo_of_University_of_Manitoba.jpg" width="220" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Historical_Photo_of_University_of_Manitoba.jpg/330px-Historical_Photo_of_University_of_Manitoba.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Historical_Photo_of_University_of_Manitoba.jpg/440px-Historical_Photo_of_University_of_Manitoba.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:Historical_Photo_of_University_of_Manitoba.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Historical Photo of University of Manitoba
+       </div> 
+      </div> 
+     </div> 
+     <p>The University of Manitoba is a non-denominational university, founded by <a href="/wiki/Alexander_Morris" title="Alexander Morris">Alexander Morris</a>, that received a charter on February 28, 1877. It officially opened on June 20, 1877 <sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> to confer degrees on students graduating from its three founding colleges - <a href="/wiki/Coll%C3%A8ge_universitaire_de_Saint-Boniface" title="Coll&egrave;ge universitaire de Saint-Boniface" class="mw-redirect">St. Boniface College</a> (<a href="/wiki/Roman_Catholic" title="Roman Catholic" class="mw-redirect">Roman Catholic</a>/<a href="/wiki/Francophone" title="Francophone">Francophone</a>), <a href="/wiki/St._John%27s_College,_University_of_Manitoba" title="St. John's College, University of Manitoba">St John's College</a> (<a href="/wiki/Anglican" title="Anglican" class="mw-redirect">Anglican</a>) and <a href="/wiki/Manitoba_College" title="Manitoba College">Manitoba College</a> (<a href="/wiki/Presbyterian" title="Presbyterian" class="mw-redirect">Presbyterian</a>). The University of Manitoba granted its first degrees in 1880.<sup id="cite_ref-thecanadianencyclopedia1_9-0" class="reference"><a href="#cite_note-thecanadianencyclopedia1-9"><span>[</span>9<span>]</span></a></sup> The University was the first to be established in western Canada. <a href="/wiki/Alan_Beddoe" title="Alan Beddoe">Alan Beddoe</a> designed the university coats of arms.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p> 
+     <p>The University has since added a number of colleges to its corporate and associative body. In 1882 the Manitoba Medical College, which had originally been founded by practising physicians and surgeons, became a part of the University. Charles Henry Wheeler (architect) designed the Bacteriological Research Building (1897), part of the Manitoba Medical College.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> George Creeford Browne (architect) designed the Science Building, 1899-1900.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p> 
+     <p>Other colleges followed:</p> 
+     <ul> 
+      <li>Methodist Church's <a href="/wiki/Wesley_College,_Winnipeg" title="Wesley College, Winnipeg" class="mw-redirect">Wesley College</a> in 1888 <sup id="cite_ref-thecanadianencyclopedia2_13-0" class="reference"><a href="#cite_note-thecanadianencyclopedia2-13"><span>[</span>13<span>]</span></a></sup></li> 
+      <li><a href="/w/index.php?title=Manitoba_College_of_Pharmacy&amp;action=edit&amp;redlink=1" class="new" title="Manitoba College of Pharmacy (page does not exist)">Manitoba College of Pharmacy</a> in 1902</li> 
+      <li><a href="/w/index.php?title=Manitoba_Agriculture_College&amp;action=edit&amp;redlink=1" class="new" title="Manitoba Agriculture College (page does not exist)">Manitoba Agriculture College</a> in 1906</li> 
+      <li><a href="/wiki/St._Paul%27s_College_(Manitoba)" title="St. Paul's College (Manitoba)">St. Paul's College</a> in 1931</li> 
+      <li><a href="/wiki/Brandon_College" title="Brandon College" class="mw-redirect">Brandon College</a> in 1938</li> 
+      <li><a href="/wiki/St._Andrew%27s_College_(Winnipeg)" title="St. Andrew's College (Winnipeg)" class="mw-redirect">St. Andrew's College</a> in 1946</li> 
+     </ul> 
+     <p>In 1901 the <a href="/wiki/Legislative_Assembly_of_Manitoba" title="Legislative Assembly of Manitoba">Legislative Assembly of Manitoba</a> changed the University Act so that the university could do its own teaching, and in 1905 a building in downtown Winnipeg became its first teaching facility with a staff of six science professors. The governance was modelled on the provincial University of Toronto Act of 1906 which established a <a href="/wiki/Bicameral" title="Bicameral" class="mw-redirect">bicameral</a> system of university government consisting of a senate (faculty), responsible for academic policy, and a board of governors (citizens) exercising exclusive control over financial policy and having formal authority in all other matters. The president, appointed by the board, was to provide a link between the 2 bodies and to perform institutional leadership.<sup id="cite_ref-thecanadianencyclopedia2_13-1" class="reference"><a href="#cite_note-thecanadianencyclopedia2-13"><span>[</span>13<span>]</span></a></sup></p> 
+     <p>In the early part of the 20th century, professional education expanded beyond the traditional fields of <a href="/wiki/Theology" title="Theology">theology</a>, law and medicine. Graduate training based on the German-inspired American model of specialized course work and the completion of a <a href="/w/index.php?title=Research_thesis&amp;action=edit&amp;redlink=1" class="new" title="Research thesis (page does not exist)">research thesis</a> was introduced.<sup id="cite_ref-thecanadianencyclopedia2_13-2" class="reference"><a href="#cite_note-thecanadianencyclopedia2-13"><span>[</span>13<span>]</span></a></sup></p> 
+     <p>The Manitoba Medical Alumni Association erected the Medical Corps Memorial, which is dedicated to the memory of the graduates and students of the University of Manitoba Medical College, who laid down their lives during the North West Rebellion (1 name); 1900 South African War (1 name) and 1914 - 1918 The Great War (7 names). <sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p> 
+     <p>The first school of <a href="/wiki/Architecture" title="Architecture">architecture</a> in western Canada was founded in 1919 at the University of Manitoba.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p> 
+     <p>By 1920, the University of Manitoba was the largest university in the <a href="/wiki/Canadian_Prairies" title="Canadian Prairies">Canadian Prairies</a> and the fifth largest in Canada. It had eight faculties: Arts, Science, Law, Medicine, Engineering, Architecture, Pharmacy, and Agriculture. It awarded the degrees of <a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">Bachelor of Arts</a> (BA), <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">Bachelor of Science</a> (BSc), <a href="/w/index.php?title=Bachelor_of_Civil_Engineering&amp;action=edit&amp;redlink=1" class="new" title="Bachelor of Civil Engineering (page does not exist)">Bachelor of Civil Engineering</a> (BCE), <a href="/wiki/Bachelor_of_Electrical_Engineering" title="Bachelor of Electrical Engineering">Bachelor of Electrical Engineering</a> (BEE), <a href="/w/index.php?title=Bachelor_of_Mechanical_Engineering&amp;action=edit&amp;redlink=1" class="new" title="Bachelor of Mechanical Engineering (page does not exist)">Bachelor of Mechanical Engineering</a> (BME), <a href="/wiki/Bachelor_of_Architecture" title="Bachelor of Architecture">Bachelor of Architecture</a> (BArch), <a href="/wiki/Bachelor_of_Pharmacy" title="Bachelor of Pharmacy">Bachelor of Pharmacy</a> (PhmB), <a href="/wiki/Bachelor_of_Science_in_Agriculture" title="Bachelor of Science in Agriculture">Bachelor of Science in Agriculture</a> (BSA), <a href="/wiki/Bachelor_of_Laws" title="Bachelor of Laws">Bachelor of Laws</a> (LLB), <a href="/wiki/Master_of_Arts_(postgraduate)" title="Master of Arts (postgraduate)" class="mw-redirect">Master of Arts</a> (MA), <a href="/w/index.php?title=Master_of_Civil_Engineering&amp;action=edit&amp;redlink=1" class="new" title="Master of Civil Engineering (page does not exist)">Master of Civil Engineering</a> (MCE), <a href="/w/index.php?title=Master_of_Electrical_Engineering&amp;action=edit&amp;redlink=1" class="new" title="Master of Electrical Engineering (page does not exist)">Master of Electrical Engineering</a> (MEE), <a href="/wiki/Doctor_of_Medicine" title="Doctor of Medicine">Doctor of Medicine</a> (MD), and <a href="/wiki/Doctor_of_Laws" title="Doctor of Laws" class="mw-redirect">Doctor of Laws</a> (LLD). It had 1,654 male students and 359 female students, and 184 academic staff, including 6 women.<sup id="cite_ref-yearbook_16-0" class="reference"><a href="#cite_note-yearbook-16"><span>[</span>16<span>]</span></a></sup></p> 
+     <p>The <a href="/wiki/University_of_Manitoba_Faculty_of_Law" title="University of Manitoba Faculty of Law" class="mw-redirect">Faculty of Law</a> was an affiliated college, the Manitoba Law School, which was founded jointly by the university and the <a href="/wiki/Law_Society_of_Manitoba" title="Law Society of Manitoba">Law Society of Manitoba</a> in 1914. In 1920 it had 123 students, including 5 women, and 21 academic staff.<sup id="cite_ref-yearbook_16-1" class="reference"><a href="#cite_note-yearbook-16"><span>[</span>16<span>]</span></a></sup> It became a full part of the university in 1966.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p> 
+     <p>The University was originally located on Broadway. In 1929, following the addition of more programs, schools, and faculties, the University moved to its permanent site in <a href="/wiki/Fort_Garry,_Manitoba" title="Fort Garry, Manitoba" class="mw-redirect">Fort Garry, Manitoba</a>. The University maintained the Broadway facilities for many years. <sup id="cite_ref-thecanadianencyclopedia1_9-1" class="reference"><a href="#cite_note-thecanadianencyclopedia1-9"><span>[</span>9<span>]</span></a></sup></p> 
+     <p>The University established an Evening institute in 1936.</p> 
+     <p>St. Andrew's College, which originally trained the ministry for the <a href="/wiki/Ukrainian_Orthodox_Church_of_Canada" title="Ukrainian Orthodox Church of Canada">Ukrainian Orthodox Church of Canada</a>, became an affiliated College in 1981. St. Andrew's College was the first <a href="/wiki/Ukrainian_language" title="Ukrainian language">Ukrainian</a>-language college opened by the <a href="/wiki/Orthodox_Church" title="Orthodox Church" class="mw-redirect">Orthodox Church</a> in North America. It is home to a large Ukrainian cultural and religious library.</p> 
+     <p>The policy of university education initiated in the 1960s responded to population pressure.<sup id="cite_ref-thecanadianencyclopedia2_13-3" class="reference"><a href="#cite_note-thecanadianencyclopedia2-13"><span>[</span>13<span>]</span></a></sup> In 1967, two of the colleges that had been part of the University of Manitoba were given university status by the provincial government. United College, which had been formed by the merging of Wesley College and Manitoba College, became the <a href="/wiki/University_of_Winnipeg" title="University of Winnipeg">University of Winnipeg</a>, and Brandon College became <a href="/wiki/Brandon_University" title="Brandon University">Brandon University</a>.</p> 
+     <p>St. Boniface College and St. John's College, two of the founding colleges of the University, are still part of the University of Manitoba. St. Boniface College is the University's only <a href="/wiki/French_language" title="French language">French language</a> college; it offers instruction in French and facilities for the training of teachers who expect to teach in the French language. St. John's College, which dates back to 1820, offers instruction in Arts and Science and, among other special programs, prepares men and women for the ordained ministry of the Anglican Church.</p> 
+     <h3><span class="mw-headline" id="The_University_today">The University today</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=5" title="Edit section: The University today">edit</a>]</span></h3> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:RobsonHall.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RobsonHall.JPG/220px-RobsonHall.JPG" width="220" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RobsonHall.JPG/330px-RobsonHall.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RobsonHall.JPG/440px-RobsonHall.JPG 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:RobsonHall.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> Robson Hall - Faculty of Law
+       </div> 
+      </div> 
+     </div> 
+     <p>Thirty-three of the many buildings on the Fort Garry campus of the University of Manitoba are used directly for teaching. Four of these are colleges: St. John's College, St. Paul's College, St. Andrew's College, and University College. The remaining buildings contain laboratories, administrative and service offices, residences, or are the property of research agencies.</p> 
+     <p>In a typical year, the university has an enrolment of approximately 27,000 students - 24,000 undergraduate and 3,000 graduate. The university offers more than 90 degrees, more than 60 at the undergraduate level. Most academic units offer graduate studies programs leading to master’s or doctoral degrees.</p> 
+     <p>In 2007-08, the university acquired more than $150 million in research income. The university currently holds 48 Canada Research Chairs and is either home to or a partner in 37 research centres, institutes and shared facilities. These centres foster collaborative research and scholarship.</p> 
+     <p>The University of Manitoba is the network leader of ISIS Canada (Intelligent Sensing for Innovative Structures), headquartered in the Faculty of Engineering. ISIS Canada is a National Network of Centres of Excellence (NCE) developing better ways to build, repair and monitor civil structures. The University is also an active member in 13 other NCEs.</p> 
+     <p>The Centre for Defence and Security Studies at the University of Manitoba has an active research, teaching and outreach program designed to advance knowledge, understanding and debate in Canada on defence and security issues.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p> 
+     <div class="thumb tright"> 
+      <div class="thumbinner" style="width:222px;">
+       <a href="/wiki/File:University_Centre_at_University_of_Manitoba.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/University_Centre_at_University_of_Manitoba.jpg/220px-University_Centre_at_University_of_Manitoba.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/University_Centre_at_University_of_Manitoba.jpg/330px-University_Centre_at_University_of_Manitoba.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/University_Centre_at_University_of_Manitoba.jpg/440px-University_Centre_at_University_of_Manitoba.jpg 2x" /></a> 
+       <div class="thumbcaption"> 
+        <div class="magnify">
+         <a href="/wiki/File:University_Centre_at_University_of_Manitoba.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.22wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a>
+        </div> University Centre
+       </div> 
+      </div> 
+     </div> 
+     <h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=6" title="Edit section: Legacy">edit</a>]</span></h2> 
+     <p>On 28 February 2002, Canada Post issued 'University of Manitoba, 1877-2002' as part of the Canadian Universities series. The stamp was based on a design by Steven Slipp, based on photographs by Mike Grandmaison and on an illustration by Bonnie Ross. The 48&cent; stamps are perforated 13.5 and were printed by Ashton-Potter Canada Limited.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Academics">Academics</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=7" title="Edit section: Academics">edit</a>]</span></h2> 
+     <table class="infobox" cellspacing="3" style="border-spacing:3px;width:22em;width:23em; font-size:75%;"> 
+      <tbody>
+       <tr> 
+        <th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;"><a href="/wiki/College_and_university_rankings" title="College and university rankings">University rankings</a></th> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:center;">University of Manitoba</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><i><a href="/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities">ARWU</a></i> World<sup id="cite_ref-USUnivRankings_ARWU_W_20-0" class="reference"><a href="#cite_note-USUnivRankings_ARWU_W-20"><span>[</span>20<span>]</span></a></sup></th> 
+        <td>201-300</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><i><a href="/wiki/College_and_university_rankings#Academic_Ranking_of_World_Universities" title="College and university rankings">ARWU</a></i> Clinical Medicine<sup id="cite_ref-USUnivRankings_ARWU_MED_21-0" class="reference"><a href="#cite_note-USUnivRankings_ARWU_MED-21"><span>[</span>21<span>]</span></a></sup></th> 
+        <td>76-100</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><i><a href="/wiki/Times_Higher_Education_World_University_Rankings" title="Times Higher Education World University Rankings">THE-WUR</a></i> World<sup id="cite_ref-USUnivRankings_THES_W_22-0" class="reference"><a href="#cite_note-USUnivRankings_THES_W-22"><span>[</span>22<span>]</span></a></sup></th> 
+        <td>301-350</td> 
+       </tr> 
+       <tr> 
+        <th colspan="2" style="text-align:center;">Canadian rankings</th> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><i><a href="/wiki/College_and_university_rankings#Academic_Ranking_of_World_Universities" title="College and university rankings">ARWU</a></i> National<sup id="cite_ref-USUnivRankings_ARWU_CAN_23-0" class="reference"><a href="#cite_note-USUnivRankings_ARWU_CAN-23"><span>[</span>23<span>]</span></a></sup></th> 
+        <td>8-17</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><i><a href="/wiki/Maclean%27s#University_Ranking_Guide" title="Maclean's">Maclean's</a></i> Medical/Doctoral<sup id="cite_ref-Macdoc_24-0" class="reference"><a href="#cite_note-Macdoc-24"><span>[</span>24<span>]</span></a></sup></th> 
+        <td>15</td> 
+       </tr> 
+       <tr> 
+        <th scope="row" style="text-align:left;"><i><a href="/wiki/Times_Higher_Education_World_University_Rankings" title="Times Higher Education World University Rankings">THE-WUR</a></i> National<sup id="cite_ref-USUnivRankings_THES_W_22-1" class="reference"><a href="#cite_note-USUnivRankings_THES_W-22"><span>[</span>22<span>]</span></a></sup></th> 
+        <td>17-19</td> 
+       </tr> 
+       <tr> 
+        <td colspan="2" style="text-align:right;"> 
+         <div class="noprint plainlinks hlist navbar mini" style=""> 
+          <ul> 
+           <li class="nv-view"><a href="/wiki/Template:Canadian_university_rankings" title="Template:Canadian university rankings"><span title="View this template" style="">v</span></a></li> 
+           <li class="nv-talk"><a href="/wiki/Template_talk:Canadian_university_rankings" title="Template talk:Canadian university rankings"><span title="Discuss this template" style="">t</span></a></li> 
+           <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Canadian_university_rankings&amp;action=edit"><span title="Edit this template" style="">e</span></a></li> 
+          </ul> 
+         </div> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>The University of Manitoba has a total enrolment of approximately 26,000 students in 22 faculties. Most academic units offer graduate studies programs leading to master’s or doctoral degrees.</p> 
+     <p>The current colleges are:</p> 
+     <ul> 
+      <li><a href="/wiki/Universit%C3%A9_de_Saint-Boniface" title="Universit&eacute; de Saint-Boniface">Universit&eacute; de Saint-Boniface</a> (University of St. Boniface)</li> 
+      <li><a href="/wiki/St._John%27s_College,_University_of_Manitoba" title="St. John's College, University of Manitoba">St. John's College</a></li> 
+      <li><a href="/wiki/St._Paul%27s_College_(Manitoba)" title="St. Paul's College (Manitoba)">St. Paul's College</a></li> 
+      <li><a href="/wiki/St._Andrew%27s_College_(Winnipeg)" title="St. Andrew's College (Winnipeg)" class="mw-redirect">St. Andrew's College</a></li> 
+      <li>University College</li> 
+     </ul> 
+     <p>The university's <a href="/wiki/Faculty_(division)" title="Faculty (division)">faculties</a>:</p> 
+     <ul> 
+      <li>Agricultural and Food Sciences</li> 
+      <li>School of Agriculture</li> 
+      <li>Faculty of Architecture offers a program in architecture accredited by the Canadian Architectural Certification Board at both the bachelor level (B.Arch.) and the master's level (M.Arch.).<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></li> 
+      <li>School of Art</li> 
+      <li>Faculty of Arts</li> 
+      <li>Clayton H. Riddell Faculty of Environment, Earth, and Resources</li> 
+      <li>Faculty of Dentistry</li> 
+      <li>School of Dental Hygiene</li> 
+      <li>Faculty of Education</li> 
+      <li>Faculty of Engineering - Students can choose to specialize in the following disciplines: Biosystems Engineering, <a href="/wiki/Civil_Engineering" title="Civil Engineering" class="mw-redirect">Civil Engineering</a>, <a href="/wiki/Computer_Engineering" title="Computer Engineering" class="mw-redirect">Computer Engineering</a>, <a href="/wiki/Electrical_Engineering" title="Electrical Engineering" class="mw-redirect">Electrical Engineering</a>, <a href="/wiki/Manufacturing_Engineering" title="Manufacturing Engineering" class="mw-redirect">Manufacturing Engineering</a> and <a href="/wiki/Mechanical_Engineering" title="Mechanical Engineering" class="mw-redirect">Mechanical Engineering</a> <sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></li> 
+      <li>Extended Education</li> 
+      <li>Faculty of Human Ecology 
+       <ul> 
+        <li>Faculty of Human Ecology: Department of Human Nutritional Sciences has an accredited dietetic program. The university is accredited by a professional organization such as the <a href="/wiki/Dietitians_of_Canada" title="Dietitians of Canada">Dietitians of Canada</a> and the university's graduates may subsequently become registered dietitians. <a href="/wiki/List_of_universities_with_accredited_dietetic_programs" title="List of universities with accredited dietetic programs">List of universities with accredited dietetic programs</a></li> 
+       </ul> </li> 
+      <li><a href="/wiki/I._H._Asper_School_of_Business" title="I. H. Asper School of Business" class="mw-redirect">I. H. Asper School of Business</a></li> 
+      <li><a href="/wiki/Robson_Hall_(Faculty_of_Law_-_University_of_Manitoba)" title="Robson Hall (Faculty of Law - University of Manitoba)" class="mw-redirect">Robson Hall - Faculty of Law</a></li> 
+      <li>Marcel A. Desautels Faculty of Music</li> 
+      <li>School of Medical Rehabilitation</li> 
+      <li>Faculty of Medicine</li> 
+      <li>Faculty of Nursing</li> 
+      <li>Faculty of Pharmacy</li> 
+      <li>Faculty of Kinesiology &amp; Recreation Management</li> 
+      <li>Faculty of Science</li> 
+      <li>Faculty of Social Work</li> 
+      <li>Division of Extended Education</li> 
+      <li>University 1</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Museums.2C_Libraries_and_archives">Museums, Libraries and archives</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=8" title="Edit section: Museums, Libraries and archives">edit</a>]</span></h2> 
+     <p>The Anthropology Laboratory Museum at UofM collects, inventories and displays artifacts including cartographic materials, prints, drawings, and textual records from the Manitoba Region. The Human History collection includes archaeological and ceremonial objects, and weapons. The Natural Sciences artifacts include biological, zooarchaeological, aquatic, Earth Science, Geological and Paleontological Collections. <sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></p> 
+     <table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" style=""> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width: 52px;">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" /></a>
+         </div> </td> 
+        <td class="mbox-text" style=""><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(August 2009)</i></small> </span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p>The University of Manitoba has 19 libraries and 1 archives:</p> 
+     <ul> 
+      <li>Albert D. Cohen Management Library</li> 
+      <li>Architecture/Fine Arts Library</li> 
+      <li>Archives &amp; Special Collections, includes the Rare Book Room</li> 
+      <li>Bill Larson Library (Grace General Hospital)</li> 
+      <li>Carolyn Sifton-Helene Fuld Library (St. Boniface General Hospital)</li> 
+      <li>Concordia Hospital Library</li> 
+      <li>Donald W. Craik Engineering Library</li> 
+      <li>Eckhardt Gramatt&eacute; Music Library</li> 
+      <li>E.K. Williams Law Library</li> 
+      <li>Elizabeth Dafoe Library</li> 
+      <li>Faculty of Medicine Archives, includes the Ross Mitchell Rare Book Room</li> 
+      <li>Father Harold Drake Library (St. Paul's College)</li> 
+      <li>J.W. Crane Memorial Library (Deer Lodge Centre)</li> 
+      <li>Neil John Maclean Health Sciences Library</li> 
+      <li>Riverview Health Centre Virtual Library</li> 
+      <li>Sister St. Odilon Library (Misericordia Health Centre)</li> 
+      <li>St. John's College Library</li> 
+      <li>Sciences and Technology Library</li> 
+      <li>Seven Oaks General Hospital Library</li> 
+      <li>Victoria General Hospital Library</li> 
+      <li>William R. Newman Library</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Human_resources">Human resources</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=9" title="Edit section: Human resources">edit</a>]</span></h2> 
+     <p>The academic staff are represented by two different unions. The professors are represented by the <a href="/w/index.php?title=University_of_Manitoba_Faculty_Association&amp;action=edit&amp;redlink=1" class="new" title="University of Manitoba Faculty Association (page does not exist)">University of Manitoba Faculty Association</a>,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> while sessional instructors and teaching assistants are represented by the <a href="/wiki/Canadian_Union_of_Public_Employees" title="Canadian Union of Public Employees">CUPE</a> Local 3909.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup> Professors at the Faculty of Dentistry are represented by the University of Manitoba Dental Clinical Staff Association.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></p> 
+     <p>The support staff is divided up into many unions. The support staff and the campus security are represented by the <a href="/w/index.php?title=Association_of_Employees_Supporting_Education_Services&amp;action=edit&amp;redlink=1" class="new" title="Association of Employees Supporting Education Services (page does not exist)">AESES</a>,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> though the support staff at the Faculty of the Engineering are represented by <a href="/wiki/Canadian_Union_of_Public_Employees" title="Canadian Union of Public Employees">CUPE</a> Local 1482.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup> All of the outside workers are represented by the <a href="/wiki/Canadian_Auto_Workers" title="Canadian Auto Workers">CAW</a> Local 3007.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="University_administration">University administration</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=10" title="Edit section: University administration">edit</a>]</span></h2> 
+     <table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" style=""> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"> 
+         <div style="width: 52px;">
+          <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" /></a>
+         </div> </td> 
+        <td class="mbox-text" style=""><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(May 2009)</i></small> </span></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <h3><span class="mw-headline" id="University_Presidents">University Presidents</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=11" title="Edit section: University Presidents">edit</a>]</span></h3> 
+     <ul> 
+      <li><a href="/w/index.php?title=James_Alexander_MacLean&amp;action=edit&amp;redlink=1" class="new" title="James Alexander MacLean (page does not exist)">James Alexander MacLean</a> (1913–1934)</li> 
+      <li><a href="/wiki/Sidney_Smith_(politician)" title="Sidney Smith (politician)" class="mw-redirect">Sidney Earle Smith</a> (1934–1944)</li> 
+      <li><a href="/w/index.php?title=Henry_Percy_Armes&amp;action=edit&amp;redlink=1" class="new" title="Henry Percy Armes (page does not exist)">Henry Percy Armes</a>, acting (1944–1945)</li> 
+      <li><a href="/wiki/Albert_William_Trueman" title="Albert William Trueman" class="mw-redirect">Albert William Trueman</a> (1945–1948)</li> 
+      <li><a href="/w/index.php?title=Albert_Henry_S._Gillson&amp;action=edit&amp;redlink=1" class="new" title="Albert Henry S. Gillson (page does not exist)">Albert Henry S. Gillson</a> (1948–1954)</li> 
+      <li><a href="/w/index.php?title=Hugh_Hamilton_Saunderson&amp;action=edit&amp;redlink=1" class="new" title="Hugh Hamilton Saunderson (page does not exist)">Hugh Hamilton Saunderson</a> (1954–1970)</li> 
+      <li><a href="/w/index.php?title=Ernest_Sirluck&amp;action=edit&amp;redlink=1" class="new" title="Ernest Sirluck (page does not exist)">Ernest Sirluck</a> (1970–1976)</li> 
+      <li><a href="/w/index.php?title=Ralph_Campbell_(academic)&amp;action=edit&amp;redlink=1" class="new" title="Ralph Campbell (academic) (page does not exist)">Ralph Campbell</a> (1976–1981)</li> 
+      <li><a href="/wiki/Arnold_Naimark" title="Arnold Naimark">Arnold Naimark</a> (1981–1996)</li> 
+      <li><a href="/wiki/Emoke_Szathmary" title="Emoke Szathmary" class="mw-redirect">Emőke J.E. Szathm&aacute;ry</a> (1996–2008)</li> 
+      <li><a href="/w/index.php?title=David_Barnard&amp;action=edit&amp;redlink=1" class="new" title="David Barnard (page does not exist)">David Barnard</a> (2008–Present)</li> 
+     </ul> 
+     <h3><span class="mw-headline" id="University_Chancellors">University Chancellors</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=12" title="Edit section: University Chancellors">edit</a>]</span></h3> 
+     <ul> 
+      <li><a href="/wiki/S._P._Matheson" title="S. P. Matheson" class="mw-redirect">S. P. Matheson</a> (1908–1934)</li> 
+      <li><a href="/wiki/John_W._Dafoe" title="John W. Dafoe" class="mw-redirect">John W. Dafoe</a> (1934–1944)</li> 
+      <li><a href="/w/index.php?title=A._K._Dysart&amp;action=edit&amp;redlink=1" class="new" title="A. K. Dysart (page does not exist)">A. K. Dysart</a> (1944–1952)</li> 
+      <li><a href="/w/index.php?title=Victor_Sifton&amp;action=edit&amp;redlink=1" class="new" title="Victor Sifton (page does not exist)">Victor Sifton</a> (1952–1959)</li> 
+      <li><a href="/wiki/Samuel_Freedman" title="Samuel Freedman">Justice S. Freedman</a> (1959–1968)</li> 
+      <li><a href="/w/index.php?title=Peter_D._Curry&amp;action=edit&amp;redlink=1" class="new" title="Peter D. Curry (page does not exist)">Peter D. Curry</a> (1968–1974)</li> 
+      <li><a href="/wiki/Richard_S._Bowles" title="Richard S. Bowles" class="mw-redirect">Richard S. Bowles</a> (1974–1977)</li> 
+      <li><a href="/w/index.php?title=Isabel_G._Auld&amp;action=edit&amp;redlink=1" class="new" title="Isabel G. Auld (page does not exist)">Isabel G. Auld</a> (1977–1986)</li> 
+      <li><a href="/wiki/Henry_E._Duckworth" title="Henry E. Duckworth" class="mw-redirect">Henry E. Duckworth</a> (1986–1992)</li> 
+      <li><a href="/wiki/Authur_V._Mauro" title="Authur V. Mauro" class="mw-redirect">Authur V. Mauro</a> (1992–2001)</li> 
+      <li><a href="/wiki/Bill_Norrie" title="Bill Norrie">Bill Norrie</a> (2001–2010)</li> 
+      <li><a href="/wiki/Harvey_Secter" title="Harvey Secter">Harvey Secter</a> (2010-)</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Notable_past_and_present_instructors">Notable past and present instructors</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=13" title="Edit section: Notable past and present instructors">edit</a>]</span></h2> 
+     <ul> 
+      <li><a href="/wiki/Robert_Archambeau" title="Robert Archambeau">Robert Archambeau</a> ceramic artist, <a href="/wiki/Governor_General%27s_Awards" title="Governor General's Awards">Governor General's Award</a> winner</li> 
+      <li><a href="/wiki/Arthur_Henry_Reginald_Buller" title="Arthur Henry Reginald Buller">Arthur Henry Reginald Buller</a> F.R.S.C.,FRS, noted mycologist</li> 
+      <li><a href="/wiki/Aniruddha_M._Gole" title="Aniruddha M. Gole">Aniruddha M. Gole</a>, <a href="/wiki/IEEE_Fellow" title="IEEE Fellow">IEEE Fellow</a></li> 
+      <li><a href="/wiki/Frank_Hawthorne" title="Frank Hawthorne">Frank Hawthorne</a> F.R.S.C., award-winning mineral sciences professor</li> 
+      <li><a href="/wiki/Guy_Maddin" title="Guy Maddin">Guy Maddin</a>, Film director and former Professor</li> 
+      <li><a href="/wiki/Zalman_Schachter-Shalomi" title="Zalman Schachter-Shalomi">Zalman Schachter-Shalomi</a>, major founder of the <a href="/wiki/Jewish_Renewal" title="Jewish Renewal">Jewish Renewal</a> Movement</li> 
+      <li><a href="/wiki/Arthur_Schafer" title="Arthur Schafer">Arthur Schafer</a>, director of the Centre for Professional and Applied Ethics and prominent <a href="/wiki/Ethics" title="Ethics">ethicist</a></li> 
+      <li><a href="/wiki/Vaclav_Smil" title="Vaclav Smil">Vaclav Smil</a>, Energy systems scientist and policy analyst</li> 
+      <li><a href="/wiki/Jean_Friesen" title="Jean Friesen">Jean Friesen</a>, former Deputy Premier and Minister of Intergovernment Affairs of <a href="/wiki/New_Democratic_Party_of_Manitoba" title="New Democratic Party of Manitoba">New Democratic</a> Premier <a href="/wiki/Gary_Doer" title="Gary Doer">Gary Doer</a>'s cabinet</li> 
+      <li><a href="/wiki/Reg_Alcock" title="Reg Alcock">Reg Alcock</a>, former President of the Treasury Board of <a href="/wiki/Liberal_Party_of_Canada" title="Liberal Party of Canada">Liberal</a> Prime Minister <a href="/wiki/Paul_Martin" title="Paul Martin">Paul Martin</a>'s cabinet</li> 
+      <li><a href="/wiki/H.C._Wolfart" title="H.C. Wolfart">H.C. Wolfart</a>, professor of <a href="/wiki/Linguistics" title="Linguistics">linguistics</a></li> 
+      <li><a href="/wiki/Patricia_Churchland" title="Patricia Churchland">Patricia Churchland</a> and <a href="/wiki/Paul_Churchland" title="Paul Churchland">Paul Churchland</a>, former Professors of <a href="/wiki/Philosophy" title="Philosophy">philosophy</a>, known for the school of <a href="/wiki/Eliminative_materialism" title="Eliminative materialism">eliminative materialism</a></li> 
+      <li><a href="/wiki/Nathan_Mendelsohn" title="Nathan Mendelsohn">Nathan Mendelsohn</a>, Professor of <a href="/wiki/Mathematics" title="Mathematics">mathematics</a></li> 
+      <li><a href="/wiki/Carol_Shields" title="Carol Shields">Carol Shields</a>, <a href="/wiki/Pulitzer_Prize" title="Pulitzer Prize">Pulitzer Prize</a>-winning author</li> 
+      <li><a href="/w/index.php?title=Bakth_Singh&amp;action=edit&amp;redlink=1" class="new" title="Bakth Singh (page does not exist)">Bakth Singh</a>, <a href="/w/index.php?title=To_be_awarded_%27The_Crown_of_LIFE%27&amp;action=edit&amp;redlink=1" class="new" title="To be awarded 'The Crown of LIFE' (page does not exist)">To be awarded 'The Crown of LIFE'</a>-New Testament Church Planter, an Instrument used by God to extend His Grace mercy towards mankind.</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Notable_alumni">Notable alumni</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=14" title="Edit section: Notable alumni">edit</a>]</span></h2> 
+     <div class="rellink relarticle mainarticle">
+      Main article: 
+      <a href="/wiki/List_of_University_of_Manitoba_alumni" title="List of University of Manitoba alumni">List of University of Manitoba alumni</a>
+     </div> 
+     <h3><span class="mw-headline" id="Rhodes_Scholars">Rhodes Scholars</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=15" title="Edit section: Rhodes Scholars">edit</a>]</span></h3> 
+     <p>As of 2010, there have been 96 <a href="/wiki/Rhodes_Scholarships" title="Rhodes Scholarships" class="mw-redirect">Rhodes Scholars</a> from the University of Manitoba, more than from any other university in Western Canada.<sup id="cite_ref-OnManApril09_35-0" class="reference"><a href="#cite_note-OnManApril09-35"><span>[</span>35<span>]</span></a></sup><sup id="cite_ref-Ten_36-0" class="reference"><a href="#cite_note-Ten-36"><span>[</span>36<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Relations">Relations</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=16" title="Edit section: Relations">edit</a>]</span></h2> 
+     <ul> 
+      <li><a href="/wiki/Robert_Kroetsch" title="Robert Kroetsch">Robert Kroetsch</a>, acclaimed poet and novelist.</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="Athletics">Athletics</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=17" title="Edit section: Athletics">edit</a>]</span></h2> 
+     <p>The university is represented in <a href="/wiki/Canadian_Interuniversity_Sport" title="Canadian Interuniversity Sport">Canadian Interuniversity Sport</a> by the <a href="/wiki/Manitoba_Bisons" title="Manitoba Bisons">Manitoba Bisons</a>.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2012)">citation needed</span></a></i>]</sup></p> 
+     <p>Athletic facilties located on campus include the <a href="/wiki/Max_Bell_Centre_(Winnipeg)" title="Max Bell Centre (Winnipeg)">Max Bell Centre</a>, the <a href="/wiki/Investors_Group_Athletic_Centre" title="Investors Group Athletic Centre">Investor's Group Athletic Centre</a>, and <a href="/wiki/Investor%27s_Group_Field" title="Investor's Group Field" class="mw-redirect">Investor's Group Field</a>, which will open in 2013 to replace <a href="/wiki/University_Stadium_(Winnipeg)" title="University Stadium (Winnipeg)">University Stadium</a>.</p> 
+     <h2><span class="mw-headline" id="Recreation">Recreation</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=18" title="Edit section: Recreation">edit</a>]</span></h2> 
+     <p>The University of Manitoba offers several recreational programs year-round, including a swimming program, adult classes and numerous summer programs for children. The university's Frank Kennedy Centre, Max Bell Centre, and Investor's Group Athletic Centre contain indoor tracks, a swimming pool, full work-out facilities, and an international ice hockey rink, as well as basketball, volleyball, squash and raquetball courts. Frank Kennedy Centre also hosts large dance, combat and gymnastics rooms, and indoor tennis courts.</p> 
+     <p>The main art gallery on campus is &quot;Gallery One One One&quot;.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></p> 
+     <h2><span class="mw-headline" id="Student_life">Student life</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=19" title="Edit section: Student life">edit</a>]</span></h2> 
+     <h3><span class="mw-headline" id="Student_representation">Student representation</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=20" title="Edit section: Student representation">edit</a>]</span></h3> 
+     <p>The students at the University of Manitoba are members of the <a href="/wiki/University_of_Manitoba_Students%27_Union" title="University of Manitoba Students' Union">University of Manitoba Students' Union</a> (UMSU). UMSU represents students at the Board of Governors and Senate, as well as providing programs and support to students.</p> 
+     <h3><span class="mw-headline" id="Greek_organizations">Greek organizations</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=21" title="Edit section: Greek organizations">edit</a>]</span></h3> 
+     <p>The <a href="/wiki/National_Panhellenic_Conference" title="National Panhellenic Conference">National Panhellenic Conference</a> sororities on campus are <a href="/wiki/Alpha_Delta_Pi" title="Alpha Delta Pi">Alpha Delta Pi</a>, <a href="/wiki/Alpha_Gamma_Delta" title="Alpha Gamma Delta">Alpha Gamma Delta</a>, and <a href="/wiki/Alpha_Phi" title="Alpha Phi">Alpha Phi</a>.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup> The first Greek organization on campus was <a href="/wiki/Zeta_Psi_Fraternity" title="Zeta Psi Fraternity" class="mw-redirect">Zeta Psi Fraternity</a> in 1921; other Fraternities on campus include <a href="/wiki/Delta_Kappa_Epsilon" title="Delta Kappa Epsilon">Delta Kappa Epsilon</a>, <a href="/wiki/Delta_Upsilon" title="Delta Upsilon">Delta Upsilon</a> and <a href="/wiki/Phi_Delta_Theta" title="Phi Delta Theta">Phi Delta Theta</a>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup> Fraternity Rush and Sorority Recruitment occur during the first weeks of school in September.</p> 
+     <h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=22" title="Edit section: Footnotes">edit</a>]</span></h2> 
+     <div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;"> 
+      <ol class="references"> 
+       <li id="cite_note-umanitoba_finrep_2008-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-umanitoba_finrep_2008_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://umanitoba.ca/admin/audit_services/media/U_of_M_AR_2008.pdf">Annual Financial Report 2008</a>, University of Manitoba</span></li> 
+       <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://umanitoba.ca/admin/mco/media/UofM_Visual_Identity_Guide.pdf">&quot;University of Manitoba Visual Identity Guide&quot;</a>. University of Manitoba<span class="reference-accessdate">. Retrieved 12 February 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=University+of+Manitoba+Visual+Identity+Guide&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fumanitoba.ca%2Fadmin%2Fmco%2Fmedia%2FUofM_Visual_Identity_Guide.pdf&amp;rft.pub=University+of+Manitoba&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-AboutUofM-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-AboutUofM_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AboutUofM_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">University of Manitoba Public Affairs (2005). <a rel="nofollow" class="external text" href="http://umanitoba.ca/about/">&quot;ONE University. MANY futures&quot;</a><span class="reference-accessdate">. Retrieved 2008-03-21</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.aulast=University+of+Manitoba+Public+Affairs&amp;rft.au=University+of+Manitoba+Public+Affairs&amp;rft.btitle=ONE+University.+MANY+futures&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fumanitoba.ca%2Fabout%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-StoryUofM-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-StoryUofM_4-0">^</a></b></span> <span class="reference-text"><span class="citation web">University of Manitoba Public Affairs (2005). <a rel="nofollow" class="external text" href="http://umanitoba.ca/about/ourstory.html">&quot;Our Story&quot;</a><span class="reference-accessdate">. Retrieved 2008-03-21</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.aulast=University+of+Manitoba+Public+Affairs&amp;rft.au=University+of+Manitoba+Public+Affairs&amp;rft.btitle=Our+Story&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fumanitoba.ca%2Fabout%2Fourstory.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-quickfacts-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-quickfacts_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-quickfacts_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-quickfacts_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-quickfacts_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web">University of Manitoba. <a rel="nofollow" class="external text" href="http://umanitoba.ca/about/quick_facts/">&quot;The University: Quick Facts&quot;</a><span class="reference-accessdate">. Retrieved 2010-02-17</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.aulast=University+of+Manitoba&amp;rft.au=University+of+Manitoba&amp;rft.btitle=The+University%3A+Quick+Facts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fumanitoba.ca%2Fabout%2Fquick_facts%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-plantsci-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-plantsci_6-0">^</a></b></span> <span class="reference-text"><span class="citation web">University of Manitoba, Department of Plant Science. <a rel="nofollow" class="external text" href="http://www.umanitoba.ca/afs/plant_science/jobs/facilities.html">&quot;Our Facilities and Associated Facilities&quot;</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.aulast=University+of+Manitoba%2C+Department+of+Plant+Science&amp;rft.au=University+of+Manitoba%2C+Department+of+Plant+Science&amp;rft.btitle=Our+Facilities+and+Associated+Facilities&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umanitoba.ca%2Fafs%2Fplant_science%2Fjobs%2Ffacilities.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Mendelson-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mendelson_7-0">^</a></b></span> <span class="reference-text"><span class="citation web">Mendelson, Michael &amp; Alex Usher (May 2007). <a rel="nofollow" class="external text" href="http://www.uwinnipeg.ca/index/cms-filesystem-action?file=pdfs/conferences/2007/aboriginal-rt-spring-report.pdf">&quot;The Aboriginal University Education Roundtable May 24, 2007 The University of Winnipeg&quot;</a> (PDF)<span class="reference-accessdate">. Retrieved 2008-05-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.aufirst=Michael+%26+Alex+Usher&amp;rft.aulast=Mendelson&amp;rft.au=Mendelson%2C+Michael+%26+Alex+Usher&amp;rft.btitle=The+Aboriginal+University+Education+Roundtable+May+24%2C+2007+The+University+of+Winnipeg&amp;rft.date=2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.uwinnipeg.ca%2Findex%2Fcms-filesystem-action%3Ffile%3Dpdfs%2Fconferences%2F2007%2Faboriginal-rt-spring-report.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation book">Pound, Richard W. (2005). <i>'Fitzhenry and Whiteside Book of Canadian Facts and Dates'</i>. Fitzhenry and Whiteside.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.aufirst=Richard+W.&amp;rft.aulast=Pound&amp;rft.au=Pound%2C+Richard+W.&amp;rft.btitle=%27Fitzhenry+and+Whiteside+Book+of+Canadian+Facts+and+Dates%27&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=Fitzhenry+and+Whiteside&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-thecanadianencyclopedia1-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-thecanadianencyclopedia1_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-thecanadianencyclopedia1_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/index.cfm">&quot;The Canadian Encyclopedia&quot;</a><span class="reference-accessdate">. Retrieved 2008-06-15</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=The+Canadian+Encyclopedia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.thecanadianencyclopedia.com%2Findex.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://collectionscanada.gc.ca/ourl/res.php?url_ver=Z39.88-2004&amp;url_tim=2010-03-07T21%3A52%3A20Z&amp;url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&amp;rft_dat=104827&amp;rfr_id=info%3Asid%2Fcollectionscanada.gc.ca%3Apam">Alan Beddoe collection at Library and Archives Canada</a></span></li> 
+       <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dictionaryofarchitectsincanada.org/architects/view/352">Charles Henry Wheeler (architect)</a></span></li> 
+       <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dictionaryofarchitectsincanada.org/architects/view/1223">George Creeford Browne (architect)</a></span></li> 
+       <li id="cite_note-thecanadianencyclopedia2-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-thecanadianencyclopedia2_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-thecanadianencyclopedia2_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-thecanadianencyclopedia2_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-thecanadianencyclopedia2_13-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/index.cfm">&quot;The Canadian Encyclopedia&quot;</a><span class="reference-accessdate">. Retrieved 2008-06-15</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=The+Canadian+Encyclopedia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.thecanadianencyclopedia.com%2Findex.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span>PgNm=TCE&amp;Params=A1ARTA0008242</span></li> 
+       <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cmp-cpm.forces.gc.ca/dhh-dhp/nic-inm/sm-rm/mdsr-rdr-eng.asp?PID=7964">http://www.cmp-cpm.forces.gc.ca/dhh-dhp/nic-inm/sm-rm/mdsr-rdr-eng.asp?PID=7964</a> Medical Corps Memorial</span></li> 
+       <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/index.cfm">&quot;The Canadian Encyclopedia&quot;</a><span class="reference-accessdate">. Retrieved 2008-06-15</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=The+Canadian+Encyclopedia&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.thecanadianencyclopedia.com%2Findex.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span>PgNm=TCE&amp;Params=A1ARTA0009565</span></li> 
+       <li id="cite_note-yearbook-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-yearbook_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-yearbook_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Dominion Bureau of Statistics, <i>Canada Year Book 1921</i>, Ottawa, 1922</span></li> 
+       <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/Law/Introduction/">University of Manitoba Faculty of Law</a></span></li> 
+       <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://umanitoba.ca/centres/cdss/">Centre for Defence and Security Studies</a></span></li> 
+       <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://data4.collectionscanada.gc.ca/netacgi/nph-brs?s1=(University.TITP.)+Or+(University.TITI.+And+null.B742.)&amp;l=20&amp;d=STMP&amp;p=1&amp;u=http://www.collectionscanada.gc.ca/archivianet/02011702_e.html&amp;r=5&amp;f=G&amp;Sect1=STMP">Canada Post stamp</a></span></li> 
+       <li id="cite_note-USUnivRankings_ARWU_W-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-USUnivRankings_ARWU_W_20-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/ARWU2012.html">&quot;Academic Ranking of World Universities - 2012&quot;</a>. ShanghaiRanking Consultancy. 2012<span class="reference-accessdate">. Retrieved 15 August 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=Academic+Ranking+of+World+Universities+-+2012&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FARWU2012.html&amp;rft.pub=ShanghaiRanking+Consultancy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-USUnivRankings_ARWU_MED-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-USUnivRankings_ARWU_MED_21-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/FieldMED2012.html">&quot;Academic Ranking of World Universities in Clinical Medicine and Pharmacy - 2012&quot;</a>. ShanghaiRanking Consultancy. 2012<span class="reference-accessdate">. Retrieved 15 August 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=Academic+Ranking+of+World+Universities+in+Clinical+Medicine+and+Pharmacy+-+2012&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FFieldMED2012.html&amp;rft.pub=ShanghaiRanking+Consultancy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-USUnivRankings_THES_W-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-USUnivRankings_THES_W_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USUnivRankings_THES_W_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.timeshighereducation.co.uk/world-university-rankings/2012-13/world-ranking">&quot;World University Rankings 2012-2013&quot;</a>. Times Higher Education. 2012<span class="reference-accessdate">. Retrieved 4 October 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=World+University+Rankings+2012-2013&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.timeshighereducation.co.uk%2Fworld-university-rankings%2F2012-13%2Fworld-ranking&amp;rft.pub=Times+Higher+Education&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-USUnivRankings_ARWU_CAN-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-USUnivRankings_ARWU_CAN_23-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/Country2012Main.jsp?param=Canada">&quot;Canada Universities in Top 500&quot;</a>. ShanghaiRanking Consultancy. 20121<span class="reference-accessdate">. Retrieved 15 August 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=Canada+Universities+in+Top+500&amp;rft.date=20121&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FCountry2012Main.jsp%3Fparam%3DCanada&amp;rft.pub=ShanghaiRanking+Consultancy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-Macdoc-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Macdoc_24-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://oncampus.macleans.ca/education/2012/11/01/2013-medical-doctoral/">&quot;2013 Medical Doctoral University Ranking&quot;</a>. Maclean's. 1 November 2012<span class="reference-accessdate">. Retrieved 6 November 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=2013+Medical+Doctoral+University+Ranking&amp;rft.date=1+November+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Foncampus.macleans.ca%2Feducation%2F2012%2F11%2F01%2F2013-medical-doctoral%2F&amp;rft.pub=Maclean%27s&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.raic.org/architecture_architects/becoming_an_architect/education_e.htm">Architecture Canada</a></span></li> 
+       <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cemf.ca/Engineering/UniversityList.htm">(Canadian Engineering Memorial Foundation)</a></span></li> 
+       <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.museevirtuel-virtualmuseum.ca/GetMuseumProfile.do?lang=en&amp;chinCode=guman24">Anthropology Laboratory Museum at University of Manitoba</a></span></li> 
+       <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/admin/human_resources/staff_relations/academic/1268.htm">&quot;University of Manitoba - Human Resources - Staff Relations - HR - Staff Relations - Academic - UMFA&quot;</a>. Umanitoba.ca<span class="reference-accessdate">. Retrieved 2012-03-27</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=University+of+Manitoba+-+Human+Resources+-+Staff+Relations+-+HR+-+Staff+Relations+-+Academic+-+UMFA&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umanitoba.ca%2Fadmin%2Fhuman_resources%2Fstaff_relations%2Facademic%2F1268.htm&amp;rft.pub=Umanitoba.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/admin/human_resources/staff_relations/academic/1265.htm">&quot;University of Manitoba - Human Resources - Staff Relations - HR - Staff Relations- Academic -CUPE 3909 - Sessionals&quot;</a>. Umanitoba.ca<span class="reference-accessdate">. Retrieved 2012-03-27</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=University+of+Manitoba+-+Human+Resources+-+Staff+Relations+-+HR+-+Staff+Relations-+Academic+-CUPE+3909+-+Sessionals&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umanitoba.ca%2Fadmin%2Fhuman_resources%2Fstaff_relations%2Facademic%2F1265.htm&amp;rft.pub=Umanitoba.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/admin/human_resources/staff_relations/academic/1266.htm">&quot;University of Manitoba - Human Resources - Staff Relations - HR - Staff Relations - Academic - CUPE Local 3909 (TA's)&quot;</a>. Umanitoba.ca<span class="reference-accessdate">. Retrieved 2012-03-27</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=University+of+Manitoba+-+Human+Resources+-+Staff+Relations+-+HR+-+Staff+Relations+-+Academic+-+CUPE+Local+3909+%28TA%27s%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umanitoba.ca%2Fadmin%2Fhuman_resources%2Fstaff_relations%2Facademic%2F1266.htm&amp;rft.pub=Umanitoba.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/admin/human_resources/staff_relations/academic/1267.htm">&quot;University of Manitoba - Human Resources - Staff Relations - HR - Staff Relations - Academic - UMDCSA&quot;</a>. Umanitoba.ca<span class="reference-accessdate">. Retrieved 2012-03-27</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=University+of+Manitoba+-+Human+Resources+-+Staff+Relations+-+HR+-+Staff+Relations+-+Academic+-+UMDCSA&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umanitoba.ca%2Fadmin%2Fhuman_resources%2Fstaff_relations%2Facademic%2F1267.htm&amp;rft.pub=Umanitoba.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/admin/human_resources/staff_relations/support/1271.htm">&quot;University of Manitoba - Human Resources - Staff Relations - HR - Staff Relations - Support - AESES&quot;</a>. Umanitoba.ca<span class="reference-accessdate">. Retrieved 2012-03-27</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=University+of+Manitoba+-+Human+Resources+-+Staff+Relations+-+HR+-+Staff+Relations+-+Support+-+AESES&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umanitoba.ca%2Fadmin%2Fhuman_resources%2Fstaff_relations%2Fsupport%2F1271.htm&amp;rft.pub=Umanitoba.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/admin/human_resources/staff_relations/support/1274.htm">&quot;University of Manitoba - Human Resources - Staff Relations - HR - Staff Relations - Support - CUPE - Local 1482&quot;</a>. Umanitoba.ca<span class="reference-accessdate">. Retrieved 2012-03-27</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=University+of+Manitoba+-+Human+Resources+-+Staff+Relations+-+HR+-+Staff+Relations+-+Support+-+CUPE+-+Local+1482&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umanitoba.ca%2Fadmin%2Fhuman_resources%2Fstaff_relations%2Fsupport%2F1274.htm&amp;rft.pub=Umanitoba.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/admin/human_resources/staff_relations/support/1273.htm">&quot;University of Manitoba - Human Resources - Staff Relations - HR - Staff Relations - Support - CAW - Local 3007&quot;</a>. Umanitoba.ca<span class="reference-accessdate">. Retrieved 2012-03-27</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=University+of+Manitoba+-+Human+Resources+-+Staff+Relations+-+HR+-+Staff+Relations+-+Support+-+CAW+-+Local+3007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umanitoba.ca%2Fadmin%2Fhuman_resources%2Fstaff_relations%2Fsupport%2F1273.htm&amp;rft.pub=Umanitoba.ca&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-OnManApril09-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-OnManApril09_35-0">^</a></b></span> <span class="reference-text">Chalmers-Brooks, Katie: &quot;The path to Rhodes&quot;, <i>On Manitoba</i>, Volume 68, Number 4, April 2009, page 30. The Alumni Association Inc of the University of Manitoba</span></li> 
+       <li id="cite_note-Ten-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ten_36-0">^</a></b></span> <span class="reference-text"><span class="citation web">University Of Manitoba Public Affairs (undated). <a rel="nofollow" class="external text" href="http://www.umanitoba.ca/about/10things.html">&quot;Ten Great Things to Know about the U of M&quot;</a><span class="reference-accessdate">. Retrieved 2009-05-29</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.aulast=University+Of+Manitoba+Public+Affairs&amp;rft.au=University+Of+Manitoba+Public+Affairs&amp;rft.btitle=Ten+Great+Things+to+Know+about+the+U+of+M&amp;rft.date=undated&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.umanitoba.ca%2Fabout%2F10things.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/schools/art/content/galleryoneoneone/111.html">Gallery One One One</a></span></li> 
+       <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://mbsororities.com/">&quot;University of Manitoba Panhellenic Association&quot;</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=University+of+Manitoba+Panhellenic+Association&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmbsororities.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+       <li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://canadiangreeks.com/directory/uofm.html/">&quot;Canadians Go Greek! Directory of Fraternities and Sororities&quot;</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.btitle=Canadians+Go+Greek%21+Directory+of+Fraternities+and+Sororities&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcanadiangreeks.com%2Fdirectory%2Fuofm.html%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&nbsp;</span></span></span></li> 
+      </ol> 
+     </div> 
+     <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=23" title="Edit section: See also">edit</a>]</span></h2> 
+     <div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;"> 
+      <table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;"> 
+       <tbody>
+        <tr valign="middle"> 
+         <td style="text-align:center;"><a href="/wiki/File:School.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/28px-School.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/42px-School.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/56px-School.svg.png 2x" /></a></td> 
+         <td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="/wiki/Portal:University_of_the_Arctic" title="Portal:University of the Arctic">University of the Arctic portal</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <ul> 
+      <li><a href="/wiki/Asper_School_of_Business" title="Asper School of Business">Asper School of Business</a></li> 
+      <li><a href="/wiki/University_of_Manitoba_Students%27_Union" title="University of Manitoba Students' Union">University of Manitoba Students' Union</a></li> 
+      <li><a href="/wiki/Faculty_of_Medicine_-_University_of_Manitoba" title="Faculty of Medicine - University of Manitoba" class="mw-redirect">Faculty of Medicine - University of Manitoba</a></li> 
+      <li><a href="/wiki/Robert_B._Ferguson_Museum_of_Mineralogy" title="Robert B. Ferguson Museum of Mineralogy">Robert B. Ferguson Museum of Mineralogy</a></li> 
+      <li><a href="/wiki/Ed_Leith_Cretaceous_Menagerie" title="Ed Leith Cretaceous Menagerie">Ed Leith Cretaceous Menagerie</a></li> 
+      <li><a href="/wiki/List_of_agricultural_universities_and_colleges" title="List of agricultural universities and colleges">List of agricultural universities and colleges</a></li> 
+      <li><a href="/wiki/List_of_universities_in_Manitoba" title="List of universities in Manitoba" class="mw-redirect">List of universities in Manitoba</a></li> 
+      <li><a href="/wiki/Higher_education_in_Manitoba" title="Higher education in Manitoba">Higher education in Manitoba</a></li> 
+      <li><a href="/wiki/Education_in_Canada" title="Education in Canada">Education in Canada</a></li> 
+     </ul> 
+     <h3><span class="mw-headline" id="Histories_of_the_University">Histories of the University</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=24" title="Edit section: Histories of the University">edit</a>]</span></h3> 
+     <ul> 
+      <li>Dr. John M (Jack) Bumsted 'The University of Manitoba: An Illustrated History (Winnipeg: University of Manitoba Press &copy; 2001)'</li> 
+      <li>W. J. Frazer &quot;A History of St. John's College, Winnipeg.&quot; M.A. thesis, University of Manitoba, 1966.</li> 
+      <li>Mary Kinnear &quot;Disappointment in Discourse: Women University Professors at the University of Manitoba before 1970.&quot; Historical Studies in Education 4, no. 2 (Fall 1992).</li> 
+      <li>P.R. R&eacute;gnier &quot;A History of St. Boniface College.&quot; M.A. thesis, University of Manitoba, 1964.</li> 
+     </ul> 
+     <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=25" title="Edit section: References">edit</a>]</span></h2> 
+     <ul> 
+      <li><span class="citation web"><a rel="nofollow" class="external text" href="http://umanitoba.ca/about/numbers_notes/">&quot;Notes &amp; Numbers&quot;</a>. <i>Public Affairs, University of Manitoba</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Manitoba&amp;rft.atitle=Notes+%26+Numbers&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fumanitoba.ca%2Fabout%2Fnumbers_notes%2F&amp;rft.jtitle=Public+Affairs%2C+University+of+Manitoba&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&nbsp;</span></span></li> 
+     </ul> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="3"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:Universities_in_Manitoba" title="Template:Universities in Manitoba"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:Universities_in_Manitoba" title="Template talk:Universities in Manitoba"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Universities_in_Manitoba&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/List_of_universities_in_Canada#Manitoba" title="List of universities in Canada">Manitoba universities</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Public</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Brandon_University" title="Brandon University">Brandon University</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_de_Saint-Boniface" title="Universit&eacute; de Saint-Boniface">Universit&eacute; de Saint-Boniface</a></li> 
+               <li><strong class="selflink">University of Manitoba</strong></li> 
+               <li><a href="/wiki/University_of_Winnipeg" title="University of Winnipeg">University of Winnipeg</a></li> 
+               <li><a href="/wiki/University_College_of_the_North" title="University College of the North">University College of the North</a></li> 
+              </ul> 
+             </div> </td> 
+            <td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px;"> 
+             <div>
+              <a href="/wiki/File:Flag_of_Manitoba.svg" class="image" title="Flag of Manitoba"><img alt="Flag of Manitoba" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Manitoba.svg/50px-Flag_of_Manitoba.svg.png" width="50" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Manitoba.svg/75px-Flag_of_Manitoba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Manitoba.svg/100px-Flag_of_Manitoba.svg.png 2x" /></a>
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Private</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Booth_University_College" title="Booth University College">Booth University College</a></li> 
+               <li><a href="/wiki/Canadian_Mennonite_University" title="Canadian Mennonite University">Canadian Mennonite University</a></li> 
+               <li><a href="/wiki/Yellowquill_College" title="Yellowquill College">Yellowquill College</a></li> 
+               <li><a href="/wiki/Providence_University_College_and_Theological_Seminary" title="Providence University College and Theological Seminary">Providence University College and Theological Seminary</a></li> 
+               <li><a href="/wiki/Steinbach_Bible_College" title="Steinbach Bible College">Steinbach Bible College</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Public Colleges</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/Red_River_College" title="Red River College">Red River College</a></li> 
+               <li><a href="/wiki/Assiniboine_Community_College" title="Assiniboine Community College">Assiniboine Community College</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:CDIO" title="Template:CDIO"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:CDIO" title="Template talk:CDIO"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CDIO&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/CDIO" title="CDIO">CDIO Initiative</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Africa</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/University_of_Pretoria" title="University of Pretoria">University of Pretoria <small style="font-size:85%;">(South Africa)</small></a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Asia-Pacific</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;">Australia</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Chisholm_Institute" title="Chisholm Institute">Chisholm Institute</a></li> 
+                   <li><a href="/wiki/Queensland_University_of_Technology" title="Queensland University of Technology">Queensland University of Technology</a></li> 
+                   <li><a href="/wiki/University_of_Sydney" title="University of Sydney">University of Sydney</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;">China</th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Beijing_Jiaotong_University" title="Beijing Jiaotong University">Beijing Jiaotong University</a></li> 
+                   <li><a href="/wiki/Chengdu_University_of_Information_Technology" title="Chengdu University of Information Technology">Chengdu University of Information Technology</a></li> 
+                   <li><a href="/wiki/Shantou_University" title="Shantou University">Shantou University</a></li> 
+                   <li><a href="/wiki/Tsinghua_University" title="Tsinghua University">Tsinghua University</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;"><i>Elsewhere</i></th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Taylor%27s_University" title="Taylor's University">Taylor's University <small style="font-size:85%;">(Malaysia)</small></a></li> 
+                   <li><a href="/wiki/University_of_Auckland" title="University of Auckland">University of Auckland <small style="font-size:85%;">(New Zealand)</small></a></li> 
+                   <li><a href="/wiki/Singapore_Polytechnic" title="Singapore Polytechnic">Singapore Polytechnic</a></li> 
+                   <li><a href="/wiki/Vietnam_National_University,_Ho_Chi_Minh_City" title="Vietnam National University, Ho Chi Minh City">Vietnam National University, Ho Chi Minh City</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">Europe</th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;">Finland</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Lahti_University_of_Applied_Sciences" title="Lahti University of Applied Sciences">Lahti University of Applied Sciences</a></li> 
+                   <li><a href="/wiki/Helsinki_Metropolia_University_of_Applied_Sciences" title="Helsinki Metropolia University of Applied Sciences">Helsinki Metropolia University of Applied Sciences</a></li> 
+                   <li><a href="/wiki/Sein%C3%A4joki_University_of_Applied_Sciences" title="Sein&auml;joki University of Applied Sciences">Sein&auml;joki University of Applied Sciences</a></li> 
+                   <li><a href="/wiki/Turku_University_of_Applied_Sciences" title="Turku University of Applied Sciences">Turku University of Applied Sciences</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;">Sweden</th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Chalmers_University_of_Technology" title="Chalmers University of Technology">Chalmers University of Technology</a></li> 
+                   <li><a href="/wiki/J%C3%B6nk%C3%B6ping_School_of_Engineering" title="J&ouml;nk&ouml;ping School of Engineering">J&ouml;nk&ouml;ping School of Engineering</a></li> 
+                   <li><a href="/wiki/Link%C3%B6ping_University" title="Link&ouml;ping University">Link&ouml;ping University</a></li> 
+                   <li><a href="/wiki/Royal_Institute_of_Technology" title="Royal Institute of Technology">Royal Institute of Technology</a></li> 
+                   <li><a href="/wiki/Ume%C3%A5_Institute_of_Technology" title="Ume&aring; Institute of Technology">Ume&aring; Institute of Technology</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;">UK</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Aston_University" title="Aston University">Aston University</a></li> 
+                   <li><a href="/wiki/Queen%27s_University_Belfast" title="Queen's University Belfast">Queen's University Belfast</a></li> 
+                   <li><a href="/wiki/University_of_Bristol" title="University of Bristol">University of Bristol</a></li> 
+                   <li><a href="/wiki/Lancaster_University" title="Lancaster University">Lancaster University</a></li> 
+                   <li><a href="/wiki/University_of_Liverpool" title="University of Liverpool">University of Liverpool</a></li> 
+                   <li><a href="/wiki/University_of_Leeds" title="University of Leeds">University of Leeds</a></li> 
+                   <li><a href="/wiki/University_of_Strathclyde" title="University of Strathclyde">University of Strathclyde</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;"><i>Elsewhere</i></th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Hogeschool_Gent" title="Hogeschool Gent">Hogeschool Gent <small style="font-size:85%;">(Belgium)</small></a></li> 
+                   <li><a href="/w/index.php?title=Engineering_College_of_Aarhus&amp;action=edit&amp;redlink=1" class="new" title="Engineering College of Aarhus (page does not exist)">Engineering College of Aarhus <small style="font-size:85%;">(Denmark)</small></a></li> 
+                   <li><a href="/wiki/Technical_University_of_Denmark" title="Technical University of Denmark">Technical University of Denmark</a></li> 
+                   <li><a href="/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_t%C3%A9l%C3%A9communications_de_Bretagne" title="&Eacute;cole nationale sup&eacute;rieure des t&eacute;l&eacute;communications de Bretagne">Telecom Bretagne <small style="font-size:85%;">(France)</small></a></li> 
+                   <li><a href="/wiki/Hochschule_Wismar" title="Hochschule Wismar">Hochschule Wismar <small style="font-size:85%;">(Germany)</small></a></li> 
+                   <li><a href="/wiki/Politecnico_di_Milano" title="Politecnico di Milano">Politecnico di Milano <small style="font-size:85%;">(Italy)</small></a></li> 
+                   <li><a href="/wiki/Instituto_Superior_de_Engenharia_do_Porto" title="Instituto Superior de Engenharia do Porto">Instituto Superior de Engenharia do Porto <small style="font-size:85%;">(Portugal)</small></a></li> 
+                   <li><a href="/wiki/Polytechnic_University_of_Catalonia" title="Polytechnic University of Catalonia">Universitat Polit&egrave;cnica de Catalunya <small style="font-size:85%;">(Spain)</small></a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group">North America</th> 
+            <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;">Canada</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/%C3%89cole_Polytechnique_de_Montr%C3%A9al" title="&Eacute;cole Polytechnique de Montr&eacute;al">&Eacute;cole Polytechnique de Montr&eacute;al</a></li> 
+                   <li><a href="/wiki/Queen%27s_University" title="Queen's University">Queen's University</a></li> 
+                   <li><a href="/wiki/University_of_Calgary" title="University of Calgary">University of Calgary</a></li> 
+                   <li><strong class="selflink">University of Manitoba</strong></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;">United States</th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Arizona_State_University" title="Arizona State University">Arizona State University</a></li> 
+                   <li><a href="/wiki/California_State_University" title="California State University">California State University</a></li> 
+                   <li><a href="/wiki/University_of_Colorado" title="University of Colorado">University of Colorado</a></li> 
+                   <li><a href="/wiki/Daniel_Webster_College" title="Daniel Webster College">Daniel Webster College</a></li> 
+                   <li><a href="/wiki/Duke_University" title="Duke University">Duke University</a></li> 
+                   <li><a href="/wiki/Embry%E2%80%93Riddle_Aeronautical_University" title="Embry–Riddle Aeronautical University">Embry–Riddle Aeronautical University</a></li> 
+                   <li><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a></li> 
+                   <li><a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a></li> 
+                   <li><a href="/wiki/Pennsylvania_State_University" title="Pennsylvania State University">Pennsylvania State University</a></li> 
+                   <li><a href="/wiki/United_States_Naval_Academy" title="United States Naval Academy">United States Naval Academy</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <th scope="row" class="navbox-group"> 
+             <div style="padding:0.1em 0;line-height:1.2em;">
+              Central and
+              <br /> South America
+             </div> </th> 
+            <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"></div> 
+             <table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;"> 
+              <tbody>
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;">Chile</th> 
+                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/University_of_Chile" title="University of Chile">University of Chile</a></li> 
+                   <li><a href="/wiki/Catholic_University_of_the_Most_Holy_Conception" title="Catholic University of the Most Holy Conception">Catholic University of the Most Holy Conception</a></li> 
+                   <li><a href="/wiki/University_of_Santiago,_Chile" title="University of Santiago, Chile">University of Santiago, Chile</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+               <tr style="height:2px;"> 
+                <td></td> 
+               </tr> 
+               <tr> 
+                <th scope="row" class="navbox-group" style="width:6.0em;font-weight:normal;;">Colombia</th> 
+                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;"> 
+                 <div style="padding:0em 0.25em;"> 
+                  <ul> 
+                   <li><a href="/wiki/Pontifical_Xavierian_University" title="Pontifical Xavierian University">Pontifical Xavierian University</a></li> 
+                   <li><a href="/wiki/ICESI_University" title="ICESI University">ICESI University</a></li> 
+                  </ul> 
+                 </div> </td> 
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <table cellspacing="0" class="navbox" style="border-spacing:0;"> 
+      <tbody>
+       <tr> 
+        <td style="padding:2px;"> 
+         <table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;"> 
+          <tbody>
+           <tr> 
+            <th scope="col" class="navbox-title" colspan="2"> 
+             <div class="noprint plainlinks hlist navbar mini"> 
+              <ul> 
+               <li class="nv-view"><a href="/wiki/Template:G13" title="Template:G13"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li> 
+               <li class="nv-talk"><a href="/wiki/Template_talk:G13" title="Template talk:G13"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li> 
+               <li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:G13&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li> 
+              </ul> 
+             </div> 
+             <div style="font-size:110%;">
+              <a href="/wiki/U15_(universities)" title="U15 (universities)" class="mw-redirect">U15 universities</a>
+             </div> </th> 
+           </tr> 
+           <tr style="height:2px;"> 
+            <td></td> 
+           </tr> 
+           <tr> 
+            <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;"> 
+             <div style="padding:0em 0.25em;"> 
+              <ul> 
+               <li><a href="/wiki/University_of_Alberta" title="University of Alberta">Alberta</a></li> 
+               <li><a href="/wiki/University_of_British_Columbia" title="University of British Columbia">UBC</a></li> 
+               <li><a href="/wiki/University_of_Calgary" title="University of Calgary">Calgary</a></li> 
+               <li><a href="/wiki/Dalhousie_University" title="Dalhousie University">Dalhousie</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_Laval" title="Universit&eacute; Laval" class="mw-redirect">Laval</a></li> 
+               <li><strong class="selflink">Manitoba</strong></li> 
+               <li><a href="/wiki/McGill_University" title="McGill University">McGill</a></li> 
+               <li><a href="/wiki/McMaster_University" title="McMaster University">McMaster</a></li> 
+               <li><a href="/wiki/Universit%C3%A9_de_Montr%C3%A9al" title="Universit&eacute; de Montr&eacute;al">Montr&eacute;al</a></li> 
+               <li><a href="/wiki/University_of_Ottawa" title="University of Ottawa">Ottawa</a></li> 
+               <li><a href="/wiki/Queen%27s_University" title="Queen's University">Queen's</a></li> 
+               <li><a href="/wiki/University_of_Saskatchewan" title="University of Saskatchewan">Saskatchewan</a></li> 
+               <li><a href="/wiki/University_of_Toronto" title="University of Toronto">Toronto</a></li> 
+               <li><a href="/wiki/University_of_Waterloo" title="University of Waterloo">Waterloo</a></li> 
+               <li><a href="/wiki/University_of_Western_Ontario" title="University of Western Ontario">Western Ontario</a></li> 
+              </ul> 
+             </div> </td> 
+           </tr> 
+          </tbody>
+         </table> </td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=University_of_Manitoba&amp;params=49_48_34_N_97_07_58_W_type:edu_region:CA-MB"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49&deg;48′34″N</span> <span class="longitude">97&deg;07′58″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.80944&deg;N 97.13278&deg;W</span><span style="display:none">﻿ / <span class="geo">49.80944; -97.13278</span></span></span></a></span></span></span></p> 
+     <p><br /></p> 
+     <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection">[<a href="/w/index.php?title=University_of_Manitoba&amp;action=edit&amp;section=26" title="Edit section: External links">edit</a>]</span></h2> 
+     <table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;"> 
+      <tbody>
+       <tr> 
+        <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td> 
+        <td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:University_of_Manitoba" class="extiw" title="commons:Category:University of Manitoba">University of Manitoba</a></b></i></td> 
+       </tr> 
+      </tbody>
+     </table> 
+     <ul> 
+      <li><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/">University of Manitoba (official site)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.umanitoba.ca/bisons/">University of Manitoba Athletics (official site)</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.umgnctr.com">University of Manitoba Great Northern Concrete Toboggan (GNCTR) Team</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.smartpark.ca/">Smartpark Research and Technology Park</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://umanitoba.ca/libraries/units/health/resources/mbmedschhist.html">Hippocrates on the Red: the History of the Manitoba Medical School</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.aucc.ca/can_uni/our_universities/manitoba_e.html">Association of Universities and Colleges of Canada page on University of Manitoba</a></li> 
+      <li><a rel="nofollow" class="external text" href="http://www.umsu.ca/content/view/54/86/">University of Manitoba Student Union - Student Group Listing</a></li> 
+      <li><a rel="nofollow" class="external autonumber" href="http://umanitoba.ca/faculties/nursing/index.html">[1]</a></li> 
+     </ul> 
+     <!-- 
+NewPP limit report
+Preprocessor visited node count: 7752/1000000
+Preprocessor generated node count: 27207/1500000
+Post‐expand include size: 153031/2048000 bytes
+Template argument size: 23266/2048000 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 13/500
+Lua time usage: 0.179s
+Lua memory usage: 2.52 MB
+--> 
+     <!-- Saved in parser cache with key enwiki:pcache:idhash:32099-0!*!0!!en!4!* and timestamp 20130709081548 --> 
+    </div> 
+    <div class="printfooter">
+      Retrieved from &quot;
+     <a href="http://en.wikipedia.org/w/index.php?title=University_of_Manitoba&amp;oldid=562290111">http://en.wikipedia.org/w/index.php?title=University_of_Manitoba&amp;oldid=562290111</a>&quot; 
+    </div> 
+    <div id="catlinks" class="catlinks">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Categories" title="Help:Categories">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:University_of_Manitoba" title="Category:University of Manitoba">University of Manitoba</a></li>
+       <li><a href="/wiki/Category:Nursing_schools_in_Canada" title="Category:Nursing schools in Canada">Nursing schools in Canada</a></li>
+       <li><a href="/wiki/Category:Educational_institutions_established_in_1877" title="Category:Educational institutions established in 1877">Educational institutions established in 1877</a></li>
+       <li><a href="/wiki/Category:Universities_and_colleges_in_Manitoba" title="Category:Universities and colleges in Manitoba">Universities and colleges in Manitoba</a></li>
+       <li><a href="/wiki/Category:Association_of_Commonwealth_Universities" title="Category:Association of Commonwealth Universities">Association of Commonwealth Universities</a></li>
+       <li><a href="/wiki/Category:Consortium_for_North_American_Higher_Education_Collaboration" title="Category:Consortium for North American Higher Education Collaboration">Consortium for North American Higher Education Collaboration</a></li>
+       <li><a href="/wiki/Category:Universities_in_Canada" title="Category:Universities in Canada">Universities in Canada</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_needing_cleanup_from_March_2009" title="Category:Articles needing cleanup from March 2009">Articles needing cleanup from March 2009</a></li>
+       <li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li>
+       <li><a href="/wiki/Category:Universities_needing_cleanup" title="Category:Universities needing cleanup">Universities needing cleanup</a></li>
+       <li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_November_2009" title="Category:Articles with a promotional tone from November 2009">Articles with a promotional tone from November 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_possible_conflicts_of_interest_from_March_2009" title="Category:Wikipedia articles with possible conflicts of interest from March 2009">Wikipedia articles with possible conflicts of interest from March 2009</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2009" title="Category:Articles needing additional references from August 2009">Articles needing additional references from August 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2009" title="Category:Articles needing additional references from May 2009">Articles needing additional references from May 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2012" title="Category:Articles with unsourced statements from March 2012">Articles with unsourced statements from March 2012</a></li>
+       <li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+    <div class="visualClear"></div> 
+   </div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <div id="p-personal" role="navigation" class=""> 
+     <h3>Personal tools</h3> 
+     <ul> 
+      <li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=University+of+Manitoba&amp;type=signup">Create account</a></li>
+      <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=University+of+Manitoba" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li> 
+     </ul> 
+    </div> 
+    <div id="left-navigation"> 
+     <div id="p-namespaces" role="navigation" class="vectorTabs"> 
+      <h3>Namespaces</h3> 
+      <ul> 
+       <li id="ca-nstab-main" class="selected"><span><a href="/wiki/University_of_Manitoba" title="View the content page [c]" accesskey="c">Article</a></span></li> 
+       <li id="ca-talk"><span><a href="/wiki/Talk:University_of_Manitoba" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3 id="mw-vector-current-variant"> </h3> 
+      <h3><span>Variants</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="right-navigation"> 
+     <div id="p-views" role="navigation" class="vectorTabs"> 
+      <h3>Views</h3> 
+      <ul> 
+       <li id="ca-view" class="selected"><span><a href="/wiki/University_of_Manitoba">Read</a></span></li> 
+       <li id="ca-edit"><span><a href="/w/index.php?title=University_of_Manitoba&amp;action=edit" title="You can edit this page. 
+Please review your changes before saving. [e]" accesskey="e">Edit</a></span></li> 
+       <li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=University_of_Manitoba&amp;action=history" title="Past versions of this page [h]" accesskey="h">View history</a></span></li> 
+      </ul> 
+     </div> 
+     <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet"> 
+      <h3><span>Actions</span><a href="#"></a></h3> 
+      <div class="menu"> 
+       <ul> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="p-search" role="search"> 
+      <h3><label for="searchInput">Search</label></h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch"> 
+        <input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /> 
+        <button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button> 
+        <input type="hidden" name="title" value="Special:Search" /> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner">
+     <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page"></a>
+    </div> 
+    <div class="portal" role="navigation" id="p-navigation"> 
+     <h3>Navigation</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li> 
+       <li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li> 
+       <li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li> 
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li> 
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li> 
+       <li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-interaction"> 
+     <h3>Interaction</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li> 
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li> 
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li> 
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li> 
+       <li id="n-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-tb"> 
+     <h3>Toolbox</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/University_of_Manitoba" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li> 
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/University_of_Manitoba" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li> 
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li> 
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li> 
+       <li id="t-permalink"><a href="/w/index.php?title=University_of_Manitoba&amp;oldid=562290111" title="Permanent link to this revision of the page">Permanent link</a></li> 
+       <li id="t-info"><a href="/w/index.php?title=University_of_Manitoba&amp;action=info">Page information</a></li> 
+       <li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1191833" title="Link to connected data repository item">Data item</a></li> 
+       <li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=University_of_Manitoba&amp;id=562290111" title="Information on how to cite this page">Cite this page</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-coll-print_export"> 
+     <h3>Print/export</h3> 
+     <div class="body"> 
+      <ul> 
+       <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=University+of+Manitoba">Create a book</a></li> 
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=University+of+Manitoba&amp;oldid=562290111&amp;writer=rl">Download as PDF</a></li> 
+       <li id="t-print"><a href="/w/index.php?title=University_of_Manitoba&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="portal" role="navigation" id="p-lang"> 
+     <h3>Languages</h3> 
+     <div class="body"> 
+      <ul> 
+       <li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Manitoba_Universiteti" title="Manitoba Universiteti" lang="az" hreflang="az">Azərbaycanca</a></li> 
+       <li class="interwiki-de"><a href="//de.wikipedia.org/wiki/University_of_Manitoba" title="University of Manitoba" lang="de" hreflang="de">Deutsch</a></li> 
+       <li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Universidad_de_Manitoba" title="Universidad de Manitoba" lang="es" hreflang="es">Espa&ntilde;ol</a></li> 
+       <li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Universitato_de_Manitobo" title="Universitato de Manitobo" lang="eo" hreflang="eo">Esperanto</a></li> 
+       <li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%85%D9%86%DB%8C%D9%88%D8%A8%D8%A7" title="دانشگاه منیوبا" lang="fa" hreflang="fa">فارسی</a></li> 
+       <li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Universit%C3%A9_du_Manitoba" title="Universit&eacute; du Manitoba" lang="fr" hreflang="fr">Fran&ccedil;ais</a></li> 
+       <li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%A7%A4%EB%8B%88%ED%86%A0%EB%B0%94_%EB%8C%80%ED%95%99%EA%B5%90" title="매니토바 대학교" lang="ko" hreflang="ko">한국어</a></li> 
+       <li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%88%E3%83%90%E5%A4%A7%E5%AD%A6" title="マニトバ大学" lang="ja" hreflang="ja">日本語</a></li> 
+       <li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Universidade_de_Manitoba" title="Universidade de Manitoba" lang="pt" hreflang="pt">Portugu&ecirc;s</a></li> 
+       <li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/University_of_Manitoba" title="University of Manitoba" lang="sv" hreflang="sv">Svenska</a></li> 
+       <li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Manitoba_%C3%9Cniversitesi" title="Manitoba &Uuml;niversitesi" lang="tr" hreflang="tr">T&uuml;rk&ccedil;e</a></li> 
+       <li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%96%D1%82%D0%BE%D0%B1%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Манітобський університет" lang="uk" hreflang="uk">Українська</a></li> 
+       <li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%9B%BC%E5%B0%BC%E6%89%98%E5%B7%B4%E5%A4%A7%E5%AD%A6" title="曼尼托巴大学" lang="zh" hreflang="zh">中文</a></li> 
+       <li class="uls-p-lang-dummy"><a href="#"></a></li> 
+       <li class="wbc-editpage"><a href="//www.wikidata.org/wiki/Q1191833#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last modified on 30 June 2013 at 19:57.<br /></li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br /> Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/University_of_Manitoba" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"> <a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation" /></a> </li> 
+    <li id="footer-poweredbyico"> <a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.22wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a> </li> 
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script>
+  <script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script> 
+  <script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.articleFeedbackv5.startup","schema.Edit","ext.visualEditor.splitTest","ext.markAsHelpful","ext.gettingstarted.logging","ext.gettingstarted.openTask","ext.navigationTiming","mw.PopUpMediaTransform"],null,true);
+}</script> 
+  <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script> 
+  <!-- Served by mw1057 in 0.143 secs. -->   
+ </body>
+</html>

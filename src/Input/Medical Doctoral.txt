@@ -8,5 +8,5 @@ Dalhousie University==http://www.dal.ca/
 University of Calgary==http://www.ucalgary.ca/
 University of Saskatchewan==http://www.usask.ca/
 University of Ottawa==http://www.uottawa.ca/welcome.html
-Western University==http://www.uwo.ca/
+University of Western Ontario==http://www.uwo.ca/
 University of Manitoba==http://umanitoba.ca/
