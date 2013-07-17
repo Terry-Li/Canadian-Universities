@@ -1,0 +1,9 @@
+Name==Columbia University
+Website==http://www.columbia.edu/
+Motto==In Thy light shall we see light (Psalm 36:9)
+Established==1754
+Type==Private
+Endowment==$ 7.654 billion (2012) 
+President==Lee C. Bollinger
+Location==Manhattan, New York City, New York, United States
+Campus==Urban, total 299 acres (1.21 km2)

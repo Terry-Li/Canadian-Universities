@@ -1,0 +1,9 @@
+Name==Georgia Institute of Technology
+Website==http://www.gatech.edu/
+Motto==Progress and Service
+Established==October 13, 1885
+Type==Public, Space grant
+Endowment==$1.61 billion(FY 2012)
+President==George P. "Bud" Peterson
+Location==Atlanta, Georgia, United States
+Campus==Urban, 400 acres (1.61 km²; 161 ha)

@@ -1,0 +1,9 @@
+Name==Stanford University
+Website==http://www.stanford.edu/
+Motto==The wind of freedom blows
+Established==1891
+Type==Private
+Endowment==US$ 17.04 billion 
+President==John L. Hennessy
+Location==Stanford, California, U.S.
+Campus==Suburban, 8,180 acres (3,310 ha)

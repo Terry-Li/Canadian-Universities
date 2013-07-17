@@ -1,0 +1,9 @@
+Name==Texas A&M University
+Website==http://www.tamu.edu/
+Motto==
+Established==1876
+Type==Flagship university Land-grant university Sea-grant university Space-grant university
+Endowment==US$ 7.6 billion (Systemwide)
+President==Dr. R. Bowen Loftin
+Location==College Station, Texas, United States
+Campus==Suburban, 5,500 acres (20 km2)

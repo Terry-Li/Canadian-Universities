@@ -1,0 +1,9 @@
+Name==University of Pittsburgh
+Website==http://www.pitt.edu/
+Motto==Truth and Virtue
+Established==February 28, 1787
+Type==State-related
+Endowment==US$2.618 billion
+President==
+Location==Pittsburgh, Pennsylvania, United States
+Campus==Urban, 132 acres (53 ha)

@@ -1,0 +1,9 @@
+Name==University of Virginia
+Website==http://www.virginia.edu/
+Motto==
+Established==1819
+Type==Public Flagship
+Endowment==US $ 4.79 billion
+President==Teresa A. Sullivan
+Location==Charlottesville, Virginia, United States
+Campus==World Heritage Site Suburban 1,682 acres (6.81 km2)

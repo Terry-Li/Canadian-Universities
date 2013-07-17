@@ -1,0 +1,9 @@
+Name==The University of British Columbia
+Website==http://www.ubc.ca/
+Motto==It Is Yours It is up to you
+Established==1908
+Type==Public
+Endowment==C$1.16 billion
+President==Stephen Toope
+Location==University Endowment Lands and Kelowna, British Columbia, Canada
+Campus==Vancouver:4.02 km2 (993 acres), Okanagan:208.6 ha (515 acres),

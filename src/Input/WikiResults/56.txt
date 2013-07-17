@@ -1,0 +1,9 @@
+Name==Rutgers University
+Website==http://www.rutgers.edu/
+Motto==Sun of righteousness, shine upon the West also.
+Established==November 10, 1766
+Type==Flagship Public Research University
+Endowment==$693.5 million (2012) 
+President==Robert L. Barchi
+Location==New Brunswick, Piscataway Camden Newark, New Jersey, US
+Campus==

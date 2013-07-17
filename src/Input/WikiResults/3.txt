@@ -1,0 +1,9 @@
+Name==University of Toronto
+Website==http://www.utoronto.ca/
+Motto==As a tree through the ages
+Established==March 15, 1827
+Type==Public university
+Endowment==C$1.518 billion
+President==David Naylor
+Location==Toronto, Ontario, Canada
+Campus==Urban, 71 hectares (180 acres)

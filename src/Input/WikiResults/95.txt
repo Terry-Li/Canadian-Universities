@@ -1,0 +1,9 @@
+Name==Case Western Reserve University
+Website==http://www.case.edu/
+Motto==Think Beyond the Possible
+Established==WRU: 1826 CIT: 1880 CWRU: 1967
+Type==Private University
+Endowment==US $1.6 billion (2012)
+President==Barbara R. Snyder
+Location==Cleveland, Ohio, U.S.
+Campus==Urban, 155 acres (0.63 km2)

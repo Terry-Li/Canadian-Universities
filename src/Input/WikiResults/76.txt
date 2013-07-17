@@ -1,0 +1,9 @@
+Name==University of Arizona
+Website==http://www.arizona.edu/
+Motto=="Bear Down, Arizona" The seal of the university is emblazoned with the word "Sursum", Latin for "Upwards".
+Established==Chartered 1885
+Type==Public flagship research university
+Endowment==US$532 million
+President==Ann Weaver Hart 
+Location==Tucson, Arizona, United States
+Campus==Urban, 380 acres (1.5 km2) (1,253,500 m²)

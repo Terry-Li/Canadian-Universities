@@ -1,0 +1,9 @@
+Name==University of California, Santa Barbara
+Website==http://www.ucsb.edu/
+Motto==Let there be light
+Established==1891 (Anna Blake School); Joined the UC in 1944
+Type==Public Space Grant
+Endowment==$206 million
+President==
+Location==Santa Barbara, California, United States
+Campus==Suburban 1,055 acres (427 ha)

@@ -1,0 +1,9 @@
+Name==Vanderbilt University
+Website==http://www.vanderbilt.edu/
+Motto==
+Established==1873
+Type==Private
+Endowment==$3.399 billion (2012) 
+President==
+Location==Nashville, Tennessee, United States
+Campus==Urban, 330 acres (1.3 km2)

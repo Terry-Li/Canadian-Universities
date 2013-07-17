@@ -1,0 +1,9 @@
+Name==Washington University in St. Louis
+Website==http://wustl.edu/
+Motto==Strength through truth
+Established==February 22, 1853
+Type==Private
+Endowment==US$5.226 billion
+President==
+Location==St. Louis, Missouri, U.S.
+Campus==Urban 2,312.5 acres (936 ha) Danforth Campus, 169 acres (68.4 ha) Medical Campus, 164 acres (66.4 ha) Tyson Research Center, 1,966.5 acres (796 ha) North Campus, 13 acres (5.26 ha)

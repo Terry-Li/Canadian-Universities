@@ -1,0 +1,9 @@
+Name==University at Buffalo
+Website==http://www.buffalo.edu/
+Motto==Mens sana in corpore sano (Latin: "Sound Mind in a Sound Body")
+Established==May 11th, 1846
+Type==Public research university Space-Grant flagship
+Endowment==US $736.3 million (June 2012)
+President==Satish K. Tripathi
+Location==Buffalo, NY, US
+Campus==Suburban 1,346 acres (5.45 km2)

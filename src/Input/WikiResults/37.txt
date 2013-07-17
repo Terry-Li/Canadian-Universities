@@ -1,0 +1,9 @@
+Name==California Institute of Technology
+Website==http://www.caltech.edu/
+Motto==
+Established==1891
+Type==Private
+Endowment==$1.747 billion (2012)
+President==Jean-Lou Chameau
+Location==1200 East California Boulevard Pasadena, California, U.S.
+Campus==Suburban, 124 acres (50 ha)

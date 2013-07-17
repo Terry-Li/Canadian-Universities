@@ -1,0 +1,9 @@
+Name==Carnegie Mellon University
+Website==http://www.cmu.edu/index.shtml
+Motto=="My heart is in the work" (Andrew Carnegie)
+Established==1900 by Andrew Carnegie
+Type==Private university
+Endowment==$987.1 million (2012)
+President==Subra Suresh
+Location==Pittsburgh, Pennsylvania, United States
+Campus==Urban, 144 acres (58 ha)

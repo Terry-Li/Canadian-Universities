@@ -1,0 +1,9 @@
+Name==Brown University
+Website==http://www.brown.edu/
+Motto==In God We Hope
+Established==1764
+Type==Private
+Endowment==US$ 2.46 Billion (2012) 
+President==Dr. Christina Hull Paxson
+Location==Providence, Rhode Island, United States
+Campus==Urban 143 acres (579,000 m²)

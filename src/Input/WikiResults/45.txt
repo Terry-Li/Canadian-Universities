@@ -1,0 +1,9 @@
+Name==Harvard University
+Website==http://www.harvard.edu/
+Motto==Truth
+Established==1636
+Type==Private
+Endowment==US$30.4 billion (2012)
+President==Drew Gilpin Faust
+Location==Cambridge, Massachusetts, U.S.
+Campus==Urban 209 acres (85 ha) (Main campus) 21 acres (8.5 ha) (Medical campus) 358 acres (145 ha) (Allston campus) 4,495 acres (1,819 ha) (other holdings)

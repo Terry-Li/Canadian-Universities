@@ -1,0 +1,9 @@
+Name==University of Oregon
+Website==http://www.uoregon.edu/
+Motto==Mind moves the mass
+Established==1876
+Type==Flagship Public
+Endowment==US $478 million
+President==Michael R. Gottfredson
+Location==Eugene, Oregon, United States
+Campus==Urban 295 acres (119 ha) (Main Campus) 137,000 square feet (1.27 ha) (Portland Campus)

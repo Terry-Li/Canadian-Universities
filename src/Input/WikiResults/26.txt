@@ -1,0 +1,9 @@
+Name==Brock University
+Website==http://www.brocku.ca/
+Motto==Push On!
+Established==1964
+Type==Public
+Endowment==$57.2 million
+President==Jack N. Lightstone
+Location==St. Catharines, Ontario, Canada
+Campus==Suburban

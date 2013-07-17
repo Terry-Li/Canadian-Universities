@@ -1,0 +1,9 @@
+Name==University of Florida
+Website==http://www.ufl.edu/
+Motto==The welfare of the state depends upon the morals of its citizens.
+Established==1853
+Type==State university Land-grant university Sea-grant university Space-grant university
+Endowment==US $1.295 billion (January 2012)
+President==Bernie Machen
+Location==Gainesville, Florida, United States
+Campus==2,000 acres (8.1 km2) Total: 2,000 acres (8.1 km2)

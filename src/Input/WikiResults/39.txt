@@ -1,0 +1,9 @@
+Name==University of Michigan
+Website==http://www.umich.edu/
+Motto==Arts, Knowledge, Truth
+Established==1817
+Type==Flagship Public Sea grant Space grant
+Endowment==US $8.455 billion
+President==Mary Sue Coleman
+Location==Ann Arbor, MI, US
+Campus==3,177 acres (12.86 km2) Total: 20,965 acres (84.84 km2), including arboretum

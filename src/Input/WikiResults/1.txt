@@ -1,0 +1,9 @@
+Name==McGill University
+Website==http://www.mcgill.ca/
+Motto==By work, all things increase and grow
+Established==1821
+Type==Public university
+Endowment==C$1.071 billion
+President==Heather Munroe-Blum
+Location==Montreal, Quebec, Canada
+Campus==Urban Downtown: 32 ha (79 acres) Macdonald Campus: 6.5 km2 (2.5 sq mi)

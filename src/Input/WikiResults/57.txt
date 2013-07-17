@@ -1,0 +1,9 @@
+Name==Pennsylvania State University
+Website==http://www.psu.edu/
+Motto==Making life better
+Established==1855
+Type== Public  State-related  Land-grant  Space-grant  Multi-campus
+Endowment==$1.77 billion (2012, systemwide)
+President==Rodney Erickson
+Location==University Park, Pennsylvania 19 Commonwealth Campuses 5 Special-mission campuses, United States
+Campus==University Park Campus: 5,448 acres (22 km²). TOTAL Campuses: 18,370 acres (74 km²)

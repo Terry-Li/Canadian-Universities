@@ -1,0 +1,9 @@
+Name==York University
+Website==http://www.yorku.ca/web/index.htm
+Motto==The way must be tried
+Established==1959
+Type==Public university
+Endowment==$338 million (CAD)
+President==Mamdouh Shoukri
+Location==Toronto, Ontario, Canada
+Campus==Urban / suburban, 185 ha (457.14 acres)

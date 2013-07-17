@@ -1,0 +1,9 @@
+Name==University of Guelph
+Website==http://www.uoguelph.ca/
+Motto=="to learn the reasons of realities"
+Established==May 8, 1964 (49 years ago) As constituents: OAC: 1874 Macdonald Institute: 1903 OVC: 1922
+Type==Public University
+Endowment==CA$218.0 Million
+President==Alastair Summerlee
+Location==Guelph, Ontario, Canada
+Campus==Urban/Suburban 1,223 acres (495 ha)

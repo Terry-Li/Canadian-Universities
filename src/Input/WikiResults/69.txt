@@ -1,0 +1,9 @@
+Name==University of Colorado Boulder
+Website==http://www.colorado.edu/
+Motto==Let Your Light Shine
+Established==1876
+Type==Public flagship
+Endowment==US$785 million
+President==Bruce D. Benson
+Location==Boulder, Colorado, United States
+Campus==Urban 786 acres (3,180,000 m2)

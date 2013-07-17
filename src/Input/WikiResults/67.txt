@@ -1,0 +1,9 @@
+Name==University of Utah
+Website==http://www.utah.edu/
+Motto==
+Established==February 28, 1850
+Type==Public flagship
+Endowment==US$668 million
+President==David W. Pershing, Ph.D.
+Location==Salt Lake City, Utah, United States
+Campus==Urban 1,534 acres (6.21 km2)

@@ -1,0 +1,9 @@
+Name==University of California, Santa Cruz
+Website==http://www.ucsc.edu/
+Motto==Let there be light
+Established==1965
+Type==Public, Land- and Space-Grant research university
+Endowment==US$117.4 million 
+President==
+Location==Santa Cruz, California, United States
+Campus==Suburban/Forest 6,088 acres (2,464 ha)

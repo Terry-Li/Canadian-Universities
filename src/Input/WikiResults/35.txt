@@ -1,0 +1,9 @@
+Name==University of Texas at Austin
+Website==http://www.utexas.edu/
+Motto==Cultivated mind is the guardian genius of democracy
+Established==September 15, 1883
+Type==Flagship state university Space-grant university
+Endowment==US$6.0 billion
+President==William C. Powers, Jr.
+Location==Austin, Texas, US
+Campus==Urban, 423.5 acres (1.714 km2)

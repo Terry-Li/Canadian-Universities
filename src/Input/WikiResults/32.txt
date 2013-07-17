@@ -1,0 +1,9 @@
+Name==University of Illinois at Urbana-Champaign
+Website==http://illinois.edu/
+Motto==Learning and Labor
+Established==1867
+Type==Flagship, land-grant, sea-grant, space-grant, public university
+Endowment==$1.6 billion
+President==Robert Easter
+Location==Urbana and Champaign, Illinois, United States
+Campus==Urban 1,468 acres (594 ha)

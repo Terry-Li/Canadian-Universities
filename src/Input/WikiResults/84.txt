@@ -1,0 +1,9 @@
+Name==University of Illinois at Chicago
+Website==http://www.uic.edu/uic/
+Motto==Teach, research, serve, care.
+Established==1858 Chicago College of Pharmacy 1965 University of Illinois at Chicago Circle 1982 University of Illinois at Chicago
+Type==Public Research University
+Endowment==US$244 million
+President==Robert Easter
+Location==Chicago, Illinois, United States
+Campus==Urban, 244 acres (98.7 ha)

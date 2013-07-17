@@ -1,0 +1,9 @@
+Name==University of Saskatchewan
+Website==http://www.usask.ca/
+Motto==For God and Country
+Established==1907
+Type==Public
+Endowment==CAN$200 million
+President==Ilene Busch-Vishniac
+Location==Saskatoon, Saskatchewan, Canada
+Campus==Urban

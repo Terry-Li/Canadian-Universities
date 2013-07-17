@@ -1,0 +1,9 @@
+Name==University of California, Los Angeles
+Website==http://www.ucla.edu/
+Motto==Let there be light
+Established==1882/1919 (became the second UC campus)
+Type==Flagship Public
+Endowment==US $2.59 billion 
+President==
+Location==Los Angeles, California, United States
+Campus==Urban 419 acres (1.7 km²)

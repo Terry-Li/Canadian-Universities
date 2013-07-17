@@ -1,0 +1,9 @@
+Name==Yale University
+Website==http://www.yale.edu/
+Motto==Light and truth
+Established==1701
+Type==Private
+Endowment==$ 19.345 billion (2012)
+President==Peter Salovey
+Location==New Haven, Connecticut, United States
+Campus==Urban, 837 acres (339 ha) including Yale Golf Course

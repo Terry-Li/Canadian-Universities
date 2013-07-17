@@ -1,0 +1,9 @@
+Name==University of Iowa
+Website==http://www.uiowa.edu/
+Motto==
+Established==February 25, 1847
+Type==Public
+Endowment==USD $1.062 billion (2013)
+President==Sally Mason
+Location==Iowa City, Iowa, United States
+Campus==Urban 1,900 acres (770 ha)

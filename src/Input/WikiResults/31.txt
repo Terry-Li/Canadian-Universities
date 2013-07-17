@@ -1,0 +1,9 @@
+Name==Cornell University
+Website==http://www.cornell.edu/
+Motto=="I would found an institution where any person can find instruction in any study." -Ezra Cornell, 1865
+Established==1865
+Type==Private
+Endowment==US$ 5.49 billion
+President==David J. Skorton
+Location==Ithaca, New York, U.S.
+Campus==Small city, 4,800  acres

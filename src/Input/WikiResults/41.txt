@@ -1,0 +1,9 @@
+Name==University of Maryland, College Park
+Website==http://www.umd.edu/
+Motto==Strong deeds, Gentle words
+Established==1856
+Type==Flagship Public university, Land-Grant, Sea-Grant, Space-Grant
+Endowment==$812 million (as of 2012)
+President==Wallace Loh
+Location==College Park, Maryland, United States
+Campus==Suburban, 1,250 acres (5.1 km2)

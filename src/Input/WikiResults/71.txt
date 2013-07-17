@@ -1,0 +1,9 @@
+Name==Virginia Tech
+Website==http://www.vt.edu/
+Motto==That I May Serve
+Established==1872
+Type==Public Land-Grant Space-Grant Sea-Grant
+Endowment==US $ 626.7 Million
+President==Charles W. Steger
+Location==Blacksburg, Virginia, United States
+Campus==Rural

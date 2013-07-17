@@ -1,0 +1,9 @@
+Name==Massachusetts Institute of Technology
+Website==http://web.mit.edu/
+Motto==Mind and Hand
+Established==1861 (opened 1865)
+Type==Private
+Endowment==$ 10.15 billion (2012) 
+President==L. Rafael Reif
+Location==Cambridge, Massachusetts, United States
+Campus==Urban, 168 acres (68.0 ha)

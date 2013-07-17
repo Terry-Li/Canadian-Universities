@@ -1,0 +1,9 @@
+Name==University of California, San Diego
+Website==http://ucsd.edu/
+Motto==Let there be light
+Established==November 18, 1960 (As Scripps Institution of Oceanography, 1903)
+Type==Public Space grant Sea grant
+Endowment==US $560.1 million 
+President==
+Location==La Jolla, California, United States
+Campus==Suburban 2,141 acres (866 ha)

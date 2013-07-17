@@ -1,0 +1,9 @@
+Name==University of Windsor
+Website==http://www.uwindsor.ca/
+Motto==[Show] Goodness, discipline, knowledge
+Established==1857
+Type==Public
+Endowment==$50.65 million
+President==Dr. Alan Wildeman
+Location==401 Sunset Avenue, Windsor, ON, Canada
+Campus==Urban, 51 ha (130 acres)

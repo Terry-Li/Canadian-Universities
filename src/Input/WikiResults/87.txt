@@ -1,0 +1,9 @@
+Name==Northeastern University
+Website==http://www.northeastern.edu/
+Motto==Lux, Veritas, Virtus
+Established==1898
+Type==Private, secular, coeducational
+Endowment==$601 million
+President==Joseph Aoun
+Location==Boston, Massachusetts, U.S.
+Campus==Urban, 73 acres

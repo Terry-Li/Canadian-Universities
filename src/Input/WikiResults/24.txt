@@ -1,0 +1,9 @@
+Name==Ryerson University
+Website==http://www.ryerson.ca/index.html
+Motto==With mind and Skill
+Established==1948
+Type==Public
+Endowment==C$ 97.2 million (2012)
+President==Sheldon Levy
+Location==Toronto, Ontario, Canada
+Campus==Urban, (21 acres or 8.5 ha)

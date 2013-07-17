@@ -1,0 +1,9 @@
+Name==Wilfrid Laurier University
+Website==http://www.wlu.ca/
+Motto==Truth conquers all
+Established==1911 Evangelical Lutheran Seminary of Canada (1911). Subsequent names, Waterloo College of Arts (1925), Waterloo Lutheran University (1960), and now, Wilfrid Laurier University (1973-present).
+Type==Public
+Endowment==$41 million
+President==Max Blouw
+Location==Waterloo, Ontario, Canada
+Campus==

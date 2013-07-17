@@ -1,0 +1,9 @@
+Name==University of Calgary
+Website==http://www.ucalgary.ca/
+Motto==I will lift up my eyes
+Established==April 29, 1966
+Type==Public
+Endowment==$516.7 million
+President==Dr. M. Elizabeth Cannon
+Location==Calgary, Alberta, Canada
+Campus==Urban, 4.13 km2

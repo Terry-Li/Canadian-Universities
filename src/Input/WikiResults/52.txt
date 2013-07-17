@@ -1,0 +1,9 @@
+Name==University of North Carolina at Chapel Hill
+Website==http://www.unc.edu/index.htm
+Motto==Light and liberty
+Established==December 11, 1789
+Type==Flagship Public
+Endowment==$2.179 billion
+President==
+Location==Chapel Hill, North Carolina, United States
+Campus==University town 729 acres (3.0 km2)

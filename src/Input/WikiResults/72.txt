@@ -1,0 +1,9 @@
+Name==Stony Brook University
+Website==http://www.stonybrook.edu/sb/
+Motto==
+Established==1957
+Type== Public  Research university  Sea-grant  Space-grant
+Endowment==US$125 million (FYE 2012)
+President==Dr. Samuel Stanley Jr
+Location==Stony Brook, NY, US
+Campus==Suburban, 1,364 acres (5.5 km²)

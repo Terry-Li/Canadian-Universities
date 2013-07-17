@@ -1,0 +1,9 @@
+Name==Concordia University
+Website==http://www.concordia.ca/
+Motto==Well-being through harmony
+Established==1974 by the merger of Loyola College (1896) and Sir George Williams University (1926).
+Type==Public University
+Endowment==C$ 121.9 million
+President==Alan Shepard
+Location==Montreal, Quebec, Canada
+Campus==Sir George Williams Campus: Urban Loyola College: Suburban, 40 acres (16 ha) Loyola Campus

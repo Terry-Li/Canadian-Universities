@@ -1,0 +1,9 @@
+Name==University of Regina
+Website==http://www.uregina.ca/
+Motto==As one who serves
+Established==Regina College, 1911 University of Regina, 1974
+Type==Public
+Endowment==$25.9 million
+President==Vianne Timmons
+Location==Regina, Saskatchewan, Canada
+Campus==Urban

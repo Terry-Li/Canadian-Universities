@@ -1,0 +1,9 @@
+Name==University of Ottawa
+Website==http://www.uottawa.ca/welcome.html
+Motto==God is the Lord of Knowledge
+Established==1848
+Type==Public university
+Endowment==C$183.9 Million
+President==Allan Rock
+Location==Ottawa, Ontario, Canada
+Campus==Urban, 42.5 hectares (105 acres)

@@ -1,0 +1,9 @@
+Name==University of Victoria
+Website==http://www.uvic.ca/
+Motto=="Let there be light" "A multitude of the wise is the health of the world"
+Established==1963
+Type==Public
+Endowment==$296 million
+President==Dr. David H. Turpin, CM, FRSC
+Location==Victoria, British Columbia, Canada
+Campus==Urban

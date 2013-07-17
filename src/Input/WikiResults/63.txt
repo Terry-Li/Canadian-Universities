@@ -1,0 +1,9 @@
+Name==University of Chicago
+Website==http://www.uchicago.edu/index.shtml
+Motto==Let knowledge grow from more to more; and so be human life enriched
+Established==1890
+Type==Private nondenominational coeducational
+Endowment==US$6.57 billion
+President==Robert J. Zimmer
+Location==Chicago, Illinois
+Campus==Urban, 211 acres (85.4 ha)

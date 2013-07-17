@@ -1,0 +1,9 @@
+Name==Duke University
+Website==http://www.duke.edu/
+Motto==Knowledge and Faith
+Established==1838
+Type==Private
+Endowment==$5.6 billion
+President==Richard H. Brodhead
+Location==Durham, North Carolina, United States
+Campus==Urban 8,610 acres (34.8 km2)

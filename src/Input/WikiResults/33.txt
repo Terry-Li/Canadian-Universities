@@ -1,0 +1,9 @@
+Name==University of Washington
+Website==http://www.washington.edu/
+Motto==Let there be light
+Established==1861
+Type==Public flagship
+Endowment==US$2.93 billion (2012)
+President==Michael K. Young
+Location==Seattle, Washington, U.S.
+Campus==Urban, 703 acres (2.8 km2)

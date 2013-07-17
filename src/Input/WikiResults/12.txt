@@ -1,0 +1,9 @@
+Name==University of Manitoba
+Website==http://umanitoba.ca/
+Motto==Flourish or Prosper
+Established==1877
+Type==Public
+Endowment==$342 million
+President==Dr. David Barnard
+Location==Winnipeg, Manitoba, Canada
+Campus==Urban

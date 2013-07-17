@@ -1,0 +1,9 @@
+Name==Dartmouth College
+Website==http://www.dartmouth.edu/
+Motto==A voice crying out in the wilderness
+Established==December 13, 1769 (1769-12-13) (243 years ago)
+Type==Private
+Endowment==US$ 3.486 billion (As of 30 June 2012 (2012-06-30)[update])
+President==Philip J. Hanlon
+Location==Hanover, New Hampshire, United States
+Campus==Rural, Total 31,869 acres (128.97 km2) 269 acres (1.09 km2), Hanover campus 4,600 acres (19 km2), Mount Moosilauke 27,000 acres (110 km2), Second College Grant

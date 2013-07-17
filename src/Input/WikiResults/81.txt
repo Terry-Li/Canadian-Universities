@@ -1,0 +1,9 @@
+Name==Indiana University Bloomington
+Website==http://www.iub.edu/
+Motto==Lux et Veritas (Light and Truth)
+Established==1820 (details)
+Type==Flagship Public
+Endowment==US $1.57 billion (2011)
+President==Michael McRobbie
+Location==Bloomington, IN, United States
+Campus==small city: 1,937 acres (2011)

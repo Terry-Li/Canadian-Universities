@@ -1,0 +1,9 @@
+Name==McMaster University
+Website==http://www.mcmaster.ca/
+Motto==All things cohere in Christ
+Established==23 April 1887
+Type==Public university
+Endowment==$519.2 million
+President==Patrick Deane
+Location==Hamilton, Ontario, Canada
+Campus==Urban, 152.4 hectares (377 acres)

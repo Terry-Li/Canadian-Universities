@@ -1,0 +1,9 @@
+Name==University of Rochester
+Website==http://www.rochester.edu/
+Motto==Ever Better (also, Always Better)
+Established==1850
+Type==Private, nonsectarian
+Endowment==US $1.58 billion (2012)
+President==Joel Seligman
+Location==Rochester, New York, U.S.
+Campus==Suburban/Urban, 600 acres (2.4 km2)

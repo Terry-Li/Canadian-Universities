@@ -1,0 +1,9 @@
+Name==Dalhousie University
+Website==http://www.dal.ca/
+Motto==Pray and work
+Established==1818
+Type==Public university
+Endowment==$400.6 million
+President==Richard Florizone
+Location==Studley, Sexton and Carleton campuses: Halifax Dalhousie Agricultural Campus: Bible Hill , Nova Scotia, Canada
+Campus==Urban, 79 acres (32 ha) Rural, 151 acres (61 ha)

@@ -1,0 +1,9 @@
+Name==University of Pennsylvania
+Website==http://www.upenn.edu/
+Motto==Laws without morals are in vain
+Established==1740
+Type==Private
+Endowment==$6.755 billion (2012) 
+President==Amy Gutmann
+Location==Philadelphia, Pennsylvania, United States
+Campus==Urban, 992 acres (4.01 km2) total: 300 acres (1.2 km2), University City campus; 600 acres (2.4 km2), New Bolton Center; 92 acres (0.37 km2), Morris Arboretum

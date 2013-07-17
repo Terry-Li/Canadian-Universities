@@ -1,0 +1,9 @@
+Name==University of California, Irvine
+Website==http://www.uci.edu/
+Motto==Let there be light
+Established==1965
+Type==Public, Land, Space Granted Research University
+Endowment==$293.2 million 
+President==
+Location==Irvine, California, United States
+Campus==Suburban 1,526 acres (618 ha)

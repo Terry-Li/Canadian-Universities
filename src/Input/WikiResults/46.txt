@@ -1,0 +1,9 @@
+Name==University of Massachusetts Amherst
+Website==http://www.umass.edu/
+Motto==By the sword we seek peace, but peace only under liberty
+Established==April 29, 1863 
+Type==Flagship Public Land Grant
+Endowment==US$ 210.1 million (2012)
+President==
+Location==Amherst, Massachusetts, U.S.
+Campus==1,463 acres (5.87 km2) Urban/Suburban

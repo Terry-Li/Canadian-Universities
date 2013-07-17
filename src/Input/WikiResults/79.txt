@@ -1,0 +1,9 @@
+Name==University of California, Riverside
+Website==http://www.ucr.edu/
+Motto==Let there be light
+Established==1954
+Type==Public, land and space grant
+Endowment==$138.8 million 
+President==
+Location==Riverside and Palm Desert, California, United States
+Campus==Suburban, in Riverside; rural in Palm Desert. 1,931 acres (781 ha) in total

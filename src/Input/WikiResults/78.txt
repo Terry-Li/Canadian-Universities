@@ -1,0 +1,9 @@
+Name==Boston University
+Website==http://www.bu.edu/
+Motto==Learning, Virtue, Piety
+Established==1839
+Type==Private
+Endowment==US$ 1.104 billion
+President==Robert A. Brown
+Location==Boston, Massachusetts, United States
+Campus==Urban 133 acres (54 ha) (Charles River Campus) 80 acres (32.4 ha) (Medical campus)

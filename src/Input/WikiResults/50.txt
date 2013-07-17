@@ -1,0 +1,9 @@
+Name==University of Southern California
+Website==http://www.usc.edu/
+Motto==Let whoever earns the palm bear it
+Established==October 6, 1880
+Type==Private
+Endowment==$3.489 billion 
+President==C. L. Max Nikias
+Location==Los Angeles, California
+Campus==Urban 226 acres (0.91 km2)

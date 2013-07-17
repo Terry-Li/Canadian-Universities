@@ -1,0 +1,9 @@
+Name==Purdue University
+Website==http://www.purdue.edu/
+Motto==
+Established==May 6, 1869
+Type==Public Flagship Land-Grant Sea-Grant Space-Grant
+Endowment==US$1.91 billion (2012) (systemwide)
+President==Mitchell E. Daniels Jr.
+Location==West Lafayette, Indiana, US
+Campus==Large town: 2,602 acres (10.53 km2) plus 15,325 acres (62.02 km2) for agricultural and industrial research

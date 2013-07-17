@@ -1,0 +1,9 @@
+Name==Arizona State University
+Website==http://www.asu.edu/
+Motto==
+Established==February 26, 1885
+Type==Public research university
+Endowment==$500.6 million (2012)
+President==Michael M. Crow
+Location==Phoenix metropolitan area, Arizona, U.S.
+Campus==Urban Tempe: 631.6 acres (2.556 km2) Polytechnic: 612.99 acres (2.4807 km2) West: 277.92 acres (1.1247 km2) Downtown Phoenix: 27.57 acres (111,600 m2)

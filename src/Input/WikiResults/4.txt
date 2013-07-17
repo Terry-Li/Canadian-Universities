@@ -1,0 +1,9 @@
+Name==Queen's University
+Website==http://www.queensu.ca/
+Motto==Wisdom and knowledge shall be the stability of thy times
+Established==16 October 1841
+Type==Public university
+Endowment==$611.7 million
+President==Daniel Woolf
+Location==Kingston, Ontario, Canada
+Campus==Urban main campus, 40 ha (99 acres) Urban west campus 27 ha (67 acres)

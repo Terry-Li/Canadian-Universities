@@ -1,0 +1,9 @@
+Name==Oregon State University
+Website==http://oregonstate.edu/
+Motto==
+Established==1868 (1868)
+Type==Public Land-grant Sea-grant Space-grant Sun grant
+Endowment==US $403.6 million (2012)
+President==Edward John Ray
+Location==Corvallis, Oregon, United States
+Campus==College town, 400 acres (160 ha)

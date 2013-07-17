@@ -1,0 +1,9 @@
+Name==New York University
+Website==http://www.nyu.edu/
+Motto==To persevere and to excel
+Established==1831
+Type==Private
+Endowment==US $2.755 billion (2012)
+President==John Sexton
+Location==New York City, U.S.
+Campus==Urban 229-acre (0.93 km2) (Manhattan campus)

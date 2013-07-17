@@ -1,0 +1,9 @@
+Name==University of California, Berkeley
+Website==http://berkeley.edu/
+Motto==Let there be light
+Established==March 23, 1868
+Type==Flagship Public
+Endowment==$3.03 billion
+President==
+Location==Berkeley, California, United States
+Campus==Urban Main Campus 178 acres Total 6,679 acres (2,703 ha)

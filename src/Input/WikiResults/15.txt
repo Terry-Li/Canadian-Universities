@@ -1,0 +1,9 @@
+Name==University of Waterloo
+Website==http://uwaterloo.ca/
+Motto==In harmony with truth
+Established==1 July 1957
+Type==Public university
+Endowment==$261.428 million
+President==Feridun Hamdullahpur
+Location==Waterloo, Ontario, Canada
+Campus==Urban, 404 hectares (1,000 acres)

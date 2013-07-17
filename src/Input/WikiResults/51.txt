@@ -1,0 +1,9 @@
+Name==Rice University
+Website==http://www.rice.edu/
+Motto==Letters, Science, Art
+Established==1912
+Type==Private
+Endowment==$4.4 billion (as of 2012)
+President==David W. Leebron
+Location==Houston, Texas, US
+Campus==Urban, 295 acres (1.19 km2)

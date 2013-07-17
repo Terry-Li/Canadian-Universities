@@ -1,0 +1,9 @@
+Name==University of New Brunswick
+Website==http://www.unb.ca/
+Motto==Dare to be Wise
+Established==1785
+Type==Public
+Endowment==$172 million
+President==Eddy Campbell
+Location==Fredericton and Saint John, NB, Canada
+Campus==Urban

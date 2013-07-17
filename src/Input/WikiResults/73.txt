@@ -1,0 +1,9 @@
+Name==North Carolina State University
+Website==http://www.ncsu.edu/
+Motto==
+Established==March 7, 1887
+Type==Land-grant university Sea-grant university Space-grant university Public
+Endowment==$635 million
+President==
+Location==Raleigh, North Carolina, United States
+Campus==Urban 2,110 acres (8.5 km2)

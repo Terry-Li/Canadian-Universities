@@ -1,0 +1,9 @@
+Name==Rensselaer Polytechnic Institute
+Website==http://rpi.edu/
+Motto==Knowledge and Thoroughness
+Established==1824 (1824)
+Type==Private
+Endowment==$583.4 million 
+President==Shirley Ann Jackson
+Location==Troy, New York, US
+Campus==Urban, 275 acres (111 ha)

@@ -1,0 +1,9 @@
+Name==University of California, Davis
+Website==http://www.ucdavis.edu/
+Motto==Let there be light
+Established==1905 (1959 as a general UC campus)
+Type==Public, Land-grant, Space-grant
+Endowment==$713.2 million 
+President==
+Location==Davis, California, United States
+Campus==Suburban, 7,309 acres (2,957.8 ha) 

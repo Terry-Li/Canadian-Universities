@@ -1,0 +1,9 @@
+Name==University of Western Ontario
+Website==http://www.uwo.ca/
+Motto==Truth and usefulness
+Established==7 March 1878
+Type==Public university
+Endowment==$362 million
+President==Amit Chakma
+Location==London, Ontario, Canada
+Campus==Urban, 455 hectares (1,120 acres)

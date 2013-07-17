@@ -1,0 +1,9 @@
+Name==Ohio State University
+Website==http://www.osu.edu/
+Motto==Education for Citizenship
+Established==1870
+Type==Flagship Public Land grant Sea grant Space grant
+Endowment==US $2.366 billion
+President==Joseph A. Alutto (Acting President)
+Location==Columbus, Ohio, US
+Campus==1,765 acres (7 km2) Columbus campus 16,132 acres (65 km2) total (Urban)

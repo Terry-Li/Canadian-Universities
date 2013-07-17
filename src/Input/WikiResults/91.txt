@@ -1,0 +1,9 @@
+Name==University of Tennessee
+Website==http://www.utk.edu/
+Motto==You will know the truth and the truth shall set you free.
+Established==1794
+Type==Flagship public university
+Endowment==US$826.7 million (2012)
+President==
+Location==Knoxville, Tennessee, United States
+Campus==Knoxville: Urban; 560 acres (2.3 km2) Total: 2,128 acres (8.61 km2)

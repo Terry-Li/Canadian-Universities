@@ -1,0 +1,9 @@
+Name==George Mason University
+Website==http://www.gmu.edu/
+Motto==Freedom and Learning
+Established==1957
+Type==Public university
+Endowment==US$ 55.16 million (2012)
+President==Ángel Cabrera
+Location==Fairfax, Virginia Arlington, Virginia Manassas, Virginia Sterling, Virginia 
+Campus==Suburban, 806 acres (3.26 km2) total across all campuses 700 acres (2.8 km2) Fairfax Campus

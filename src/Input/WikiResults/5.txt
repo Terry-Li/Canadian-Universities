@@ -1,0 +1,9 @@
+Name==University of Alberta
+Website==http://www.ualberta.ca/
+Motto==Whatsoever things are true
+Established==1908
+Type==Public
+Endowment==$800M
+President==Indira Samarasekera
+Location==Edmonton, Alberta, Canada
+Campus==

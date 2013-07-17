@@ -1,0 +1,9 @@
+Name==Johns Hopkins University
+Website==http://www.jhu.edu/
+Motto==The Truth Will Set You Free
+Established==1876 (1876)
+Type==Private
+Endowment==$2.593 billion (2012)
+President==Ronald J. Daniels
+Location==Baltimore, Maryland, United States
+Campus==State of Maryland (MD): Baltimore (Main) Laurel Columbia Montgomery County Washington, D.C. Bologna, Italy Nanjing, China Singapore

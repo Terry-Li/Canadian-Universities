@@ -1,0 +1,9 @@
+Name==University of Notre Dame
+Website==http://nd.edu/
+Motto==Life, Sweetness, Hope (in reference to the Blessed Virgin Mary)
+Established==1842
+Type==Private, coeducational
+Endowment==$6.33 billion
+President==Father John I. Jenkins, C.S.C.
+Location==Notre Dame, Indiana, US
+Campus==Suburban: 1,250 acres (5.1 km2)

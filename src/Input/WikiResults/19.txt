@@ -1,0 +1,9 @@
+Name==Memorial University of Newfoundland
+Website==http://www.mun.ca/
+Motto=="Launch forth into the deep"
+Established==1925
+Type==Public
+Endowment==$62 million
+President==Dr, Gary Kachanoski
+Location==St. John's, NL, Canada
+Campus==Urban Main: 279 acres (113 ha) Grenfell: 185 acres (75 ha) Harlow: 25 acres (10 ha)

@@ -1,0 +1,9 @@
+Name==Michigan State University
+Website==http://www.msu.edu/
+Motto==Advancing Knowledge. Transforming Lives.
+Established==February 12, 1855
+Type==Flagship Land grant Sea grant
+Endowment==US $1.7 billion (2012)
+President==Lou Anna Simon
+Location==East Lansing, Michigan
+Campus==Suburban (21 km2) campus 10,000 acres (8 km2) in existing or planned development

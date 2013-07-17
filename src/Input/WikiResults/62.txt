@@ -1,0 +1,9 @@
+Name==University of Minnesota, Twin Cities
+Website==http://www1.umn.edu/twincities/index.html
+Motto==A common bond for all the arts
+Established==1851
+Type==Public Flagship University Land-Grant Sea-Grant Space-Grant
+Endowment==US$2.494 billion in 2012 (systemwide)
+President==Eric W. Kaler
+Location==Minneapolis and Saint Paul, Minnesota, US
+Campus==Urban 2,730 acres (1,100 ha)

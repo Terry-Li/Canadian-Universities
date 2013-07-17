@@ -1,0 +1,9 @@
+Name==Carleton University
+Website==http://www.carleton.ca/
+Motto=="Ours the Task Eternal"
+Established==1942
+Type==Public
+Endowment==C$230 million
+President==Dr. Roseann Runte
+Location==Ottawa, Ontario, Canada
+Campus==Urban (0.62 km2)

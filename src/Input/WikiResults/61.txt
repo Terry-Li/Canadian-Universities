@@ -1,0 +1,9 @@
+Name==Northwestern University
+Website==http://www.northwestern.edu/
+Motto==Whatsoever things are true (Philippians 4:8 AV) The word full of grace and truth (Gospel of John 1:14)
+Established==1851
+Type==Private
+Endowment==$7.119 billion (2012) 
+President==Morton O. Schapiro
+Location==Evanston and Chicago, Illinois, U.S.
+Campus==Evanston main campus, Suburban, 240 acres (97 ha); Chicago campus, Urban, 25 acres (10 ha)

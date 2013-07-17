@@ -1,0 +1,9 @@
+Name==University of Wisconsin-Madison
+Website==http://www.wisc.edu/
+Motto=="God, our light" or "The divine within the universe, however manifested, is my light."
+Established==1848
+Type==Public university flagship
+Endowment==$1.81 billion (2012)
+President==
+Location==Madison, Wisconsin
+Campus==Urban 936 acres (379 ha)

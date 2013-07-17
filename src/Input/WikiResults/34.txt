@@ -1,0 +1,9 @@
+Name==Princeton University
+Website==http://www.princeton.edu/main/
+Motto==Under God's Power She Flourishes
+Established==1746
+Type==Private
+Endowment==$16.954 billion (2012) 
+President==Christopher L. Eisgruber
+Location==Princeton, New Jersey, United States
+Campus==Suburban, 500 acres (2.0 km2) (Princeton Borough and Township)

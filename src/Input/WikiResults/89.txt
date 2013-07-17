@@ -1,0 +1,9 @@
+Name==Syracuse University
+Website==http://www.syr.edu/
+Motto==Knowledge crowns those who seek her
+Established==March 24, 1870
+Type==Private, Nonsectarian, Coeducational
+Endowment==$940.05 million (2012)
+President==
+Location==Syracuse, New York, United States
+Campus==Urban, 683 acres
