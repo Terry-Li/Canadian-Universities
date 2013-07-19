@@ -27,9 +27,9 @@ public class SchoolNav{
     
     static {
         try {
-            ArrayList<String> positives = Utility.getKeywords("Group/schools.txt");
-            ArrayList<String> negatives = Utility.getKeywords("Group/Negatives.txt");
-            ArrayList<String> degrees = Utility.getKeywords("Group/degrees.txt");
+            ArrayList<String> positives = Utility.getKeywords("schools.txt");
+            ArrayList<String> negatives = Utility.getKeywords("Negatives.txt");
+            ArrayList<String> degrees = Utility.getKeywords("degrees.txt");
             engine = new ListEngine(positives, negatives, degrees);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(SchoolNav.class.getName()).log(Level.SEVERE, null, ex);
@@ -207,38 +207,7 @@ public class SchoolNav{
         }
         return dedups;
     }
-    
-    public static ArrayList<SemanticList> getSchools(Link link, Set<String> visited) throws IOException {
-        ArrayList<SemanticList> candidates = new ArrayList<SemanticList>();
-        SemanticList schools = null;
-        ArrayList<Link> toSchedule = new ArrayList<Link>();
-        Link schoolURL = getLink(link, "Schools");
-        if (schoolURL == null) {
-            schoolURL = getLink(link, "Colleges");
-        }
-        Link academicURL = getLink(link, "Academics");
-        Link academicSchoolURL = null;
-        if (academicURL!=null) {
-            academicSchoolURL = getLink(academicURL, "Schools");
-            if (academicSchoolURL==null) {
-                academicSchoolURL = getLink(academicURL, "Colleges");
-            }
-        }
-        toSchedule.add(link);
-        if (schoolURL!=null) toSchedule.add(schoolURL);
-        if (academicSchoolURL!=null) toSchedule.add(academicSchoolURL);
-        if (academicURL!=null) toSchedule.add(academicURL);      
-        
-        for (Link l: toSchedule){
-            visited.addAll(Utility.getVisited(l.url));
-            schools = engine.getSchools(l);
-            if (schools != null) {
-                candidates.add(schools);
-            }
-        }      
-        
-        return candidates;
-    } 
+     
     
     public static ArrayList<Link> getSchoolLinks(Link url) {
         try {
@@ -253,7 +222,7 @@ public class SchoolNav{
             for (Element e: result) {
                 String anchor = e.text().trim().toLowerCase();
                 String href = e.attr("abs:href").trim();
-                if ((anchor.contains("colleges") || anchor.contains("schools")) && !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
+                if ((anchor.contains("colleges") || anchor.contains("schools") || anchor.contains("faculties")) && !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
                     Link link = new Link();
                     link.url = href;
                     ArrayList<String> context = new ArrayList<String>();
@@ -267,13 +236,13 @@ public class SchoolNav{
                         for (Element image: images) {
                             String alt = image.attr("alt").toLowerCase();
                             String title = image.attr("title").toLowerCase();
-                            if ((alt.contains("schools")||alt.contains("colleges")||title.contains("schools")||title.contains("colleges")) &&
+                            if ((alt.contains("schools")||alt.contains("colleges")||alt.contains("faculties")||title.contains("schools")||title.contains("colleges")||title.contains("faculties")) &&
                                  !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
                                 Link link = new Link();
                                 link.url = href;
                                 ArrayList<String> context = new ArrayList<String>();
                                 context.addAll(url.context);
-                                if (alt.contains("schools")||alt.contains("colleges")) {
+                                if (alt.contains("schools")||alt.contains("colleges")||alt.contains("faculties")) {
                                     context.add(alt);
                                 } else {
                                     context.add(title);
@@ -388,7 +357,7 @@ public class SchoolNav{
             for (SemanticList list : lists) {
                 ArrayList<String> items = list.list;
                 for (String item: items) {
-                    if (item.toLowerCase().contains("school") || item.toLowerCase().contains("college")){
+                    if (item.toLowerCase().contains("school") || item.toLowerCase().contains("college") || item.toLowerCase().contains("faculty")){
                         return list;
                     }
                 }
@@ -399,8 +368,8 @@ public class SchoolNav{
                 if (head == null) head = "";
                 if (title == null) title = "";
                 if (head.toLowerCase().contains("schools") || head.toLowerCase().contains("colleges")
-                        || head.toLowerCase().contains("divisions") || title.toLowerCase().contains("schools")
-                        || title.toLowerCase().contains("colleges") || title.toLowerCase().contains("divisions")) {
+                        || head.toLowerCase().contains("divisions")|| head.toLowerCase().contains("faculties") || title.toLowerCase().contains("schools")
+                        || title.toLowerCase().contains("colleges") || title.toLowerCase().contains("divisions") || title.toLowerCase().contains("faculties")) {
                     return list;
                 }
             }
@@ -408,7 +377,7 @@ public class SchoolNav{
                 ArrayList<String> context = list.context.context;
                 if (context.size()>0) {
                     String anchor = context.get(0).toLowerCase();
-                    if (anchor.contains("schools") || anchor.contains("colleges")) {
+                    if (anchor.contains("schools") || anchor.contains("colleges") || anchor.contains("faculties")) {
                         return list;
                     }
                 }

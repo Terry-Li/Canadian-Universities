@@ -19,7 +19,7 @@ public class VisualFaculty {
     public static ArrayList<String> names;
     static {
         try {
-            names = Utility.getKeywords("Group/Names.txt");
+            names = Utility.getKeywords("Names.txt");
         } catch (FileNotFoundException ex) {
             Logger.getLogger(VisualFaculty.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {

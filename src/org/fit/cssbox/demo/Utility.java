@@ -26,6 +26,7 @@ public class Utility {
                                                           + "|png|tiff?|mid|mp2|mp3|mp4"
                                                           + "|wav|avi|mov|mpeg|ram|m4v|pdf" 
                                                           + "|doc|docx|xls|xlsx|ppt|pptx"
+                                                          + "|xml"
                                                           + "|rm|smil|wmv|swf|wma|zip|rar|gz))$");
     
     static {
