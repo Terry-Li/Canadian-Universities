@@ -177,7 +177,7 @@ public class FacultyNav{
         ArrayList<String> candidates = getFacultyListURL(url, visited);
         for (String candidate: candidates) {
             System.out.println(candidate);
-            if (candidate != null && Faculty2.identify(candidate)) {
+            if (candidate != null) {//&& Faculty2.identify(candidate)
                 return candidate;
             }
         }

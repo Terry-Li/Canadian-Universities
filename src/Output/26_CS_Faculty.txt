@@ -1,0 +1,26 @@
+McGill University==http://www.cs.mcgill.ca/people
+The University of British Columbia==https://www.cs.ubc.ca/our-department/people/faculty
+University of Toronto==http://web.cs.toronto.edu/people/faculty.htm
+Queen's University==http://www.cs.queensu.ca/people/faculty.php
+University of Alberta==https://webapps.cs.ualberta.ca/directory/directory.php?group=Faculty
+McMaster University==http://www.cas.mcmaster.ca/cas/0template1.php?501
+Dalhousie University==http://www.dal.ca/faculty/computerscience/faculty-staff.html
+University of Calgary==http://www.cpsc.ucalgary.ca/contactus/faculty
+University of Saskatchewan==http://www.cs.usask.ca/people/faculty.php
+University of Ottawa==http://www.eecs.uottawa.ca/professors
+Western University==http://www.csd.uwo.ca/people/faculty1/faculty.html
+University of Manitoba==http://www.cs.umanitoba.ca/people/
+Simon Fraser University==http://www.cs.sfu.ca/people/faculty.html
+University of Victoria==http://www.csc.uvic.ca/Directory/Profiles/all_profiles.htm
+University of Waterloo==https://cs.uwaterloo.ca/about/people/group/26
+University of New Brunswick==http://www.cs.unb.ca/apps/fcs_rms/cgi-bin/fac_staff.cgi
+University of Guelph==http://www.socs.uoguelph.ca/people/
+Carleton University==http://www.scs.carleton.ca/people/faculty
+Memorial University of Newfoundland==http://www.mun.ca/computerscience/people/index.php
+York University==http://www.cse.yorku.ca/cspeople/faculty/index.html
+University of Regina==http://www.cs.uregina.ca/People/faculty.html
+University of Windsor==http://www1.uwindsor.ca/cs/789/faculty-directory
+Wilfrid Laurier University==http://www.wlu.ca/fac_listing.php?grp_id=2
+Ryerson University==http://www.scs.ryerson.ca/faculty.php
+Concordia University==http://www.cse.concordia.ca/people/faculty/full-time/index.php
+Brock University==http://www.cosc.brocku.ca/staff

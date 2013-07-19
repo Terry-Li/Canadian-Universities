@@ -44,13 +44,13 @@ public class AppConsole
 	 */
 	   public static void main(String args[]) {
         // parameter default
-        String intputFile = "TestFaculty.txt";
+        String intputFile = "26_CS_Faculty.txt";
         ArrayList<String> facultylists = DealFile.readFile(intputFile);
         //System.out.println(facultylists.size());
-        for (int r = 9; r < 10; r++) {
+        for (int r = 0; r < facultylists.size(); r++) {
             System.out.println("r:" + r);
-            String input = facultylists.get(r);
-            String resultOutput = "TestResult\\MDR" + r + ".html";
+            String input = facultylists.get(r).split("==")[1];
+            String resultOutput = "26CSFaculty/MDR" + r + ".html";
             double similarityTreshold = 0.6; //default: 0.80
             boolean ignoreFormattingTags = false; //default: false
             boolean useContentSimilarity = false; //default: false
@@ -105,7 +105,7 @@ public class AppConsole
                     String[][] dataTable = aligner.alignDataRecords(dataRecords[tableCounter]);
 
                     if (dataTable != null && FacultyList.identify(dataTable)) {
-                        truncate(dataTable);
+                        //truncate(dataTable);
                         tempTables.add(dataTable);
                     }
                 }
@@ -132,7 +132,7 @@ public class AppConsole
                 output.format("</head><body>");
                 int tableCounter = 1;
                 //System.out.println("oh yeah");
-                output.format("<a href=\"%s\">Faculty Page</a>\n\n", facultylists.get(r));
+                output.format("<a href=\"%s\">Faculty Page</a>\n\n", input);
                 for (String[][] table : dataTables) {
                     //	System.out.println("table.length:" + table.length);
                     output.format("<h2>Table %s</h2>\n<table>\n<thead>\n<tr>\n<th>Row Number</th>\n", tableCounter);
