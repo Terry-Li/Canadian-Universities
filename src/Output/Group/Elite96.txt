@@ -1,0 +1,96 @@
+McGill University==http://www.mcgill.ca/
+The University of British Columbia==http://www.ubc.ca/
+University of Toronto==http://www.utoronto.ca/
+Queen's University==http://www.queensu.ca/
+University of Alberta==http://www.ualberta.ca/
+McMaster University==http://www.mcmaster.ca/
+Dalhousie University==http://www.dal.ca/
+University of Calgary==http://www.ucalgary.ca/
+University of Saskatchewan==http://www.usask.ca/
+University of Ottawa==http://www.uottawa.ca/welcome.html
+University of Western Ontario==http://www.uwo.ca/
+University of Manitoba==http://umanitoba.ca/
+Simon Fraser University==http://www.sfu.ca/
+University of Victoria==http://www.uvic.ca/
+University of Waterloo==http://uwaterloo.ca/
+University of New Brunswick==http://www.unb.ca/
+University of Guelph==http://www.uoguelph.ca/
+Carleton University==http://www.carleton.ca/
+Memorial University of Newfoundland==http://www.mun.ca/
+York University==http://www.yorku.ca/web/index.htm
+University of Regina==http://www.uregina.ca/
+University of Windsor==http://www.uwindsor.ca/
+Wilfrid Laurier University==http://www.wlu.ca/
+Ryerson University==http://www.ryerson.ca/index.html
+Concordia University==http://www.concordia.ca/
+Brock University==http://www.brocku.ca/
+Carnegie Mellon University==http://www.cmu.edu/index.shtml
+Massachusetts Institute of Technology==http://web.mit.edu/
+University of California, Berkeley==http://berkeley.edu/
+Stanford University==http://www.stanford.edu/
+Cornell University==http://www.cornell.edu/
+University of Illinois at Urbana-Champaign==http://illinois.edu/
+University of Washington==http://www.washington.edu/
+Princeton University==http://www.princeton.edu/main/
+University of Texas at Austin==http://www.utexas.edu/
+Georgia Institute of Technology==http://www.gatech.edu/
+California Institute of Technology==http://www.caltech.edu/
+University of Wisconsin-Madison==http://www.wisc.edu/
+University of Michigan==http://www.umich.edu/
+University of California, San Diego==http://ucsd.edu/
+University of Maryland, College Park==http://www.umd.edu/
+University of California, Los Angeles==http://www.ucla.edu/
+Columbia University==http://www.columbia.edu/
+University of Pennsylvania==http://www.upenn.edu/
+Harvard University==http://www.harvard.edu/
+University of Massachusetts Amherst==http://www.umass.edu/
+Brown University==http://www.brown.edu/
+Yale University==http://www.yale.edu/
+Purdue University==http://www.purdue.edu/
+University of Southern California==http://www.usc.edu/
+Rice University==http://www.rice.edu/
+University of North Carolina at Chapel Hill==http://www.unc.edu/index.htm
+Duke University==http://www.duke.edu/
+University of Virginia==http://www.virginia.edu/
+New York University==http://www.nyu.edu/
+Rutgers University==http://www.rutgers.edu/
+Pennsylvania State University==http://www.psu.edu/
+Johns Hopkins University==http://www.jhu.edu/
+University of California, Irvine==http://www.uci.edu/
+Ohio State University==http://www.osu.edu/
+Northwestern University==http://www.northwestern.edu/
+University of Minnesota, Twin Cities==http://www1.umn.edu/twincities/index.html
+University of Chicago==http://www.uchicago.edu/index.shtml
+University of California, Santa Barbara==http://www.ucsb.edu/
+University of California, Davis==http://www.ucdavis.edu/
+University of Florida==http://www.ufl.edu/
+University of Utah==http://www.utah.edu/
+Washington University in St. Louis==http://wustl.edu/
+University of Colorado Boulder==http://www.colorado.edu/
+Dartmouth College==http://www.dartmouth.edu/
+Virginia Tech==http://www.vt.edu/
+Stony Brook University==http://www.stonybrook.edu/sb/
+North Carolina State University==http://www.ncsu.edu/
+Rensselaer Polytechnic Institute==http://rpi.edu/
+Texas A&M University==http://www.tamu.edu/
+University of Arizona==http://www.arizona.edu/
+University of Rochester==http://www.rochester.edu/
+Boston University==http://www.bu.edu/
+University of California, Riverside==http://www.ucr.edu/
+Arizona State University==http://www.asu.edu/
+Indiana University Bloomington==http://www.iub.edu/
+University of Pittsburgh==http://www.pitt.edu/
+University of California, Santa Cruz==http://www.ucsc.edu/
+University of Illinois at Chicago==http://www.uic.edu/uic/
+Michigan State University==http://www.msu.edu/
+Vanderbilt University==http://www.vanderbilt.edu/
+Northeastern University==http://www.northeastern.edu/
+University at Buffalo==http://www.buffalo.edu/
+Syracuse University==http://www.syr.edu/
+University of Notre Dame==http://nd.edu/
+University of Tennessee==http://www.utk.edu/
+George Mason University==http://www.gmu.edu/
+University of Oregon==http://www.uoregon.edu/
+Oregon State University==http://oregonstate.edu/
+Case Western Reserve University==http://www.case.edu/
+University of Iowa==http://www.uiowa.edu/

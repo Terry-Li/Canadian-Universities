@@ -31,7 +31,7 @@ public class Utility {
     
     static {
         try {
-            deptNeg = getKeywords("DeptNag.txt");
+            deptNeg = getKeywords("Group/DeptNag.txt");
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {

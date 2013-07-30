@@ -397,11 +397,11 @@ public class TableCellBox extends BlockBox
         //draw the background - it should be visible below the border too
         //if no background is specified for the cell, we try to use the row, row group, column, column group
         Color bg = bgcolor;
-        if (bg == null)
+        if (bg == null && getOwnerRow()!=null)
         	bg = getOwnerRow().getBgcolor();
-        if (bg == null)
+        if (bg == null && getOwnerColumn()!=null)
         	bg = getOwnerColumn().getBgcolor();
-        if (bg == null)
+        if (bg == null && getOwnerRow()!=null && getOwnerRow().getOwnerBody()!=null )
         	bg = getOwnerRow().getOwnerBody().getBgcolor();
         
         if (bg != null)

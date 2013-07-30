@@ -20,7 +20,7 @@ import org.fit.cssbox.demo.*;
 public class SUSE implements Runnable{
     public String univName;
     public String univURL;
-    public static String dataCenter = "C:/Users/admin/Desktop/Canadian Universities/Data Center/";
+    public static String dataCenter = "C:/Users/admin/Desktop/Canadian Universities/Data Center/"; //"96 Results/";
     public static final String[] gateway = {"academics","academic units","schools","colleges","divisions", "faculties",
         "departments","department list","programs","faculty","directory","people","staff"};
     public Set<String> visited = new HashSet<String>();
@@ -79,9 +79,9 @@ public class SUSE implements Runnable{
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException, InterruptedException {
-        List<String> lines = FileUtils.readLines(new File("../Input/Elite96.txt"));
-        ExecutorService executor = Executors.newFixedThreadPool(6);
-        for (int i=0; i<lines.size(); i++) {
+        List<String> lines = FileUtils.readLines(new File("Group/Elite96.txt"));
+        ExecutorService executor = Executors.newFixedThreadPool(1);
+        for (int i=0; i<1; i++) {
             Runnable task = new SUSE(i+1+"",lines.get(i).split("==")[1]);
             executor.execute(task);
         }
