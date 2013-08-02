@@ -1,12 +1,17 @@
 package org.seagatesoft.sde;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.FileNotFoundException;
 import java.util.Formatter;
 import java.util.List;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import org.apache.commons.io.FileUtils;
 
 import org.seagatesoft.sde.columnaligner.ColumnAligner;
 import org.seagatesoft.sde.columnaligner.PartialTreeAligner;
@@ -27,162 +32,161 @@ import org.xml.sax.SAXException;
  * @author seagate
  *
  */
-public class AppConsole
+public class AppConsole implements Runnable
 {
-	/*
-	 * Formatter untuk menulis ke file output
-	 */
-	public static Formatter output;
-	public static String namesFile = "Names.txt";
+    public Formatter output;
+    public static String namesFile = "Group/Names.txt";
+    public static double similarityTreshold = 0.8; //default: 0.80
+    public static boolean ignoreFormattingTags = false; //default: false
+    public static boolean useContentSimilarity = false; //default: false
+    public static int maxNodeInGeneralizedNodes = 1; //default: 9
+    public static boolean humanConsumable = false;
+    public static boolean intermediateResult = false;
+    public static List<String> remaining = Collections.synchronizedList(new ArrayList<String>());
+    public String name;
+    public String url;
 
+    public AppConsole(String name, String url) throws FileNotFoundException {
+        this.name = name;
+        this.url = url;
+        String resultOutput = "26CSFaculty/" + name + ".html";
+        this.output = new Formatter(new File(resultOutput));
+    }
 
-	/**
-	 * Method main untuk aplikasi utama yang berbasis konsol. Ada empat argumen yang bisa diberikan, 
-	 * urutannya URI file input, URI file output, similarity treshold, jumlah node maksimum dalam generalized node.
-	 *  
-	 * @param args Parameter yang dimasukkan pengguna aplikasi konsol
-	 */
-	   public static void main(String args[]) {
-        // parameter default
-        String intputFile = "26_CS_Faculty.txt";
-        ArrayList<String> facultylists = DealFile.readFile(intputFile);
-        //System.out.println(facultylists.size());
-        for (int r = 0; r < facultylists.size(); r++) {
-            System.out.println("r:" + r);
-            String input = facultylists.get(r).split("==")[1];
-            String resultOutput = "26CSFaculty/MDR" + r + ".html";
-            double similarityTreshold = 0.6; //default: 0.80
-            boolean ignoreFormattingTags = false; //default: false
-            boolean useContentSimilarity = false; //default: false
-            int maxNodeInGeneralizedNodes = 9; //default: 9
-            boolean humanConsumable = false;
+    public static void main(String args[]) throws IOException {
+        String inputFile = "Group/TestFaculty.txt";
+        List<String> lines = FileUtils.readLines(new File(inputFile));
+        ExecutorService executor = Executors.newFixedThreadPool(6);
+        for (int r = 0; r < lines.size(); r++) {
+            String filename = r+1+"";
+            if (r+1 < 10) {
+                filename = "0"+filename;
+            }
+            Runnable task = new AppConsole(filename,lines.get(r));
+            executor.execute(task);
+        }
+        executor.shutdown();
+        while (!executor.isTerminated()) {
+        }
+        if (remaining.size() != 0) {
+            executor = Executors.newFixedThreadPool(6);
+            maxNodeInGeneralizedNodes = 2;
+            for (String name: remaining) {
+                int index = Integer.parseInt(name)-1;
+                Runnable task = new AppConsole(name,lines.get(index));
+                executor.execute(task);
+            }
+            executor.shutdown();
+            while (!executor.isTerminated()) {
+            }
+        }
+        System.out.println("Finished all threads");
+    }
+    
+    @Override
+    public void run() {
+        process();
+    }
+    
+    public void process() {
+        System.out.println("Start processing: " + url);
+        try {
+            TagTreeBuilder builder = new DOMParserTagTreeBuilder();
+            TagTree tagTree = builder.buildTagTree(url, ignoreFormattingTags);
+            TreeMatcher matcher = new SimpleTreeMatching();
+            DataRegionsFinder dataRegionsFinder = new MiningDataRegions(matcher);
+            List<DataRegion> dataRegions = dataRegionsFinder.findDataRegions(tagTree.getRoot(), maxNodeInGeneralizedNodes, similarityTreshold);
+            DataRecordsFinder dataRecordsFinder = new MiningDataRecords(matcher);
+            DataRecord[][] dataRecords = new DataRecord[dataRegions.size()][];
 
-            // parameter dari pengguna, urutannya URI file input, URI file output, similarity treshold, jumlah node maksimum dalam generalized node
-            // parameter yang wajib adalah parameter URI file input
+            for (int dataRecordArrayCounter = 0; dataRecordArrayCounter < dataRegions.size(); dataRecordArrayCounter++) {
+                DataRegion dataRegion = dataRegions.get(dataRecordArrayCounter);
+                dataRecords[ dataRecordArrayCounter] = dataRecordsFinder.findDataRecords(dataRegion, similarityTreshold);
+            }
 
-            try {
-                // siapkan file output
-                output = new Formatter(resultOutput);
-                // buat objek TagTreeBuilder yang berbasis parser DOM
-                TagTreeBuilder builder = new DOMParserTagTreeBuilder();
-                // bangun pohon tag dari file input menggunakan objek TagTreeBuilder yang telah dibuat
-                TagTree tagTree = builder.buildTagTree(input, ignoreFormattingTags);
-                //print(A.getRoot(), " ");
-                //printHTML( A.getRoot());
-                // buat objek TreeMatcher yang menggunakan algoritma simple tree matching
-                TreeMatcher matcher = new SimpleTreeMatching();
-                // buat objek DataRegionsFinder yang menggunakan algoritma mining data regions dan
-                // menggunakan algoritma pencocokan pohon yang telah dibuat sebelumnya
-                DataRegionsFinder dataRegionsFinder = new MiningDataRegions(matcher);
-                // cari data region pada pohon tag menggunakan objek DataRegionsFinder yang telah dibuat
-                List<DataRegion> dataRegions = dataRegionsFinder.findDataRegions(tagTree.getRoot(), maxNodeInGeneralizedNodes, similarityTreshold);
-                // buat objek DataRecordsFinder yang menggunakan metode mining data records dan
-                // menggunakan algoritma pencocokan pohon yang telah dibuat sebelumnya
-                DataRecordsFinder dataRecordsFinder = new MiningDataRecords(matcher);
-                // buat matriks DataRecord untuk menyimpan data record yang teridentifikasi oleh 
-                // DataRecordsFinder dari List<DataRegion> yang ditemukan
-                DataRecord[][] dataRecords = new DataRecord[dataRegions.size()][];
+            ColumnAligner aligner = null;
+            if (useContentSimilarity) {
+                aligner = new PartialTreeAligner(new EnhancedSimpleTreeMatching());
+            } else {
+                aligner = new PartialTreeAligner(matcher);
+            }
+            List<String[][]> dataTables = new ArrayList<String[][]>();
+            List<String[][]> tempTables = new ArrayList<String[][]>();
 
-                // identifikasi data records untuk tiap2 data region 
-                for (int dataRecordArrayCounter = 0; dataRecordArrayCounter < dataRegions.size(); dataRecordArrayCounter++) {
-                    DataRegion dataRegion = dataRegions.get(dataRecordArrayCounter);
-                    dataRecords[ dataRecordArrayCounter] = dataRecordsFinder.findDataRecords(dataRegion, similarityTreshold);
+            for (int tableCounter = 0; tableCounter < dataRecords.length; tableCounter++) {
+                String[][] dataTable = aligner.alignDataRecords(dataRecords[tableCounter]);
+
+                if (dataTable != null && FacultyList.identify(dataTable, intermediateResult)) {
+                    //truncate(dataTable);
+                    tempTables.add(dataTable);
                 }
-
-                // buat objek ColumnAligner yang menggunakan algoritma partial tree alignment
-                ColumnAligner aligner = null;
-                if (useContentSimilarity) {
-                    aligner = new PartialTreeAligner(new EnhancedSimpleTreeMatching());
-                } else {
-                    aligner = new PartialTreeAligner(matcher);
-                }
-                List<String[][]> dataTables = new ArrayList<String[][]>();
-                List<String[][]> tempTables = new ArrayList<String[][]>();
-
-                // bagi tiap2 data records ke dalam kolom sehingga berbentuk tabel
-                // dan buang tabel yang null
-                for (int tableCounter = 0; tableCounter < dataRecords.length; tableCounter++) {
-                    String[][] dataTable = aligner.alignDataRecords(dataRecords[tableCounter]);
-
-                    if (dataTable != null && FacultyList.identify(dataTable)) {
-                        //truncate(dataTable);
-                        tempTables.add(dataTable);
-                    }
-                }
-                if (humanConsumable) {
-                    for (String[][] tempTable : tempTables) {
-                        String[][] formatted = formatTable(tempTable);
+            }
+            if (humanConsumable) {
+                for (String[][] tempTable : tempTables) {
+                    String[][] formatted = formatTable(tempTable);
+                    if (formatted != null && formatted.length > 0) {
+                        dataTables.add(formatted);
+                    } else {
+                        formatted = formatTable2(tempTable);
                         if (formatted != null && formatted.length > 0) {
                             dataTables.add(formatted);
-                        } else {
-                            formatted = formatTable2(tempTable);
-                            if (formatted != null && formatted.length > 0) {
-                                dataTables.add(formatted);
-                            }
                         }
                     }
-                } else {
-                    dataTables = tempTables;
                 }
-
-
-                // write extracted data to output file
-                output.format("<html><head><title>Extraction Result</title>");
-                output.format("<style type=\"text/css\">table {border-collapse: collapse;} td {padding: 5px} table, th, td { border: 3px solid black;} </style>");
-                output.format("</head><body>");
-                int tableCounter = 1;
-                //System.out.println("oh yeah");
-                output.format("<a href=\"%s\">Faculty Page</a>\n\n", input);
-                for (String[][] table : dataTables) {
-                    //	System.out.println("table.length:" + table.length);
-                    output.format("<h2>Table %s</h2>\n<table>\n<thead>\n<tr>\n<th>Row Number</th>\n", tableCounter);
-                    for (int columnCounter = 1; columnCounter <= table[0].length; columnCounter++) {
-                        output.format("<th></th>\n");
-                    }
-                    output.format("</tr>\n</thead>\n<tbody>\n");
-                    int rowCounter = 1;
-                    for (String[] row : table) {
-                        output.format("<tr>\n<td>%s</td>", rowCounter);
-                        for (String item : row) {
-                            String itemText = item;
-                            if (itemText == null) {
-                                itemText = "";
-                            }
-                            //System.out.println(itemText);
-                            output.format("<td>%s</td>\n", itemText.replaceAll(" ", " ")); //remove special space
+            } else {
+                dataTables = tempTables;
+            }
+            if (dataTables.size()==0) remaining.add(name);
+            output.format("<html><head><title>Extraction Result</title>");
+            output.format("<style type=\"text/css\">table {border-collapse: collapse;} td {padding: 5px} table, th, td { border: 3px solid black;} </style>");
+            output.format("</head><body>");
+            int tableCounter = 1;
+            output.format("<a href=\"%s\">Faculty Page</a>\n\n", url);
+            for (String[][] table : dataTables) {
+                output.format("<h2>Table %s</h2>\n<table>\n<thead>\n<tr>\n<th>Row Number</th>\n", tableCounter);
+                for (int columnCounter = 1; columnCounter <= table[0].length; columnCounter++) {
+                    output.format("<th></th>\n");
+                }
+                output.format("</tr>\n</thead>\n<tbody>\n");
+                int rowCounter = 1;
+                for (String[] row : table) {
+                    output.format("<tr>\n<td>%s</td>", rowCounter);
+                    for (String item : row) {
+                        String itemText = item;
+                        if (itemText == null) {
+                            itemText = "";
                         }
-                        output.format("</tr>\n");
-                        rowCounter++;
+                        output.format("<td>%s</td>\n", itemText.replaceAll(" ", " ")); //remove special space
                     }
-                    output.format("</tbody>\n</table>\n");
-                    tableCounter++;
+                    output.format("</tr>\n");
+                    rowCounter++;
                 }
-
-                output.format("</body></html>");
-            } catch (SecurityException exception) {
-                exception.printStackTrace();
-                System.exit(1);
-            } catch (FileNotFoundException exception) {
-                exception.printStackTrace();
-                System.exit(2);
-            } catch (IOException exception) {
-                exception.printStackTrace();
-                System.exit(3);
-            } catch (SAXException exception) {
-                exception.printStackTrace();
-                System.exit(4);
-            } catch (Exception exception) {
-                exception.printStackTrace();
-                System.exit(5);
-            } finally {
-                if (output != null) {
-                    output.close();
-                }
+                output.format("</tbody>\n</table>\n");
+                tableCounter++;
+            }
+            output.format("</body></html>");
+        } catch (SecurityException exception) {
+            exception.printStackTrace();
+            System.exit(1);
+        } catch (FileNotFoundException exception) {
+            exception.printStackTrace();
+            System.exit(2);
+        } catch (IOException exception) {
+            exception.printStackTrace();
+            System.exit(3);
+        } catch (SAXException exception) {
+            exception.printStackTrace();
+            System.exit(4);
+        } catch (Exception exception) {
+            exception.printStackTrace();
+            System.exit(5);
+        } finally {
+            if (output != null) {
+                output.close();
             }
         }
     }
     
-           
     private static void truncate(String[][] table) {
         for (int row=0;row<table.length;row++) {
             List<Integer> links = new ArrayList<Integer>();
@@ -351,4 +355,5 @@ public class AppConsole
             return null;
         }
     }
+
 }

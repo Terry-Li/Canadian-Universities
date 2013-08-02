@@ -25,7 +25,7 @@ public class FacultyList {
     public static ArrayList<String> keywords;
     static {
         try {
-            keywords = getKeywords("Names.txt");
+            keywords = getKeywords("Group/Names.txt");
         } catch (FileNotFoundException ex) {
             Logger.getLogger(FacultyList.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
@@ -48,20 +48,17 @@ public class FacultyList {
     
     public static boolean containNames(String text, Set<String> temps) {
         //System.out.println(text);
-        if (text==null || text.trim().replaceAll(" +", " ").split(" ").length > 6) return false;
-        String[] tokens;
-        text = text.replaceAll("<a.*a>","").trim().replaceAll(" +", " ");
-        if (text.contains(",")) {
-            tokens = text.split(", ");
-        } else {
-            tokens = text.split(" ");
-        }
+        if (text==null) return false;
+        text = text.replaceAll("<a.*a>","").trim().replaceAll("\\W+", " ");
+        String[] tokens = text.split(" ");;
+        if (tokens.length > 6) return false;
         //System.out.println(Arrays.toString(tokens));
         for (String keyword: keywords) {
             for (String token: tokens) {
-                if (keyword.trim().equalsIgnoreCase(token.trim())) {
+                String name = token.trim().replaceAll(",", "");
+                if (keyword.trim().equalsIgnoreCase(name)) {
                     //System.out.println(text+"("+keyword.trim()+")");
-                    temps.add(keyword.trim());
+                    temps.add(name);
                     return true;
                 }
             }
@@ -142,8 +139,8 @@ public class FacultyList {
         return false;
     }
     
-    public static boolean identify(String[][] table){
-        //if (true)return true;
+    public static boolean identify(String[][] table, boolean intermediateResult){
+        if (intermediateResult) return true;
         boolean hasLink = false;
         boolean hasName = false;
         int rows = table.length;

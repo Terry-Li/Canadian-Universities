@@ -115,7 +115,7 @@ public class PartialTreeAligner implements ColumnAligner
 						// berarti unalignedNodes berada pada posisi paling kanan
 						TagNode prevSiblingMatch = reverseMap.get(prevSibling);
 					
-						if ( prevSiblingMatch.getNextSibling() == null )
+						if (prevSiblingMatch !=null && prevSiblingMatch.getNextSibling() == null )
 						{
 							List<TagNode> unalignedNodesCopy = new ArrayList<TagNode>();
 
