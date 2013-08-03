@@ -31,7 +31,7 @@ http://www.eecs.mit.edu/people/faculty-advisors
 http://www.eecs.berkeley.edu/Faculty/Lists/list.shtml
 http://www-cs.stanford.edu/faculty
 http://www.cs.cornell.edu/People/faculty/index.htm
-http://cs.illinois.edu/people/faculty
+http://cs.illinois.edu/directory/faculty
 http://www.cs.washington.edu/people/faculty/
 http://www.cs.princeton.edu/people/faculty
 http://www.cs.utexas.edu/faculty
@@ -61,10 +61,8 @@ http://www.cse.psu.edu/people/professor
 http://www.cs.uci.edu/faculty/index.php
 http://www.cse.ohio-state.edu/people/faculty.shtml
 http://www.eecs.northwestern.edu/people/faculty.html
-http://www.eecs.northwestern.edu/people/faculty.html
 http://www.cs.umn.edu/people/faculty/index.php
 http://cse.ucsd.edu/faculty_profile#top
-http://www.cs.umn.edu/people/faculty/
 http://www.cs.uchicago.edu/faculty
 http://www.cs.ucsb.edu/people/faculty/
 http://www.cs.ucdavis.edu/people/faculty/index.html
@@ -95,7 +93,7 @@ http://www.lcs.syr.edu/facultyandstaff/faculty.aspx
 http://cse.nd.edu/people/faculty
 http://www.eecs.utk.edu/people/faculty/
 http://www.cs.gmu.edu/faculty/
-http://www.cs.uoregon.edu/People/Faculty/index.php
+https://www.cs.uoregon.edu/People/Faculty/index.php
 http://eecs.oregonstate.edu/people/faculty-directory2
 http://engineering.case.edu/eecs/faculty-staff
 https://www.cs.uiowa.edu/people/faculty

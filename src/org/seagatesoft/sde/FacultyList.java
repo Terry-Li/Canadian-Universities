@@ -48,7 +48,7 @@ public class FacultyList {
     
     public static boolean containNames(String text, Set<String> temps) {
         //System.out.println(text);
-        if (text==null) return false;
+        if (text==null || text.matches(".*\\d.*")) return false;
         text = text.replaceAll("<a.*a>","").trim().replaceAll("\\W+", " ");
         String[] tokens = text.split(" ");;
         if (tokens.length > 6) return false;

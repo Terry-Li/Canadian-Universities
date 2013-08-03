@@ -36,7 +36,7 @@ public class AppConsole implements Runnable
 {
     public Formatter output;
     public static String namesFile = "Group/Names.txt";
-    public static double similarityTreshold = 0.8; //default: 0.80
+    public static double similarityTreshold = 0.6; //default: 0.80
     public static boolean ignoreFormattingTags = false; //default: false
     public static boolean useContentSimilarity = false; //default: false
     public static int maxNodeInGeneralizedNodes = 1; //default: 9
@@ -54,12 +54,17 @@ public class AppConsole implements Runnable
     }
 
     public static void main(String args[]) throws IOException {
+        //AppConsole app = new AppConsole("085","http://cidse.engineering.asu.edu/facultyandresearc/director/faculty/");
+        //app.process();
+        
         String inputFile = "Group/TestFaculty.txt";
         List<String> lines = FileUtils.readLines(new File(inputFile));
-        ExecutorService executor = Executors.newFixedThreadPool(6);
+        ExecutorService executor = Executors.newFixedThreadPool(20);
         for (int r = 0; r < lines.size(); r++) {
             String filename = r+1+"";
             if (r+1 < 10) {
+                filename = "00"+filename;
+            } else if (r+1 < 100) {
                 filename = "0"+filename;
             }
             Runnable task = new AppConsole(filename,lines.get(r));
@@ -69,7 +74,7 @@ public class AppConsole implements Runnable
         while (!executor.isTerminated()) {
         }
         if (remaining.size() != 0) {
-            executor = Executors.newFixedThreadPool(6);
+            executor = Executors.newFixedThreadPool(10);
             maxNodeInGeneralizedNodes = 2;
             for (String name: remaining) {
                 int index = Integer.parseInt(name)-1;
@@ -167,19 +172,19 @@ public class AppConsole implements Runnable
             output.format("</body></html>");
         } catch (SecurityException exception) {
             exception.printStackTrace();
-            System.exit(1);
+            //System.exit(1);
         } catch (FileNotFoundException exception) {
             exception.printStackTrace();
-            System.exit(2);
+            //System.exit(2);
         } catch (IOException exception) {
             exception.printStackTrace();
-            System.exit(3);
+            //System.exit(3);
         } catch (SAXException exception) {
             exception.printStackTrace();
-            System.exit(4);
+            //System.exit(4);
         } catch (Exception exception) {
             exception.printStackTrace();
-            System.exit(5);
+            //System.exit(5);
         } finally {
             if (output != null) {
                 output.close();
