@@ -4,47 +4,26 @@
  */
 package org.seagatesoft.sde;
 
-import java.io.BufferedReader;
-import java.io.DataInputStream;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+import java.io.*;
+import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import org.apache.commons.io.FileUtils;
 
 /**
  *
  * @author Yifeng
  */
 public class FacultyList {
-    public static ArrayList<String> keywords;
+    public static List<String> keywords;
     static {
         try {
-            keywords = getKeywords("Group/Names.txt");
-        } catch (FileNotFoundException ex) {
-            Logger.getLogger(FacultyList.class.getName()).log(Level.SEVERE, null, ex);
+            keywords = FileUtils.readLines(new File("Group/Names.txt"));
         } catch (IOException ex) {
             Logger.getLogger(FacultyList.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
-    
-    public static ArrayList<String> getKeywords(String file) throws FileNotFoundException, IOException {
-        ArrayList<String> keywords = new ArrayList<String>();
-        FileInputStream fstream = null;
-        fstream = new FileInputStream(file);
-        DataInputStream in = new DataInputStream(fstream);
-        BufferedReader br = new BufferedReader(new InputStreamReader(in));
-        String strLine;
-        while ((strLine = br.readLine()) != null && !strLine.equals("")) {
-            keywords.add(strLine);
-        }
-        return keywords;
-    }
+
     
     public static boolean containNames(String text, Set<String> temps) {
         //System.out.println(text);
@@ -73,7 +52,7 @@ public class FacultyList {
         int rows = table.length;
         Set<String> keywords = new HashSet<String>();
         for (int j = 0; j < rows; j++) {
-            if (containNames(table[j][col], keywords) && !table[j][col].toLowerCase().contains(" at ")) {
+            if (containNames(table[j][col], keywords) && !table[j][col].toLowerCase().contains(" at ") && !table[j][col].toLowerCase().contains("@")) {
                 names++;
             }
             if (!hasLink && table[j][col] != null && table[j][col].contains("Link&lt;&lt;")) {
@@ -96,7 +75,7 @@ public class FacultyList {
         int rows = table.length;
         Set<String> keywords = new HashSet<String>();
         for (int j = 0; j < rows; j++) {
-            if (containNames(table[j][col], keywords) && !table[j][col].toLowerCase().contains(" at ")) {
+            if (containNames(table[j][col], keywords) && !table[j][col].toLowerCase().contains(" at ")&& !table[j][col].toLowerCase().contains("@")) {
                 names++;
             }
         }

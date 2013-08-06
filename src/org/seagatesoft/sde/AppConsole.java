@@ -7,8 +7,7 @@ import java.util.Formatter;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+import java.util.concurrent.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import org.apache.commons.io.FileUtils;
@@ -36,15 +35,16 @@ public class AppConsole implements Runnable
 {
     public Formatter output;
     public static String namesFile = "Group/Names.txt";
-    public static double similarityTreshold = 0.6; //default: 0.80
+    public static double similarityTreshold = 0.8; //default: 0.80
     public static boolean ignoreFormattingTags = false; //default: false
     public static boolean useContentSimilarity = false; //default: false
     public static int maxNodeInGeneralizedNodes = 1; //default: 9
-    public static boolean humanConsumable = false;
+    public static boolean humanConsumable = true;
     public static boolean intermediateResult = false;
     public static List<String> remaining = Collections.synchronizedList(new ArrayList<String>());
     public String name;
     public String url;
+    public static boolean onServer = false;
 
     public AppConsole(String name, String url) throws FileNotFoundException {
         this.name = name;
@@ -53,39 +53,65 @@ public class AppConsole implements Runnable
         this.output = new Formatter(new File(resultOutput));
     }
 
-    public static void main(String args[]) throws IOException {
-        //AppConsole app = new AppConsole("085","http://cidse.engineering.asu.edu/facultyandresearc/director/faculty/");
-        //app.process();
-        
-        String inputFile = "Group/TestFaculty.txt";
-        List<String> lines = FileUtils.readLines(new File(inputFile));
-        ExecutorService executor = Executors.newFixedThreadPool(20);
-        for (int r = 0; r < lines.size(); r++) {
-            String filename = r+1+"";
-            if (r+1 < 10) {
-                filename = "00"+filename;
-            } else if (r+1 < 100) {
-                filename = "0"+filename;
-            }
-            Runnable task = new AppConsole(filename,lines.get(r));
-            executor.execute(task);
-        }
-        executor.shutdown();
-        while (!executor.isTerminated()) {
-        }
-        if (remaining.size() != 0) {
-            executor = Executors.newFixedThreadPool(10);
-            maxNodeInGeneralizedNodes = 2;
-            for (String name: remaining) {
-                int index = Integer.parseInt(name)-1;
-                Runnable task = new AppConsole(name,lines.get(index));
-                executor.execute(task);
+    public static void main(String args[]) throws IOException, InterruptedException {
+        if (onServer) {
+            String inputFile = "Group/TestFaculty.txt";
+            List<String> lines = FileUtils.readLines(new File(inputFile));
+            int cpus = Runtime.getRuntime().availableProcessors();
+            ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(cpus);
+            for (int r = 0; r < lines.size(); r++) {
+                String filename = r + 1 + "";
+                if (r + 1 < 10) {
+                    filename = "00" + filename;
+                } else if (r + 1 < 100) {
+                    filename = "0" + filename;
+                }
+                Runnable task = new AppConsole(filename, lines.get(r));
+                executor.execute(task);               
             }
             executor.shutdown();
             while (!executor.isTerminated()) {
+                System.out.println("Status: "+executor.getActiveCount()+" threads are executing...");
+                Thread.sleep(6000);
             }
+            System.out.println("First iteration done...");
+            if (remaining.size() != 0) {
+                maxNodeInGeneralizedNodes = 2;
+                executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(cpus);
+                for (String name : remaining) {
+                    int index = Integer.parseInt(name) - 1;
+                    Runnable task = new AppConsole(name, lines.get(index));
+                    executor.execute(task);
+                }
+                executor.shutdown();
+                while (!executor.isTerminated()) {
+                    System.out.println("Status: "+executor.getActiveCount()+" threads are executing...");
+                    Thread.sleep(6000);
+                }
+            }
+            System.out.println("Finished all threads");
+        } else {
+            String inputFile = "Group/TestFaculty.txt";
+            List<String> lines = FileUtils.readLines(new File(inputFile));
+            remaining = new ArrayList<String>();
+            for (int r = 0; r < lines.size(); r++) {
+                String filename = r + 1 + "";
+                if (r + 1 < 10) {
+                    filename = "00" + filename;
+                } else if (r + 1 < 100) {
+                    filename = "0" + filename;
+                }
+                new AppConsole(filename, lines.get(r)).process();
+            }
+            if (remaining.size() != 0) {
+                maxNodeInGeneralizedNodes = 2;
+                for (String name : remaining) {
+                    int index = Integer.parseInt(name) - 1;
+                    new AppConsole(name, lines.get(index)).process();
+                }
+            }
+            System.out.println("Done...");
         }
-        System.out.println("Finished all threads");
     }
     
     @Override
@@ -171,52 +197,31 @@ public class AppConsole implements Runnable
             }
             output.format("</body></html>");
         } catch (SecurityException exception) {
+            System.out.println("Exception caused by "+url);
             exception.printStackTrace();
-            //System.exit(1);
+            //return;
         } catch (FileNotFoundException exception) {
+            System.out.println("Exception caused by "+url);
             exception.printStackTrace();
-            //System.exit(2);
+            //return;
         } catch (IOException exception) {
+            System.out.println("Exception caused by "+url);
             exception.printStackTrace();
-            //System.exit(3);
+            //return;
         } catch (SAXException exception) {
+            System.out.println("Exception caused by "+url);
             exception.printStackTrace();
-            //System.exit(4);
+            //return;
         } catch (Exception exception) {
+            System.out.println("Exception caused by "+url);
             exception.printStackTrace();
-            //System.exit(5);
+            //return;
         } finally {
             if (output != null) {
                 output.close();
             }
         }
     }
-    
-    private static void truncate(String[][] table) {
-        for (int row=0;row<table.length;row++) {
-            List<Integer> links = new ArrayList<Integer>();
-            List<Integer> texts = new ArrayList<Integer>();
-            for (int col=0;col<table[0].length;col++) {
-                if (table[row][col] != null && table[row][col].contains("Link&lt;&lt;")) {
-                    links.add(col);
-                } else {
-                    texts.add(col);
-                }
-            }
-            for (Integer text: texts) {
-                if (table[row][text]==null) continue;
-                for (Integer link: links) {
-                    if (table[row][text]==null) break;
-                    if (table[row][link].split("a>").length == 2) {
-                        table[row][text] = table[row][text].replace(table[row][link].split("a>")[1].trim(), "").trim();
-                    }
-                    if (table[row][text].equals("")) {
-                        table[row][text] = null;
-                    }
-                }
-            }
-        }
-    } 
         
     private static String[][] formatTable(String[][] tempTable) {
         List<Integer> photos = new ArrayList<Integer>();
@@ -229,8 +234,9 @@ public class AppConsole implements Runnable
                 names.add(col);
             }
         }
-        System.out.println(photos.size() + "/" + names.size());
-        if (photos.size() == names.size()) {
+        if (names.size()==0) return null;
+        //System.out.println(photos.size() + "/" + names.size());
+        if (photos.size() > 0 && photos.size() == names.size()) {
             List<String[]> tempList = new ArrayList<String[]>();
             for (int row = 0; row < tempTable.length; row++) {
                 for (int i = 0; i < names.size(); i++) {
@@ -301,8 +307,9 @@ public class AppConsole implements Runnable
                 webs.add(col);
             }
         }
-        System.out.println(photos.size() + "/" + names.size()+ "/" + webs.size());
-        if (photos.size() == names.size()) {
+        if (names.size()==0) return null;
+        //System.out.println(photos.size() + "/" + names.size()+ "/" + webs.size());
+        if (photos.size() >0 && photos.size() == names.size()) {
             List<String[]> tempList = new ArrayList<String[]>();
             for (int row = 0; row < tempTable.length; row++) {
                 for (int i = 0; i < names.size(); i++) {
