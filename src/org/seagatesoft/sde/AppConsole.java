@@ -45,6 +45,7 @@ public class AppConsole implements Runnable
     public String name;
     public String url;
     public static boolean onServer = false;
+    public static String filename = "001";
 
     public AppConsole(String name, String url) throws FileNotFoundException {
         this.name = name;
@@ -71,8 +72,8 @@ public class AppConsole implements Runnable
             }
             executor.shutdown();
             while (!executor.isTerminated()) {
-                System.out.println("Status: "+executor.getActiveCount()+" threads are executing...");
-                Thread.sleep(6000);
+                System.out.println("Status: "+executor.getCompletedTaskCount()+"/"+executor.getTaskCount()+" threads are completed ...");
+                Thread.sleep(10000);
             }
             System.out.println("First iteration done...");
             if (remaining.size() != 0) {
@@ -85,31 +86,15 @@ public class AppConsole implements Runnable
                 }
                 executor.shutdown();
                 while (!executor.isTerminated()) {
-                    System.out.println("Status: "+executor.getActiveCount()+" threads are executing...");
-                    Thread.sleep(6000);
+                    System.out.println("Status: "+executor.getCompletedTaskCount()+"/"+executor.getTaskCount()+" threads are completed ...");
+                    Thread.sleep(10000);
                 }
             }
             System.out.println("Finished all threads");
         } else {
             String inputFile = "Group/TestFaculty.txt";
             List<String> lines = FileUtils.readLines(new File(inputFile));
-            remaining = new ArrayList<String>();
-            for (int r = 0; r < lines.size(); r++) {
-                String filename = r + 1 + "";
-                if (r + 1 < 10) {
-                    filename = "00" + filename;
-                } else if (r + 1 < 100) {
-                    filename = "0" + filename;
-                }
-                new AppConsole(filename, lines.get(r)).process();
-            }
-            if (remaining.size() != 0) {
-                maxNodeInGeneralizedNodes = 2;
-                for (String name : remaining) {
-                    int index = Integer.parseInt(name) - 1;
-                    new AppConsole(name, lines.get(index)).process();
-                }
-            }
+            new AppConsole(filename, lines.get(Integer.parseInt(filename)-1)).process();
             System.out.println("Done...");
         }
     }
@@ -157,12 +142,7 @@ public class AppConsole implements Runnable
                     String[][] formatted = formatTable(tempTable);
                     if (formatted != null && formatted.length > 0) {
                         dataTables.add(formatted);
-                    } else {
-                        formatted = formatTable2(tempTable);
-                        if (formatted != null && formatted.length > 0) {
-                            dataTables.add(formatted);
-                        }
-                    }
+                    } 
                 }
             } else {
                 dataTables = tempTables;
@@ -224,148 +204,38 @@ public class AppConsole implements Runnable
     }
         
     private static String[][] formatTable(String[][] tempTable) {
-        List<Integer> photos = new ArrayList<Integer>();
-        List<Integer> names = new ArrayList<Integer>();
-        for (int col = 0; col < tempTable[0].length; col++) {
-            if (FacultyList.photoColumn(tempTable, col)) {
-                photos.add(col);
+        if (tempTable==null || tempTable.length==0 || tempTable[0].length==0) return null;
+        boolean name = false;
+        boolean web = false;
+        boolean photo = false;
+        boolean email = false;
+        boolean phone = false;
+        int cols = tempTable[0].length;
+        String[][] result = new String[tempTable.length][5];
+        for (int i=0; i<cols; i++) {
+            if (name && web && photo && email && phone) break;
+            if (!photo && FacultyList.photoColumn(tempTable,i)) {
+                FacultyList.addPhoto(result, tempTable, i);
+                photo = true;
             }
-            if (FacultyList.nameColumn(tempTable, col)) {
-                names.add(col);
+            if (!name && FacultyList.nameColumn(tempTable, i)) {
+                FacultyList.addName(result, tempTable, i);
+                name = true;
             }
-        }
-        if (names.size()==0) return null;
-        //System.out.println(photos.size() + "/" + names.size());
-        if (photos.size() > 0 && photos.size() == names.size()) {
-            List<String[]> tempList = new ArrayList<String[]>();
-            for (int row = 0; row < tempTable.length; row++) {
-                for (int i = 0; i < names.size(); i++) {
-                    String nameCell = tempTable[row][names.get(i)];
-                    String photoCell = tempTable[row][photos.get(i)];
-                    if (nameCell != null) {
-                        String[] pair = new String[3];
-                        Pattern p = Pattern.compile("href=\"(.*)\".*</a>(.*)", Pattern.DOTALL);
-                        //System.out.println(nameCell);
-                        Matcher match = p.matcher(nameCell);
-                        if (match.find()) {
-                            pair[1] = match.group(2);
-                            pair[2] = match.group(1);
-                        }
-                        pair[0] = photoCell;
-                        if (!pair[1].equals("")) {
-                            tempList.add(pair);
-                        }
-                    }
-                }
+            if (!web && FacultyList.webColumn(tempTable, i)){
+                FacultyList.addWeb(result, tempTable, i);
+                web = true;
             }
-            String[][] result = new String[tempList.size()][];
-            for (int i = 0; i < result.length; i++) {
-                result[i] = tempList.get(i);
+            if (!email && FacultyList.emailColumn(tempTable, i)) {
+                FacultyList.addEmail(result, tempTable, i);
+                email = true;
             }
-            return result;
-        } else if (photos.size() == 0) {
-            List<String[]> tempList = new ArrayList<String[]>();
-            for (int row = 0; row < tempTable.length; row++) {
-                for (Integer col : names) {
-                    String cell = tempTable[row][col];
-                    if (cell != null) {
-                        String[] pair = new String[2];
-                        Pattern p = Pattern.compile("href=\"(.*)\".*</a>(.*)");
-                        Matcher match = p.matcher(cell);
-                        if (match.find()) {
-                            pair[0] = match.group(2);
-                            pair[1] = match.group(1);
-                        }
-                        if (!pair[0].equals("")) {
-                            tempList.add(pair);
-                        }
-                    }
-                }
-            }
-            String[][] result = new String[tempList.size()][];
-            for (int i = 0; i < result.length; i++) {
-                result[i] = tempList.get(i);
-            }
-            return result;
-        } else {
-            return null;
-        }
-    }
-    
-    private static String[][] formatTable2(String[][] tempTable) {
-        List<Integer> photos = new ArrayList<Integer>();
-        List<Integer> names = new ArrayList<Integer>();
-        List<Integer> webs = new ArrayList<Integer>();
-        for (int col = 0; col < tempTable[0].length; col++) {
-            if (FacultyList.photoColumn(tempTable, col)) {
-                photos.add(col);
-            }
-            if (FacultyList.nameColumn2(tempTable, col)) {
-                names.add(col);
-            }
-            if (FacultyList.webColumn(tempTable, col)) {
-                webs.add(col);
+            if (!phone && FacultyList.phoneColumn(tempTable, i)){
+                FacultyList.addPhone(result, tempTable, i);
+                phone = true;
             }
         }
-        if (names.size()==0) return null;
-        //System.out.println(photos.size() + "/" + names.size()+ "/" + webs.size());
-        if (photos.size() >0 && photos.size() == names.size()) {
-            List<String[]> tempList = new ArrayList<String[]>();
-            for (int row = 0; row < tempTable.length; row++) {
-                for (int i = 0; i < names.size(); i++) {
-                    String nameCell = tempTable[row][names.get(i)];
-                    String photoCell = tempTable[row][photos.get(i)];
-                    String webCell = null;
-                    if (names.size()==webs.size()) {
-                        webCell = tempTable[row][webs.get(i)];
-                    } else if (names.size()*2==webs.size()) {
-                        webCell = tempTable[row][webs.get(i*2)];
-                    }
-                    if (nameCell != null) {
-                        String[] pair = new String[3];
-                        pair[0] = photoCell;
-                        pair[1] = nameCell;
-                        pair[2] = webCell;
-                        if (!pair[1].equals("")) {
-                            tempList.add(pair);
-                        }
-                    }
-                }
-            }
-            String[][] result = new String[tempList.size()][];
-            for (int i = 0; i < result.length; i++) {
-                result[i] = tempList.get(i);
-            }
-            return result;
-        } else if (photos.size() == 0) {
-            List<String[]> tempList = new ArrayList<String[]>();
-            for (int row = 0; row < tempTable.length; row++) {
-                for (int j=0;j<names.size();j++) {
-                    String cell = tempTable[row][names.get(j)];
-                    String webCell = null;
-                    if (names.size()==webs.size()) {
-                        webCell = tempTable[row][webs.get(j)];
-                    } else if (names.size()*2==webs.size()) {
-                        webCell = tempTable[row][webs.get(j*2)];
-                    }
-                    if (cell != null) {
-                        String[] pair = new String[2];
-                        pair[0] = cell;
-                        pair[1] = webCell;
-                        if (!pair[0].equals("")) {
-                            tempList.add(pair);
-                        }
-                    }
-                }
-            }
-            String[][] result = new String[tempList.size()][];
-            for (int i = 0; i < result.length; i++) {
-                result[i] = tempList.get(i);
-            }
-            return result;
-        } else {
-            return null;
-        }
+        return result;
     }
 
 }

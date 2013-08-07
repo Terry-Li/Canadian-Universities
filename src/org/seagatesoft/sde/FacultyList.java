@@ -8,6 +8,8 @@ import java.io.*;
 import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import org.apache.commons.io.FileUtils;
 
 /**
@@ -45,32 +47,19 @@ public class FacultyList {
         return false;
     }
     
-    public static boolean nameColumn(String[][] table, int col){
-        boolean hasLink = false;
-        boolean hasName = false;
-        int names = 0;
-        int rows = table.length;
-        Set<String> keywords = new HashSet<String>();
-        for (int j = 0; j < rows; j++) {
-            if (containNames(table[j][col], keywords) && !table[j][col].toLowerCase().contains(" at ") && !table[j][col].toLowerCase().contains("@")) {
-                names++;
-            }
-            if (!hasLink && table[j][col] != null && table[j][col].contains("Link&lt;&lt;")) {
-                hasLink = true;
-            }
+    public static String[] getLink(String cell){
+        String[] pair = new String[2];
+        Pattern p = Pattern.compile("href=\"(.*)\".*</a>(.*)", Pattern.DOTALL);
+        Matcher match = p.matcher(cell);
+        if (match.find()) {
+            pair[0] = match.group(2);
+            pair[1] = match.group(1);
         }
-        //if (rows==30)System.out.println(names+"/"+rows);
-        if (!hasName && keywords.size() >= (float) rows * 0.5 && names >= (float) rows * 0.5) {//&& keywords.size()>=(float)rows*0.5
-            hasName = true;
-        }
-        if (hasLink && hasName) {
-            return true;
-        }
-        return false;
+        return pair;
     }
     
-    public static boolean nameColumn2(String[][] table, int col){
-        boolean hasName = false;
+    
+    public static boolean nameColumn(String[][] table, int col){
         int names = 0;
         int rows = table.length;
         Set<String> keywords = new HashSet<String>();
@@ -79,33 +68,21 @@ public class FacultyList {
                 names++;
             }
         }
-        //if (rows==30)System.out.println(names+"/"+rows);
-        if (!hasName && keywords.size() >= (float) rows * 0.5 && names >= (float) rows * 0.5) {//&& keywords.size()>=(float)rows*0.5
-            hasName = true;
-        }
-        return hasName;
+        if (keywords.size() >= (float) rows * 0.5 && names >= (float) rows * 0.5) {
+            return true;
+        } else return false;
     }
     
     public static boolean webColumn(String[][] table, int col) {
         int count = 0;
-        Set<String> anchors = new HashSet<String>();
         for (int j = 0; j < table.length; j++) {
             String current = table[j][col];
-            if (current!=null && (!current.contains("Link&lt;&lt;") || current.contains("@"))) {
-                return false;
-            }
-            if (current!=null) {
-                if (current.split("a>").length == 2) {
-                    anchors.add(current.split("a>")[1].trim());
-                }
+            if (current!=null && current.contains("Link&lt;&lt;") && !current.contains("@")) {
                 count++;
             }
+
         }
-        //System.out.println(count+":"+table.length+":"+anchors.size());
-        if (count*2>table.length &&  anchors.size()<=2) {
-            return true;
-        }
-        return false;
+        return count*2 >= table.length;
     }
     
     public static boolean photoColumn(String[][] table, int col){
@@ -116,6 +93,82 @@ public class FacultyList {
             }
         }
         return false;
+    }
+    
+    public static boolean emailColumn(String[][] table, int col){
+        for (int row = 0; row < table.length; row++) {
+            String current = table[row][col];
+            if (current != null && current.contains("@")) {
+                return true;
+            }
+        }
+        return false;
+    }
+    
+    public static boolean phoneColumn(String[][] table, int col){
+        for (int row = 0; row < table.length; row++) {
+            String current = table[row][col];
+            if (current != null && current.replaceAll(" ", "").matches(".*[\\d\\-\\.\\+\\(\\)]{8,}.*")) {
+                return true;
+            }
+        }
+        return false;
+    }
+    
+    public static void main(String[] args) {
+        String input = "David Avis, Office: MC308, Phone: +1-514-398-3737, Email: avis@cs.mcgill.ca";
+        System.out.println(input.matches(".*[\\d\\-\\.\\+\\(\\)]{8,}.*"));
+        Pattern p = Pattern.compile("[\\d\\-\\.\\+\\(\\)]{8,}");
+        Matcher m = p.matcher(input.replaceAll(" ", ""));
+        if (m.find()) {
+            System.out.println(m.group());
+        }
+    }
+    
+    public static void addPhoto(String[][] result, String[][] temp, int col){
+        for (int i=0; i<temp.length; i++) {
+            result[i][0] = temp[i][col];
+        }
+    }
+    
+    public static void addName(String[][] result, String[][] temp, int col){
+        for (int i=0; i<temp.length; i++) {
+            if (temp[i][col] != null) {
+                result[i][1] = temp[i][col].replaceAll("<a.*a>","").trim();
+            }
+        }
+    }
+    
+    public static void addWeb(String[][] result, String[][] temp, int col){
+        for (int i=0; i<temp.length; i++) {
+            if (temp[i][col] != null) {
+                result[i][2] = getLink(temp[i][col])[1];
+            }
+        }
+    }
+    
+    public static void addEmail(String[][] result, String[][] temp, int col){
+        for (int i=0; i<temp.length; i++) {
+            if (temp[i][col] != null) {
+                if (temp[i][col].contains("Link&lt;&lt;")) {
+                    result[i][3] = getLink(temp[i][col])[1];
+                } else {
+                    result[i][3] = temp[i][col];
+                }
+            }
+        }
+    }
+    
+    public static void addPhone(String[][] result, String[][] temp, int col){
+        Pattern p = Pattern.compile("[\\d\\-\\.\\+\\(\\)]{8,}");
+        for (int i=0; i<temp.length; i++) {
+            if (temp[i][col] != null) {
+                Matcher m = p.matcher(temp[i][col].replaceAll(" ", ""));
+                if (m.find()) {
+                    result[i][4] = m.group();
+                }
+            }
+        }
     }
     
     public static boolean identify(String[][] table, boolean intermediateResult){
