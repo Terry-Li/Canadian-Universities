@@ -1,8 +1,6 @@
 package org.seagatesoft.sde;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.FileNotFoundException;
+import java.io.*;
 import java.util.Formatter;
 import java.util.List;
 import java.util.ArrayList;
@@ -53,11 +51,24 @@ public class AppConsole implements Runnable
         String resultOutput = "26CSFaculty/" + name + ".html";
         this.output = new Formatter(new File(resultOutput));
     }
+    
+    public static List<String> getKeywords(String file) throws FileNotFoundException, IOException {
+        List<String> keywords = new ArrayList<String>();
+        FileInputStream fstream = null;
+        fstream = new FileInputStream(file);
+        DataInputStream in = new DataInputStream(fstream);
+        BufferedReader br = new BufferedReader(new InputStreamReader(in));
+        String strLine;
+        while ((strLine = br.readLine()) != null && !strLine.trim().equals("")) {
+            keywords.add(strLine.trim());
+        }
+        return keywords;
+    }
 
     public static void main(String args[]) throws IOException, InterruptedException {
         if (onServer) {
             String inputFile = "Group/TestFaculty.txt";
-            List<String> lines = FileUtils.readLines(new File(inputFile));
+            List<String> lines = getKeywords(inputFile);
             int cpus = Runtime.getRuntime().availableProcessors();
             ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(cpus);
             for (int r = 0; r < lines.size(); r++) {
@@ -93,7 +104,7 @@ public class AppConsole implements Runnable
             System.out.println("Finished all threads");
         } else {
             String inputFile = "Group/TestFaculty.txt";
-            List<String> lines = FileUtils.readLines(new File(inputFile));
+            List<String> lines = getKeywords(inputFile);
             new AppConsole(filename, lines.get(Integer.parseInt(filename)-1)).process();
             System.out.println("Done...");
         }
