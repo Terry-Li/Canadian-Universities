@@ -115,6 +115,16 @@ public class FacultyList {
         return false;
     }
     
+    public static boolean positionColumn(String[][] table, int col){
+        for (int row = 0; row < table.length; row++) {
+            String current = table[row][col];
+            if (current != null && current.toLowerCase().contains("professor")) {
+                return true;
+            }
+        }
+        return false;
+    }
+    
     public static void main(String[] args) {
         String input = "David Avis, Office: MC308, Phone: +1-514-398-3737, Email: avis@cs.mcgill.ca";
         System.out.println(input.matches(".*[\\d\\-\\.\\+\\(\\)]{8,}.*"));
@@ -124,7 +134,7 @@ public class FacultyList {
             System.out.println(m.group());
         }
     }
-    
+       
     public static void addPhoto(String[][] result, String[][] temp, int col){
         for (int i=0; i<temp.length; i++) {
             result[i][0] = temp[i][col];
@@ -147,13 +157,19 @@ public class FacultyList {
         }
     }
     
+    public static void addPosition(String[][] result, String[][] temp, int col){
+        for (int i=0; i<temp.length; i++) {
+            result[i][3] = temp[i][col];
+        }
+    }
+    
     public static void addEmail(String[][] result, String[][] temp, int col){
         for (int i=0; i<temp.length; i++) {
             if (temp[i][col] != null) {
                 if (temp[i][col].contains("Link&lt;&lt;")) {
-                    result[i][3] = getLink(temp[i][col])[1];
+                    result[i][4] = getLink(temp[i][col])[1];
                 } else {
-                    result[i][3] = temp[i][col];
+                    result[i][4] = temp[i][col];
                 }
             }
         }
@@ -165,7 +181,7 @@ public class FacultyList {
             if (temp[i][col] != null) {
                 Matcher m = p.matcher(temp[i][col].replaceAll(" ", ""));
                 if (m.find()) {
-                    result[i][4] = m.group();
+                    result[i][5] = m.group();
                 }
             }
         }

@@ -42,7 +42,7 @@ public class AppConsole implements Runnable
     public static List<String> remaining = Collections.synchronizedList(new ArrayList<String>());
     public String name;
     public String url;
-    public static boolean onServer = false;
+    public static boolean onServer = true;
     public static String filename = "001";
 
     public AppConsole(String name, String url) throws FileNotFoundException {
@@ -221,10 +221,11 @@ public class AppConsole implements Runnable
         boolean photo = false;
         boolean email = false;
         boolean phone = false;
+        boolean position = false;
         int cols = tempTable[0].length;
-        String[][] result = new String[tempTable.length][5];
+        String[][] result = new String[tempTable.length][6];
         for (int i=0; i<cols; i++) {
-            if (name && web && photo && email && phone) break;
+            if (name && web && photo && email && phone && position) break;
             if (!photo && FacultyList.photoColumn(tempTable,i)) {
                 FacultyList.addPhoto(result, tempTable, i);
                 photo = true;
@@ -236,6 +237,10 @@ public class AppConsole implements Runnable
             if (!web && FacultyList.webColumn(tempTable, i)){
                 FacultyList.addWeb(result, tempTable, i);
                 web = true;
+            }
+            if (!position && FacultyList.positionColumn(tempTable, i)){
+                FacultyList.addPosition(result, tempTable, i);
+                position = true;
             }
             if (!email && FacultyList.emailColumn(tempTable, i)) {
                 FacultyList.addEmail(result, tempTable, i);
