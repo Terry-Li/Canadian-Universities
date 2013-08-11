@@ -80,8 +80,10 @@ public class AppConsole implements Runnable
             ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(cpus);
             File[] files = new File("Directory").listFiles();
             for (File file: files) {
-                Runnable task = new AppConsole(file.getName());
-                executor.execute(task);
+                if (!new File("96 Faculty/"+file.getName().split("\\.")[0]).exists()){
+                    Runnable task = new AppConsole(file.getName());
+                    executor.execute(task);
+                }
             }
             executor.shutdown();
             while (!executor.isTerminated()) {
