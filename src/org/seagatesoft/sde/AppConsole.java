@@ -44,9 +44,10 @@ public class AppConsole implements Runnable
     public static List<String> remaining = Collections.synchronizedList(new ArrayList<String>());
     public String name;
     public String url;
-    public static boolean onServer = true;
-    public static String filename = "001";
-    public static boolean production = true;
+    public static boolean onServer = false;
+    public static String filename = "009";
+    public static int maxNodes = 2;
+    public static boolean production = false;
     public String directoryName;
 
     public AppConsole(String name, String url, int nodes) throws FileNotFoundException {
@@ -130,7 +131,7 @@ public class AppConsole implements Runnable
             } else {
                 String inputFile = "Group/TestFaculty.txt";
                 List<String> lines = getKeywords(inputFile);
-                new AppConsole(filename, lines.get(Integer.parseInt(filename) - 1), 1).process();
+                new AppConsole(filename, lines.get(Integer.parseInt(filename) - 1), maxNodes).process();
                 System.out.println("Done...");
             }
         }
@@ -138,7 +139,8 @@ public class AppConsole implements Runnable
     
     @Override
     public void run() {
-        processUniv();
+        //processUniv();
+        process();
     }
     
     public void processUniv() {
@@ -375,13 +377,23 @@ public class AppConsole implements Runnable
                 FacultyList.addPosition(result, tempTable, i);
                 position = true;
             }
-            if (!email && FacultyList.emailColumn(tempTable, i)) {
+            if (!email && FacultyList.emailColumn1(tempTable, i)) {
                 FacultyList.addEmail(result, tempTable, i);
+                //System.out.println(tempTable[0][8]);
                 email = true;
             }
             if (!phone && FacultyList.phoneColumn(tempTable, i)){
                 FacultyList.addPhone(result, tempTable, i);
                 phone = true;
+            }
+        }
+        for (int i=0; i<cols; i++) {
+            if (email) {
+                break;
+            }
+            if (FacultyList.emailColumn2(tempTable, i)) {
+                FacultyList.addEmail(result, tempTable, i);
+                email = true;
             }
         }
         return result;

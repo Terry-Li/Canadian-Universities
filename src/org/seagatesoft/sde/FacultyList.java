@@ -86,43 +86,58 @@ public class FacultyList {
     }
     
     public static boolean photoColumn(String[][] table, int col){
+        int count = 0;
         for (int row = 0; row < table.length; row++) {
             String current = table[row][col];
             if (current != null && current.startsWith("<img")) {
-                return true;
+                count++;
             }
         }
-        return false;
+        return count*2>=table.length;
     }
     
-    public static boolean emailColumn(String[][] table, int col){
+    public static boolean emailColumn1(String[][] table, int col){
+        int count = 0;
+        for (int row = 0; row < table.length; row++) {
+            String current = table[row][col];
+            if (current != null && current.contains("Link&lt;&lt;") && current.contains("@")) {
+                count++;
+            }
+        }
+        return count*2>=table.length;
+    }
+    
+    public static boolean emailColumn2(String[][] table, int col){
+        int count = 0;
         for (int row = 0; row < table.length; row++) {
             String current = table[row][col];
             if (current != null && current.contains("@")) {
-                return true;
+                count++;
             }
         }
-        return false;
+        return count*2>=table.length;
     }
     
     public static boolean phoneColumn(String[][] table, int col){
+        int count = 0;
         for (int row = 0; row < table.length; row++) {
             String current = table[row][col];
-            if (current != null && current.replaceAll(" ", "").matches(".*[\\d\\-\\.\\+\\(\\)]{8,}.*")) {
-                return true;
+            if (current != null && !current.startsWith("<img") && (current.replaceAll("\n", "").replaceAll(" ", "").matches(".*[\\d\\-\\.\\+\\(\\)]{8,}.*"))) { //||current.toLowerCase().contains("phone")
+                count++;
             }
         }
-        return false;
+        return count*2>=table.length;
     }
     
     public static boolean positionColumn(String[][] table, int col){
+        int count = 0;
         for (int row = 0; row < table.length; row++) {
             String current = table[row][col];
             if (current != null && current.toLowerCase().contains("professor")) {
-                return true;
+                count++;
             }
         }
-        return false;
+        return count*2>=table.length;
     }
     
     public static void main(String[] args) {
@@ -137,14 +152,16 @@ public class FacultyList {
        
     public static void addPhoto(String[][] result, String[][] temp, int col){
         for (int i=0; i<temp.length; i++) {
-            result[i][0] = temp[i][col];
+            if (temp[i][col] != null) {
+                result[i][0] = temp[i][col].replaceAll("\n", " ");
+            }
         }
     }
     
     public static void addName(String[][] result, String[][] temp, int col){
         for (int i=0; i<temp.length; i++) {
             if (temp[i][col] != null) {
-                result[i][1] = temp[i][col].replaceAll("<a.*a>","").trim();
+                result[i][1] = temp[i][col].replaceAll("<a.*a>","").trim().replaceAll("\n", " ");
             }
         }
     }
@@ -152,24 +169,31 @@ public class FacultyList {
     public static void addWeb(String[][] result, String[][] temp, int col){
         for (int i=0; i<temp.length; i++) {
             if (temp[i][col] != null) {
-                result[i][2] = getLink(temp[i][col])[1];
+                result[i][2] = getLink(temp[i][col].replaceAll("\n", " "))[1];
             }
         }
     }
     
     public static void addPosition(String[][] result, String[][] temp, int col){
         for (int i=0; i<temp.length; i++) {
-            result[i][3] = temp[i][col];
+            if (temp[i][col] != null) {
+                result[i][3] = temp[i][col].replaceAll("\n", " ");
+            }
         }
     }
     
     public static void addEmail(String[][] result, String[][] temp, int col){
+        Pattern p = Pattern.compile("(email|Email):(.*)");
         for (int i=0; i<temp.length; i++) {
             if (temp[i][col] != null) {
                 if (temp[i][col].contains("Link&lt;&lt;")) {
-                    result[i][4] = getLink(temp[i][col])[1];
+                    result[i][4] = getLink(temp[i][col].replaceAll("\n", " "))[1].replaceAll("mailto:", "").trim();
                 } else {
-                    result[i][4] = temp[i][col];
+                    result[i][4] = temp[i][col].replaceAll("\n", " ");
+                    Matcher m = p.matcher(result[i][4]);
+                    if (m.find()) {
+                        result[i][4] = m.group(2).trim();
+                    }
                 }
             }
         }
@@ -181,7 +205,7 @@ public class FacultyList {
             if (temp[i][col] != null) {
                 Matcher m = p.matcher(temp[i][col].replaceAll(" ", ""));
                 if (m.find()) {
-                    result[i][5] = m.group();
+                    result[i][5] = m.group().replaceAll("\n", " ");
                 }
             }
         }
